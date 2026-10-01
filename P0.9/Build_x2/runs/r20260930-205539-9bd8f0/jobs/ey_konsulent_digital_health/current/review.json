@@ -1,0 +1,36 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pair answers EY's implementation and benefits questions with supported OUS cases, keeping team attribution (benefits framework), lifecycle (dashboard decommissioned, forecasting in development, STE handed over, use unresolved) and the 2025/2027 budget rounds distinct.",
+      "recommended_action": "Normal skim and approval.",
+      "priority": 1
+    },
+    {
+      "reason": "Clinician collaboration, EPJ (DIPS/Epic), municipal health experience and consulting experience are not documented and are not claimed.",
+      "recommended_action": "Be ready to address these in interview; no text edit needed.",
+      "priority": 2
+    },
+    {
+      "reason": "Willingness to travel (ad: travel may occur) is not confirmed in the sources and is not stated.",
+      "recommended_action": "Confirm personally if asked; no edit needed.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "No EPJ/journal-system, municipal health, consulting or formal project-lead experience in sources (desired areas, not minimums).",
+    "No measured effect (time, error, savings) exists for budget tool, REGERP tools or benefits framework; only delivery, use and duration are stated.",
+    "Travel availability unconfirmed."
+  ],
+  "material_strategy_change": "Letter thesis shifted from general 'health understanding into improvements' to implementation into processes the hospital already depends on; STE promoted to a letter case on benefits judgment and BAR/REGERP transition added as operations ground, while forecasting and dashboard moved to CV-only.",
+  "upstream_claim_repaired": "cv_draft understated the budget-tool coding role (source: effectively sole coder in 2025) and dated dashboard decommissioning precisely to 'februar 2026' (source: around February 2026; ownership approximately Aug 2025); both repaired.",
+  "notes": [
+    "R06 organisational development is answered only in the CV (founding group, work structure, workshops); letter prioritises benefits realisation and implementation, which carry more decision value for this role."
+  ],
+  "binding": {
+    "run_id": "r20260930-205539-9bd8f0",
+    "job_id": "ey_konsulent_digital_health",
+    "final_package_sha256": "29f42d73c4733782db9087c272cbc7414ed0c47e143203a55dcd3892c7f1367a"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonomisk rådgiver | analyse og kontrollert endring",
+    "profile": "Samfunnsøkonom med mastergrad og rådgivererfaring fra Oslo universitetssykehus. Arbeider i skjæringspunktet mellom analyse, beslutningsstøtte og praktisk forbedring, fra felles metodikk for gevinstrealisering til kontrollert modernisering av arbeidsprosesser og verktøy. Kombinerer økonomisk vurdering med teknisk gjennomføring, tydelige forutsetninger og løsninger som kan overtas av andre.",
+    "competencies": [
+      "Datadrevet analyse og beslutningsgrunnlag",
+      "Gevinstrealisering og metodeutvikling",
+      "Prosessforbedring og kontrollert implementering",
+      "Krav, risiko og kvalitetssikring",
+      "Workshopfasilitering og kompetanseoverføring",
+      "KI-støttet analyse med kilde- og kvalitetskontroll"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Medutviklet i et firepersonsteam et rammeverk for gevinstrealisering og estimering, med bidrag innen forskningssyntese, økonomisk og strategisk analyse, styring og standardisering. Rammeverket ble innført som sykehusdekkende standard og var fortsatt aktivt om lag 2,5 år senere.",
+          "Moderniserte et arvet, virksomhetskritisk Excel/VBA-verktøy for sykehusets budsjettarbeid. Var i praksis eneste kodende utvikler i 2025-runden, integrerte bemanningsdata og brukte differansekontroll, akseptansekriterier og risikoregister i en prosess med om lag 50 involverte. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Gjorde om en bestilling om direkte gevinstfordeling da datagrunnlaget ikke bar presisjonen. Utformet i stedet en transparent proxy-modell med synlige forutsetninger, konfigurerbare vekter og kontroller for avvik. Modellen ble ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Planlegger og fasiliterer workshops, strukturerer oppgaver og avhengigheter og lager beslutnings- og opplæringsmateriell for ledere, controllere, fagmiljøer og tekniske samarbeidspartnere."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker KPMG fordi rollen kombinerer krevende analyse med det som skjer etter anbefalingen: endringen skal kunne gjennomføres, følges opp og fungere i arbeidshverdagen. Det er denne overgangen fra uklart problem til brukbar praksis jeg arbeider med som samfunnsøkonomisk rådgiver ved Oslo universitetssykehus.",
+    "body_paragraphs": [
+      "Da sykehuset skulle forbedre metodikken for gevinstrealisering og estimering, medutviklet jeg rammeverket i et firepersonsteam. Jeg bidro med forskningssyntese, økonomisk og strategisk analyse, styring og standardisering. Resultatet ble innført som sykehusdekkende standard og var fortsatt aktivt om lag 2,5 år senere. Arbeidet lærte meg verdien av å gjøre metode konkret nok til at ulike fagmiljøer kan bruke den på samme måte, uten å skjule vurderingene bak modellen.",
+      "I moderniseringen av et arvet budsjetteringsverktøy var oppgaven en annen. Kritisk logikk og arbeidsflyt måtte forbedres uten å sette den løpende budsjettprosessen i fare. Jeg rekonstruerte arkitekturen, gjennomførte kodeendringene og integrerte bemanningsdata, samtidig som en bred prosess med om lag 50 involverte satte krav til prioritering, kontroll og formidling. Differansekontroll, akseptansekriterier, risikoregister og opplæringsmateriell gjorde endringene etterprøvbare og mulig å ta i bruk. Den ferdige løsningen brukes sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+      "Jeg har også erfart at fremdrift noen ganger krever at selve bestillingen utfordres. Da direkte data ikke kunne bære en gevinstfordeling mellom klinikker, avviste jeg falsk presisjon og utformet en transparent proxy-modell med synlige forutsetninger og justerbare vekter. Modellen ble ferdigstilt og overlevert til controllere tidlig i 2026. Det er denne typen problem jeg gjerne vil arbeide mer med hos KPMG: strukturere usikkerhet, gjøre anbefalinger tydelige og bidra til at gode beslutninger lar seg gjennomføre.",
+      "Jeg kommer ikke fra et konsulenthus og har ikke hatt formell prosjektlederrolle eller arbeidet med nedbemanning og salgsprosesser. Jeg kommer med erfaring fra strategisk og implementeringsnært forbedringsarbeid i en stor offentlig virksomhet, og med en arbeidsform som kombinerer analyse, teknologi og kontrollert gjennomføring."
+    ],
+    "closing": "Jeg tar gjerne en samtale om hvordan denne erfaringen kan brukes i KPMGs transformasjons- og omstillingsoppdrag."
+  },
+  "used_evidence_refs": [
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell"
+  ],
+  "writer_note": "Pakken er bygget rundt beslutningskvalitet og kontrollert gjennomføring, ikke en udokumentert konsulentidentitet. CV-en dokumenterer metode, implementering og bredde; søknaden forklarer vurderingene og avgrenser de vesentlige erfaringsgapene."
+}

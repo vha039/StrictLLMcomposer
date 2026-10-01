@@ -1,0 +1,138 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260920-212518-413d77",
+    "job_id": "sparebank1_omradearkitekt_kundetilbud_marked",
+    "final_package_sha256": "48096bea3b6f8ed8b6bbd917f19b2e4d14d7869c76c37f6c5f16c26288095c06",
+    "document_date": "2026-09-20",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "84a069c32995b61353e3edcee53d2c5fab5d289148f0358c3b461338108a2acb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\sparebank1_omradearkitekt_kundetilbud_marked\\out\\CV_SpareBank_1_Utvikling_Omradearkitekt.docx",
+      "output_sha256": "03be621a3ba027674d5419fc875a217bdd65b1a1194e8eb516e32933d68dd1fe",
+      "bytes": 41084,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\sparebank1_omradearkitekt_kundetilbud_marked\\out\\CV_SpareBank_1_Utvikling_Omradearkitekt.pdf",
+      "output_sha256": "2b06b56b503612989f376581f71cf1d4dd8eaf296a8ac1df8f2f4392d93e2349",
+      "bytes": 295294,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom__s34xgx0\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\sparebank1_omradearkitekt_kundetilbud_marked\\out\\.rnd.c4a9508c\\CV_SpareBank_1_Utvikling_Omradearkitekt.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\sparebank1_omradearkitekt_kundetilbud_marked\\out\\.rnd.c4a9508c\\CV_SpareBank_1_Utvikling_Omradearkitekt.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\sparebank1_omradearkitekt_kundetilbud_marked\\out\\Soknad_SpareBank_1_Utvikling_Omradearkitekt.docx",
+      "output_sha256": "6136493c029194f1ec5b52c331163ca24f341399e9a53bb232b10de93e031067",
+      "bytes": 39104,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\sparebank1_omradearkitekt_kundetilbud_marked\\out\\Soknad_SpareBank_1_Utvikling_Omradearkitekt.pdf",
+      "output_sha256": "f3187ba40f725e6934d573840bb6578228e4ffed247b12672875e48a8395e4e6",
+      "bytes": 196468,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_wjk376mw\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\sparebank1_omradearkitekt_kundetilbud_marked\\out\\.rnd.c4a9508c\\Soknad_SpareBank_1_Utvikling_Omradearkitekt.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\sparebank1_omradearkitekt_kundetilbud_marked\\out\\.rnd.c4a9508c\\Soknad_SpareBank_1_Utvikling_Omradearkitekt.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": [
+        "Letter rendered to 2 pages; editorial target is <=1. Review signal only."
+      ]
+    }
+  ],
+  "rendered_at": "2026-09-20T21:49:22Z"
+}

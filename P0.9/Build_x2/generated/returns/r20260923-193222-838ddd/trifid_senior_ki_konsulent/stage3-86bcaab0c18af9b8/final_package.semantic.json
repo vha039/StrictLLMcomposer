@@ -1,0 +1,60 @@
+{
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#028-4-4-trygge-ki-pastander",
+    "EV:OTHER#029-4-5-ki-grenser",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "cv": {
+    "headline": "Samfunnsøkonom | Menneskestyrt KI-bruk og beslutningsgrunnlag",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU, rådgiver i Analyseavdelingen ved Oslo universitetssykehus og student på et pågående masterprogram i kunstig intelligens ved Universitetet i Agder. Har etablert en menneskestyrt arbeidsmodell for KI- og kodeagenter i et prognoseprosjekt under aktiv utvikling, med definert omfang, kildepresedens, avgrenset delegering, tester og menneskelige beslutningspunkter, og har vært registrert KI-superbruker ved OUS i om lag tre år. Medutviklet sykehusets metodikk for gevinstrealisering, innført som sykehusstandard, og lager beslutningsgrunnlag for ledere og controllere i et regulert miljø.",
+    "competencies": [
+      "Menneskestyrte KI-arbeidsflyter og kontrollpunkter",
+      "Gevinstrealisering og gevinstlogikk",
+      "Beslutningsgrunnlag og sammendrag for ledere",
+      "Teknologivalg vurdert mot virksomhetens behov og begrensninger",
+      "Risiko, sporbarhet og kontrollert endring",
+      "Workshops, opplæring og kompetanseoverføring",
+      "Power BI, Excel/VBA, SQL, R/Python og Git"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Har ansvaret for samlet arkitektur, orkestrering og integrasjon i et prognoseprosjekt for pasientvolum og kapasitet (14, 90 og 365 dager) under aktiv utvikling, der implementeringen er delt med en kollega og kodeagenter. Etablerte en fast driftsstruktur for agentene med prosjektinstruksjoner om omfang, beviskrav og forbudte handlinger, sannhetspresedens, tilstands- og overleveringslogger, domeneregler og ikke-destruktive begrensninger.",
+          "Krever tidsbevisst validering, baselines og akseptansekriterier, har utfordret målvalg og lekkasjerisiko i modellarbeidet, og kontrollerer at kode og notatbøker ikke beholder sensitive data.",
+          "Registrert KI-superbruker ved OUS i om lag tre år, med svar på kollegers tekniske spørsmål i en Teams-kanal.",
+          "Videreutviklet i et team på fire sykehusets metodikk for gevinstrealisering, med bidrag til forskningssyntese, metode, økonomisk og strategisk analyse og styring. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Avviste en direkte fordeling av gevinster fra steril logistikk fordi datagrunnlaget ikke bar den, og utformet i stedet en transparent vektet modell med synlige og justerbare forutsetninger, beregnet på investerings- og automatiseringsvalg. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Deltok i piloter og tidlig tilgang til Microsoft Fabric, Power Platform, dbt og Pega, og vurderte mulighetene opp mot sykehusets konkrete begrensninger.",
+          "Moderniserte sykehusets budsjetteringsverktøy i Excel/VBA som i praksis eneste kodende utvikler i en prosess med om lag 50 involverte, med akseptansekriterier, risikoregister og onboarding for controllere; i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Holdt workshop for økonomkolleger om prosesskartlegging, datakvalitet og styring, lærte opp teknisk personale i en annen rapporteringsorganisasjon og deltok i etableringsgruppen på fire for Analyseavdelingen."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "I prognoseprosjektet der jeg har ansvaret for den samlede arkitekturen ved Oslo universitetssykehus, gjøres deler av implementeringen av kodeagenter. Det har tvunget fram de samme spørsmålene Trifid skal hjelpe kundene sine med: hva KI skal få gjøre, hvilke kilder som gjelder, hvem som kontrollerer resultatet, og hvor et menneske må ta beslutningen.",
+    "body_paragraphs": [
+      "Svarene har jeg gjort til en fast arbeidsmodell. Agentene arbeider etter prosjektinstruksjoner som angir omfang, beviskrav og forbudte handlinger. Gjeldende filer og tester går foran det som står i tidligere notater, tilstand og overleveringer logges, og domeneregler hindrer for eksempel at variabler faller stille ut av modellen. Validering på syntetiske data holdes atskilt fra kjøring mot ekte databaser, og konsekvensrike valg krever et menneskelig beslutningspunkt og en overlevering som kan etterprøves. Det er KI-styring på prosjektnivå, ikke i en hel virksomhet, men den består av de samme delene: roller, ansvar, beslutningspunkter og risikohåndtering. Ved siden av er jeg registrert KI-superbruker og har i om lag tre år svart på kollegers tekniske spørsmål i en Teams-kanal.",
+      "Gevinstsiden har jeg arbeidet med fra flere retninger. I et team på fire videreutviklet vi sykehusets metodikk for gevinstrealisering, og den ble innført som standard for hele sykehuset og var fortsatt i bruk om lag 2,5 år senere. Da oppdraget var å fordele gevinstene av steril logistikk mellom klinikkene, avviste jeg en direkte fordeling fordi datagrunnlaget ikke bar den, og utformet i stedet en vektet modell med synlige forutsetninger som controllerne skulle kunne se og justere. Den samme disiplinen trengs når en virksomhet skal velge hvor KI gir konkrete gevinster: skille det som er målt, fra det som er antatt.",
+      "Jeg har også vurdert ny teknologi opp mot konkrete begrensninger, blant annet gjennom piloter og tidlig tilgang til Microsoft Fabric, Power Platform og Pega, og gjennomført endring i systemer mange er avhengige av. Sykehusets budsjetteringsverktøy moderniserte jeg som i praksis eneste kodende utvikler i en prosess med om lag 50 involverte, med akseptansekriterier, risikoregister og onboarding for controllerne. Det er i sykehusdekkende bruk for 2026 og 2027.",
+      "Annonsen åpner for erfaring fra interne rådgivningsroller, og det er der min erfaring ligger. Ved siden av tar jeg et masterprogram i kunstig intelligens ved Universitetet i Agder, og mastergraden i samfunnsøkonomi fra NTNU er grunnlaget for gevinst- og beslutningsarbeidet. Hos Trifid vil jeg gjerne bruke dette på tvers av virksomheter, og arbeide med kravene i EUs AI Act og personvernregelverket sammen med juristene i oppdragene."
+    ],
+    "closing": "Jeg forteller gjerne mer om arbeidsmodellen og gevinstarbeidet i et intervju."
+  },
+  "writer_note": "Syvårskravet, kundeledet KI-strategi/governance og AI Act-rådgivning er ikke dokumentert. Pakken antyder ingen av dem; KI-styring er eksplisitt avgrenset til prosjektnivå i brevet."
+}

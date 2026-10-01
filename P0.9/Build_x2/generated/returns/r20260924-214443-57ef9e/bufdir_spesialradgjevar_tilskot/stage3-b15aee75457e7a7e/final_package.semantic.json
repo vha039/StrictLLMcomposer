@@ -1,0 +1,65 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | Økonomioppfølging og utredning",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver i Økonomi og IKT ved Oslo universitetssykehus siden 2023. Erfaring fra operativ økonomioppfølging i klinikk med månedsoppgjør, budsjett og prosjektøkonomi, og fra utredningsarbeid der fordeling og beslutninger må bygge på ufullstendige data. Utformer modeller og verktøy med synlige antakelser, kontroller og dokumentasjon, og formidler resultatene til ledere, controllere og fagmiljøer. Registrert KI-superbruker med strukturert, menneskestyrt bruk av KI i analyse- og utviklingsarbeid.",
+    "competencies": [
+      "Økonomioppfølging: månedsoppgjør, periodisering, avstemming og budsjett",
+      "Prosjektøkonomi i prosjekter med ekstern finansiering",
+      "Utredning og beslutningsgrunnlag ved ufullstendige data",
+      "Etterprøvbare fordelingsmodeller med synlige antakelser",
+      "Kontroll, validering og dokumentasjon",
+      "Formidling, opplæring og overlevering",
+      "Excel/VBA, Power BI, Power Query, SQL og R/Python",
+      "Menneskestyrt bruk av KI i analyse og utvikling"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utformet en modell for fordeling av gevinster ved steril logistikk mellom klinikker, etter å ha avvist en direkte fordeling fordi bruksdataene ikke bar den. Modellen bygger på vektede indikatorer med synlige, justerbare antakelser, fem arbeidsbøker og kontroller for umappede rader og strukturavvik. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "I praksis eneste kodende utvikler i 2025-moderniseringen av sykehusets om lag 20 år gamle budsjetteringsverktøy (Excel/VBA), i en prosess med om lag 50 involverte. Integrerte ansatt-, ansettelses- og bemanningsdata og kontrollerte endringene med kodesammenligning, akseptansekriterier og risikoregister. Verktøyet er brukt i hele sykehuset i budsjettprosessene for 2026 og 2027.",
+          "Medutviklet i et team på fire et revidert rammeverk for gevinstrealisering, med bidrag til forskningsgjennomgang, metode, økonomisk analyse og styring. Rammeverket ble innført som standard i hele sykehuset og var fortsatt i bruk om lag 2,5 år senere.",
+          "Utvikler beslutningsstøtte for økonomi, bemanning og aktivitet med Power BI, DAX, Power Query, Excel/VBA, SQL og prosjektavhengig R/Python.",
+          "Registrert KI-superbruker i om lag tre år og besvarer tekniske henvendelser i en Teams-kanal. Bruker KI-agenter i analyse- og utviklingsarbeid med definert kildegrunnlag, tester, avstemming og menneskelig kontroll.",
+          "Planla og holdt workshops, laget opplæringsmateriell for controllere og ga Power BI-opplæring til teknisk personell utenfor egen avdeling. Deltok i etableringsgruppen på fire som etablerte Analyseavdelingen."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter om lag halvannen måneds opplæring gradvis månedsavslutningen og hadde innen omtrent tre måneder hele den tildelte oppgjørsflyten: periodisering, avsetninger, avstemming, feilsøk og resultatforklaring. Gjennomførte mot slutten oppgjøret selvstendig, kvalitetssikret det og sendte månedsrapporten til klinikkens ledere.",
+          "Fulgte etter behov opp økonomien i prosjekter med ekstern finansiering: opprettelse, fakturering, frikjøp, overhead, revisjonskostnader, avslutning og økonomiske avklaringer.",
+          "Bidro i budsjettprosessen for 2024 med registrering av årsverk og kvalitetssikring av bemannings- og vaktgrunnlag, og bygde et eget budsjetthjelpeark.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til nytt økonomisystem. Verktøyene ble brukt av økonomirådgivere i flere klinikker kort etter overgangen."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Ved Oslo universitetssykehus har jeg fulgt opp økonomien i en klinikk måned for måned og utformet modeller som andre skal bygge beslutninger på. Jeg er samfunnsøkonom med master fra NTNU og rådgiver i Økonomi og IKT. Stillingen som spesialrådgiver i Bufdirs tilskuddsavdeling har den samme blandingen av operativt og strategisk arbeid, og her går pengene til organisasjoner og kommuner som arbeider for barn, unge og familier.",
+    "body_paragraphs": [
+      "Da gevinstene ved sykehusets sterile logistikk skulle fordeles mellom klinikkene, var bestillingen en direkte fordeling etter bruk. Bruksdataene bar ikke det. Jeg avviste den direkte fordelingen og utformet i stedet en modell som fordeler etter flere vektede indikatorer, med antakelser og vekter synlige og justerbare. Jeg holdt makroer ute av kjernen, slik at controllere og fagfolk selv skal kunne etterprøve og endre forutsetningene. Modellen ble ferdigstilt og overlevert til controllerne tidlig i 2026. En fordeling blir ikke mer forsvarlig av å se presis ut. Den blir forsvarlig når den som kontrollerer den, kan se hva den bygger på, og det tror jeg gjelder like mye når tilskudd fordeles mellom søkere.",
+      "Den operative siden kjenner jeg fra Barne- og ungdomsklinikken. Etter om lag halvannen måneds opplæring begynte jeg å overta oppgaver i månedsavslutningen, og innen omtrent tre måneder hadde jeg hele den tildelte oppgjørsflyten, til slutt selvstendig og med månedsrapport til klinikkens ledere. Jeg tok også enkeltsaker i prosjektøkonomi for prosjekter med ekstern finansiering, fra opprettelse og fakturering til frikjøp, revisjonskostnader og avslutning. Tilskuddsforvaltning i staten har jeg ikke arbeidet med, og statens regelverk for økonomistyring og tilskudd må jeg lære. Fra klinikken vet jeg at jeg setter meg raskt inn i en ny økonomiflyt og tar ansvar for den selv.",
+      "Da jeg i 2025 moderniserte sykehusets om lag 20 år gamle budsjetteringsverktøy, anbefalte jeg en bredere omstrukturering. Implementeringslederen valgte en smalere endring, funksjon for funksjon. Jeg kodet endringene, i praksis alene, i en prosess med om lag 50 involverte, og brukte kodesammenligning, akseptansekriterier og risikoregister for å holde logikken uendret der den skulle være det. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026. I 2027-runden hadde jeg vesentlig større frihet, og verktøyet brukes nå i budsjettprosessen for 2027.",
+      "Jeg har vært registrert KI-superbruker ved OUS i om lag tre år og bruker KI-agenter i analyse- og utviklingsarbeid med definert kildegrunnlag, tester og et menneskelig beslutningspunkt der konsekvensene er store. I tilskuddsarbeid tror jeg KI kan ta mye av det rutinepregede: sjekke søknader og rapporter for mangler, sammenstille opplysninger og finne avvik på tvers av ordninger. Vurderingen av den enkelte søker, og ansvaret for den, bør ligge hos saksbehandleren. Slike arbeidsmåter vil jeg gjerne være med på å bygge i en nyopprettet rolle."
+    ],
+    "closing": "Jeg kan bidra med økonomisk skjønn i enkeltsaker og med arbeidsmåter som gjør vurderingene lettere å kontrollere på tvers av ordningene, i nær dialog med avdelingsdirektøren. Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#028-4-4-trygge-ki-pastander"
+  ],
+  "writer_note": "Letter backbone: judgment on allocation under weak data (STE model), operative finance control with rapid ramp-up, advice-then-pragmatic delivery (budget tool), and a bounded forward view on KI in grant work (R07 is a minimum). Benefits framework kept to CV. Minimum gap on state grant administration and regulations named once in the letter after evidence."
+}

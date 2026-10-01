@@ -1,0 +1,9 @@
+﻿job_id,employer,title,job_class,cluster,sequence,priority,source,unit,reference,deadline,exception_note
+nav_seniorradgiver_researchops,Nav,Seniorrådgiver,CORE,runj,1,HIGH,vacancies/Vil du løfte kvalitativ innsikt i NAV_ _ FINN.no.pdf,Seksjon brukerinnsikt / ResearchOps-team,,2026-09-23,
+baerum_radgiver_virksomhetsstyring,Bærum kommune,Rådgiver/spesialrådgiver,CORE,runj,2,HIGH,vacancies/Vikariat som rådgiver_spesialrådgiver innenfor økonomi og virksomhetsstyring _ FINN.no.pdf,Sentral økonomienhet / virksomhetsplan og rapportering,,2026-09-23,
+politi_senior_bemanningsansvarlig,Politiets IT-enhet,Senior bemanningsansvarlig,CORE,runj,3,HIGH,vacancies/Senior bemanningsansvarlig _ FINN.no.pdf,Politiets IT-enhet,,2026-09-23,
+nittedal_radgiver_helse_velferd,Nittedal kommune,Rådgiver Helse og velferd,CORE,runj,4,HIGH,vacancies/Rådgiver for sektor helse og velferd _ FINN.no.pdf,Sektor Helse og velferd,,2026-09-24,
+kpmg_cfo_advisory_prosjektleder,KPMG Norge,Prosjektleder til CFO Advisory,CORE,runj,5,HIGH,"vacancies/CFO Advisory søker prosjektledere med 5-8 års erfaring innen økonomi, teknologi og transformasjon _ FINN.no.pdf",CFO Advisory,,2026-09-25,
+wurth_digital_integrasjonskoordinator,Würth Norge,Digital integrasjonskoordinator,CORE,runj,6,HIGH,vacancies/Digital integrasjonskoordinator _ FINN.no.pdf,Digital integrasjon,,2026-09-25,
+bufdir_spesialradgjevar_tilskot,Bufdir,Spesialrådgjevar - avdeling tilskot,EXCEPTION,runj,7,HIGH,vacancies/Vil du bidra til at pengar til gode formål blir godt forvalta_ _ FINN.no.pdf,Avdeling tilskot,,2026-09-25,Nynorsk vacancy; EXCEPTION per frozen runbook language rule.
+trifid_senior_ki_konsulent,Trifid,Senior KI-konsulent: strategi og governance,CORE,runj,8,HIGH,vacancies/Trifid søker Senior KI-konsulent! _ FINN.no.pdf,KI-rådgivning,,,

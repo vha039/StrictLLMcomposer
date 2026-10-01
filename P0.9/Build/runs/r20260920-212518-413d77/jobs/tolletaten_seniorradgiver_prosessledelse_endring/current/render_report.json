@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260920-212518-413d77",
+    "job_id": "tolletaten_seniorradgiver_prosessledelse_endring",
+    "final_package_sha256": "5a366ec1f2974a3655490ef305a413401daf41b6e361002a9eadf265baf87729",
+    "document_date": "2026-09-20",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "84a069c32995b61353e3edcee53d2c5fab5d289148f0358c3b461338108a2acb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\tolletaten_seniorradgiver_prosessledelse_endring\\out\\CV_Tolletaten_Seniorradgiver_Prosessledelse_og_endring.docx",
+      "output_sha256": "2c60bf214fd9bd33e60858283c6dfa234e0a601aefda239dca6d825d42a367d6",
+      "bytes": 40512,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\tolletaten_seniorradgiver_prosessledelse_endring\\out\\CV_Tolletaten_Seniorradgiver_Prosessledelse_og_endring.pdf",
+      "output_sha256": "f3466c9072e73219b14ab4a3193c3b17ded8107701d00743ad8f7b0ef61e71b7",
+      "bytes": 293005,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_ehxspnnm\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\tolletaten_seniorradgiver_prosessledelse_endring\\out\\.rnd.0a1ec2dd\\CV_Tolletaten_Seniorradgiver_Prosessledelse_og_endring.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\tolletaten_seniorradgiver_prosessledelse_endring\\out\\.rnd.0a1ec2dd\\CV_Tolletaten_Seniorradgiver_Prosessledelse_og_endring.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\tolletaten_seniorradgiver_prosessledelse_endring\\out\\Soknad_Tolletaten_Seniorradgiver_Prosessledelse_og_endring.docx",
+      "output_sha256": "206db4938835e29d194d7bc1f12517da8b23eafcef8a394264b8bab33f59fd45",
+      "bytes": 38891,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\tolletaten_seniorradgiver_prosessledelse_endring\\out\\Soknad_Tolletaten_Seniorradgiver_Prosessledelse_og_endring.pdf",
+      "output_sha256": "a33680df913dd3481f69d1631f459c6e191fbcd1ceb7040e8de29e7cd5c8dac6",
+      "bytes": 192037,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_sk6mis2l\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\tolletaten_seniorradgiver_prosessledelse_endring\\out\\.rnd.0a1ec2dd\\Soknad_Tolletaten_Seniorradgiver_Prosessledelse_og_endring.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260920-212518-413d77\\jobs\\tolletaten_seniorradgiver_prosessledelse_endring\\out\\.rnd.0a1ec2dd\\Soknad_Tolletaten_Seniorradgiver_Prosessledelse_og_endring.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-20T21:46:19Z"
+}

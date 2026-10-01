@@ -1,0 +1,376 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "SpareBank 1 Utvikling må velge en områdearkitekt som kan ta ansvar for sammenheng på tvers av et stort tjenesteområde: koble strategiske mål til arkitekturmålbilder og teknologivalg, synliggjøre avhengigheter, teknisk gjeld og konsekvenser for ledergruppen og koordinere banker, produktmiljøer og leverandører. Det sentrale utvelgelsesspørsmålet er om kandidaten har tilstrekkelig arkitektonisk tyngde og organisatorisk rekkevidde til å eie helheten, samtidig som valgene gir reell forretnings- og kundeverdi i et integrasjons- og KI-preget landskap.",
+  "selection_logic": "Posisjoner Vegard som samfunnsøkonom og rådgiver med dokumentert prosjektvis teknisk arkitektur, systemintegrasjon og virksomhetsnær modernisering, ikke som etablert enterprise- eller områdearkitekt. La prognoseprosjektet vise end-to-end arkitektur, orkestrering, integrasjon og styring av avhengigheter i et distribuert utviklingsarbeid; la styrings-BI vise at han har designet og forvaltet en faktisk operativ semantisk arkitektur; og la moderniseringen av det forretningskritiske budsjetteringsverktøyet vise teknologivalg, teknisk gjeld, kontrollert endring og sykehusdekkende bruk. Ruten kan gi en interessant, virksomhetsorientert arkitekturprofil, men gapene i områdemålbilder, sourcing, leverandørstyring, digitalbank/CRM, kundereiser og enterprise-skala må være eksplisitte.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver med prosjektvis teknisk arkitektur, integrasjon og styrt digitalisering",
+  "headline_hypothesis": "Virksomhetsnær teknisk arkitektur og kontrollert modernisering",
+  "shortlist_thesis": "Vegard tilfører en uvanlig kombinasjon av økonomisk virksomhetsforståelse, hands-on arkitektur og sporbar teknisk beslutningsdisiplin: han har designet end-to-end arkitektur og orkestrering for et komplekst prognosemiljø, bygget og forvaltet semantisk arkitektur i operativ bruk og modernisert et kritisk legacy-system under strenge kontinuitetskrav. Han er ikke en ferdig dokumentert områdearkitekt for bank og kundereiser, men kan være interessant dersom SpareBank 1 verdsetter dypt teknisk fundert helhetsblikk, oversettelse mellom virksomhet og teknologi og evne til å gjøre arkitekturvalg etterprøvbare.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Solid erfaring som arkitekt eller i tilsvarende teknisk rolle i komplekse organisasjoner",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Dokumentert som teknisk arkitekt og hovedimplementør på prosjekt-/løsningsnivå i en kompleks sykehusorganisasjon. Ingen formell arkitekttittel eller ansvar for virksomhets-/områdearkitektur."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "God forståelse for samspillet mellom forretning, teknologi og kundeopplevelse",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te"
+      ],
+      "note": "Sterk virksomhet–teknologi-bro og dokumentert brukerorientert forbedring. Direkte erfaring med bankkunder, omnichannel-kundereiser, CRM eller markedsplattformer er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Sikre at helhetlig arkitektur og teknologibruk understøtter tjenesteområdets strategiske mål og prioriteringer",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse"
+      ],
+      "note": "Viser helhetlig systemdesign, operativ måldefinisjon, prioritering og arkitektur koblet til beslutningsbehov. Det er prosjektomfang, ikke portefølje-/områdeansvar."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Utvikle og forankre helhetlige arkitekturmålbilder for området",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "note": "Har designet end-to-end løsningsarkitektur og vurdert moderniseringsmuligheter mot faktiske rammer. Har ikke dokumentert målbildeansvar eller forankring på område-/enterprise-nivå."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Bidra til teknologi-, arkitektur- og sourcingvalg og sikre beslutninger i tråd med gjeldende prosesser",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Dokumenterer begrunnede arkitektur-/teknologivalg, avveininger, kontroll og beslutningsstruktur. Sourcingstrategi, anskaffelser og leverandørvalg er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Synliggjøre arkitektoniske avhengigheter, teknisk gjeld og helsetilstand og løfte konsekvenser inn i ledergruppen",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ],
+      "note": "Sterk prosjektvis evidens for teknisk gjeld, avhengigheter, risiko, validering og ledelses-/beslutningsunderlag. Ingen dokumentert løpende teknisk helserapportering for et helt tjenesteområde eller fast rolle i en ledergruppe."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Støtte ledergruppe, produktledere og team med arkitekturkompetanse og strategisk teknologirådgivning",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Har gitt teknisk rådgivning, workshops, beslutningsunderlag og kompetanseoverføring til ledere, fagpersoner og tekniske mottakere. Produktleder-/ledergrupperådgivning som formell arkitekturfunksjon er ikke etablert."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Koordinere tekniske avhengigheter og samarbeid på tvers av områder, banker og leverandører",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+        "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse"
+      ],
+      "note": "Prosjektvis koordinering av datakilder, komponenter, kollega-/agentbidrag og tekniske avhengigheter er støttet. Banker, leverandører og tverrområde-koordinering i en føderert allianse er et gap."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Sikre tilstrekkelig arkitekturdokumentasjon og tydelige krav internt og hos leverandører",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#043-6-8-styring-kvalitet-og-kontroll"
+      ],
+      "note": "Dokumentasjon, krav, akseptansekriterier, avhengighetsstyring og sporbarhet er godt dokumentert internt. Kravstilling og oppfølging mot eksterne leverandører er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Være pådriver for teknologi og KI som realiserer forretningsmål",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:OTHER#027-4-3-konkret-evidens"
+      ],
+      "note": "Dokumenterer menneskestyrt KI-/agentbruk, prognosearkitektur og vurdering av ny teknologi mot virksomhetsrammer. Ingen produksjons-LLM, enterprise-KI-styring eller organisasjonsomfattende KI-transformasjon."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Se helhet og konsekvenser, prioritere i komplekse beslutningssituasjoner, kommunisere tydelig, bygge tillit og drive kontinuerlig forbedring",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ],
+      "note": "Bruk konkrete arkitekturvalg, prioriteringer, kontroller og mottakertilpasning som bevis; ikke gjengi egenskapslisten som selvkarakteristikk."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Gode norskkunnskaper som forutsetning for arbeidsspråket",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Norsk er morsmål; profesjonell dokumentasjon, presentasjoner og beslutningsunderlag er dokumentert."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Relevant høyere utdanning, med lang og relevant erfaring som mulig kompensasjon",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#025-3-4-digitaliserings-og-teknologiroller"
+      ],
+      "note": "Fullført master i samfunnsøkonomi og pågående KI-studium gir relevant virksomhets- og teknologisupplement. Det er ikke en informatikk-, programvare- eller arkitekturgrad."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Domeneorientering mot digitalbank, CRM, markedsplattform, kundedialog og sømløse personaliserte kundereiser",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "note": "Kandidatmyndighetene dokumenterer ikke bank-/finansdomene, CRM, markedsplattform, omnichannel-arkitektur eller personalisering. AI-generert ferdighetsliste i annonsen er ikke arbeidsgiverkrav eller kandidatbevis."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Bakgrunnssjekk og sårbarhetssamtale for en kritisk stilling",
+      "importance": "MINIMUM",
+      "relation": "UNKNOWN",
+      "note": "Dette er vilkår i ansettelsesprosessen; kandidatmyndighetene dokumenterer ikke utfallet."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "role": "Primært arkitekturbevis: vise eierskap til end-to-end løsningsarkitektur, orkestrering, automatisering og integrasjon i et komplekst R/Python-miljø med flere modeller, datakvalitetskrav, avhengigheter og distribuert implementering. Det svarer på om Vegard faktisk kan etablere struktur og tekniske beslutningsrammer i et komplekst landskap.",
+      "claim_ceiling": "Aktiv utvikling, ikke produksjon. Bevar kollegaens eierskap til opprinnelig XGBoost, mange features og mye datavalidering; ingen full manuell forfatterskap, verifisert modelleffekt, moden MLOps eller enterprise-arkitektur.",
+      "lifecycle": "IN_DEVELOPMENT",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "role": "Leveranse- og lifecycle-bevis for arkitektur: dokumentere at Vegard utformet nesten hele den semantiske modellen, mesteparten av ETL/M og hoveddelen av DAX, vurderte arkitekturalternativer, håndterte hierarkier og avhengigheter og forvaltet løsningen månedlig med brukerobservasjon og forbedringer. Det balanserer hovedcasets utviklingsstatus med faktisk driftserfaring.",
+      "claim_ceiling": "Historisk og avviklet løsning; eierskap bare omtrent august 2025–februar 2026. Kollegene ledet innhold og visuell utforming. Ingen enterprise-arkitektur, nåværende eierskap eller kvantifisert brukereffekt.",
+      "lifecycle": "DECOMMISSIONED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Virksomhets- og moderniseringsbevis: vise hvordan Vegard rekonstruerte arkitekturen i et kritisk legacy-system, vurderte teknologi mot kompatibilitet, driftsrisiko og vedlikeholdbarhet, styrte teknisk gjeld og regresjonsfare og leverte endringer som er i sykehusdekkende bruk. Det svarer på om arkitekturvalgene hans kan overleve faktisk drift og organisatoriske begrensninger.",
+      "claim_ceiling": "Ikke original skaper, eier av budsjettprosessen eller hele moderniseringen. Den brede interessentprosessen skal ikke bli et team han ledet. Ingen målt effekt eller bank-/kundereiseanalogi som faktapåstand.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Diagnostisk skjønnsbevis: vise at Vegard avviste falsk presisjon, omformet et svakt datagrunnlag til en transparent proxyarkitektur og valgte synlige, konfigurerbare antakelser fremfor varig utvikleravhengighet. Det demonstrerer virksomhetsorienterte arkitekturvalg og evne til å gjøre konsekvenser og usikkerhet eksplisitte.",
+      "claim_ceiling": "Modellen er ferdigstilt og overlevert, men organisatorisk bruk, endelige vekter og realiserte gevinster er uavklart. Ingen permanent domeneeierskap eller ROI-påstand.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#028-4-4-trygge-ki-pastander"
+      ],
+      "role": "Sekundært fremtidsrettet signal: vise at han vurderer nye plattformer mot reelle virksomhetsbegrensninger og bruker KI-/kodeagenter gjennom tydelige grensesnitt, menneskelig kontroll, tester og sporbare handoffs. Dette kan svare på KI-pådriverdelen uten å overskygge arkitekturruten.",
+      "claim_ceiling": "Plattformarbeidet er utforskende. Ingen enterprise-plattformledelse, leverandørforhold, produksjons-LLM, RAG, modellservering, enterprise-KI-styring, moden MLOps eller organisasjonsomfattende KI-transformasjon.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#025-3-4-digitaliserings-og-teknologiroller"
+      ],
+      "role": "Formell og virksomhetsfaglig base i CV-en: samfunnsøkonomi gir analyse av insentiver, prioriteringer og forretningsmessige avveininger; pågående KI-studium er et teknisk supplement til den arbeidsbaserte arkitekturevidensen.",
+      "claim_ceiling": "Ingen arkitektur-, informatikk-, programvare- eller fullført KI-grad og ingen profesjonell teknologimestring fra kurs alene.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIA_AI"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen formell erfaring som område-, enterprise-, løsnings- eller systemarkitekt med ansvar for et stort tjenesteområde.",
+      "reframe": "Vis konkret prosjektvis arkitektureierskap: end-to-end løsningsdesign, semantisk arkitektur, integrasjon, teknologivalg, avhengighetsstyring, dokumentasjon og lifecycle-ansvar.",
+      "honesty_note": "Dette er hovedgapet og skal ikke maskeres ved å bruke stillingstittelen som om kandidaten allerede har hatt rollen."
+    },
+    {
+      "objection": "Ingen dokumentert erfaring med digitalbank, CRM, markedsplattform, kundedialogløsninger eller personaliserte omnichannel-kundereiser.",
+      "reframe": "Fremhev overførbar evne til å koble virksomhetsbehov, brukeratferd, data, integrasjoner og tekniske valg i komplekse regulerte miljøer.",
+      "honesty_note": "Ikke omtale pasient-/lederorienterte løsninger som kundeopplevelses- eller bankdomeneerfaring."
+    },
+    {
+      "objection": "Ingen dokumentert sourcing-, anskaffelses- eller leverandørstyring og ingen koordinering i en føderert bankallianse.",
+      "reframe": "Bruk dokumentert koordinering av tekniske grensesnitt, datakilder, kollegabidrag, krav og handoffs som nærliggende gjennomføringsevidens.",
+      "honesty_note": "Leverandørkrav og sourcingvalg må forbli et eksplisitt gap."
+    },
+    {
+      "objection": "Det mest direkte end-to-end arkitekturcaset er fortsatt i utvikling, mens det operative BI-caset er avviklet.",
+      "reframe": "Bruk livsløpene komplementært: prognosearbeidet viser nåværende arkitekturdybde; BI-løsningen viser tidligere bygging, drift, brukerforbedring og dokumentert avslutning; legacy-moderniseringen viser nåværende bruk.",
+      "honesty_note": "Ingen av casene skal låne produksjonsstatus eller varighet fra de andre."
+    },
+    {
+      "objection": "KI-evidensen gjelder menneskestyrt utviklingsarbeid og prognoseprosjekt, ikke KI-funksjonalitet i kundeprodukter.",
+      "reframe": "Presenter KI som en kontrollert arbeids- og leveransemetode med sporbarhet, testing og menneskelig ansvar, og som bevis på informerte teknologivalg.",
+      "honesty_note": "Ingen produksjons-LLM, RAG, modellservering eller enterprise-KI-mandat."
+    }
+  ],
+  "motivation_bridge": "Rollen samler den typen problem Vegard søker: tekniske beslutninger må forstås som et sammenhengende system av forretningsmål, data, integrasjoner, avhengigheter, risiko og faktisk bruk. Muligheten til å bruke denne arbeidsformen på kundereiser og relasjonsbank er faglig motiverende fordi arkitekturen får direkte betydning for tjenester mennesker og bedrifter møter i hverdagen. Bidraget han kan tilby er et analytisk og hands-on perspektiv som gjør teknologivalg, antakelser og konsekvenser tydelige; bank- og kundereisedomenet vil være nytt og skal omtales som et læringsområde, ikke eksisterende erfaring.",
+  "cv_direction": {
+    "headline_direction": "Rådgiver Økonomi og IKT | Teknisk arkitektur, integrasjon og digitalisering",
+    "emphasis": [
+      "Gjør prosjektvis arkitektureierskap lesbart i toppsonen uten å erstatte den formelle stillingstittelen med arkitekt.",
+      "Prioriter prognosearkitekturen for end-to-end design, orkestrering, integrasjon, avhengigheter, testing og distribuert implementering; merk aktiv utviklingsstatus.",
+      "Vis styrings-BI som konkret semantisk arkitektur som ble bygget, forvaltet, brukertestet og senere avviklet; bevar teamdelingen.",
+      "Bruk legacy-moderniseringen til å dokumentere teknisk gjeld, avveininger mellom målarkitektur og kontinuitet, kontroller og sykehusdekkende bruk.",
+      "Løft samfunnsøkonomi og virksomhet–teknologi-oversettelse som differensiator; la KI-studium og agentbruk være sekundære signaler."
+    ],
+    "deprioritize": [
+      "Detaljert helseøkonomi, DRG og regnskapsprosess når det ikke forklarer arkitekturvalg eller virksomhetsverdi.",
+      "Bred teknologistakk uten kobling til arkitektur, integrasjon, kontroll eller beslutning.",
+      "Generiske prosesslederformuleringer fra Tolletaten-ruten.",
+      "Eldre roller utover nødvendig kronologi."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Fra uklare virksomhetsbehov til sammenhengende, etterprøvbar teknisk arkitektur: kombiner nåværende end-to-end arkitektureierskap med et operert semantisk system og kontrollert modernisering i bruk, og forklar hvordan dette gir et beslutningsorientert perspektiv på avhengigheter, teknisk gjeld og teknologivalg.",
+    "top_employer_problems": [
+      "Holde arkitektur, teknologi og prioriteringer sammenhengende i et stort og integrasjonstungt tjenesteområde.",
+      "Gjøre tekniske avhengigheter, gjeld, risiko og konsekvenser beslutningsklare for ledere og team.",
+      "Velge og forankre teknologi som gir forretnings- og kundeverdi uten å miste styring, dokumentasjon eller gjennomførbarhet."
+    ],
+    "structure_guidance": "Åpne med virksomhet–teknologi-broen og den prosjektvise arkitekturidentiteten. La prognosearkitekturen demonstrere helhetsdesign og koordinering, men koble straks til BI-løsningens operative lifecycle eller legacy-moderniseringens dokumenterte bruk slik at teksten ikke blir konsepttung. Bruk proxy-modellen som et kort skjønnssignal for transparente valg under usikkert datagrunnlag. Avslutt med motivasjonen for arkitektur som former reelle kundetjenester, samtidig som bank-/kundereisedomenet ikke fremstilles som kjent erfaring."
+  },
+  "avoid_guidance": [
+    "Ikke kall kandidaten områdearkitekt, enterprise-arkitekt, løsningsarkitekt eller systemarkitekt som tidligere/formell rolle; bruk prosjektvis teknisk arkitektur og konkret funksjon.",
+    "Ikke påstå erfaring med digitalbank, CRM, markedsplattform, omnichannel, personalisering eller bankens kundeprosesser.",
+    "Ikke påstå målbildeansvar, arkitekturstyring eller teknisk helse for et helt tjenesteområde.",
+    "Ikke antyd sourcing-, anskaffelses-, leverandørstyrings- eller bankallianseerfaring.",
+    "Ikke lån produksjonsstatus fra den operative moderniseringen til prognoseprosjektet, og ikke skjul at BI-løsningen er avviklet.",
+    "Ikke fremstå distribuert kollega-/agentimplementering som Vegards manuelle soloforfatterskap.",
+    "Ikke bruk den AI-genererte ferdighetslisten i annonsen som arbeidsgiverkrav eller bevis, og ikke gjør KI til produksjons-LLM- eller enterprise-governance-erfaring."
+  ],
+  "counterfactual_route": {
+    "identity": "Virksomhet–teknologi-rådgiver for kontrollert modernisering og beslutningsarkitektur",
+    "rationale": "Hvis gapet til formell områdearkitektur vurderes som for stort, kan final writer velge en mer defensiv rute som vektlegger systemkartlegging, teknisk gjeld, integrasjon, transparente arkitekturvalg og leveranser i bruk. Den reduserer titteloverreach og er sterkt dokumentert, men svarer svakere på målbilder, ledergrupperådgivning og tverrorganisatorisk arkitektureierskap.",
+    "evidence_refs": [
+      "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+      "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+      "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+    ]
+  },
+  "risk_notes": [
+    "Dette er en tydelig stretch-rute: kandidatens arkitekturevidens er sterkest på prosjekt-/løsningsnivå, mens stillingen eier et stort tjenesteområde.",
+    "Manglende bank-, kundeopplevelses-, CRM- og markedsplattformdomene kan være utslagsgivende selv om arkitekturarbeidsmåten er overførbar.",
+    "Sourcing, leverandørkrav og koordinering på tvers av banker er ikke dokumentert.",
+    "For mye verktøy- eller KI-detalj vil forsterke inntrykket av teknisk spesialist uten områdeansvar; for abstrakt arkitekturprosa vil på sin side skjule de konkrete leveransene som faktisk bærer saken.",
+    "Bakgrunnssjekk og sårbarhetssamtale er eksplisitte prosessvilkår, men utfallet er ukjent."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-12",
+      "plain_language_label": "Etterprøvbarhet og tydelige sannhetskilder",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "expression_ceiling": "Kan fremstilles som en dokumentert preferanse for sporbare antakelser, avhengigheter, kontroller, tester, arkitekturdokumentasjon og synlige beslutningsgrunnlag i konkrete prosjekter; ikke som enterprise-governance-mandat eller generell prosessbyråkrati.",
+      "vacancy_relevance": "Områdearkitekten må gjøre teknisk helse, gjeld, avhengigheter og konsekvenser for prioriteringer lesbare for ledere og team.",
+      "intended_employer_interpretation": "Han skaper arkitektur og beslutningsunderlag som andre kan inspisere, utfordre og vedlikeholde.",
+      "misread_risk": "Kan oppfattes som kontrolltung eller mer opptatt av dokumentasjon enn fremdrift og kundeverdi.",
+      "expression_guardrail": "Knytt kontrollene til konkrete drifts-, endrings- eller beslutningsrisikoer og til leveranser i bruk; ikke presenter dem som et mål i seg selv."
+    },
+    {
+      "facet_id": "PF-19",
+      "plain_language_label": "Endrings- og eksperimentvilje med produksjonsmessige rekkverk",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#043-6-8-styring-kvalitet-og-kontroll"
+      ],
+      "expression_ceiling": "Kan fremstilles som villighet til å utforske og vurdere nye teknologimuligheter, samtidig som endringer i kritiske løsninger avgrenses, sammenlignes og valideres mot kontinuitet, kompatibilitet og vedlikeholdbarhet; ikke som enterprise-innovasjonsledelse eller produksjonserfaring med alle nevnte plattformer.",
+      "vacancy_relevance": "SpareBank 1 trenger både nye teknologi-/KI-muligheter og arkitektonisk kontroll i et kritisk tjenestelandskap.",
+      "intended_employer_interpretation": "Han er endringsorientert uten å forveksle teknologisk nyhet med et forsvarlig produksjonsvalg.",
+      "misread_risk": "Kan oppfattes enten som for forsiktig i modernisering eller som en generell teknologientusiast uten enterprise-dybde.",
+      "expression_guardrail": "Vis den konkrete avveiningen mellom bredere modernisering og funksjonsvis, atferdsbevarende endring i budsjetteringsverktøyet, og hold plattformarbeidet eksplisitt utforskende."
+    }
+  ],
+  "writer_guidance": "Dette er en arkitekturpakke med et reelt erfaringsgap, så teksten må vinne på konkret, presis og intervjuforsvarlig dybde. Ikke forsøk å ligne en tradisjonell enterprise-arkitekt gjennom vokabular alene. Vis tre forskjellige proof-funksjoner med klare lifecycle-grenser: prognosearbeidet for nåværende end-to-end arkitektur og integrasjon, styrings-BI for bygget/operert semantisk arkitektur, og budsjetteringsmoderniseringen for teknisk gjeld, avveininger og bruk i kritisk drift. Proxy-modellen kan gi ett kort diagnostisk signal om faglig skjønn under usikkert datagrunnlag. CV-en dokumenterer teknisk dybde og lifecycle; søknaden skal forklare hvordan denne arbeidsformen kan styrke SpareBank 1s beslutninger om avhengigheter, teknisk helse og teknologivalg. Hold bank-, kundereise-, sourcing- og områdeansvarsgapene tydelige i review.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260920-212518-413d77",
+    "job_id": "sparebank1_omradearkitekt_kundetilbud_marked",
+    "employer": "SpareBank 1 Utvikling",
+    "title": "Områdearkitekt",
+    "manifest_sha256": "f714a66a517b08a5e8c679c9ce3af8c88cb77a910d69f846031958a96b2ec853",
+    "vacancy_sha256": "8760a5b5ce670ec1650c5f7d364a6a6e4dcc35167d0502a7f44c1fee890211d5",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

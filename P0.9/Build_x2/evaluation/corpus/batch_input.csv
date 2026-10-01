@@ -1,0 +1,7 @@
+job_id,employer,title,job_class,cluster,sequence,priority,source,unit,reference,deadline,exception_note
+stortinget_virksomhetsstyring_lederstotte,Stortinget,seniorrådgiver/rådgiver,CORE,x2_gate1,1,HIGH,vacancies/Ønsker du en sentral stabsrolle i grenseflaten mellom virksomhetsstyring og lederstøtte_ _ FINN.no.pdf,,,2026-09-14,
+abacus_erp_radgiver,Abacus IT AS,Senior ERP-rådgivere og ERP-rådgivere,CORE,x2_gate1,2,HIGH,vacancies/Senior ERP-rådgivere og ERP-rådgivere innen BNXT by Visma (Finans_Logistikk) _ FINN.no.pdf,,,,
+bearingpoint_forretning_teknologi,BearingPoint Norway AS,Konsulent forretning- og teknologirådgivning,CORE,x2_holdout,1,HIGH,"vacancies/Ønsker du å jobbe tett på ledelsen i selskaper, utfordre strategisk og bidra til valg som faktisk betyr noe_ _ FINN.no.pdf",,,,
+amesto_ai_transformasjon,Amesto Accounthouse AS,AI Team Lead – Transformasjon,CORE,x2_holdout,2,HIGH,vacancies/Vil du bygge fremtidens regnskaps- og lønnstjenester_ _ FINN.no.pdf,,,,
+norwegian_senior_manager_digital_governance,Norwegian Air Shuttle ASA,Senior Manager Digital Governance Operations,CORE,x2_regression,1,HIGH,vacancies/Are you our new Senior Manager Digital Governance Operations_ _ FINN.no.pdf,,,,
+eie_systemkoordinator,EIE eiendomsmegling,Systemkoordinator,CORE,x2_regression,2,HIGH,vacancies/EIE eiendomsmegling utvider administrasjonen! _ FINN.no.pdf,,,,

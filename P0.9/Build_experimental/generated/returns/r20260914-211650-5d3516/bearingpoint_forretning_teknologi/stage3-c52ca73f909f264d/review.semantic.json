@@ -1,0 +1,31 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Konsulenterfaring, som er foretrukket, mangler. Formalkravet (master og 2 til 4 års erfaring) er oppfylt med om lag 3,5 år ved OUS og står i åpningen.",
+      "recommended_action": "Ingen redigering. Vurder ved godkjenning om motivasjonsavsnittet håndterer skiftet slik du ønsker.",
+      "priority": 1
+    },
+    {
+      "reason": "Tett arbeid med toppledelse er ikke dokumentert og er ikke påstått; brevet knytter nærhet til ledelse til et fremtidig bidrag, ikke til historikk.",
+      "recommended_action": "Normal skumlesing.",
+      "priority": 2
+    },
+    {
+      "reason": "AI-dimensjonen besvares med egen praksis (agentarbeidsflyt, målutfordring og valideringskrav i et prosjekt under utvikling, superbrukerrolle, pågående KI-master), ikke med AI-adopsjon i en virksomhet.",
+      "recommended_action": "Ingen redigering; formuleringene holder seg innenfor kildegrensene.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen erfaring fra konsulentrollen eller med eksterne kunder.",
+    "Ingen erfaring med anskaffelser eller vurdering og utvelgelse av strategiske IT-partnere.",
+    "Direkte rådgivning for toppledelse er ikke dokumentert.",
+    "STE-modellens bruk i faktiske investeringsbeslutninger og realiserte gevinster er uavklart; pakken sier tiltenkt bruk, ferdigstilt og overlevert.",
+    "Prognoseprosjektet er under utvikling uten verifisert modellytelse; implementeringen er delt med kollega og kodeagenter.",
+    "All profesjonell erfaring er fra én virksomhet i helsesektoren."
+  ],
+  "material_strategy_change": "KI-beviset ble bygget om fra superbrukerrolle og arbeidsflyt alene til også å bære et dokumentert faglig skjønn fra prognoseprosjektet: utfordret definisjonen av prognosemålet og krevde tidsriktig validering mot referanseprognoser. Det svarer samtidig på AI som skal gi forretningsverdi og på å utfordre etablerte valg, uten å gjøre KI til identitet. Åpningen bruker kandidatens dokumenterte arbeidsmodell (skille underliggende behov fra bestilt løsning) i stedet for en generell motivasjonsåpning, og rask læring er flyttet fra CV-bevis til motivasjonsavsnittet som svar på nye kunders fagområder.",
+  "upstream_claim_repaired": "Ingen ustøttet strategipåstand måtte repareres. Autoritetsdigesten for klinikkarbeidet sier at kandidaten gikk fra kvalitetssikring av andre; kilden sier at hans eget arbeid ble kvalitetssikret av andre i starten, og CV-en følger kilden. Strategiens formulering om at modernisert verktøy ble tatt i bruk etter teknologivurderingen er skrevet slik at vurderingen og gjennomføringslederens valg holdes atskilt.",
+  "notes": []
+}

@@ -1,0 +1,82 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "ASSEMBLED",
+  "cv": {
+    "headline": "Rådgiver: digitale verktøy og brukeropplæring",
+    "profile": "Rådgiver økonomi og IKT ved Oslo universitetssykehus, med mastergrad i samfunnsøkonomi og pågående masterprogram i kunstig intelligens. Arbeider i skjæringspunktet mellom brukere og systemer: gjennomførte veiledede tester med faktiske brukere, observerte hvor de kom skjevt ut og kjørte målrettede forbedringsrunder på funnene. Underviste tekniske kolleger i Power BI og semantisk modellering på tvers av organisasjoner, og har i om lag tre år vært registrert som superbruker for kunstig intelligens, med tekniske svar i en Teams-kanal. Lager både detaljert referansemateriell og korte veiledninger, tilpasset mottakeren.",
+    "competencies": [
+      "Brukerstøtte og teknisk feilsøking i systemer som er i daglig bruk",
+      "Brukeropplæring: workshops, onboarding og veiledning for ikke-tekniske brukere",
+      "Brukerdokumentasjon: både detaljert referansemateriell og korte veiledninger",
+      "Praktisk bruk av kunstig intelligens med menneskelig beslutningspunkt og etterprøvbar overlevering",
+      "Utprøving og vurdering av nye verktøy mot driftsrisiko og vedlikeholdbarhet",
+      "Behovsavklaring og kravstrukturering før løsning velges",
+      "Samarbeid med tekniske miljøer i andre organisasjoner",
+      "Kundedialog og behovsavklaring"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Gjennomførte veiledede tester med faktiske brukere av en styrings-BI-løsning (eid om lag august 2025 til februar 2026, senere avviklet), observerte hvor interaksjonen forvirret dem, kjørte målrettede forbedringsrunder på funnene og var primær feilsøker.",
+          "Ledet en intern workshop for økonomi- og helseøkonomikolleger om prosesskartlegging, datamodellering, ytelse og datakvalitet, og underviste tekniske kolleger i Power BI og semantisk modellering på tvers av organisasjoner.",
+          "Er registrert som superbruker for kunstig intelligens og svarer på tekniske henvendelser i en Teams-kanal; arbeider etter en fast arbeidsflyt der KI får avgrensede oppgaver mot definert kilderekkefølge, med krav om tester og avstemming og et menneskelig beslutningspunkt før konsekvensrike handlinger.",
+          "Vurderte VBA, Office Scripts, Python og KI-assisterte tilnærminger mot kompatibilitet, driftsrisiko og vedlikeholdbarhet i moderniseringen av sykehusets budsjetteringsverktøy, og laget onboarding- og presentasjonsmateriell for controllere.",
+          "Deltok i tidlig tilgang og piloter rundt Fabric, Power Platform, dbt, Pega og Python, og vurderte mulighetene mot konkrete driftsbegrensninger i virksomheten."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP, og lærte VBA fra grunnen gjennom arbeidet; verktøyene ble i perioden kort etter overgangen brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten, dokumenterte arbeidsstegene og forbedret arvede arbeidsbøker med kontroll- og valideringslogikk."
+        ]
+      }
+    ],
+    "tools_line": "Power BI, DAX, Power Query og SQL; Excel/VBA; Microsoft 365 (Loop, Forms, Teams); Fabric, Power Platform, dbt og Pega fra pilot og tidlig tilgang; prosjektavhengig R og Python."
+  },
+  "letter": {
+    "opening": "En veiledning hjelper lite hvis brukeren ikke finner svaret når arbeidet stopper opp. EIE kombinerer boligmegling med næringsmegling, nybygg og advokattjenester. Det gjør det viktig å undersøke hvilken oppgave brukeren skal løse, fremfor å anta at samme forklaring passer alle. Min vei inn i dette arbeidet er økonomi og IT: å forstå fagpersonens behov, finne feilen og gjøre løsningen mulig å bruke videre.",
+    "body_paragraphs": [
+      "I arbeidet med en styrings-BI-løsning undersøkte jeg brukeropplevelsen gjennom veiledede tester. Jeg så hvor faktiske brukere ble forvirret, samlet tilbakemeldinger og fulgte opp med målrettede forbedringsrunder. Det ga konkrete observasjoner å arbeide ut fra, fremfor å ta min egen forståelse av systemet som mål på hvor forståelig det var. I en intern workshop for økonomikolleger koblet jeg prosesskartlegging til datamodellering og datakvalitet. I samarbeid med en annen organisasjons rapporteringsmiljø underviste jeg tekniske kolleger i modellering og optimalisering, og bidro vesentlig til den første komponenten i en driftsrapport. Detaljnivået i materiellet tilpasser jeg mottakeren: den som skal vedlikeholde en modell, trenger noe annet enn den som skal bruke svaret i sitt daglige arbeid.",
+      "Den samme vurderingen av bruk og ansvar ligger bak KI-arbeidsformen min. I superbrukerrollen svarer jeg på tekniske spørsmål i en Teams-kanal. I eget arbeid avgrenser jeg oppgaven, angir hvilke kilder som skal veie tyngst og kontrollerer resultatet før det går videre. Konsekvensrike handlinger beholder et menneskelig beslutningspunkt. I arbeidet med sykehusets budsjettverktøy vurderte jeg teknologialternativer opp mot kompatibilitet, risiko og vedlikehold, og laget materiell for controllerne som skulle bruke verktøyet. En ny mulighet må kunne beskrives som en konkret oppgave brukeren kan utføre og kontrollere. Core og EIE 365 er systemene jeg skal inn i, og selve systemkunnskapen tilegner jeg meg raskt. Tregere går det å finne ut hvor en bruker faktisk står fast, og nettopp det arbeidet kommer jeg fra."
+    ],
+    "closing": "Et første steg hos dere ville være å følge noen konkrete meglerhenvendelser fra spørsmål til løsning og bruke dem til å velge hva som bør forklares bedre, testes med brukerne eller tas videre med Brokio."
+  },
+  "used_evidence_refs": [
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+  ],
+  "writer_note": "Ingen evidens utenfor briefen er hentet inn. Åpningen og avslutningen står uendret, så klyngens PROBLEM- og NEXT_STEP-grep er intakt. Tre av fire keystones er beholdt ordrett; K3 er ført tilbake til briefens egen NAME_ONCE-ordlyd. Ingen omtale av eiendomsmegling, Core eller EIE 365 ut over den ene NAME_ONCE-setningen, i tråd med briefens felle 4.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-18",
+    "finalized_at": "2026-09-18T08:54:37Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "eie_systemkoordinator",
+    "employer": "EIE eiendomsmegling",
+    "title": "Systemkoordinator",
+    "evidence_fingerprint": "fa08772b5caffb7034398e8b917d808b6bef0036117c57369372a54e9c7a6920",
+    "policy_fingerprint": "778d968544107da89d0199041d7dfd3a90cef53fc7d98fbe87a9af775ce5cd73",
+    "inputs": {
+      "scout": "8419e988670fcc304cd2bd1f4d5cfb5ec9b9b3694381a402469801b4d3c806f6",
+      "brief": "f8ab83eaae104810040b1d6775ac038c6c14688f4fb1a3d23d45f49ec17acad2",
+      "cv_draft": "93792fb945f94474f724639ead4d8e01b99a2f7962e1f3889ae6c4efcff210f2",
+      "advocacy_draft": "7986c02e7929e365d38b4b20825c9cfe6759ea2e11cc9a88485977a4c1fffb4e",
+      "polish": "f79225e38dffa537b81fd2bc1788977bbe2b7f847df343c56522bb3b314c6d31"
+    }
+  }
+}

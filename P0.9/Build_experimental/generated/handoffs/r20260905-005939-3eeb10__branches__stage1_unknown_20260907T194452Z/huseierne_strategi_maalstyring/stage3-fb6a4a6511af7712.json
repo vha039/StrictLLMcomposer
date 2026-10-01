@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260905-005939-3eeb10/branches/stage1_unknown_20260907T194452Z",
+  "job_id": "huseierne_strategi_maalstyring",
+  "employer": "Huseiernes Landsforbund",
+  "title": "Strategi- og målstyringsrådgiver",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "33b21655f660234ca0f5a4c4d7ed0f49c7c75cca057efc01b4c5a2cf9c09045c",
+  "upstream": {
+    "strategy_sha256": "c7dcd8e56939a7c00d6f4a4455250251853feaa8cca94f8d6061566a0ff17eb6"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

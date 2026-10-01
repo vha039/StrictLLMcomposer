@@ -1,0 +1,68 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver | Innføring av nye løsninger og gevinstarbeid",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver i økonomi og IKT ved Oslo universitetssykehus siden 2023. Arbeider der økonomiprosesser, teknologi og brukere møtes, med endringer som skal fungere i drift og tas i bruk av andre. Var i praksis eneste kodende utvikler da sykehusets budsjetteringsverktøy ble modernisert, og verktøyet ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027. Var én av fire som videreutviklet sykehusets rammeverk for gevinstrealisering, som ble innført som sykehusdekkende standard. Registrert KI-superbruker ved OUS og bruker menneskestyrte KI-arbeidsflyter med tester og kontrollpunkter i eget utviklingsarbeid.",
+    "competencies": [
+      "Innføring og forankring: onboarding, workshops og kompetanseoverføring",
+      "Gevinstrealisering og transparente beslutningsmodeller",
+      "Digitalisering og forbedring av økonomi- og styringsprosesser",
+      "Kontrollert gjennomføring: akseptansekriterier, risikoregister og differansekontroll",
+      "Strukturering av uklare behov til avgrensede leveranser",
+      "Smidige arbeidsstrukturer: Scrum/Kanban, oppgavehierarki og WIP",
+      "Menneskestyrt KI-støttet arbeid med tester og etterprøvbar overlevering",
+      "Power BI, Excel/VBA, SQL og R/Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Moderniserte sykehusets om lag 20 år gamle budsjetteringsverktøy i Excel/VBA slik at ansatt-, ansettelses- og bemanningsdata ble integrert i verktøyet i stedet for å kopieres manuelt fra en annen arbeidsbok. I praksis eneste kodende utvikler i en bred prosess med om lag 50 deltakere; laget onboarding- og presentasjonsmateriell for controllere. Brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Én av fire som videreutviklet sykehusets metodikk for gevinstrealisering og estimering på oppdrag fra ledelsen, med bidrag til forskningssyntese, metode, økonomisk analyse og styring. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Utformet en vektet modell for fordeling av gevinster fra steril logistikk per klinikk: fem arbeidsbøker med synlige, justerbare forutsetninger og kontroller for umappede rader og skjemaavvik. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Hovedutvikler for backend i et nytt styringsdashbord bygget fra et bredt og lett spesifisert oppdrag. Gjennomførte observerte tester med faktiske brukere og fokuserte forbedringssprinter, og var eier av løsningen og den månedlige driften fra om lag august 2025 til avviklingen rundt februar 2026.",
+          "Deltok i firepersoners etableringsgruppe for Analyseavdelingen; utformet alternativer for teamstruktur, ansvar og avhengigheter, praktiske Scrum/Kanban-, oppgave- og WIP-strukturer, og planla og fasiliterte workshops.",
+          "Lærte opp teknisk personell i en annen rapporteringsorganisasjon i Power BI og semantisk modellering gjennom flere arbeidsmøter, og ledet en intern BI-workshop for økonomkolleger.",
+          "Registrert KI-superbruker ved OUS i om lag tre år, med teknisk bistand i en Teams-kanal. Etablerte en fast arbeidsstruktur for kodeagenter i et prognoseprosjekt under utvikling, med prosjektinstruksjoner, tester, overleveringslogger og menneskelig gjennomgang av bidrag fra kollega og KI."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, fra arbeid som ble kvalitetssikret av andre til selvstendig gjennomføring, kvalitetssikring og månedsrapportering til ledere i klinikken.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til REGERP. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen.",
+          "Bidro i budsjettprosessen for 2024, i prosjektøkonomi og i oversettelse av tiltakslogikk til budsjett- og styringsspråk."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg er samfunnsøkonom og har siden 2023 vært rådgiver i økonomi og IKT ved Oslo universitetssykehus, først i staben ved Barne- og ungdomsklinikken og nå i Analyseavdelingen i Direktørens stab. Jobben min har ligget mellom økonomiprosessene, systemene og menneskene som bruker dem. Jeg søker stillingen fordi jeg vil arbeide mer med innføringen av nye løsninger, ikke bare med leveransen av dem.",
+    "body_paragraphs": [
+      "Sykehusets budsjetteringsverktøy er et om lag 20 år gammelt Excel/VBA-verktøy. I moderniseringen for 2025 skulle bemanningsdata bygges inn, slik at de ikke lenger måtte kopieres manuelt fra en annen arbeidsbok. Om lag 50 personer deltok i arbeidsgrupper og kravdiskusjoner, og jeg var i praksis den eneste som endret koden. Jeg anbefalte en bredere omstrukturering. Gjennomføringslederen ville ha en smal refaktorering, funksjon for funksjon, og det var den jeg gjennomførte, med differansekontroll, akseptansekriterier og risikoregister for å bevare det som allerede virket. Jeg laget også onboarding for controllerne. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026. I 2027-runden hadde jeg vesentlig større frihet, og den versjonen er nå i bruk i den pågående budsjettprosessen. Jeg regner med at mye av arbeidet i kundeoppdrag foregår på samme måte: innenfor rammer kunden eier, og uten at driften kan stoppe.",
+      "Dere skriver at investeringene skal gi faktisk verdi. Analyseavdelingens første større prosjekt var å forbedre sykehusets metodikk for gevinstrealisering og estimering, på oppdrag fra ledelsen. Vi var fire som utviklet rammeverket, og jeg bidro med forskningssyntese, metode, økonomisk analyse og styring. Det ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere. I et annet oppdrag skulle gevinster fra steril logistikk fordeles per klinikk, men de direkte bruksdataene bar ikke en forsvarlig fordeling. I stedet for å gi tallene en presisjon de ikke hadde, utformet jeg en vektet modell med synlige forutsetninger, bevisst uten kjerne-VBA, slik at controllerne selv skulle kunne inspisere og justere dem. Modellen ble ferdigstilt og overlevert til controllerne tidlig i 2026.",
+      "Som registrert KI-superbruker ved OUS har jeg i om lag tre år svart på tekniske henvendelser i en Teams-kanal. I et prognoseprosjekt som fortsatt er under utvikling, har jeg etablert en fast arbeidsstruktur for kodeagenter med prosjektinstruksjoner, tester og overleveringslogger. Agentene får avgrensede oppgaver, jeg går gjennom bidrag fra både kollega og KI før de tas inn, og der konsekvensene er store, ligger beslutningen hos et menneske. Den avklaringen, hvilke oppgaver som kan delegeres og hvor kontrollen må ligge, vil jeg ta med inn når kunder skal bruke KI i egne arbeidsprosesser.",
+      "Til nå har jeg gjort dette fra innsiden av én stor virksomhet, med ledere i klinikken, controllere og økonomirådgivere i flere klinikker som mottakere. Hos dere vil jeg bruke den samme arbeidsformen hos flere virksomheter, i et fagmiljø der endringsledelse er hovedfaget. Jeg kan bidra med struktur når behovet er bredt og uklart, med kontroll i overgangen fra gammel til ny løsning, og med gevinstlogikk der forutsetningene er synlige for dem som skal eie resultatet."
+    ],
+    "closing": "Jeg forteller gjerne mer om dette i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:WORK#053-10-1-eksplisitt-forbudt",
+    "EV:OTHER#005-0-3-ufravikelige-claim-kontroller",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#029-4-5-ki-grenser",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Brevet bygger én bærende enhet på budsjetteringsverktøyet (innføring under rammer andre eier, 2026- og 2027-bruk) og én på gevinstarbeid der rammeverket (fire personer, standard, 2,5 år) og STE-modellen (ferdigstilt og overlevert, bruk uavklart) står side om side med hver sin status. KI er et kort separat bevis. Femårskravet håndteres kun gjennom kronologi og presise verb. 2027-frihet er nevnt uten årsakskobling."
+}

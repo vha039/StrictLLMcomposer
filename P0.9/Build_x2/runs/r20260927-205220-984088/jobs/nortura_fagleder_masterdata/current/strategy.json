@@ -1,0 +1,382 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": false,
+  "employer_decision_problem": "Nortura trenger faglig forvaltning av pris-, kunde- og leverandørdata i SAP, med korrekte priskondisjoner, fakturering, standarder og forbedring av innlesings-, rekalkulerings- og robotløsninger. Rollen skal kombinere fagansvar, konkret systemutvikling og samhandling med salg, økonomi, IT og leverandører. Kandidatens nærliggende bevis gjelder økonomidata, koding/konvertering og datakontroller i sykehus; SAP-prising og masterdataeierskap er ikke dokumentert.",
+  "selection_logic": "Bygg en nøktern økonomi-/systemforbedringsrute: egeninitierte REGERP-konverterings- og valideringsverktøy viser grunnlagsdata i en faktisk ERP-overgang; budsjettverktøyets bemanningsintegrasjon viser forvaltning og modernisering under driftskrav; semantisk modell og kontroll viser datakvalitet. Disse er overførbare arbeidsmåter, men må ikke fremstilles som SAP, prisprosedyrer eller Business Partner-kompetanse.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver innen økonomi og IKT med praktisk erfaring fra datakontroll, systemforbedring og økonomiprosesser.",
+  "headline_hypothesis": "Rådgiver innen økonomidata og systemforbedring",
+  "shortlist_thesis": "Kandidaten har selv bygget og fått brukt datakonverteringsverktøy på tvers av klinikker, og gjennomført kodeendringer i et kritisk økonomisystem som ble tatt i bruk sykehusdekkende. Han kan bidra med kontroll, dokumentasjon og forbedring av grunnlagsdata i Norturas arbeidsflyt. Han kan ikke dokumentere den direkte SAP-pris-/Business Partner-praksisen som utlysningen særlig etterspør.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Relevant høyere utdanning i økonomi, logistikk/supply chain, IT/informasjonssystemer eller industriell økonomi, alternativt solid erfaring.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach"
+      ],
+      "note": "Fullført økonomiutdanning dekker et oppgitt alternativ; ingen logistikk- eller IT-grad påstås."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "God forståelse for masterdata, datakvalitet og forretningsprosesser.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Datakvalitet, nøkler, definisjoner og økonomiprosesser er praktisk dokumentert. Formell masterdataforvaltning for pris/kunde/leverandør er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Erfaring med SAP, gjerne pris-, kunde- eller leverandørprosesser eller tilsvarende prosesser.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "REGERP-/ADI-prosessnær datakonvertering er en begrenset ERP-parallell. Ingen SAP, priskondisjoner eller Business Partner-masterdata er dokumentert; et mulig krav kan ikke erklæres oppfylt via parallellen."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Faglig ansvar for SAP Business Partner og prisprosedyre, standardisering og kvalitetskontroll.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Kandidatens hovedkoding i økonomiverktøy viser systemforvaltning på annet område, ikke SAP-fagansvar."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Etablere og videreutvikle prisløsninger i SAP med nøkler, kondisjoner, logikk og prioritet for pris/rabatt.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [],
+      "note": "Ingen dokumentert pris-/rabattlogikk eller SAP-konfigurasjon. Hold gapet synlig i review."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Eie og bidra i utviklingsprosjekter innen pris, inkludert innlesing, rekalkulering og robotløsninger.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Bygget innlesings-/konverterings- og valideringsverktøy, og gjennomførte vesentlig systemmodernisering; ikke prisprosjekteier eller robotisering i SAP."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Redusere manuelt arbeid med bedre datakvalitet, automatisert validering og kontroll.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Konkret konverteringsverktøy, modernisering og datakontroll; ingen godkjent tids-/feilreduksjonsmåling."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Digitalisere og modernisere dagens verktøy og prosesser for pris, kunde og leverandør.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#041-6-6-digitalisering-og-prosessforbedring"
+      ],
+      "note": "Tung praktisk modernisering av økonomiverktøy, men annet domene og ingen pris-/kunde-/leverandørforvaltning."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Råd til forretningen om prismodeller, kondisjoner og salgsprosesser.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit"
+      ],
+      "note": "Økonomisk akademisk grunnlag i markeder og prising kan støtte læring, men er ikke profesjonell rådgivning om Nortura-lignende pris- og avtalestrukturer."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Dokumentere prosesser og regelverk.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "note": "Direkte dokumentasjon, akseptkriterier og kontroll i økonomisystemarbeid; ikke dokumentasjon av Norturas SAP-regelverk."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Samarbeid med salg, økonomi, IT/konsern og eksterne leverandører.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Økonomi-, IT-/data- og tverrorganisatorisk samarbeid er dokumentert; ikke salgs- eller eksternt leverandøransvar i disse prosjektene."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Erfaring med forbedringsarbeid, digitalisering eller systemutvikling.",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Systemutvikling og forbedring er direkte; behold presist hvilket system og personlig bidrag."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Analysere komplekse problemstillinger og omsette dem til praktiske løsninger.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Transparent proxy ved ufullstendige data og gjennomført verktøyendring er to forskjellige konkrete bevis."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "God muntlig og skriftlig kommunikasjon på norsk og engelsk.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Norsk morsmål, engelsk flytende; dokumentert leder-/controllerrettet materiale og faglig opplæring."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Faglig gjennomslag, selvstendig forbedringsinitiativ og datadrevne kvalitetsvalg.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Egeninitiert konverteringsverktøy, hovedkoding i bred prosess og avvisning av falsk direktefordeling; ikke formell fagledelse."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "role": "Første bærende bevis: egenutviklet datakonvertering og kontroll ved ERP-overgang, med faktisk bruk av økonomirådgivere på tvers av klinikker.",
+      "claim_ceiling": "Bygget på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings-/bilagslinjer til REGERP-format; relativt hyppig brukt av økonomirådgivere i flere klinikker kort etter overgangen. Ikke sentral ERP-løsning, SAP eller målt besparelse.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Andre bærende bevis: kontrollert forvaltning og modernisering av virksomhetskritisk økonomiverktøy, inklusive dataintegrasjon og intern innføring.",
+      "claim_ceiling": "Rekonstruerte arvet Excel/VBA-arkitektur og var i praksis eneste kodende utvikler for 2025-endringene i bred interessentprosess; integrerte ansatt-/bemanningsdata og forbedret kontroll. Modernisert versjon brukt sykehusdekkende i budsjettprosessene for 2026 og 2027; ikke opprinnelig skaper, budsjetteier eller SAP-spesialist.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "role": "Underbygge nøkler, dimensjoner, datakvalitet og modellering av grunnlagsdata i CV.",
+      "claim_ceiling": "Utformet nesten hele semantiske modellen og mesteparten av ETL/M i teamets styrings-BI med schema-/typekontroller. Driftet og brukertestet, senere avviklet rundt februar 2026; ikke formell masterdataforvalter.",
+      "lifecycle": "DECOMMISSIONED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Gi et kort, diagnostisk kvalitetsvalg: synlige forutsetninger når direkte bruksdata mangler.",
+      "claim_ceiling": "Avviste direktefordeling uten tilstrekkelige data og designet transparent vektet proxy-modell med valideringskontroller; ferdigstilt og overlevert controllere tidlig i 2026. Ingen dokumentert organisatorisk bruk eller realisert gevinst.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "role": "Vise kraveierskap, arbeidsprosess og praktisk koordinering uten formell masterdatafagledelse.",
+      "claim_ceiling": "Utformet prosjektinntak, krav- og arbeidsstrukturer og bidro i en firepersoners avdelings etablering; noe innført og noe foreslått, uten linje- eller SAP-fagansvar."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "role": "Dokumentere kompetanseoverføring og samarbeid mellom økonomi-/tekniske mottakere.",
+      "claim_ceiling": "Ga teknisk modellveiledning i flere møter på tvers av organisasjonsmiljøer og bidro til tidlig rapportkomponent; eksakt rapportstatus og mottakeromfang er uavklart."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+        "EV:WORK#038-6-3-data-engineering-og-integrasjon"
+      ],
+      "role": "Gi konkret datakvalitet, schema, avstemming og sporbarhet som understøtter forbedringsruten.",
+      "claim_ceiling": "Prosjektbasert kildehierarki, schema-/nøkkelkontroll, avstemming og endringskontroll; ingen formelt konserndatastyringsmandat."
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+        "EV:OTHER#032-5-1-sprak"
+      ],
+      "role": "Formalkrav og språk i CV, med korrekt studiestatus.",
+      "claim_ceiling": "Fullført økonomimaster og -bachelor, pågående KI-program, norsk morsmål og engelsk flytende. Ingen SAP- eller IT-grad kan utledes.",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIB_ECON",
+        "BL:EDU_UIA_AI"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+        "EV:OTHER#033-5-2-tillitsverv"
+      ],
+      "role": "Bevare eldre CV-kronologi og relevant økonomisk tillit som sekundær bredde.",
+      "claim_ceiling": "TKS Heis, Ahlsell, Luftforsvaret og Sector Alarm; valgte studentboligverv. Ingen profesjonell personalledelse.",
+      "baseline_refs": [
+        "BL:EMP_TKS_HEIS",
+        "BL:EMP_AHLSELL",
+        "BL:EMP_LUFTFORSVARET",
+        "BL:EMP_SECTOR_ALARM",
+        "BL:SEC_OTHER_TRUST"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Nortura etterspør SAP Business Partner- og prisprosesspraksis som kandidaten ikke har dokumentert.",
+      "reframe": "Løft ERP-nær datakonvertering, schema-/nøkkellogikk og økonomiverktøymodernisering som konkret overførbar evne.",
+      "honesty_note": "Ingen SAP, prisprosedyre, kondisjonsoppsett eller rabattsystemer skal antydes."
+    },
+    {
+      "objection": "Faglederrollen omfatter eierskap til prisområdets forvaltning og prosjekter.",
+      "reframe": "Beskriv egen utvikling, faktisk bruk og funksjonell koordinering med riktig mandat; la arbeidsgiver vurdere ledelsesoverføringen.",
+      "honesty_note": "Ikke kall tidligere arbeid formell masterdataforvaltning eller prisprosjekteierskap."
+    },
+    {
+      "objection": "Kunde-/leverandør- og salgsprosesser er lite dokumentert.",
+      "reframe": "Behold økonomi-/datakvalitetsruten smal, med tidligere kundekontakt kun som CV-kronologi dersom nyttig.",
+      "honesty_note": "Sector Alarm/Ahlsell beviser ikke masterdata eller prisavtaler."
+    }
+  ],
+  "motivation_bridge": "Norturas pris- og Business Partner-data påvirker korrekt prising, fakturering og analyse. Kandidatens motivasjon kan knyttes til å få økonomiske grunnlagsdata, kontroller og systemløsninger til å fungere i praktiske prosesser, slik han har gjort i sykehusets økonomiflyt. Koblingen er data- og prosessarbeidsmåten, ikke bransje- eller SAP-erfaring.",
+  "cv_draft": {
+    "headline": "Rådgiver innen økonomidata og systemforbedring",
+    "profile": "Samfunnsøkonom med mastergrad og praktisk erfaring fra økonomi- og IKT-arbeid ved Oslo universitetssykehus. Har selv bygget datakonverterings- og valideringsverktøy som økonomirådgivere i flere klinikker tok i bruk, og gjennomført kodeendringer i et sykehusdekkende budsjetteringsverktøy. Arbeider med å gjøre grunnlagsdata, regler og kontrollpunkter forståelige og robuste i økonomiske arbeidsprosesser.",
+    "competencies": [
+      "Datakvalitet og validering",
+      "Økonomiprosesser og grunnlagsdata",
+      "Excel/VBA og Power Query",
+      "Systemmodernisering og automatisering",
+      "Datamodeller, nøkler og schema",
+      "Dokumentasjon og overlevering"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Rekonstruerte arkitekturen i et arvet budsjetteringsverktøy og gjennomførte kodeendringene for integrert ansatt- og bemanningsgrunnlag, med differansekontroll, validering og dokumentasjon. Modernisert verktøy brukes sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Utformet nesten hele den semantiske modellen og mesteparten av datatransformasjonen i et firepersoners styrings-BI-prosjekt, med nøkler, relasjoner og kvalitetskontroller. Løsningen ble senere avviklet.",
+          "Utformet en modell med synlige forutsetninger og vekter der direkte data ikke ga grunnlag for å fordele forventet gevinst. Ferdigstilt og overlevert controllere tidlig i 2026.",
+          "Har bidratt til kraveavklaring, arbeidsstruktur og teknisk veiledning på tvers av økonomi- og rapporteringsmiljøer."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Bygget på eget initiativ Excel/VBA-verktøy for konvertering og validering av gamle konteringslinjer ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker.",
+          "Overtok egen tildelt månedsoppgjørsflyt med avstemming, kvalitetssikring og rapportering til klinikkledere; bidro også i budsjett og prosjektøkonomi."
+        ]
+      }
+    ]
+  },
+  "application_direction": {
+    "backbone": "Praktisk økonomidataforbedring: konvertering/validering med faktisk bruk, kontrollert systemmodernisering og modeller som holder regler og forutsetninger synlige.",
+    "top_employer_problems": [
+      "Pris-, kunde- og leverandørdata må være korrekte nok for fakturering og analyse.",
+      "Manuelle løsninger og svak dokumentasjon skal erstattes av mer kontrollerbare arbeidsmåter."
+    ],
+    "structure_guidance": "Søknadsfortolkningen bør ta REGERP-verktøyets konkrete dataflyt og bruk som første bevis, budsjettverktøyet som bevis på systemmodernisering, og deretter begrunne relevans for Norturas datakvalitet. Ikke skriv som om kandidaten allerede kan SAPs priskondisjoner."
+  },
+  "avoid_guidance": [
+    "Ikke sidestill REGERP med SAP eller bilags-/konteringsdata med Business Partner- og pris-masterdata.",
+    "Ikke overfør sykehusdekkende bruk av budsjettverktøyet til formell fagledelse over økonomidata.",
+    "Ikke bruk kandidatens økonomiutdanning som bevis for profesjonell rådgivning om Norturas prismodeller."
+  ],
+  "counterfactual_route": null,
+  "risk_notes": [
+    "Fagleder Masterdata er en sterkt domene- og SAP-spesifikk rolle; den valgte overføringsruten etterlater et materielt gap.",
+    "AI-genererte FINN-ferdigheter, blant annet SAP ECC, er plattformtekst og ikke selvstendige arbeidsgiverkrav."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-11",
+      "plain_language_label": "Bygger verktøy som forenkler faktisk arbeid",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "vacancy_relevance": "Nortura vil redusere manuelle steg og forbedre datakvalitet i løpende prosesser.",
+      "intended_employer_interpretation": "Kan oppdage svak dataflyt og bygge brukbare kontroller i produksjonsnære økonomiprosesser.",
+      "expression_ceiling": "Egenutviklede REGERP-verktøy brukt i flere klinikker og hovedkoding av budsjettmodernisering; ingen SAP-robotisering eller målt effektivisering.",
+      "expression_guardrail": "Fremhev konkret bruker og kontrollformål framfor generell innovasjonsretorikk.",
+      "misread_risk": "Kan oppfattes som teknisk problemløser uten forståelse for prisdomenet."
+    },
+    {
+      "facet_id": "PF-12",
+      "plain_language_label": "Gjør datagrunnlag og kontroll synlig",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "vacancy_relevance": "Riktig masterdata krever sporbare nøkler, regler og unntak.",
+      "intended_employer_interpretation": "Kan skille pålitelige data fra antakelser og gjøre validering etterprøvbar.",
+      "expression_ceiling": "Prosjektbasert modellering og kontroll av økonomi-/analysegrunnlag, ikke konsernansvar for masterdata.",
+      "expression_guardrail": "Koble kontrollene til praktisk bruk og vedlikehold.",
+      "misread_risk": "Kan virke metodetung uten SAP-domeneerfaring."
+    }
+  ],
+  "requires_source_inspection_observed": false,
+  "writer_guidance": "Bruk begrepet fagleder bare om Norturas rolle, ikke kandidatens tidligere stilling. REGERP-beviset har sterk personlig eierskap og bruk, men det dokumenterer ikke SAP. PRJ-03 kan vise bredere systemforbedring og sykehusdekkende budsjettbruk, mens PRJ-01 kan ligge i CV for data-/modellkompetanse.",
+  "binding": {
+    "run_id": "r20260927-205220-984088",
+    "job_id": "nortura_fagleder_masterdata",
+    "employer": "Nortura",
+    "title": "Fagleder Masterdata",
+    "manifest_sha256": "54bb9727cb0c930dfbaa7607edba818bc4e965582ec746e39173cb9cab27bd8b",
+    "vacancy_sha256": "107350e438b9afecae3d73dc17f7728997110fef0ece2b1326bdda04fae936a1",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "c4ceabaa82370cff63b9ea71f5ba3ce7549ecf95623d1baf6f6ee01090beb3b8"
+  }
+}

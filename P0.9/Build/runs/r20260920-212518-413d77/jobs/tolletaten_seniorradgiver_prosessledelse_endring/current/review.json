@@ -1,0 +1,38 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken svarer på Tolletatens gjennomføringsproblem med to bærende bevis: kontrollert modernisering av et virksomhetskritisk verktøy i sykehusdekkende bruk, og et medutviklet gevinstrealiseringsrammeverk innført som sykehusstandard. Ingen kjent faktabekreftelse eller lokal reparasjon gjenstår.",
+      "recommended_action": "Les gjennom og send pakken som den står.",
+      "priority": 1
+    },
+    {
+      "reason": "Formelt mandat er holdt nede med vilje: teksten beskriver funksjonell prosessledelse gjennom konkrete handlinger og bruker ikke programleder-, endringsleder- eller prosesseiertittel.",
+      "recommended_action": "Ikke styrk mandatspråket ved gjennomlesing; kildene bærer det ikke.",
+      "priority": 2
+    },
+    {
+      "reason": "Kvantifisert effekt av moderniseringen finnes ikke i kildene, og brevet sier dette eksplisitt i stedet for å antyde besparelser.",
+      "recommended_action": "Behold setningen om manglende målinger dersom teksten justeres.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Erfaring med å fasilitere prosesser mot næringsliv, andre sektormyndigheter og EU er ikke dokumentert. Pakken hevder ikke slik erfaring, men dette er et reelt gap mot aktørbildet annonsen beskriver.",
+    "Ingen formell rolle som program-, prosjekt- eller endringsleder. Erfaringen er funksjonell prosessledelse uten linje- eller programmyndighet.",
+    "Politiattest er et vilkår for tiltredelse. Atteststatus er ikke dokumentert i kandidatgrunnlaget og må bekreftes av kandidaten selv.",
+    "Det foreligger ingen godkjente målinger av tid, feil eller økonomisk effekt fra moderniseringen; bare leveranse og bruk er dokumentert."
+  ],
+  "material_strategy_change": "Ingen ruteendring. Innenfor hovedruten er arbeidsmodell- og inntaksevidensen løftet fra ren adferdsillustrasjon til et kort, selvstendig avsnitt om arbeidsform, fordi annonsen etterspør nettopp avklaring av aktører, avhengigheter og beslutningsbehov. Den dokumenterte avveiningen mellom smal og bred omstrukturering er tatt inn som faglig skjønn; strategien pekte ikke på den.",
+  "upstream_claim_repaired": "Strategien beskrev bidraget som hoveddelen av kodeendringene. Arbeidsmyndigheten og den godkjente måltallstabellen sier i praksis eneste kodende utvikler for kodeendringene i 2025-moderniseringen, bekreftet 2026-09-06, med den brede interessentprosessen bevart. Understatementet er rettet i CV og brev, uten å utvide til eierskap over hele moderniseringen eller budsjettprosessen. Samme retning: strategien nevnte ikke at 2027-moderniseringen er ferdigstilt og i sykehusdekkende bruk; det er tatt med.",
+  "notes": [
+    "Alle materielle krav merket SUPPORTED i strategien er besvart i minst ett av dokumentene.",
+    "Om lag 50 deltakere er brukt som prosesskontekst, ikke som team eller personalansvar."
+  ],
+  "binding": {
+    "run_id": "r20260920-212518-413d77",
+    "job_id": "tolletaten_seniorradgiver_prosessledelse_endring",
+    "final_package_sha256": "5a366ec1f2974a3655490ef305a413401daf41b6e361002a9eadf265baf87729"
+  }
+}

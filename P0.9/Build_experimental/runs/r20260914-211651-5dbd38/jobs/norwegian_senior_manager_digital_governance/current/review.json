@@ -1,0 +1,37 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Pakken bruker annonsens alternative erfaringsinngang (rådgivning, transformasjon og operativ gjennomføring i en regulert virksomhet) med kildestøttede case for løst definerte saker, kontrollert implementering, ledelsesrapportering og strukturert arbeidsinntak. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning. Søknadsfristen er «Snarest», og søknaden må sendes via Norwegians rekrutteringssystem."
+    },
+    {
+      "priority": 2,
+      "reason": "Regulatorisk hendelseshåndtering, dokumentasjon og oppfølging mot myndigheter og erfaring med GDPR, NIS2/Digitalsikkerhetsloven, EU AI Act, tredjepartsstyring og EASA Part-IS er ikke dokumentert. Pakken antyder ikke slik erfaring og posisjonerer kandidaten som operativ bro til spesialistene.",
+      "recommended_action": "Ingen redigering. Forbered et intervjusvar om hvordan regelverksfaglig forståelse vil bygges opp i rollen."
+    },
+    {
+      "priority": 3,
+      "reason": "Stillingen er på Senior Manager-nivå og ber om solid erfaring; relevant erfaring er fra mars 2023 og uten formell ledelses- eller eskaleringsrolle.",
+      "recommended_action": "Ingen redigering. Vurder nivåspranget i godkjenningen."
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert erfaring med navngitte digitale regelverk, compliance eller KI-styring; KI-erfaringen er praktisk og menneskestyrt arbeidsbruk, ikke styringsansvar.",
+    "Ingen dokumentert regulatorisk hendelseshåndtering, myndighetskontakt eller konsernomfattende eskaleringsrolle.",
+    "Relevant erfaring er om lag tre og et halvt år (OUS fra mars 2023) mot en Senior Manager-rolle; ingen internasjonal konsernerfaring.",
+    "Pakken er på bokmål etter fryst kjernedoktrine; arbeidsspråk er engelsk og norsk, og en engelsk versjon er ikke produsert."
+  ],
+  "material_strategy_change": "STE-modellens avveining ble gjort til første bærende case i brevet i stedet for valgfritt skjønnsbevis, fordi den svarer direkte på løst definerte saker, etterprøvbarhet og mindre avhengighet av enkeltpersoner. Gevinstmetodikken ble flyttet til CV-en. Arbeidsinntaksskjemaene og KI-superbrukerrollen, som ikke lå i strategiens evidensplan, ble lagt til som bro til strukturerte vurderinger og praktisk KI-kontroll, og etableringsgruppen brukes som motivasjonsgrunnlag.",
+  "upstream_claim_repaired": "Strategiens shortlist-tese sa at kandidaten «har modernisert» budsjetteringsverktøyet, noe som tilskriver ham hele moderniseringen. Final sier i stedet at han i praksis var eneste som endret koden i en prosess med om lag 50 involverte, under implementeringsleders føringer.",
+  "notes": [
+    "Søknadsfrist oppgitt som «Snarest»."
+  ],
+  "binding": {
+    "run_id": "r20260914-211651-5dbd38",
+    "job_id": "norwegian_senior_manager_digital_governance",
+    "final_package_sha256": "7d373d5bef26f1ed99ff892a415a1c001ab9b8651c1cbb010178f32ab12475d9"
+  }
+}

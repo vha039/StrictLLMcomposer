@@ -1,0 +1,180 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "binding": {
+    "run_id": "r20260923-094441-70d741",
+    "job_id": "testetaten_radgiver",
+    "employer": "Testetaten HF",
+    "title": "Rådgiver økonomi og analyse",
+    "manifest_sha256": "3a98b7ecfcbe0b560e49e0338a64367bb590da4465916c9db8bb680fb9d404e9",
+    "vacancy_sha256": "3c3866e5621a37844ab77820561b759fd8afa7806c2c00e826f58f1c622196bf",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "6d85e3b1ac702e6d24df928844aed34f213e2206ff5f09bdc63e7a7f33866e62"
+  },
+  "employer_decision_problem": "Avdelingen har store datamengder, men for lite anvendbar beslutningsstøtte for økonomi, aktivitet og bemanning.",
+  "selection_logic": "De vil se dokumentert evne til å omsette uklare behov fra ledere til etterprøvbare rapporter, ikke verktøybredde alene.",
+  "primary_candidate_identity": "Rådgiver som bygger beslutningsstøtte i sykehusøkonomi",
+  "headline_hypothesis": "Økonomi · Beslutningsstøtte · IKT",
+  "shortlist_thesis": "Kandidaten har gjort nøyaktig dette arbeidet i en tilsvarende sykehusorganisasjon, med ansvar for både tallgrunnlag og leveranse.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Høyere utdanning innen økonomi, statistikk eller tilsvarende",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#003-0-1-gradskronologi"
+      ]
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Erfaring med rapportering og analyse i større virksomhet",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ]
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Gode ferdigheter i SQL og Power BI",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#004-0-2-ous-kjerne"
+      ]
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Bidra i budsjett- og prognosearbeid",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ]
+    },
+    {
+      "requirement_id": "R05",
+      "text": "God skriftlig og muntlig framstillingsevne på norsk",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#004-0-2-profesjonell-kjernetese"
+      ]
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Interesse for prosessforbedring og automatisering",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#004-0-2-ous-kjerne"
+      ],
+      "note": "Dokumentert som verktøybygging, ikke som formelt forbedringsmandat."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "role": "Hovedbevis for beslutningsstøtte",
+      "claim_ceiling": "Utvikling og forbedring av beslutningsstøtte; ikke eierskap til plattformdrift eller formelt personalansvar.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "role": "Bevis for tallgrunnlag og avstemming",
+      "claim_ceiling": "Overtok en tildelt månedsoppgjørsflyt etter opplæring; ikke ansvar for hele klinikkens økonomifunksjon.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#003-0-1-gradskronologi"
+      ],
+      "role": "Formell kvalifikasjon",
+      "claim_ceiling": "Fullført mastergrad i samfunnsøkonomi; pågående masterprogram i KI skal omtales som pågående.",
+      "lifecycle": "COMPLETED"
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Erfaringen er fra én arbeidsgiver.",
+      "reframe": "To ulike enheter med ulike behov og ulike leveranser, innenfor samme foretak.",
+      "honesty_note": "Ikke fremstill dette som bredde på tvers av sektorer."
+    }
+  ],
+  "motivation_bridge": "Arbeidet handler om å gjøre tallgrunnlag brukbart for dem som faktisk tar beslutningene. Det er den delen av økonomifaget kandidaten har brukt mest tid på.",
+  "cv_direction": {
+    "headline_direction": "Sett beslutningsstøtte først, verktøy etter.",
+    "emphasis": [
+      "beslutningsstøtte",
+      "datakvalitet og avstemming",
+      "leveranse til ledere"
+    ],
+    "deprioritize": [
+      "tidlige salgs- og vaktroller"
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Kandidaten har bygget den beslutningsstøtten avdelingen mangler.",
+    "top_employer_problems": [
+      "Data finnes, men blir ikke til beslutningsgrunnlag.",
+      "Tallgrunnlaget må kvalitetssikres før det kan brukes."
+    ],
+    "structure_guidance": "Åpne på arbeidsgiverproblemet, ikke på kandidaten."
+  },
+  "avoid_guidance": [
+    "Ikke bruk «brenner for» eller tilsvarende entusiasmefraser.",
+    "Ikke oppgrader funksjonell ledelse til personalansvar.",
+    "Ikke gjør sykehusets skala til personlig effekt.",
+    "Ikke la KI-studiet bli den bærende identiteten."
+  ],
+  "counterfactual_route": null,
+  "risk_notes": [
+    "Rollen kan i praksis være mer controller enn analytiker."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-01",
+      "plain_language_label": "Systems mapping & causal decomposition",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "expression_ceiling": "Beskriv arbeidsmåte gjennom konkrete leveranser; ikke som en påstand om analytisk overlegenhet.",
+      "vacancy_relevance": "Avdelingen beskriver uklare behov som må struktureres.",
+      "intended_employer_interpretation": "En rådgiver som gjør uklare behov til et beslutningsklart grunnlag.",
+      "misread_risk": "Kan leses som analysetung uten gjennomføringsevne.",
+      "expression_guardrail": "Par alltid med en gjennomført leveranse."
+    },
+    {
+      "facet_id": "PF-12",
+      "plain_language_label": "Auditability / source-of-truth orientation",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "expression_ceiling": "Knytt til avstemming og kvalitetssikring som faktisk er dokumentert.",
+      "vacancy_relevance": "Kvalitetssikring av datagrunnlag er en oppgave i utlysningen.",
+      "intended_employer_interpretation": "En som gjør tallene etterprøvbare før de brukes i beslutninger.",
+      "misread_risk": "Kan leses som kontrollorientert framfor beslutningsstøttende."
+    }
+  ],
+  "writer_guidance": "Rolig, presist bokmål. To hovedbevis. Ikke symmetrisk oppbygning.",
+  "requires_source_inspection_observed": false
+}

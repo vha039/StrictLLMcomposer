@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260902-155301-2120b3",
+    "job_id": "huseierne_strategi_maalstyring",
+    "final_package_sha256": "5ff253500c595de68489ae5d4d355b0f87d5d9b08729b1aa95c20b7fff9ffe23",
+    "document_date": "2026-09-02",
+    "baseline_map_sha256": "3f7353e62164f402e2c5edfd1ef4ea5ab24bf4031975fa8e88e8d1ca2776aaff",
+    "cv_master_sha256": "4eab17783800974c516cc4780aa33a3ef7c361af372774436cf95665479f963f",
+    "letter_master_sha256": "3e41cf9667518b3fb37966e581358f538f69be0e6e8f1dd320da9f3509da112c",
+    "template_map_sha256": "a6d6297eb2cd49e924e8edeeccb33259e1ce434775c1bec0cbf27a84ecbbb7eb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+      "output_sha256": "84b52dc41246d17685482e39d3330d8a85cfed871ed35a1418d383980b1cab9b",
+      "bytes": 40065,
+      "promotion": "FORCED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.pdf",
+      "output_sha256": "b32facab8eea9ea35529effa19cb24be9e826191442560907db1d23c8a493e4e",
+      "bytes": 290316,
+      "promotion": "REPLACED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_wb14rugz\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\.rnd.6d38938b\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\.rnd.6d38938b\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+      "output_sha256": "13d240ba6f3028f8d128f061e320c63d01485ac48099884565cbeb9942652cc2",
+      "bytes": 38495,
+      "promotion": "REPLACED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.pdf",
+      "output_sha256": "bcc484b00e2c2ca33ddce66b05e832fe0fdd181eea77db607d02bb2098080b25",
+      "bytes": 190304,
+      "promotion": "REPLACED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_ponblac7\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\.rnd.6d38938b\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\.rnd.6d38938b\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-02T18:42:14Z"
+}

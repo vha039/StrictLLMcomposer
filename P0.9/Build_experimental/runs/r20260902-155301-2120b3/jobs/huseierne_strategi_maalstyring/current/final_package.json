@@ -1,0 +1,72 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver | styringsinformasjon, felles metode og gjennomføring",
+    "profile": "Samfunnsøkonom og rådgiver i økonomi og IKT som arbeider med styringsinformasjon, metodeutvikling og implementering i komplekse organisasjoner. Ved OUS har jeg vært med på å utvikle et gevinstrealiseringsrammeverk som ble sykehusdekkende standard, og jeg har modernisert et virksomhetskritisk budsjettverktøy brukt i budsjettprosessen for 2026. For Huseierne vil jeg bruke denne kombinasjonen til å koble mål og prioriteringer til forståelig oppfølging og arbeidsformer som faktisk tas i bruk.",
+    "competencies": [
+      "Styringsinformasjon og beslutningsgrunnlag",
+      "Felles metode, standardisering og gevinstrealisering",
+      "Økonomi, budsjett og prestasjonsanalyse",
+      "Prioritering, behovsavklaring og fasilitering",
+      "Power BI, semantiske modeller og datakvalitet",
+      "Kontrollert implementering, onboarding og kompetanseoverføring"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utvikler styringsinformasjon og beslutningsstøtte for økonomi, bemanning, aktivitet og kapasitet til ledere, controllere og fagmiljøer.",
+          "Samarbeidet i et firepersonsteam om å videreutvikle et gevinstrealiseringsrammeverk som ble innført som sykehusdekkende standard og var rapportert i bruk om lag 2,5 år senere.",
+          "Rekonstruerte arkitekturen og sto for hoveddelen av kodeendringene da et arvet, virksomhetskritisk budsjettverktøy ble modernisert i en bred interessentprosess. Løsningen integrerte bemanningsdata og ble brukt i sykehusets budsjettprosess for 2026.",
+          "Omsetter uavklarte behov til avgrensede leveranser, kontroller og dokumentasjon, og bidrar med workshops, onboarding og kompetanseoverføring i tverrfaglige oppdrag."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring den tildelte månedsoppgjørsflyten med periodisering, avstemming, kvalitetssikring, resultatforklaring og rapportering til ledere.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP; verktøyene ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Huseierne skal omsette medlemsvekst, nye produkter og større organisatorisk kompleksitet til tydelige prioriteringer og resultater. Jeg søker stillingen fordi den kombinerer det jeg arbeider mest med som samfunnsøkonom og rådgiver i økonomi og IKT: å gjøre krevende styringsbehov forståelige, målbare og gjennomførbare.",
+    "body_paragraphs": [
+      "Da OUS skulle forbedre sin metode for gevinstrealisering, samarbeidet jeg i et firepersonsteam om research, økonomisk og strategisk analyse, styringslogikk og standardisering. Det reviderte rammeverket ble innført som sykehusdekkende standard og var rapportert i bruk om lag 2,5 år senere. Erfaringen lærte meg hvor avgjørende det er at en felles metode både gir retning og fungerer i arbeidshverdagen - en problemstilling jeg kjenner igjen i Huseiernes ambisjon om at målprosessen skal være mer enn et dokument.",
+      "Jeg har også rekonstruert og modernisert et arvet, virksomhetskritisk budsjettverktøy i en bred interessentprosess. Jeg sto for hoveddelen av kodeendringene, integrerte bemanningsdata og arbeidet med kontroller, dokumentasjon og onboarding av controllere. Den moderniserte løsningen ble brukt i sykehusets budsjettprosess for 2026. Dette er mitt tydeligste bevis på at jeg kan gå fra et sammensatt behov til en løsning som tas i bruk, samtidig som driftskontinuitet og faglige avhengigheter blir ivaretatt.",
+      "I nåværende rolle utvikler jeg styringsinformasjon for økonomi, bemanning, aktivitet og kapasitet. Arbeidet krever at jeg avklarer hva ledere og fagmiljøer faktisk trenger, og oversetter det til datagrunnlag, analyser og dokumenterte leveranser som kan følges opp. Hos Huseierne vil jeg bruke denne erfaringen til å støtte ledere og produktmiljøer med relevante beslutningsgrunnlag og bidra til en praktisk rytme for prioritering og oppfølging.",
+      "Det som særlig motiverer meg, er at bedre virksomhetsstyring hos Huseierne skal understøtte et tydelig medlemsoppdrag: å gjøre det tryggere og enklere å være boligeier. Jeg ønsker å bidra med økonomisk analyse, struktur og gjennomføringsevne, og med respekt for at god målstyring først får verdi når mennesker bruker den til å ta bedre valg."
+    ],
+    "closing": "Jeg ser frem til muligheten til å utdype hvordan erfaringen min kan brukes i Huseiernes videre arbeid med strategi, mål og resultatoppfølging."
+  },
+  "used_evidence_refs": [
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+  ],
+  "writer_note": "Tjuesekunderstesten og Arbeidsgiverbyttetesten er anvendt. CV-toppen og åpningen er bygget rundt Huseiernes konkrete behov for å gjøre vekst og nye produkter styrbare. Direkte OKR-erfaring og fem års relevant erfaring er verken påstått eller antydet.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-02",
+    "finalized_at": "2026-09-02T15:54:30Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260902-155301-2120b3",
+    "job_id": "huseierne_strategi_maalstyring",
+    "employer": "Huseiernes Landsforbund",
+    "title": "Strategi- og målstyringsrådgiver",
+    "manifest_sha256": "fe3ba0b58f6eb3b7dcaa36f44e2ab3ec5fcd34eb9ddf0d337273ab4b75cb299b",
+    "vacancy_sha256": "66a3e564484b987ecf94a25e019cf291b529e762281f605d8caeb056811c9748",
+    "evidence_index_sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+    "stage_instruction_sha256": "2a84bf1077d04de48d26671baa9d7f3eb6f5783717e5f4de957e8a5ec0c4fd5e",
+    "baseline_map_sha256": "3f7353e62164f402e2c5edfd1ef4ea5ab24bf4031975fa8e88e8d1ca2776aaff",
+    "strategy_sha256": "bfe63e337ef81791f1d72890027511aa5128fedea3868e0d12175a4cbe68b3ad",
+    "draft_sha256": "d0f5c8238ad23710ff1bad5110810c04b20291d63cc634523c382beb26a3688b"
+  }
+}

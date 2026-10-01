@@ -1,0 +1,64 @@
+{
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT | Innføring, gevinstrealisering og KI-støttede arbeidsprosesser",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus. Arbeider med endringer i skjæringspunktet mellom økonomi, teknologi og arbeidsprosesser: har vært med og utvikle et rammeverk for gevinstrealisering som ble innført i hele sykehuset, videreutviklet et budsjetteringsverktøy som brukes i hele sykehuset med opplæringsmateriell for controllerne, og er registrert superbruker for kunstig intelligens. Strukturerer uklare oppdrag i avgrensede leveranser med akseptansekriterier, risiko og overlevering.",
+    "competencies": [
+      "Gevinstrealisering og gevinstestimering",
+      "Innføring, opplæring og overlevering",
+      "KI-støttede arbeidsprosesser med menneskelig kontroll",
+      "Strukturering av uklare oppdrag og behov",
+      "Workshops og tverrfaglig samarbeid",
+      "Risikoregister, akseptansekriterier og kontrollert endring",
+      "Smidig arbeid: Scrum, Kanban og WIP",
+      "Økonomistyring og beslutningsstøtte i offentlig sektor"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Videreutviklet sykehusets metodikk for gevinstrealisering og estimering i et team på fire, med bidrag til forskningssyntese, metodeforbedring og den økonomiske og styringsmessige delen. Rammeverket ble innført som standard i hele sykehuset og var fortsatt i bruk om lag 2,5 år senere.",
+          "Videreutviklet sykehusets arvede budsjetteringsverktøy i en prosess med om lag 50 involverte, og var i praksis eneste utvikler av kodeendringene. Gjennomførte endringene med akseptansekriterier, risikoregister og differansekontroll, og laget opplærings- og presentasjonsmateriell for controllerne. Verktøyet ble brukt i hele sykehuset i budsjettprosessene for 2026 og 2027.",
+          "Registrert superbruker for kunstig intelligens ved sykehuset i om lag tre år, og svarer på tekniske spørsmål fra kolleger i en Teams-kanal.",
+          "Bruker KI-støttede arbeidsprosesser i analyse og utvikling med prosjektinstruksjoner, avgrensede oppgaver, tester, overleveringer og kritisk gjennomgang av resultatet, blant annet for kodeagenter i et prognoseprosjekt under utvikling.",
+          "Gjorde om en bestilling om klinikkvis gevinstfordeling for steril logistikk til en modell med vektede indikatorer og synlige forutsetninger da direkte bruksdata ikke bar fordelingen. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Utviklet nesten hele datamodellen i et styringsdashbord bygget fra et bredt og lite spesifisert oppdrag, og var eier med månedlig drift, brukertester og forbedringssprinter fra om lag august 2025 til avviklingen rundt februar 2026.",
+          "Deltok i gruppen på fire som etablerte Analyseavdelingen, bidro med forslag til teamstruktur og ansvar, utformet Scrum/Kanban- og WIP-strukturer og planla og holdt workshops."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker i perioden etter overgangen.",
+          "Overtok etter opplæring hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, og rapporterte etter hvert selvstendig til klinikkens ledere.",
+          "Bidro i oppfølging av klinikkens økonomiske tiltak og oversatte tiltakslogikken til budsjett- og styringsspråk."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg er samfunnsøkonom og rådgiver økonomi og IKT ved Oslo universitetssykehus, og har de siste årene arbeidet med endringer som skal tas i bruk av mange: et felles rammeverk for gevinstrealisering og et budsjetteringsverktøy for hele sykehuset. Som superbruker for kunstig intelligens hjelper jeg også kolleger med å bruke KI. Jeg har ikke vært endringsleder eller prosjektleder i fem år. Jeg søker likevel, fordi det er denne typen arbeid jeg vil gjøre mer av og i større skala.",
+    "body_paragraphs": [
+      "Gevinstrealisering har jeg arbeidet med fra metodesiden. I Analyseavdelingen videreutviklet vi, fire personer, sykehusets rammeverk for gevinstrealisering og estimering. Jeg bidro med forskningssyntesen, metodeforbedringen og den økonomiske og styringsmessige delen. Rammeverket ble innført som standard i hele sykehuset og var fortsatt i bruk om lag 2,5 år senere. I en senere oppgave skulle gevinstene av en investering i steril logistikk fordeles på klinikkene, men de direkte bruksdataene holdt ikke til det. Jeg utformet i stedet en modell med synlige forutsetninger og vekter som controllerne selv kan justere, og overleverte den til dem tidlig i 2026.",
+      "Innføring har jeg arbeidet med gjennom budsjetteringsverktøyet. Om lag 50 personer deltok i arbeidsgrupper og kravarbeid i 2025, og jeg gjorde i praksis alle kodeendringene. Rammen var en smal refaktorering funksjon for funksjon, og jeg brukte akseptansekriterier, risikoregister og differansekontroll underveis. Jeg laget opplæringsmateriell for controllerne, og verktøyet ble brukt i hele sykehuset i budsjettprosessene for 2026 og 2027. Allerede i min første plassering ved sykehuset laget jeg på eget initiativ konverteringsverktøy ved overgangen til nytt økonomisystem, som økonomirådgivere i flere klinikker tok i bruk.",
+      "KI-støttede arbeidsprosesser er en del av hverdagen min. Som registrert superbruker for kunstig intelligens i om lag tre år svarer jeg på tekniske spørsmål fra kolleger i en Teams-kanal. I eget arbeid bruker jeg KI med prosjektinstruksjoner, avgrensede oppgaver, tester og overleveringer, og jeg går kritisk gjennom resultatet for antakelser uten dekning, logikk som har forskjøvet seg og validering som mangler. Det gir et realistisk bilde av hva KI kan overta, og hvor et menneske fortsatt må ta ansvaret."
+    ],
+    "closing": "Erfaringen min er fra offentlig sektor, og jeg har ikke jobbet som konsulent. Det jeg kan ta med inn i kundeoppdragene deres, er praktisk forståelse av hvordan endringer i verktøy, metode og arbeidsmåte faktisk kommer i bruk, og hvordan gevinster kan gjøres synlige og etterprøvbare. Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#028-4-4-trygge-ki-pastander"
+  ],
+  "writer_note": "Minimum (five years as change/project lead) unmet; stated once in opening. Carrying units rebuilt around the ad's named outcomes: benefits realization (PRJ-04 + PRJ-06), adoption of tools (PRJ-03 + BAR REGERP tools) and AI-supported work processes (superuser + governed workflow). PRJ-08 moved to CV only."
+}

@@ -1,0 +1,12 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Fixture content.",
+      "recommended_action": "None."
+    }
+  ],
+  "known_limitations": [
+    "Mechanical fixture, not a real package."
+  ]
+}

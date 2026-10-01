@@ -1,0 +1,34 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [],
+  "known_limitations": [
+    "Søknadsfristen i annonsen var 14. september 2026 og er passert. Det er ingen redaksjonell mangel ved pakken, men det avgjør om den skal sendes i det hele tatt.",
+    "Annonsen gjør autorisasjon for nivå HEMMELIG til en ansettelsesbetingelse. Pakken sier med vilje ingenting om den: autoriserbarhet er uavklart og kan verken loves eller skrives om til kjent fravær. Arbeidsgiver vil ta opp klarering tidlig.",
+    "Budsjetteringsverktøyet står på dokumentert bruk, ikke på målt effekt. Det foreligger ingen godkjente målinger av tidsbesparelse eller feilreduksjon, og brevet hevder ingen.",
+    "Arbeidsmodellen og arbeidsinntaket i analyseavdelingen er utformet og evaluert med prosjektnivåbruk. Brevet sier «utformet» og går ikke lenger; det finnes ikke belegg for virksomhetsutrulling eller formelt produkteierskap.",
+    "Erfaringskravet på fortrinnsvis fem år gjelder seniorsporet, som ikke søkes. Brevet velger rådgiversporet eksplisitt og nevner ikke årskravet."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": "Brevets avsnitt 1 underdrev U1: det utelot at hele den tildelte månedsoppgjørsflyten ble overtatt, og at det skjedde innen om lag tre måneder. Begge fakta står i CLM-BAR-001 og i den godkjente måltallstabellen, og begge sto allerede i CV-en. De er lagt tilbake i brevet.",
+  "notes": [
+    "Klyngeobservasjon til operatøren, ikke et funn i denne pakken: alle fire CV-overskriftene i rung bruker tankestrek og formen «Rådgiver + felt og felt». Tankestreken bryter WRITING_DOCTRINE § Tegnsetting og er rettet i denne pakken; selve formlikheten er et Stage 1-mønster.",
+    "Brevet er kortere enn plantallet (292 mot 380 ord). Det som gikk ut var selvtolkning og relevansforklaring, ikke evidens, og teksten er ikke fylt opp igjen for å treffe tallet."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "stortinget_virksomhetsstyring_lederstotte",
+    "employer": "Stortinget",
+    "title": "seniorrådgiver/rådgiver",
+    "evidence_fingerprint": "21928310efcf19dafd0216df340eebbed37c60a9c572578a13086b3a2560b661",
+    "policy_fingerprint": "778d968544107da89d0199041d7dfd3a90cef53fc7d98fbe87a9af775ce5cd73",
+    "inputs": {
+      "scout": "c6daa72125a313583505cbf46aacdce9970e7b82bd8199f29b24284daeb4c019",
+      "brief": "196437b7c8555c62fa02ceda4d03d67569fe267a9fdd03d1806a914af9db984f",
+      "cv_draft": "606554330525529f7415e6404447f63fb5a11bdf8b20ec078f4960c5715b4477",
+      "advocacy_draft": "d65f8ec67d9254c530258a94c927fc5b3498c21d80a0c6a86500e3f228f38495",
+      "final_package": "83ff9391c267c789cfc2b28f49181c5b5afc33ac14a7bf68b2da2751c9aaa6fa"
+    }
+  }
+}

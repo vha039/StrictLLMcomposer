@@ -1,0 +1,54 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260915-190926-020eaa",
+  "derived_at": "2026-09-15T19:15:36Z",
+  "manifest_sha256": "b6e191dfe962c4ea9b3655ae3c9fe221ea99bdae61c8b464fc95a970c506e351",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 1,
+    "core": 1,
+    "exception": 0,
+    "semantic_final_available": 0,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 1,
+    "triage": {
+      "READY": 0,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 1,
+      "OK": 0,
+      "DEGRADED": 0,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "itera_head_of_data_ai",
+      "employer": "Itera Norway",
+      "title": "Head of Data & AI",
+      "cluster": "runh",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-15",
+      "semantic_triage": null,
+      "production_state": "NOT_STARTED",
+      "highest_valid_stage": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Start Stage 1 for this job.",
+      "output_paths": []
+    }
+  ]
+}

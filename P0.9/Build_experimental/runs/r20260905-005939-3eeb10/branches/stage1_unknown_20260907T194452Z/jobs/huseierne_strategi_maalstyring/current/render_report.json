@@ -1,0 +1,138 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260905-005939-3eeb10/branches/stage1_unknown_20260907T194452Z",
+    "job_id": "huseierne_strategi_maalstyring",
+    "final_package_sha256": "12b37ecf6d158495643d9fcbf0d7b2d8c1659ffa932f6d5bfcb0fd6b94f0c9ba",
+    "document_date": "2026-09-07",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "4eab17783800974c516cc4780aa33a3ef7c361af372774436cf95665479f963f",
+    "letter_master_sha256": "3e41cf9667518b3fb37966e581358f538f69be0e6e8f1dd320da9f3509da112c",
+    "template_map_sha256": "a6d6297eb2cd49e924e8edeeccb33259e1ce434775c1bec0cbf27a84ecbbb7eb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_5e0f0344.docx",
+      "output_sha256": "7618c816fd4bbb0af2cda8f582099166d059cf42ed2c3b6dd419275dd1a1ab5d",
+      "bytes": 40942,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_5e0f0344.pdf",
+      "output_sha256": "d768e6786b825badc8685f3c6bf6ac28936905239d035bef17fd582c72760e39",
+      "bytes": 298925,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_1rtjd2dm\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z\\jobs\\huseierne_strategi_maalstyring\\out\\.rnd.466512ed\\CV_Huseiernes_Landsforbund_Strategi_5e0f0344.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z\\jobs\\huseierne_strategi_maalstyring\\out\\.rnd.466512ed\\CV_Huseiernes_Landsforbund_Strategi_5e0f0344.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_5e0f0344.docx",
+      "output_sha256": "306d2fc4a38376334db01fd648abb8ef6d95f1a7dcab57ddb39f2469d5ad28f8",
+      "bytes": 38919,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_5e0f0344.pdf",
+      "output_sha256": "4ca1aab3890f5426d9a60f102667cb5b8d44559d01f5fb03725321b4e328df15",
+      "bytes": 194848,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_o0_ybfsc\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z\\jobs\\huseierne_strategi_maalstyring\\out\\.rnd.466512ed\\Soknad_Huseiernes_Landsforbund_Strategi_5e0f0344.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z\\jobs\\huseierne_strategi_maalstyring\\out\\.rnd.466512ed\\Soknad_Huseiernes_Landsforbund_Strategi_5e0f0344.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": [
+        "Letter rendered to 2 pages; editorial target is <=1. Review signal only."
+      ]
+    }
+  ],
+  "rendered_at": "2026-09-07T20:26:57Z"
+}

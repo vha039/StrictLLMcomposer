@@ -1,0 +1,37 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Stillingen heter AI Team Lead og nevner mulig personalansvar over tid; kandidaten har ingen team-, prosjektleder- eller personalrolle. Pakken bruker ingen lederbetegnelse og lar funksjonell gjennomføring tale.",
+      "recommended_action": "Ingen redigering. Vær forberedt på spørsmål om ledererfaring i intervju.",
+      "priority": 1
+    },
+    {
+      "reason": "Lønn, API-er og datavarehus står i annonsen uten dokumentert praksis hos kandidaten. Pakken påstår dem ikke; nærmeste evidens er integrasjon av data fra fagsystemer og personell- og lønnsuttrekk som datakilde.",
+      "recommended_action": "Ingen redigering; normal skumlesing.",
+      "priority": 2
+    },
+    {
+      "reason": "KI er dokumentert i eget analyse- og utviklingsarbeid (prosjekt under utvikling), ikke i automatiserte regnskaps- eller forretningsprosesser. Brevet formulerer KI i driftskritiske prosesser som fremtidig bidrag.",
+      "recommended_action": "Ingen redigering.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen personal-, team- eller prosjektlederrolle.",
+    "Ingen lønnsproduksjon, regnskapsbyrå- eller årsoppgjørserfaring; regnskapserfaringen er egen tildelt klinikkflyt.",
+    "API-integrasjon og datavarehuseierskap er ikke dokumentert.",
+    "Ingen dokumentert overgang fra pilot til skalert løsning og ingen eksterne kunder.",
+    "Ingen kvantifisert tids- eller feilbesparelse fra verktøyene.",
+    "Prognoseprosjektet er under utvikling med fordelt forfatterskap og uten verifisert modellytelse."
+  ],
+  "material_strategy_change": "Strategiens bærende par ble i hovedsak beholdt, fordi klinikkarbeidet er den mest diagnostiske evidensen for denne stillingen. Endringer: STE-modellens bevisste valg bort fra kjerne-VBA ble tatt inn i brevet som svar på konsekvenser av teknologivalg og eierskap, og prognoseprosjektets skille mellom lokal validering og uvaliderte kjøringer mot levende data ble løftet fra kilden som konkret kontrollsignal for KI i driftskritiske prosesser. Etableringen av Analyseavdelingen ble flyttet fra CV-bevis til motivasjonen.",
+  "upstream_claim_repaired": "Ingen ustøttet strategipåstand måtte repareres. Autoritetsdigesten for klinikkarbeidet beskriver forløpet som fra kvalitetssikring av andre; kilden sier at kandidatens eget arbeid ble kvalitetssikret av andre i starten, og CV-en følger kilden.",
+  "notes": [],
+  "binding": {
+    "run_id": "r20260914-211650-5d3516",
+    "job_id": "amesto_ai_transformasjon",
+    "final_package_sha256": "88d04c2912a3dd20eb9f31bf9c072defb59cfa4d501d189b6af6f153de3787fb"
+  }
+}

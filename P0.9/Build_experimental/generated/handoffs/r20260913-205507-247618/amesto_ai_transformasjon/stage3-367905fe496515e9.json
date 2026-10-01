@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260913-205507-247618",
+  "job_id": "amesto_ai_transformasjon",
+  "employer": "Amesto Accounthouse AS",
+  "title": "AI Team Lead – Transformasjon",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "850cf837d9417c86a85dbf7896b28550b5d4d70b173cb06ea15621d2acf7ea05",
+  "upstream": {
+    "strategy_sha256": "bb40f0802e581dd3ec24363d7d2cabb4899feeb2372707251cbded28279d074b"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

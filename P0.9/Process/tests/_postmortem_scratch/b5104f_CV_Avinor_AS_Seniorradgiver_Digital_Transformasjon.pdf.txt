@@ -1,0 +1,86 @@
+Side 1 av 2 
+VEGARD HÅLAND 
+SAMFUNNSØKONOM OG RÅDGIVER | GEVINSTREALISERING, STYRINGSMODELLER OG 
+KONTROLLERT DIGITAL ENDRING 
+Oslo  |  +47 905 26 886  |  vegard-haaland@outlook.com 
+PROFIL 
+Samfunnsøkonom med mastergrad fra NTNU og rådgiver i Analyseavdelingen ved Oslo 
+universitetssykehus, der jeg arbeider mellom økonomi, drift og teknologi i en kompleks og regulert 
+virksomhet. En av fire som utviklet sykehusets reviderte metodikk for gevinstrealisering og estimering, 
+innført som sykehusdekkende standard og i bruk om lag 2,5 år senere. Utformet en transparent 
+fordelingsmodell for gevinster der direkte måling ikke var forsvarlig, ferdigstilt og overlevert til 
+controllere. Hovedansvar for kodeendringene i moderniseringen av et forretningskritisk 
+budsjetteringsverktøy, i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027. Tar i tillegg en 
+master i kunstig intelligens ved Universitetet i Agder. 
+KJERNEOMRÅDER  Gevinstrealisering og verdivurdering av investeringer · Styringsmodeller og 
+beslutningsgrunnlag for ledelsen · Kontrollert modernisering av forretningskritiske systemer · 
+Prioritering, arbeidsinntak og avhengigheter på tvers · Fasilitering, workshops og 
+kompetanseoverføring · Analyse, økonometri og prognoser · Power BI, semantisk modellering, SQL og 
+Excel/VBA · Plattformutforsking: Microsoft Fabric, Power Platform, dbt og Pega 
+YRKESERFARING 
+Rådgiver Økonomi og IKT  |  Oslo universitetssykehus HF 03.2023-d.d. 
+Direktørens stab, Analyseavdelingen 12.2023-d.d. 
+• Medutvikler, som en av fire, av sykehusets reviderte metodikk for gevinstrealisering og estimering: 
+forskningssyntese, metodisk forbedring, økonomiske og strategiske vurderinger og standardisering. 
+Innført som sykehusdekkende standard og i bruk om lag 2,5 år senere. 
+• Utformet en vektet proxymodell for fordeling av gevinster i steril logistikk der direkte 
+bruksregistrering ikke var tilstrekkelig: fire grenmodeller og en konsolideringsmodell, synlige og 
+justerbare forutsetninger og vekter, skjemakontrollert overføring i Power Query og revisjoner for 
+umappede rader og kontrollavvik. Ferdigstilt tidlig i 2026 og overlevert til controllere. 
+• Hovedansvar for kodeendringene i moderniseringen av sykehusets forretningskritiske 
+budsjetteringsverktøy (Excel/VBA, om lag 15 ark og 78 globale navn), innenfor en interessentprosess 
+med rundt 50 deltakere. Vurderte VBA, Office Scripts, Python og KI-støttede alternativer mot 
+kompatibilitet, driftsrisiko og vedlikeholdbarhet, og gjennomførte endringene med differansekontroll 
+mot originalfunksjonene, akseptansekriterier og risikoregister. Verktøyet er i sykehusdekkende bruk i 
+budsjettprosessene for 2026 og 2027. 
+• Bidro til arbeidsmodellen i avdelingen: teamstrukturalternativer, ansvar og avhengigheter, 
+Scrum/Kanban og oppgavehierarki, WIP-design og samhandlingsflater i Loop, dels innført og dels 
+foreslått. Designet og evaluerte i tillegg arbeidsinntak, spørreskjemaer og kravstruktur med vurdering 
+av Forms-, Loop-, Power BI-, Pega- og lavkodealternativer, brukt på prosjektnivå. 
+• Hovedutvikler på backend i en styringsløsning for økonomi, bemanning, sykefravær og aktivitet/DRG: 
+nesten hele den semantiske modellen, mesteparten av ETL i Power Query M og om lag 80-90 % av 
+DAX. Kolleger ledet innhold og visuell utforming. Eide løsningen fra ca. august 2025 til februar 2026, 
+da den ble avviklet. Ledet i tillegg en intern workshop om semantisk modellering, ETL, datakvalitet og 
+ytelse. 
+VEGARD HÅLAND  |  CV 
+Side 2 av 2 
+• Deltok i tidlig tilgang og piloter rundt Microsoft Fabric, Power Platform, dbt, Pega og Python, og 
+vurderte mulighetene mot konkrete driftsbegrensninger i sykehuset. 
+Barne- og ungdomsklinikken, Stab 03.2023-11.2023 
+• Overtok etter opplæring hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, og 
+gjennomførte mot slutten månedsoppgjøret selvstendig med kvalitetssikring, rapportering og 
+distribusjon av månedsrapporten til klinikkledelsen. 
+• Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP, 
+brukt av økonomirådgivere i flere klinikker. 
+• Koblet data fra blant annet JIT, ADI, REGERP, GAT og DRG-/aktivitetsrapporter, og utviklet kontroll- 
+og valideringslogikk i arvede regnskaps- og rapporteringsarbeidsbøker. 
+• Bidro i budsjettprosessen for 2024 og leverte seksjonsvise DRG-prognoser brukt i budsjett og 
+planlegging, med aktivitetsdatapreparering og tidsseriemodellering i Stata, R og Power Query. 
+UTDANNING 
+Masterprogram i kunstig intelligens  |  Universitetet i Agder 2024-d.d. 
+Pågående. 
+Master i samfunnsøkonomi  |  NTNU 2020-2022 
+Relevante fag: videregående og anvendt økonometri, anvendt tidsserieøkonometri og videregående matematisk analyse.  
+Bachelor i samfunnsøkonomi  |  Universitetet i Bergen 2017-2020 
+Bred økonomifaglig bakgrunn, blant annet statistikk og økonometri, offentlig økonomi, arbeidsmarked, konkurranse, finans 
+og bedriftsøkonomi. 
+KURS 
+Sanitet nivå 2, 04.2014. 
+REFERANSER 
+Oppgis ved forespørsel. 
+TIDLIGERE ERFARING 
+07.2015-08.2021  |  Hjelpearbeider, TKS Heis. Sesong- og heltidsarbeid sammen med heismontører under studiene, i et 
+praktisk og sikkerhetssensitivt arbeidsmiljø. 
+02.2015-04.2015  |  Butikkmedarbeider/vikar, Ahlsell, Auglendsmyra. Arbeidet med varemottak, lager, bestilling, salg og 
+kundekontakt. 
+03.2014-02.2015  |  Vakt- og sikringssoldat, Luftforsvaret, Sola. Utførte vakthold, adgangskontroll og alarmrespons med 
+tydelige prosedyrer og ansvar. 
+10.2013-03.2014  |  Sikkerhetskonsulent, Sector Alarm. Gjennomførte behovsavklaring, pristilbud, direkte salg og 
+kundedialog. 
+TILLITSVERV 
+Styremedlem/beboerrepresentant, Solheimslien studentboliger, 10.2017 -01.2019. 
+Økonomiansvarlig og nestleder, 01.2019-01.2020. 
+Styreleder og økonomiansvarlig, 01.2020-08.2020. 
+SPRÅK 
+Norsk: Morsmål 
+Engelsk: Flytende skriftlig og muntlig 

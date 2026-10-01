@@ -1,0 +1,58 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | Prosessforbedring, styring og kontrollert digitalisering",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver i Direktørens stab ved Oslo universitetssykehus. Jeg gjør uklare, tverrgående behov om til avgrensede leveranser: kartlegger aktører, ansvar, avhengigheter og beslutningsbehov, og følger arbeidet frem til kontrollert innføring og bruk. Jeg moderniserte sykehusets budsjetteringsverktøy og gjorde kodeendringene i en prosess med om lag 50 deltakere; verktøyet er i sykehusdekkende bruk. Jeg har også medutviklet et rammeverk for gevinstrealisering som ble innført som sykehusstandard, og utarbeider beslutnings- og ledelsesunderlag tilpasset ledere, controllere, fagmiljøer og tekniske miljøer.",
+    "competencies": [
+      "Funksjonell prosess- og leveranseledelse i tverrfaglige oppdrag",
+      "Avklaring av behov, aktører, ansvar, avhengigheter og beslutningsbehov",
+      "Kontrollert endring: akseptansekriterier, paritets- og differansetesting, risiko- og gap-register",
+      "Gevinstrealisering, metodeutvikling og standardisering",
+      "Planlegging og fasilitering av workshops, onboarding og kompetanseoverføring",
+      "Beslutningsnotater og ledelsesunderlag tilpasset ulike mottakere",
+      "Økonomifaglig analyse av offentlige beslutninger, insentiver og avveininger",
+      "Power BI, DAX, Power Query, Excel/VBA, SQL og Python brukt til gjennomføring og kontroll"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Moderniserte sykehusets om lag 20 år gamle og virksomhetskritiske budsjetteringsverktøy: rekonstruerte arkitekturen fra kildekode, formler og navn, og integrerte ansatt-, ansettelses- og bemanningsdata som tidligere måtte kopieres manuelt. Om lag 50 personer deltok i arbeidsgrupper, kravarbeid og innføring, og jeg var i praksis eneste utvikler på kodeendringene.",
+          "Gjennomførte endringene funksjon for funksjon under strenge kompatibilitets- og driftskrav, med differansesammenligning av opprinnelige og refaktorerte funksjoner, akseptansekriterier, eksplisitte paritetskrav og risiko- og gap-register. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Medutviklet i en firepersonersgruppe et revidert rammeverk for gevinstrealisering og estimering. Rammeverket ble innført som sykehusstandard og var i bruk om lag 2,5 år senere.",
+          "Utformet arbeidsprosesser, ansvarsdeling, avhengighetsoversikt og prioritering for avdelingen, og strukturerte inntaksskjemaer som fanger formål, brukere, beslutningsbehov, avhengigheter, risiko og akseptansekriterier. Enkelte arbeidsformer er innført, andre står som forslag.",
+          "Planlegger og fasiliterer workshops, og utarbeider beslutningsnotater, ledelsesunderlag, dokumentasjon og onboarding for ledere, controllere, fagmiljøer og tekniske samarbeidspartnere.",
+          "Utvikler beslutningsstøtte for økonomi, bemanning, aktivitet/DRG og pasientflyt med Power BI, DAX, Power Query, Excel/VBA, SQL og prosjektavhengig R/Python."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Som samfunnsøkonom og rådgiver i Direktørens stab ved Oslo universitetssykehus arbeider jeg med behov som er uklare når de kommer inn, og som må ende i avgrensede leveranser, kontroller og arbeidsformer noen faktisk tar i bruk. Det er den veien Fremtidens tollbehandling skal gå: fra ambisjon til avklaringer, beslutninger og oppfølging på tvers av program, linje og eksterne aktører.",
+    "body_paragraphs": [
+      "Sykehusets budsjetteringsverktøy er om lag 20 år gammelt og virksomhetskritisk, og hadde samlet teknisk gjeld i formler, navn, VBA og spredte arbeidsbokkopier. Bemanningsdata måtte kopieres fra en annen arbeidsbok, med mye manuelt arbeid og tilsvarende risiko ved endring. Om lag 50 personer deltok i arbeidsgrupper, kravdiskusjoner og innføring, og jeg var i praksis eneste utvikler på selve kodeendringene: jeg rekonstruerte arkitekturen fra kildekode, formler og navn, integrerte ansatt-, ansettelses- og bemanningsdata og ryddet opp i logikk som lå spredt mellom celler, navn og VBA.",
+      "Rammen var satt av innføringsansvarlig: endringene skulle gjøres funksjon for funksjon, selv om jeg anbefalte en bredere omstrukturering. Jeg gjennomførte moderniseringen innenfor den rammen, med differansesammenligning av opprinnelige og refaktorerte funksjoner, akseptansekriterier, eksplisitte paritetskrav og et risiko- og gap-register, og laget onboarding og presentasjonsmateriell for controllerne. Den moderniserte versjonen ble brukt sykehusdekkende i budsjettprosessen for 2026, og den avsluttende moderniseringen for 2027 er ferdigstilt og i bruk. Det foreligger ingen godkjente målinger av spart tid eller færre feil, men leveransen og bruken er dokumentert.",
+      "Gevinstrealisering har jeg arbeidet med som metode. Etter oppdrag fra ledelsen medutviklet jeg i en firepersonersgruppe et revidert rammeverk for gevinstrealisering og estimering, med bidrag til forskningssyntese, metodisk forbedring, økonomisk og strategisk analyse og standardisering. Rammeverket ble innført som sykehusstandard og var i bruk om lag 2,5 år senere. Mye av arbeidet gikk med til å samle ulike faglige perspektiver i én arbeidsform.",
+      "Arbeidsformen min starter med beslutningsproblemet: hvem som skal bruke resultatet, hva som faktisk må avklares, hvilke avhengigheter og risikoer som finnes, og hva som kan vente. Jeg har brukt den til å utforme strukturerte inntaksskjemaer som fanger formål, brukere, beslutningsbehov, avhengigheter, risiko og akseptansekriterier før løsningsarbeidet starter, til å beskrive ansvar, avhengigheter og prioritering i avdelingens arbeidsmodell, og til å planlegge og fasilitere workshops. Noen av arbeidsformene er innført, andre står som forslag. Underlaget tilpasser jeg mottakeren, enten det er ledere, controllere, fagmiljøer eller tekniske miljøer, og jeg sier fra når ansvar eller fremdrift er uklart."
+    ],
+    "closing": "Forenklingen av vareflyten må skje uten at noe ryker underveis, og det er den typen oppdrag jeg har lyst til å arbeide med videre. Sammenhengen er større og mer aktørrik enn den jeg står i nå, men avveiningen er kjent: forbedring må veies mot kontinuitet i en prosess som ikke kan stoppe. Der kan jeg bryte programmets ambisjoner ned til avklaringer, ansvar, milepæler og beslutningsunderlag. Jeg tar gjerne en samtale om det."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+    "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse",
+    "EV:WORK#043-6-8-styring-kvalitet-og-kontroll",
+    "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#026-3-5-seniorradgiver-og-tverrfunksjonelle",
+    "EV:OTHER#018-2-5-rute-for-funksjonell-endringsledelse",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "writer_note": "Hovedruten beholdt. Strategien sa hoveddelen av kodeendringene; kilden og den godkjente maltallstabellen sier i praksis eneste kodende utvikler for kodeendringene, med den brede interessentprosessen bevart. Understatementet er reparert i begge dokumenter. 2027-runden er tatt med som ferdigstilt og i bruk. Faglig skjonn: anbefalt bredere omstrukturering, smal ramme satt av innforingsansvarlig, gjennomfort innenfor rammen. Ingen ekstern aktor-, myndighets- eller EU-flate er antydet."
+}

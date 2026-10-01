@@ -1,0 +1,154 @@
+{
+  "artifact_role": "CURRENT_FAILURE",
+  "run_id": "r20260927-205220-984088",
+  "job_id": "eika_lead_enterprise_architect_senior_virksomhetsarkitekt",
+  "operation": "STAGE1",
+  "classification": "FAILED",
+  "applies_to_hashes": {},
+  "violations": [
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[1].evidence_refs[0]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#022-4-3-modernisering-og-nyutvikling' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[1].evidence_refs[1]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#023-4-4-sykehusdekkende-rammeverk-for' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[2].evidence_refs[1]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#021-4-2-tverrorganisatorisk-power-bi' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[5].evidence_refs[0]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#023-4-4-sykehusdekkende-rammeverk-for' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[6].evidence_refs[0]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#022-4-3-modernisering-og-nyutvikling' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[9].evidence_refs[0]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#021-4-2-tverrorganisatorisk-power-bi' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[9].evidence_refs[1]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#022-4-3-modernisering-og-nyutvikling' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[10].evidence_refs[1]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#022-4-3-modernisering-og-nyutvikling' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[10].evidence_refs[2]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#023-4-4-sykehusdekkende-rammeverk-for' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[13].evidence_refs[1]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#023-4-4-sykehusdekkende-rammeverk-for' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[15].evidence_refs[1]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#022-4-3-modernisering-og-nyutvikling' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "evidence_plan[1].evidence_refs[0]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#022-4-3-modernisering-og-nyutvikling' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "evidence_plan[2].evidence_refs[0]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#023-4-4-sykehusdekkende-rammeverk-for' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "evidence_plan[5].evidence_refs[0]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#021-4-2-tverrorganisatorisk-power-bi' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "counterfactual_route.evidence_refs[0]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#023-4-4-sykehusdekkende-rammeverk-for' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "personality_facets[0].evidence_refs[1]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#022-4-3-modernisering-og-nyutvikling' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "personality_facets[1].evidence_refs[1]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#022-4-3-modernisering-og-nyutvikling' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    }
+  ],
+  "diagnostic_summary": "Semantic stage return failed mechanical validation.",
+  "attempts_used": 0,
+  "retry_position": null,
+  "mechanical_corrections_used": 0,
+  "semantic_attempt": null,
+  "last_successful_stage": null,
+  "recommended_next_action": "Correct the reported mechanical defects once in the same session and resubmit with the same handoff.",
+  "recorded_at": "2026-09-27T21:01:06Z"
+}

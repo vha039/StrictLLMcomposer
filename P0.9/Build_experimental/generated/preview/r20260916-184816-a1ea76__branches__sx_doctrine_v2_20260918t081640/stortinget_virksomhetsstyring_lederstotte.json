@@ -1,0 +1,36 @@
+{
+  "job_id": "stortinget_virksomhetsstyring_lederstotte",
+  "stage": 3,
+  "cv_dynamic_words": 356,
+  "letter_words": 292,
+  "signals": [],
+  "artifact_hash": "0c80017f6aae392de0d98a501223a90121fe320546b6abd834a6d2b9e17f95f6",
+  "sources": {
+    "cv_draft": "current artifact",
+    "advocacy_draft": "current artifact",
+    "polish": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\generated\\returns\\r20260916-184816-a1ea76__branches__sx_doctrine_v2_20260918t081640\\stortinget_virksomhetsstyring_lederstotte\\stage3\\5b8f8f4a\\polish.semantic.json"
+  },
+  "state": "current submitted layers",
+  "documents": {
+    "cv": {
+      "pages": 2,
+      "tail_sections": {
+        "VERKTØY": 1,
+        "TIDLIGERE ERFARING": 2,
+        "TILLITSVERV": 2,
+        "SPRÅK": 2,
+        "SPRÅK OG KURS": 2,
+        "KURS": 2
+      },
+      "headline_lines": 1,
+      "warnings": []
+    },
+    "letter": {
+      "pages": 1,
+      "tail_sections": {},
+      "warnings": []
+    }
+  },
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\stortinget_virksomhe\\0918\\46836",
+  "render_state": "OK"
+}

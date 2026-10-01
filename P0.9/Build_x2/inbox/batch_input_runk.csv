@@ -1,0 +1,6 @@
+﻿job_id,employer,title,job_class,cluster,sequence,priority,source,unit,reference,deadline,exception_note
+eika_lead_enterprise_architect_senior_virksomhetsarkitekt,Eika,Lead Enterprise Architect slash Senior Virksomhetsarkitekt,CORE,runk,1,HIGH,vacancies/Eika - Lead Enterprise Architect slash Senior Virksomhetsarkitekt.pdf,,,,
+hydro_data_governance_lead,Hydro,Data Governance Lead,CORE,runk,2,HIGH,vacancies/Hydro - Data Governance Lead.pdf,,,,
+nav_forretningscontroller,NAV,forretningscontroller,CORE,runk,3,HIGH,vacancies/NAV - forretningscontroller.pdf,,,,
+nortura_fagleder_masterdata,Nortura,Fagleder Masterdata,CORE,runk,4,HIGH,vacancies/Nortura - Fagleder Masterdata.pdf,,,,
+stendi_prosjektleder_pmo_forretningsutvikling,Stendi,"Prosjektleder, PMO & forretningsutvikling",CORE,runk,5,HIGH,"vacancies/Stendi - Prosjektleder, PMO & forretningsutvikling.pdf",,,,

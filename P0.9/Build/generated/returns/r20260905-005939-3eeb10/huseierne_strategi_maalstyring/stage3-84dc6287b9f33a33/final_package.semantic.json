@@ -1,0 +1,66 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | virksomhetsstyring, målstyring og styringsinformasjon",
+    "profile": "Samfunnsøkonom som arbeider med virksomhetsstyring i Direktørens stab ved Oslo universitetssykehus. Jeg gjør mål og prioriteringer om til styringsinformasjon og oppfølging ledere bruker. Jeg var én av fire som utviklet sykehusets reviderte metodikk for gevinstrealisering, innført som sykehusdekkende standard og fortsatt i bruk om lag to og et halvt år senere, og jeg bygde sykehusets styringsløsning på tvers av økonomi, bemanning, sykefravær og aktivitet sammen med tre kolleger. Jeg har selv kjørt det månedlige rapporteringsløpet til klinikkledere. Master i samfunnsøkonomi fra NTNU.",
+    "competencies": [
+      "Virksomhetsstyring og målstyring: felles metodikk, standardisering og forankring i fagmiljøene",
+      "Gevinstrealisering og prestasjonsmåling: gevinstlogikk, KPI-er og fordelingsmodeller",
+      "Beslutningsgrunnlag og styringsinformasjon for ledergrupper",
+      "Månedlig rapporteringsløp: kvalitetssikring, avviksforklaring og lederdialog",
+      "Prognose- og budsjettarbeid, blant annet aktivitetsestimater til planlegging",
+      "Prioritering og arbeidsformer: backlog, WIP-styring, workshopfasilitering og strukturert arbeidsinntak",
+      "Bindeledd mot data- og rapporteringsmiljøer, inkludert opplæring og modellforbedring",
+      "Power BI, semantisk modellering, SQL, Excel/VBA, R og Python etter behov"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Var én av fire som utviklet sykehusets reviderte metodikk for gevinstrealisering og estimering. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et halvt år senere.",
+          "Utviklet styringsinformasjon og beslutningsgrunnlag som kombinerer økonomi-, bemannings-, sykefraværs- og aktivitetsdata for ledere, controllere og fagmiljøer.",
+          "Hadde hovedansvaret for backend i sykehusets styringsløsning: semantisk modell, transformasjonslogikk og beregninger. Testet med faktiske brukere og kjørte avgrensede forbedringsrunder på det jeg observerte.",
+          "Utformet en vektet fordelings- og investeringsmodell med åpne og justerbare forutsetninger der direkte måling av tjenestebruk ikke var mulig. Modellen er utformet; innføring og endelige vekter er ikke avklart.",
+          "Moderniserte sykehusets virksomhetskritiske budsjetteringsverktøy som i praksis eneste kodende utvikler i en interessentprosess med om lag 50 involverte. Versjonen ble brukt i budsjettprosessen for 2026.",
+          "Deltok i firepersoners oppstartsgruppe som etablerte Analyseavdelingen, og utformet arbeidsformer, oppgavehierarki, WIP-styring og strukturert arbeidsinntak med formål, avhengigheter, risiko og akseptansekriterier.",
+          "Planla og gjennomførte workshops, onboarding av controllere og teknisk dokumentasjon, og lærte opp teknisk personell i en annen rapporterings- og dataorganisasjon i semantisk modellering.",
+          "Arbeider med fremskrivning av pasientvolum og kapasitetsbehov i R og Python: løsningsarkitektur, orkestrering, automatisering og tidsbasert validering. Prosjektet er under aktiv utvikling."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok i løpet av omtrent tre måneder hele den tildelte månedsoppgjørsflyten, og kvalitetssikret, rapporterte og distribuerte månedsrapporteringen til klinikkens ledere selv mot slutten av perioden.",
+          "Sammenstilte og forklarte økonomi-, bemannings- og aktivitetsgrunnlag til lederrapportering: DRG og plantall, ventelister, kurdøgn, gjestepasientoppgjør, medikamenter og estimert innleie.",
+          "Leverte seksjonsvise DRG-estimater til budsjett og planlegging ved bruk av Stata, R og Power Query.",
+          "Bidro i budsjettprosessen for 2024 med årsverksregistrering, kontroll av bemannings- og vaktgrunnlag og forbedring av formler, og bygde klinikkens budsjettstøtteark.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til nytt ERP-system. Verktøyene ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker stillingen som strategi- og målstyringsrådgiver. Til daglig er jeg samfunnsøkonom i Direktørens stab ved Oslo universitetssykehus, der jeg arbeider med virksomhetsstyring: å gjøre mål og prioriteringer om til styringsinformasjon og oppfølging som ledere faktisk bruker.",
+    "body_paragraphs": [
+      "Analyseavdelingens første store oppdrag var å forbedre sykehusets eksisterende metodikk for gevinstrealisering og estimering, ikke å erstatte den. Vi var fire som gikk gjennom forskningsgrunnlaget, diskuterte og utviklet den reviderte metodikken, og mitt bidrag lå i forskningssyntesen, i de økonomiske og styringsmessige vurderingene og i standardiseringen. Vi tok den videre gjennom workshops og opplæring i fagmiljøene som skulle bruke den. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et halvt år senere.",
+      "Styringsinformasjonen bygde jeg og tre kolleger fra bunnen, på tvers av økonomi, bemanning, sykefravær og aktivitet. Jeg hadde hovedansvaret for backend: nesten hele den semantiske modellen, mesteparten av transformasjonslogikken og størstedelen av beregningene. Det som endret løsningen mest var likevel ikke modellarbeidet, men at jeg satte meg ned med faktiske brukere og så hvor de leste tallene annerledes enn vi hadde tenkt. De observasjonene ble til avgrensede forbedringsrunder. Før det, i klinikkstaben, overtok jeg hele det tildelte månedsoppgjøret, og mot slutten kvalitetssikret, rapporterte og distribuerte jeg månedsrapporteringen til klinikkens ledere selv, med DRG og plantall, ventelister, kurdøgn og estimert innleie.",
+      "Der noe ikke lar seg måle direkte, gjør jeg heller forutsetningen synlig enn å lage presisjon som ikke finnes. I en fordelings- og investeringsmodell for steril logistikk holdt ikke direkte målt tjenestebruk til å fordele gevinster forsvarlig mellom klinikker. Jeg utformet i stedet en vektet modell på indirekte indikatorer, med åpne og justerbare vekter og bevisst uten makrokode, slik at controllere og fagansvarlige kunne endre forutsetningene uten å være avhengige av meg. Den modellen er utformet, ikke innført."
+    ],
+    "closing": "Huseierne har vokst forbi styringsformen organisasjonen hadde, og det er den overgangen jeg kjenner igjen fra eget arbeid. Jeg bidrar gjerne med å gjøre målarbeidet til noe avdelinger og produktteam faktisk bruker, og med styringsinformasjon ledere kan handle på. Jeg tar gjerne en samtale om hvordan dere arbeider med mål og oppfølging i dag."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Beholdt strategiens toenhetsarkitektur og draftens evidensvalg. Tre substansielle endringer. Draftens fjerde avsnitt åpnet med «Jeg har ikke arbeidet med OKR som metodikk»; det er fjernet som eget avsnitt og den positive delen er lagt inn i avsnitt 1 gjennom workshop- og forankringsarbeidet, i tråd med at gapet ikke skal få et defensivt avsnitt når teksten ikke påstår OKR noe sted. Gapet står i review. Avsnitt 2 sluttet med en setning om at styringsdialogen avhenger av avstemte tall, og avsnitt 3 med at et måltall ingen kan etterprøve ikke styrer noe; begge var tolkninger av det avsnittet allerede hadde vist og er fjernet. Motivasjonen om at Huseierne har vokst forbi styringsformen sin er flyttet til avslutningen. Rettet også en tidsangivelse: draftens «Året før» om klinikkstaben var feil, perioden lå lenger tilbake enn styringsløsningens eierskapsperiode."
+}

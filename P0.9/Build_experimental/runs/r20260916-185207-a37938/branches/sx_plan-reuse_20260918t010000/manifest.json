@@ -1,0 +1,228 @@
+{
+  "artifact_role": "RUN_MANIFEST",
+  "run_id": "r20260916-185207-a37938/branches/sx_plan-reuse_20260918t010000",
+  "parent_run_id": "r20260916-185207-a37938",
+  "spec_revision": "0.10.0-exp",
+  "schema_revision": "0.10.0-exp",
+  "frozen_at": "2026-09-18T01:00:00Z",
+  "frozen_inputs": {
+    "authorities": {
+      "WORK": {
+        "path": "authorities/Work_experience.md",
+        "sha256": "64e2f79d1021473923c283a1f42d1a734c6a10223626748ea2ebccb1382974f8",
+        "bytes": 87249
+      },
+      "EDU": {
+        "path": "authorities/Education.md",
+        "sha256": "d384ff8328da7127f79868e4eb49cfafd8bcde246457741c655456aa4104ae8f",
+        "bytes": 28307
+      },
+      "OTHER": {
+        "path": "authorities/Other_high_value_information.md",
+        "sha256": "0739f2a4c815c6dab9436816f1648c0346497f25414bea2760b1b4d2bb48c40a",
+        "bytes": 34412
+      }
+    },
+    "cv_baseline": {
+      "path": "authorities/CV_BASELINE.md",
+      "sha256": "ee0af45e2986ae076db9895383d95a831070fe7c069fcbf31942a43a03a4bc8c",
+      "bytes": 7294
+    },
+    "personality_profile": {
+      "path": "context/PERSONALITY_PROFILE.md",
+      "sha256": "40173f66614d746d52293c1ef46479b2622d6461e613853a085eef8d966de6e9",
+      "bytes": 8444
+    },
+    "personality_facet_index": {
+      "path": "policy/personality_facets.json",
+      "sha256": "1196aae7eab46f340d5beb0835d9f3862847027804035941e0c3bcf7c15b854d",
+      "bytes": 15077
+    },
+    "settings": {
+      "path": "policy/settings.toml",
+      "sha256": "86d6c7f0a147ea0bf0a593d8aa0d7fad2d2765928feb9210601e60cf32a2f7d1",
+      "bytes": 3397
+    },
+    "stage_instructions": {
+      "stage0": {
+        "path": "policy/stages/stage0_scout.md",
+        "sha256": "5845dbda145d20b84521dda282f34d58eb5fef9d512de77c7ed62df99223db2d",
+        "bytes": 3869
+      },
+      "stage1": {
+        "path": "policy/stages/stage1_architect.md",
+        "sha256": "98a1cdb6d177b8816eaf4903ce4d5bd714426286414fef290c698cb7158daf94",
+        "bytes": 4941
+      },
+      "stage2": {
+        "path": "policy/stages/stage2_advocate.md",
+        "sha256": "08763d85de24cdd3e75e3dc6296411a7173ff6f9696fb0f26cfc4d522db92897",
+        "bytes": 4643
+      },
+      "stage3": {
+        "path": "policy/stages/stage3_editor.md",
+        "sha256": "8c8741f6702fae8a1ef5947aec10f620c9c947956cf3eda1ae9b43a8660a901f",
+        "bytes": 4249
+      }
+    },
+    "writing_policy": [
+      {
+        "path": "policy/writing/FORFATTERSTEMME.md",
+        "sha256": "882e4f5e2c7114f5c6a115c82f51bf7810a316cf47080a5438801780963d000b",
+        "bytes": 13932
+      },
+      {
+        "path": "policy/writing/PERSUASION_CALIBRATION.md",
+        "sha256": "be9d7496b01de5009db100885a34715d8fd2df7adc5b8147193af613699b8e83",
+        "bytes": 8820
+      },
+      {
+        "path": "policy/writing/WRITING_DOCTRINE.md",
+        "sha256": "e9e3cb555e6668f60790586d44b79e9a3c31e51cffc4a081f2eb118364f76cb9",
+        "bytes": 23452
+      }
+    ],
+    "schemas": [
+      {
+        "path": "schemas/advocacy_draft.schema.json",
+        "sha256": "7aa3b0f55338c10a66678db0d967cf8b7d37cd5e14cd55afa2b8d7062ff11443",
+        "bytes": 6773
+      },
+      {
+        "path": "schemas/baseline_map.schema.json",
+        "sha256": "3d35e3407948fefcd1eac361c0d81503211fdc6166acc93fb12423fbe768ae7b",
+        "bytes": 5571
+      },
+      {
+        "path": "schemas/brief.schema.json",
+        "sha256": "1bb4696d31bff177c5eb2cb940a5a355b7c3b3ae5512b7573a7a7446ca09298e",
+        "bytes": 12314
+      },
+      {
+        "path": "schemas/cv_draft.schema.json",
+        "sha256": "608c03ec44c17090b462ee241295ddf9890cc9f6e9dad0ea664f64fae27daa3a",
+        "bytes": 4476
+      },
+      {
+        "path": "schemas/evidence_index.schema.json",
+        "sha256": "d40ba08f8891b352c9597793e254de970d5269645e85a43ac3374c09502687c3",
+        "bytes": 4011
+      },
+      {
+        "path": "schemas/manifest.schema.json",
+        "sha256": "aa2d5f1f11c2267f606bae50d93c55996a390d420546a9ec628080eee241c2bf",
+        "bytes": 13137
+      },
+      {
+        "path": "schemas/package.schema.json",
+        "sha256": "7dd0601848d9576d09c09de45d1ce942763153e939cb81f03486cb47553a1de6",
+        "bytes": 7228
+      },
+      {
+        "path": "schemas/polish.schema.json",
+        "sha256": "fbb7f8e83e2878f89690416983416eea83e43b164405b6cf9aa632684adf298f",
+        "bytes": 7337
+      },
+      {
+        "path": "schemas/render_report.schema.json",
+        "sha256": "a030d08d4e4c82faa605030d2ee8aeef4da35a94a9088d28c45950f59726993c",
+        "bytes": 8535
+      },
+      {
+        "path": "schemas/review.schema.json",
+        "sha256": "00ce00ac459dacb20c7e63726fe6c43ce37d8c361ac85042705d9e9b5db22ed5",
+        "bytes": 4471
+      },
+      {
+        "path": "schemas/scout.schema.json",
+        "sha256": "8598a70ada3e589df7edbe9507ce240bde988417ec2957292b92dfcadecd3556",
+        "bytes": 10660
+      },
+      {
+        "path": "schemas/status.schema.json",
+        "sha256": "5e433b3c3376e7c153348da7233b39b98074247fd6bf0a132d2406172e5c0b48",
+        "bytes": 10106
+      }
+    ],
+    "templates": {
+      "cv_master": {
+        "path": "templates/CV_MASTER.docx",
+        "sha256": "b656c2d55f6c40e43f5cbac2a13404a61168c718a1830566a082cfb432cdd971",
+        "bytes": 39123
+      },
+      "letter_master": {
+        "path": "templates/APPLICATION_MASTER.docx",
+        "sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+        "bytes": 37480
+      }
+    },
+    "template_map": {
+      "path": "templates/template_map.json",
+      "sha256": "0ea47ee3a013072afc3799b36dae07df53c5c4f78d709f29631a9438a578b6bd",
+      "bytes": 9182
+    },
+    "evidence_index": {
+      "path": "generated/evidence_index.json",
+      "sha256": "45656f26743b9acf2399e79683302bb2baa30248fb7b1d2b94f041fe988ffb95",
+      "bytes": 71810
+    },
+    "baseline_map": {
+      "path": "generated/baseline_map.json",
+      "sha256": "513363e273559a00cf68694974e8ce869f0b3aa2efa804e10f7def15358bf9e9",
+      "bytes": 6972
+    }
+  },
+  "settings_snapshot": {
+    "language": "nb-NO",
+    "personality": {
+      "max_selected_facets": 3
+    },
+    "role_mapping": {
+      "SCOUT": "Claude Code / Sonnet 5 (High)",
+      "ARCHITECT": "Claude Code / Opus 5 (xhigh)",
+      "ADVOCATE": "Codex / GPT-6 Astra (Medium)",
+      "EDITOR": "Claude Code / Opus 5 (Medium) + Fable 5.1 advisor"
+    },
+    "capacity": {
+      "cv_dynamic_words": 600,
+      "letter_words": 400
+    },
+    "render": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_timeout_seconds": 180
+    }
+  },
+  "baseline_reconciliation": {
+    "reviewed_by": "smoke fixture",
+    "reviewed_at": "2026-09-16",
+    "authority_hashes_at_review": {
+      "WORK": "64e2f79d1021473923c283a1f42d1a734c6a10223626748ea2ebccb1382974f8",
+      "EDU": "d384ff8328da7127f79868e4eb49cfafd8bcde246457741c655456aa4104ae8f",
+      "OTHER": "0739f2a4c815c6dab9436816f1648c0346497f25414bea2760b1b4d2bb48c40a"
+    },
+    "conflicts_known": []
+  },
+  "jobs": [
+    {
+      "job_id": "abacus_erp_radgiver",
+      "employer": "Abacus IT AS",
+      "title": "Senior ERP-rådgivere og ERP-rådgivere",
+      "unit": null,
+      "reference": null,
+      "deadline": null,
+      "job_class": "CORE",
+      "exception_note": null,
+      "cluster": "smoke",
+      "sequence": 4,
+      "priority": "HIGH",
+      "source": {
+        "relpath": "jobs/abacus_erp_radgiver/source/Senior ERP-rådgivere og ERP-rådgivere innen BNXT by Visma (Finans_Logistikk) _ FINN.no.pdf",
+        "sha256": "a8d89ed3dba07d31d1ccfcf48643893dccd185bb9758210aad50770e4ade7c3a",
+        "bytes": 235142,
+        "media_type": "application/pdf"
+      },
+      "requires_source_inspection": false
+    }
+  ]
+}

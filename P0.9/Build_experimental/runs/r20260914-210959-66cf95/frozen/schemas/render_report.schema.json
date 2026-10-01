@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/render_report.schema.json",
+  "title": "RenderReport",
+  "description": "Deterministic per-document render evidence and the current render-state source (Contract 5.7, DEC-21, DEC-41).\n\nA missing or failed PDF whose corresponding DOCX is valid is DEGRADED, not a semantic failure. There is no DOCX_ONLY product mode and no semantic status variant such as READY_DOCX_ONLY.\n\nThe recorded output_sha256 of each promoted file is what later renders compare against to detect a human-edited deliverable before replacing it (ACC-17).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "binding",
+    "render_state",
+    "documents",
+    "rendered_at"
+  ],
+  "properties": {
+    "artifact_role": { "const": "RENDER_REPORT" },
+
+    "binding": {
+      "type": "object",
+      "description": "Binds to the current final package, its document date, and the baseline/template/render configuration (Spec 7.2).",
+      "additionalProperties": false,
+      "required": [
+        "run_id",
+        "job_id",
+        "final_package_sha256",
+        "document_date",
+        "baseline_map_sha256",
+        "cv_master_sha256",
+        "letter_master_sha256",
+        "template_map_sha256",
+        "render_config"
+      ],
+      "properties": {
+        "run_id": { "type": "string", "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}(?:/branches/stage[013]_[a-z0-9][a-z0-9-]{0,7}_[0-9]{8}T[0-9]{6}Z)?$" },
+        "job_id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$" },
+        "final_package_sha256": { "$ref": "#/$defs/sha256" },
+        "document_date": { "type": "string", "format": "date" },
+        "baseline_map_sha256": { "$ref": "#/$defs/sha256" },
+        "cv_master_sha256": { "$ref": "#/$defs/sha256" },
+        "letter_master_sha256": { "$ref": "#/$defs/sha256" },
+        "template_map_sha256": { "$ref": "#/$defs/sha256" },
+        "render_config": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["converter", "invocation_granularity"],
+          "properties": {
+            "converter": { "enum": ["word_com", "libreoffice", "none", "auto"] },
+            "invocation_granularity": { "enum": ["per_document", "per_job"] },
+            "converter_version": { "type": ["string", "null"] }
+          }
+        }
+      }
+    },
+
+    "render_state": {
+      "type": "object",
+      "description": "Component-level render axis, orthogonal to semantic triage and production state (DEC-42). A PDF problem never becomes a semantic status.",
+      "additionalProperties": false,
+      "required": ["cv_docx", "cv_pdf", "letter_docx", "letter_pdf", "overall"],
+      "properties": {
+        "cv_docx": { "$ref": "#/$defs/componentState" },
+        "cv_pdf": { "$ref": "#/$defs/componentState" },
+        "letter_docx": { "$ref": "#/$defs/componentState" },
+        "letter_pdf": { "$ref": "#/$defs/componentState" },
+        "overall": {
+          "enum": ["NOT_RENDERED", "OK", "DEGRADED", "FAILED"],
+          "description": "OK: both DOCX valid and both PDFs verified. DEGRADED: both DOCX valid, at least one PDF missing or failed. FAILED: a required DOCX is missing or invalid. Both valid DOCX files are the minimum conforming employer-document result (DEC-41)."
+        }
+      }
+    },
+
+    "documents": {
+      "type": "array",
+      "minItems": 2,
+      "description": "One entry per document/format attempted, each independently verified (DEC-21 step 8).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["component", "format", "state", "checks"],
+        "properties": {
+          "component": { "enum": ["cv", "letter"] },
+          "format": { "enum": ["docx", "pdf"] },
+          "state": { "$ref": "#/$defs/componentState" },
+          "output_path": { "type": ["string", "null"] },
+          "output_sha256": { "type": ["string", "null"], "pattern": "^[a-f0-9]{64}$" },
+          "bytes": { "type": ["integer", "null"], "minimum": 0 },
+          "promotion": {
+            "enum": ["CREATED", "REPLACED", "REFUSED_FOREIGN", "FORCED", "DIVERTED", null],
+            "description": "REFUSED_FOREIGN means an existing deliverable did not match the hash this pipeline last wrote, so it was preserved rather than overwritten (ACC-17)."
+          },
+          "command": { "type": ["string", "null"] },
+          "tool_version": { "type": ["string", "null"] },
+          "exit_code": { "type": ["integer", "null"] },
+          "diagnostics": { "type": "array", "items": { "type": "string" } },
+          "page_count": { "type": ["integer", "null"], "minimum": 0 },
+          "checks": {
+            "type": "object",
+            "description": "Document-specific verification. Not a single universal string list (Spec 16.7, Contract 14.3).",
+            "additionalProperties": false,
+            "properties": {
+              "exists": { "type": "boolean" },
+              "nonzero": { "type": "boolean" },
+              "openable": { "type": "boolean" },
+              "no_residual_sdt": { "type": "boolean" },
+              "no_placeholder": { "type": "boolean" },
+              "no_private_token": { "type": "boolean" },
+              "identity_present": { "type": "boolean" },
+              "headline_present": { "type": "boolean" },
+              "chronology_anchors_present": { "type": "boolean" },
+              "employer_addressing_present": { "type": "boolean" },
+              "override_bullets_visible": { "type": "boolean" },
+              "text_extractable": { "type": "boolean" },
+              "no_clipped_blocks": { "type": "boolean" },
+              "no_blank_page": { "type": "boolean" }
+            }
+          },
+          "limitation": { "type": ["string", "null"] },
+          "human_action": {
+            "type": ["string", "null"],
+            "description": "For DEGRADED PDF: the manual export step the operator can take (GATE-03 fallback)."
+          },
+          "warnings": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+
+    "rendered_at": { "type": "string", "format": "date-time" }
+  },
+
+  "$defs": {
+    "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "componentState": { "enum": ["NOT_ATTEMPTED", "OK", "DEGRADED", "FAILED"] }
+  }
+}

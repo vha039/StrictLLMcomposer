@@ -1,0 +1,33 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Two explicit MINIMUM requirements are not documented in the authorities: recent experience with state grant administration, and knowledge of the state financial-management regulations and grant law. The letter names this once, after the evidence, together with the supported ramp-up signal from BAR. No text repair remains.",
+      "recommended_action": "At approval, accept that the application goes forward with this known gap. No edit is needed."
+    },
+    {
+      "priority": 2,
+      "reason": "The employer requires the Jobbnorge fields for education and work experience to be completed, a diploma uploaded from Vitnemålsportalen, and references (attester) confirming position size. The deadline is 25.09.2026, one day away.",
+      "recommended_action": "Fill in the fields and upload the documents manually when submitting. None of this belongs in the package."
+    },
+    {
+      "priority": 3,
+      "reason": "The vacancy is written in Nynorsk. The package is in Bokmål by design and makes no claim about Nynorsk writing ability.",
+      "recommended_action": "None, unless the candidate wants to address it in an interview."
+    }
+  ],
+  "known_limitations": [
+    "Not documented: recent state grant administration (R02), knowledge of state financial-management regulations and grant law (R04), or grant case handling, recipient accounts control and recipient follow-up (R17).",
+    "Not documented: reporting to or dialogue with a ministry or other superior body (R13), and experience with voluntary organisations or Bufdir's target groups (R14).",
+    "Collaboration is documented only internally at OUS: a stakeholder process of about 50 people, workshops, and Power BI training beyond his own department. External collaboration is not documented, and whether the training went outside OUS is unresolved.",
+    "The allocation model was completed and handed over to controllers in early 2026. Its organisational use and realised benefits are unresolved. The text claims neither.",
+    "The views on how AI could be used in grant work are the candidate's forward-looking proposal. They are not delivered work and not knowledge of Bufdir's systems."
+  ],
+  "material_strategy_change": "The strategy deprioritised AI as novelty value, but R07 is a MINIMUM requirement that explicitly asks for thoughts on how AI could change grant work. The final gives AI its own letter paragraph: the registered superuser role, the human-governed workflow, and a bounded proposal that leaves the assessment of each applicant with the case handler. The budget-tool case now carries R20: he recommended a broader restructuring, the implementation lead chose a narrow refactor, and he delivered it under control. The benefits framework (PRJ-04) moved to the CV only. The letter adds one explicit gap sentence placed after the evidence.",
+  "upstream_claim_repaired": "Understatement repaired: the strategy classed R07 as ADJACENT and steered away from AI, which would have left a minimum requirement thinly answered even though the superuser role and the human-governed AI workflow are documented. Internal labels (STE, REGERP, DRG) were translated or dropped for a Bufdir reader. No inflated upstream claim was found.",
+  "notes": [
+    "The SUPPORTED minimum requirements R01, R05, R06, R08 and R10, and the important requirement R20, are all answered in the CV and letter pair.",
+    "The platform's JobMatch percentage and its AI-generated skills list were treated as platform content, not as employer requirements."
+  ]
+}

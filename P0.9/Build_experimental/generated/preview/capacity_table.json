@@ -1,0 +1,123 @@
+[
+  {
+    "job": "tietotech_prosjektleder_endringsleder",
+    "cv_words": 488,
+    "cv_pages": 2,
+    "headline_lines": 2,
+    "letter_words": 497,
+    "letter_pages": 1,
+    "tail": {},
+    "signals": [
+      "stock close",
+      "«søker … fordi»",
+      "identity opening",
+      "title restated in opening",
+      "repeated transfer bridge x2"
+    ],
+    "error": null
+  },
+  {
+    "job": "bearingpoint_forretning_teknologi",
+    "cv_words": 588,
+    "cv_pages": 2,
+    "headline_lines": 2,
+    "letter_words": 441,
+    "letter_pages": 1,
+    "tail": {},
+    "signals": [
+      "identity opening",
+      "bolt-on marker"
+    ],
+    "error": null
+  },
+  {
+    "job": "amesto_ai_transformasjon",
+    "cv_words": 591,
+    "cv_pages": 2,
+    "headline_lines": 1,
+    "letter_words": 471,
+    "letter_pages": 1,
+    "tail": {},
+    "signals": [
+      "«søker … fordi»",
+      "identity opening",
+      "bolt-on marker"
+    ],
+    "error": null
+  },
+  {
+    "job": "visma_product_manager",
+    "cv_words": 605,
+    "cv_pages": 2,
+    "headline_lines": 2,
+    "letter_words": 0,
+    "letter_pages": null,
+    "tail": {},
+    "signals": [],
+    "error": null
+  },
+  {
+    "job": "stortinget_virksomhetsstyring_lederstotte",
+    "cv_words": 431,
+    "cv_pages": 2,
+    "headline_lines": 1,
+    "letter_words": 458,
+    "letter_pages": 1,
+    "tail": {},
+    "signals": [
+      "stock close",
+      "«søker … fordi»",
+      "title restated in opening",
+      "bolt-on marker",
+      "first person in CV",
+      "repeated transfer bridge x2"
+    ],
+    "error": null
+  },
+  {
+    "job": "norwegian_senior_manager_digital_governance",
+    "cv_words": 504,
+    "cv_pages": 2,
+    "headline_lines": 1,
+    "letter_words": 446,
+    "letter_pages": 1,
+    "tail": {},
+    "signals": [
+      "«søker … fordi»",
+      "title restated in opening",
+      "bolt-on marker",
+      "first person in CV"
+    ],
+    "error": null
+  },
+  {
+    "job": "eie_systemkoordinator",
+    "cv_words": 424,
+    "cv_pages": 2,
+    "headline_lines": 2,
+    "letter_words": 374,
+    "letter_pages": 1,
+    "tail": {},
+    "signals": [
+      "«søker … fordi»",
+      "title restated in opening",
+      "bolt-on marker",
+      "repeated transfer bridge x2"
+    ],
+    "error": null
+  },
+  {
+    "job": "abacus_erp_radgiver",
+    "cv_words": 459,
+    "cv_pages": 2,
+    "headline_lines": 2,
+    "letter_words": 335,
+    "letter_pages": 1,
+    "tail": {},
+    "signals": [
+      "title restated in opening",
+      "bolt-on marker"
+    ],
+    "error": null
+  }
+]

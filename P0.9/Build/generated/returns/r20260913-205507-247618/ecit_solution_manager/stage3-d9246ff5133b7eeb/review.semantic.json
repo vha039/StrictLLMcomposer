@@ -1,0 +1,29 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken svarer på livssyklus, behovsprioritering, løsningsforslag og testing og opplæring med dokumentert arbeid: tidligere eierskap til et styringsdashbord gjennom drift og forbedring, to runder videreutvikling av budsjetteringsverktøyet med om lag 50 involverte, og en bestilling som ble gjort om fordi datagrunnlaget ikke bar den. Ingen kjent ustøttet påstand gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "CRM, nettsider, digitale signeringsløsninger, kommersielle KPI-er og leverandør- eller kontraktsoppfølging er ikke dokumentert, og kandidaten har ingen formell prosjektlederrolle. Søknaden sier dette én gang.",
+      "recommended_action": "Ingen endring nødvendig.",
+      "priority": 2
+    },
+    {
+      "reason": "Kravet om 3 til 5 års erfaring med prosjektledelse, system- eller prosessutvikling er bare delvis besvart: system- og prosessutvikling er dokumentert fra mars 2023, om lag tre og et halvt år, men ikke som prosjektledelse. Teksten sier «siden 2023» og påstår ikke antall år.",
+      "recommended_action": "Ingen endring nødvendig.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert erfaring med CRM, nettsider eller signeringsløsninger.",
+    "Ingen dokumentert leverandør- eller kontraktsoppfølging eller ledelse av styringsmøter.",
+    "Eierskapet til styringsdashbordet var avgrenset til om lag august 2025 til februar 2026, og løsningen er avviklet.",
+    "Scrum-, Kanban- og WIP-strukturene har blandet innført og foreslått status."
+  ],
+  "material_strategy_change": "Endret bærende bevis: la til det avgrensede eierskapet til styringsdashbordet (månedlig drift, backlog, brukertester, forbedringssprinter, oppdeling av modernisering) som første enhet fordi rollen handler om livssyklusansvar, og lot gevinstfordelingsmodellen bære annonsens «hvorfor før hvordan». Behovsskjemaer og arbeidsmodell, som strategien la som hovedbevis med design- og forslagsstatus, er flyttet til CV og en kort setning.",
+  "upstream_claim_repaired": "Understatement: strategien brukte styringsdashbordet bare som bevis for testing og brukerobservasjon og sa at livssykluseierskap ikke var dokumentert, men kilden dokumenterer formelt eierskap med månedlig drift, backlog og forbedringssprinter fra om lag august 2025 til avviklingen rundt februar 2026. Den ble heller ikke vist at budsjetteringsverktøyet gikk over to moderniseringsrunder, der kandidaten hadde vesentlig større frihet i runden for 2027.",
+  "notes": []
+}

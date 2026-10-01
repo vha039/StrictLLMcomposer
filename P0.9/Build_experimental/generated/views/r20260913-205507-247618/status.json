@@ -1,0 +1,415 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260913-205507-247618",
+  "derived_at": "2026-09-14T00:10:59Z",
+  "manifest_sha256": "d68a8bf0c96a0df58fcded9772503c06957c162c9f4762a03f049228eb60dc77",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 12,
+    "core": 12,
+    "exception": 0,
+    "semantic_final_available": 12,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 12,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 11,
+      "DEGRADED": 1,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "statnett_prosjektcontroller_digitalisering",
+      "employer": "Statnett",
+      "title": "Prosjekt controller digitalisering",
+      "cluster": "rund",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-13",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken bærer controller-ruten med dokumentert månedsoppgjør, resultatforklaring, prosjektøkonomi og budsjett fra klinikkstaben, og kontrollert videreutvikling av budsjetteringsverktøyet i sykehusdekkende bruk. Ingen kjent ustøttet påstand eller lokal reparasjon gjenstår. Action: Vanlig gjennomlesning og godkjenning. | Oppfølging av kontraktsrammer for IT-løsninger og konsulentbruk, og økonomioppfølging av en samlet digitaliseringsportefølje, er ikke dokumentert og er ikke antydet i teksten. Action: Vær forberedt på å svare på dette i intervju; ingen endring i pakken er nødvendig. | Tredje avsnitt bruker modellen for steril logistikk som eksempel på kvalitetssikring av økonomiske analyser. Den er beskrevet som ferdigstilt og overlevert, uten påstand om organisatorisk bruk eller realiserte gevinster. Action: Behold avgrensningen hvis avsnittet kortes ned. | Known limitation: Ingen dokumentert erfaring med kontraktsøkonomi, IT-anskaffelser eller konsulentoppfølging. | Known limitation: Ingen dokumentert kostnadsestimering for IT- eller teknologiprosjekter; budsjett- og prognosearbeidet er fra sykehusøkonomi. | Known limitation: Ingen formell prosjektcontroller- eller porteføljeansvarlig rolle; prosjektøkonomien i klinikkstaben var etterspørselsstyrte saker, ikke fast porteføljeansvar.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\CV_Statnett_Prosjekt_controller_digitalisering.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\CV_Statnett_Prosjekt_controller_digitalisering.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\Soknad_Statnett_Prosjekt_controller_digitalisering.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\Soknad_Statnett_Prosjekt_controller_digitalisering.pdf"
+      ]
+    },
+    {
+      "job_id": "bi_business_designer",
+      "employer": "Handelshøyskolen BI Digital",
+      "title": "Business Designer",
+      "cluster": "rund",
+      "sequence": 2,
+      "priority": "HIGH",
+      "deadline": "2026-09-13",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken svarer på de konkrete oppgavene med dokumentert arbeid: vurdering av kostnader, gevinster og løsningsform i investeringsmodellen for steril logistikk, kartlegging og kontrollert endring av et arvet system med om lag 50 involverte, og fasilitering, behovsstruktur og brukertester. Status og eierskap er holdt per case. Ingen kjent ustøttet påstand gjenstår. Action: Vanlig gjennomlesning og godkjenning. | Annonsen ber om en svært erfaren strategisk rådgiver med erfaring fra business design, tjenestedesign, virksomhetsarkitektur eller prosessanalyse. Kandidaten har tilgrensende, implementeringsnær erfaring fra sykehus og ingen slik tittel; avslutningen sier dette nøkternt. Action: Ingen endring nødvendig. Vurder i intervju hvordan senioritetsforventningen treffer. | Innledningen og første avsnitt beskriver hvordan oppdraget ble gjort om. Kilden dokumenterer at kandidaten gjorde om oppdraget og utformet modellen, men ikke hvem som bestilte eller hvordan omleggingen ble mottatt; teksten påstår ikke dette. Action: Behold formuleringen uten å legge til bestiller eller mottak. | Known limitation: Ingen dokumentert erfaring med lean canvas, forretningsmodellering, Dual Track, Continuous Discovery eller lean UX. | Known limitation: Spørreskjemaene og verktøyvurderingene for oppdragsinntak er design og evaluering, ikke dokumentert utrulling; forslag til teamstruktur har blandet innført og foreslått status. | Known limitation: Ingen formell virksomhetsarkitektur-, produkt- eller tjenestedesignrolle, og ingen erfaring fra utdanningssektoren.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\bi_business_designer\\out\\CV_Handelshoyskolen_BI_Digital_Business_Designer.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\bi_business_designer\\out\\CV_Handelshoyskolen_BI_Digital_Business_Designer.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\bi_business_designer\\out\\Soknad_Handelshoyskolen_BI_Digital_Business_Designer.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\bi_business_designer\\out\\Soknad_Handelshoyskolen_BI_Digital_Business_Designer.pdf"
+      ]
+    },
+    {
+      "job_id": "digdir_nobid_prosjektmedarbeider",
+      "employer": "Digitaliseringsdirektoratet (Digdir)",
+      "title": "Prosjektmedarbeider NOBID",
+      "cluster": "rund",
+      "sequence": 3,
+      "priority": "HIGH",
+      "deadline": "2026-09-13",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Minstekravet om prosesser med flere virksomheter og fagmiljøer er besvart med ferdig, innført arbeid: et rammeverk utviklet i team og innført som felles standard i hele sykehuset, en videreutvikling med om lag 50 deltakere og kompetanseoverføring til en annen organisasjon. Utdannings- og språkkravene er dokumentert. Ingen kjent ustøttet påstand gjenstår. Action: Vanlig gjennomlesning og godkjenning. | Pakken er en reell strekk mot rollens domene: eID, identitetsforvaltning, nordisk-baltisk samarbeid, Nordisk ministerråd og møteledelse på engelsk for politiske grupper er ikke dokumentert. Søknaden sier dette én gang og bygger en positiv bro med dokumentert rask opplæring, uten å antyde domeneerfaring. Action: Ingen endring nødvendig. Vurder om søknaden er verdt å sende gitt domenegapet; det er en søknadsbeslutning, ikke en reparasjon. | Workshops er dokumentert på norsk og innad i sykehuset. Engelsk er dokumentert som flytende og med skolegang fra Calgary, men ikke som erfaring med å lede møter eller presentasjoner på engelsk. Action: Behold formuleringen om engelsk slik den står; ikke legg til internasjonal møteerfaring. | Known limitation: Ingen dokumentert kjennskap til eID, eIDAS2, identitetslommebok eller aktørene i identitetsforvaltningen. | Known limitation: Ingen dokumentert erfaring med samarbeid på tvers av land, med Nordisk ministerråd eller med politiske grupper. | Known limitation: Ingen formell prosjektlederrolle eller dokumentert ansvar for fremdrift, rapportering og resultatoppnåelse i et samlet prosjekt. | Known limitation: Ingen dokumentert erfaring med utvikling av strategier eller målbilder utover metode- og løsningsarbeid.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\digdir_nobid_prosjektmedarbeider\\out\\CV_Digitaliseringsdirektoratet_Digdir_Prosjektmedarbeider_NOBID.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\digdir_nobid_prosjektmedarbeider\\out\\CV_Digitaliseringsdirektoratet_Digdir_Prosjektmedarbeider_NOBID.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\digdir_nobid_prosjektmedarbeider\\out\\Soknad_Digitaliseringsdirektoratet_Digdir_Prosjektmedarbeider_NOBID.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\digdir_nobid_prosjektmedarbeider\\out\\Soknad_Digitaliseringsdirektoratet_Digdir_Prosjektmedarbeider_NOBID.pdf"
+      ]
+    },
+    {
+      "job_id": "nasjonalmuseet_forretningsutvikling",
+      "employer": "Nasjonalmuseet",
+      "title": "Seniorrådgiver forretningsutvikling",
+      "cluster": "rund",
+      "sequence": 4,
+      "priority": "HIGH",
+      "deadline": "2026-09-13",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken svarer på metodeverk, oppfølging av tiltak og anvendbar formidling med dokumentert arbeid: et felles gevinstrealiseringsrammeverk innført i hele sykehuset, oppfølging av økonomiske tiltak i klinikkstaben, brukertester av en analyseløsning og en modell med synlige forutsetninger. Erfaringskravet er formulert som publikumsutvikling, målgruppearbeid, forretningsutvikling, analyse eller strategiarbeid, og analyseerfaringen dekker det. Ingen kjent ustøttet påstand gjenstår. Action: Vanlig gjennomlesning og godkjenning. | Publikumsutvikling, målgruppearbeid, medlemskap, inntektsvekst og kommersiell publikumsreise er ikke dokumentert. Søknaden sier dette én gang i avslutningen og påstår ingen overføring av resultater. Action: Ingen endring nødvendig. Vurder om søknaden er verdt å sende gitt sektorgapet. | Kravet om erfaring med kvalitative og kvantitative innsiktsmetoder er bare delvis besvart: kvantitativ analyse, økonometri og prognoser er dokumentert, mens den kvalitative siden bare er dekket av brukertester og observasjon, ikke intervjuer, segmentering eller publikumsundersøkelser. Action: Ingen endring nødvendig; ikke legg til kvalitative metoder uten ny kildestøtte. | Known limitation: Ingen dokumentert publikums-, markeds-, medlems- eller inntektserfaring. | Known limitation: Ingen dokumentert kvalitativ innsiktsmetodikk utover brukertester og observasjon. | Known limitation: Rollen har overordnet fagansvar; kandidaten har ikke formelt fagansvar eller metodelederrolle, og gevinstrammeverket var teamarbeid. | Known limitation: Erfaring fra matriseorganisasjon er ikke dokumentert som formell arbeidsform.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\CV_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\CV_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\Soknad_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\Soknad_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.pdf"
+      ]
+    },
+    {
+      "job_id": "stortinget_virksomhetsstyring_lederstotte",
+      "employer": "Stortinget",
+      "title": "seniorrådgiver/rådgiver",
+      "cluster": "rund",
+      "sequence": 5,
+      "priority": "HIGH",
+      "deadline": "2026-09-14",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken forankrer kandidaten i dokumenterte plasseringer i to stabsenheter i offentlig sektor, lederrapportering og behovsstyrte oppgaver i klinikkstaben, arbeidsstruktur og workshops i Analyseavdelingen, og en registrert KI-superbrukerrolle som svarer direkte på annonsens vekt på digitale verktøy og kunstig intelligens. Ingen kjent ustøttet påstand gjenstår. Action: Vanlig gjennomlesning og godkjenning. | Administrativ lederstøtte i snever forstand (møte- og saksoppfølging for en ledergruppe, årshjul, samlinger, Decisions og Planner) er ikke dokumentert. Stabserfaringen er økonomi- og analysefaglig. Teksten påstår ikke mer. Action: Ingen endring nødvendig; vær forberedt på spørsmål om dette i intervju. | Autorisasjon for HEMMELIG og kompetanse i kontinuitetsplanlegging og beredskap kan ikke dokumenteres og er ikke omtalt i søknaden. Tidligere tjeneste som vakt- og sikringssoldat står i CV-en med baselinepunktet. Action: Ingen endring i pakken; autorisasjon avgjøres i arbeidsgivers prosess. | Known limitation: Ingen dokumentert erfaring med Decisions, Planner, årshjul eller administrativ oppfølging av en ledergruppe. | Known limitation: Ingen dokumentert sikkerhetsklarering eller beredskapsfaglig kompetanse. | Known limitation: Seniorrådgivernivå forutsetter fortrinnsvis fem års relevant erfaring; relevant stabserfaring er fra mars 2023. | Known limitation: KI-superbrukerrollen har ikke oppgitt antall brukere, formelt organisasjonsomfattende støtteansvar eller styringsmandat.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\CV_Stortinget_seniorradgiver_radgiver.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\CV_Stortinget_seniorradgiver_radgiver.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\Soknad_Stortinget_seniorradgiver_radgiver.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\Soknad_Stortinget_seniorradgiver_radgiver.pdf"
+      ]
+    },
+    {
+      "job_id": "eie_systemkoordinator",
+      "employer": "EIE eiendomsmegling",
+      "title": "Systemkoordinator",
+      "cluster": "rund",
+      "sequence": 6,
+      "priority": "NORMAL",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken leder med den registrerte KI-superbrukerrollen og tekniske henvendelser fra kolleger, en kontrollert KI-arbeidsmåte, verktøy tatt i bruk av mange brukere med opplæringsmateriell, og kundedialog fra Sector Alarm. Dette svarer på minstekravene om økonomi- eller IT-kompetanse, systemarbeid og kundedialog. Ingen kjent ustøttet påstand gjenstår. Action: Vanlig gjennomlesning og godkjenning. | Eiendomsmegling, Core, EIE 365, oppsett av systemer ved nye kontorer og leverandørkoordinering er ikke dokumentert. Avslutningen sier kort at bransjen og systemene må læres. Action: Ingen endring nødvendig. | KI-superbrukerrollen har ikke oppgitt antall brukere eller formelt støtteansvar, og KI-arbeidet er metode i analyse og utvikling, ikke et KI-produkt eller målt effektivisering. Teksten holder seg innenfor dette. Action: Behold avgrensningen hvis teksten redigeres. | Known limitation: Ingen dokumentert eiendomsmeglerbakgrunn eller erfaring med meglernes arbeidsflyt. | Known limitation: Ingen dokumentert systemadministrasjon, leverandørkoordinering eller ansvar for en supportfunksjon. | Known limitation: Kundedialogen er fra salgsarbeid i 2013 til 2014; nyere dialog er med interne brukere og kolleger. | Known limitation: Ingen dokumentert effekt av KI-bruk i form av sparte timer eller produktivitet.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\eie_systemkoordinator\\out\\CV_EIE_eiendomsmegling_Systemkoordinator.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\eie_systemkoordinator\\out\\CV_EIE_eiendomsmegling_Systemkoordinator.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\eie_systemkoordinator\\out\\Soknad_EIE_eiendomsmegling_Systemkoordinator.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\eie_systemkoordinator\\out\\Soknad_EIE_eiendomsmegling_Systemkoordinator.pdf"
+      ]
+    },
+    {
+      "job_id": "ecit_solution_manager",
+      "employer": "ECIT",
+      "title": "Solution Manager, Commercial",
+      "cluster": "rund",
+      "sequence": 7,
+      "priority": "NORMAL",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken svarer på livssyklus, behovsprioritering, løsningsforslag og testing og opplæring med dokumentert arbeid: tidligere eierskap til et styringsdashbord gjennom drift og forbedring, to runder videreutvikling av budsjetteringsverktøyet med om lag 50 involverte, og en bestilling som ble gjort om fordi datagrunnlaget ikke bar den. Ingen kjent ustøttet påstand gjenstår. Action: Vanlig gjennomlesning og godkjenning. | CRM, nettsider, digitale signeringsløsninger, kommersielle KPI-er og leverandør- eller kontraktsoppfølging er ikke dokumentert, og kandidaten har ingen formell prosjektlederrolle. Søknaden sier dette én gang. Action: Ingen endring nødvendig. | Kravet om 3 til 5 års erfaring med prosjektledelse, system- eller prosessutvikling er bare delvis besvart: system- og prosessutvikling er dokumentert fra mars 2023, om lag tre og et halvt år, men ikke som prosjektledelse. Teksten sier «siden 2023» og påstår ikke antall år. Action: Ingen endring nødvendig. | Known limitation: Ingen dokumentert erfaring med CRM, nettsider eller signeringsløsninger. | Known limitation: Ingen dokumentert leverandør- eller kontraktsoppfølging eller ledelse av styringsmøter. | Known limitation: Eierskapet til styringsdashbordet var avgrenset til om lag august 2025 til februar 2026, og løsningen er avviklet. | Known limitation: Scrum-, Kanban- og WIP-strukturene har blandet innført og foreslått status.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\ecit_solution_manager\\out\\CV_ECIT_Solution_Manager_Commercial.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\ecit_solution_manager\\out\\CV_ECIT_Solution_Manager_Commercial.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\ecit_solution_manager\\out\\Soknad_ECIT_Solution_Manager_Commercial.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\ecit_solution_manager\\out\\Soknad_ECIT_Solution_Manager_Commercial.pdf"
+      ]
+    },
+    {
+      "job_id": "tietotech_prosjektleder_endringsleder",
+      "employer": "Tieto Tech Consulting",
+      "title": "Prosjektleder & Endringsleder",
+      "cluster": "rund",
+      "sequence": 8,
+      "priority": "NORMAL",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Minstekravet om minimum fem års erfaring som endringsleder, prosessleder eller prosjektleder er ikke oppfylt, og søknaden sier det uttrykkelig i åpningen. Pakken inneholder ingen kjent ustøttet påstand og trenger ingen lokal reparasjon; spørsmålet er om søknaden skal sendes. Action: Avgjør om søknaden skal sendes gitt minstekravet. Hvis den sendes, er vanlig gjennomlesning tilstrekkelig. | De bærende enhetene svarer på annonsens uttalte resultater: et gevinstrealiseringsrammeverk utviklet i team og innført i hele sykehuset, verktøy tatt i bruk av mange med opplæringsmateriell, og KI-støttede arbeidsprosesser med registrert superbrukerrolle. Action: Ingen endring nødvendig. | Konsulenterfaring, utvikling av kunderelasjoner og nye oppdrag, dialog med toppledelse og sertifiseringer (PRINCE2, PROSCI, PMP, SAFe, Lean, Scrum Master) er ikke dokumentert. Avslutningen nevner at kandidaten ikke har jobbet som konsulent. Action: Ingen endring nødvendig. | Known limitation: Minstekravet om fem års erfaring som endrings-, prosess- eller prosjektleder er ikke oppfylt; relevant erfaring er fra mars 2023 og uten formell lederrolle. | Known limitation: Ingen dokumentert konsulent-, salgs- eller kundeoppdragserfaring. | Known limitation: Ingen sertifiseringer innen prosjekt- eller endringsledelse. | Known limitation: Gevinstrammeverket var teamarbeid, og det finnes ingen målt adopsjon eller realisert gevinst knyttet til kandidatens arbeid.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\CV_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\CV_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\Soknad_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\Soknad_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.pdf"
+      ]
+    },
+    {
+      "job_id": "kpmg_transformasjon_omstilling",
+      "employer": "KPMG Norge",
+      "title": "Konsulent: Transformasjon og omstilling",
+      "cluster": "rund",
+      "sequence": 9,
+      "priority": "NORMAL",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "DEGRADED",
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "OK",
+        "letter_pdf": "DEGRADED",
+        "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+        "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken svarer på kartlegging, datadrevet analyse, beslutningsgrunnlag, gevinstmetodikk og implementering med tre dokumenterte og tydelig avgrensede arbeider. Action: Vanlig gjennomlesning og godkjenning. | Konsulenterfaring, formell prosjektledelse, nedbemanning og salg er reelle gap. Søknaden sier dette samlet uten å svekke de dokumenterte bidragene eller antyde at minstekravene er oppfylt. Action: Vær forberedt på å forklare overgangen fra intern rådgivning til kundeoppdrag i intervju. Ingen lokal tekstreparasjon gjenstår. | Alle sterke resultater beholder korrekt attribusjon og status: gevinstmetodikken er teamutviklet og innført, budsjettverktøyet er i bruk, og proxy-modellen er ferdigstilt og overlevert uten påstand om organisatorisk bruk eller realiserte gevinster. Action: Behold disse skillene ved eventuell manuell komprimering. | Known limitation: Ingen dokumentert konsulenterfaring, formell prosjektlederrolle eller kundeansvar. | Known limitation: Ingen dokumentert erfaring med nedbemanning, organisasjonsomlegging eller lønnsomhetsprogrammer. | Known limitation: Ingen dokumentert erfaring med salgsprosesser eller utvikling av kommersielle kunderelasjoner. | Known limitation: Rammeverket for gevinstrealisering var teamarbeid, uten dokumentert metodelederrolle eller målt effekt.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\kpmg_transformasjon_omstilling\\out\\CV_KPMG_Norge_Konsulent_Transformasjon_og_omstilling.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\kpmg_transformasjon_omstilling\\out\\Soknad_KPMG_Norge_Konsulent_Transformasjon_og_omstilling.docx"
+      ]
+    },
+    {
+      "job_id": "bearingpoint_forretning_teknologi",
+      "employer": "BearingPoint Norway AS",
+      "title": "Konsulent forretning- og teknologirådgivning",
+      "cluster": "rund",
+      "sequence": 10,
+      "priority": "NORMAL",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Minstekravet om master og 2 til 4 års arbeidserfaring er dokumentert (master fra NTNU, ansatt ved OUS fra mars 2023). De bærende enhetene viser analyse av risiko og muligheter ved investeringer, teknologivalg og gjennomføring under rammer, og KI-støttet utvikling med validering. Ingen kjent ustøttet påstand gjenstår. Action: Vanlig gjennomlesning og godkjenning. | Konsulenterfaring (ønsket), anskaffelser, vurdering av strategiske IT-partnere og programansvar er ikke dokumentert. Avslutningen sier dette én gang og bygger en bro med dokumentert rask opplæring. Action: Ingen endring nødvendig. | Prognoseprosjektet er under utvikling med fordelt forfatterskap, og masterprogrammet i kunstig intelligens er pågående. Teksten sier begge deler og påstår ingen produksjonssetting eller modellytelse. Action: Behold statusordene hvis teksten kortes ned. | Known limitation: Ingen dokumentert konsulent- eller kundeerfaring. | Known limitation: Ingen dokumentert erfaring med anskaffelser, outsourcing eller valg av IT-partnere. | Known limitation: Ingen formell prosjekt- eller programlederrolle, og ingen dokumentert KI-adopsjon i virksomhetsskala. | Known limitation: Arbeid tett på ledelse er dokumentert som rapportering til klinikkledere og stabsarbeid, ikke som strategirådgivning for toppledelse.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\bearingpoint_forretning_teknologi\\out\\CV_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\bearingpoint_forretning_teknologi\\out\\CV_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\bearingpoint_forretning_teknologi\\out\\Soknad_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\bearingpoint_forretning_teknologi\\out\\Soknad_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.pdf"
+      ]
+    },
+    {
+      "job_id": "abacus_erp_radgiver",
+      "employer": "Abacus IT AS",
+      "title": "Senior ERP-rådgivere og ERP-rådgivere",
+      "cluster": "rund",
+      "sequence": 11,
+      "priority": "NORMAL",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken retter seg mot ERP-rådgiverrollen, og minstekravet (ett til to års erfaring med ERP, økonomi, logistikk, systemimplementering eller tilsvarende) er dokumentert gjennom operativt økonomiarbeid fra 2023, konverterings- og valideringsverktøy ved overgangen til REGERP og videreutvikling av budsjetteringsverktøyet. Ingen kjent ustøttet påstand gjenstår. Action: Vanlig gjennomlesning og godkjenning. | BNXT, Visma, ERP-implementering for kunder og B2B-kunderådgivning er ikke dokumentert. Søknaden sier dette og velger uttrykkelig rådgiverrollen framfor seniorrollen. Action: Ingen endring nødvendig. Seniorrollen skal ikke søkes med denne pakken. | Logistikk og kundedialog er bare dokumentert gjennom korte, eldre arbeidsforhold (Ahlsell 2015, Sector Alarm 2013 til 2014), og er brukt kort og tidfestet. Action: Ingen endring nødvendig. | Known limitation: Ingen dokumentert erfaring med BNXT, Visma eller andre ERP-plattformer utover bruk av REGERP-nære arbeidsflyter. | Known limitation: Konverteringsverktøyene var egne verktøy rundt overgangen, ikke den sentrale REGERP- eller Oracle-løsningen eller ERP-programmet. | Known limitation: Ingen dokumentert kundeleveranse, prosjektledelse eller ansvar for lønnsomhet i implementeringsprosjekter. | Known limitation: Ingen dokumentert lønns- eller årsoppgjørserfaring.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\abacus_erp_radgiver\\out\\CV_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\abacus_erp_radgiver\\out\\CV_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\abacus_erp_radgiver\\out\\Soknad_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\abacus_erp_radgiver\\out\\Soknad_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.pdf"
+      ]
+    },
+    {
+      "job_id": "amesto_ai_transformasjon",
+      "employer": "Amesto Accounthouse AS",
+      "title": "AI Team Lead – Transformasjon",
+      "cluster": "rund",
+      "sequence": 12,
+      "priority": "NORMAL",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken svarer på kjernen i rollen med dokumentert arbeid: egeninitiert automatisering ved en systemovergang i en kontrollkritisk økonomiprosess, videreutvikling av budsjetteringsverktøyet fra behov og teknologivalg til bruk i hele sykehuset, og arkitektur og orkestrering i et KI-støttet dataprosjekt med kvalitetskontroller. Ingen kjent ustøttet påstand gjenstår. Action: Vanlig gjennomlesning og godkjenning. | Lønnsprosesser, erfaring fra regnskapsbyrå, datavarehus og API-er, løsninger for mange eksterne kunder og teamledelse eller personalansvar er ikke dokumentert. Avslutningen sier dette én gang, og teksten bruker ikke API- eller datavarehusbegreper om kandidatens arbeid. Action: Ingen endring nødvendig; vær forberedt på å svare på dette i intervju. | Prognoseprosjektet er under utvikling med fordelt forfatterskap mellom kandidaten, en kollega og kodeagenter, og masterprogrammet i kunstig intelligens er pågående. Teksten sier begge deler og påstår ingen produksjonssetting, modellytelse eller målt effekt av KI. Action: Behold statusord og attribusjon hvis teksten redigeres. | Known limitation: Ingen dokumentert lønnsprosess-, årsoppgjørs- eller regnskapsbyråerfaring; lønn forekommer bare som datagrunnlag og kostnadspost. | Known limitation: Ingen dokumentert erfaring med datavarehus- eller API-arkitektur. | Known limitation: Ingen dokumentert utrulling av løsninger til mange eksterne kunder eller måling av automatiseringsgevinst. | Known limitation: Ingen personalansvar eller formelt teamleadmandat.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\amesto_ai_transformasjon\\out\\CV_Amesto_Accounthouse_AS_AI_Team_Lead_Transformasjon.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\amesto_ai_transformasjon\\out\\CV_Amesto_Accounthouse_AS_AI_Team_Lead_Transformasjon.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\amesto_ai_transformasjon\\out\\Soknad_Amesto_Accounthouse_AS_AI_Team_Lead_Transformasjon.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\amesto_ai_transformasjon\\out\\Soknad_Amesto_Accounthouse_AS_AI_Team_Lead_Transformasjon.pdf"
+      ]
+    }
+  ]
+}

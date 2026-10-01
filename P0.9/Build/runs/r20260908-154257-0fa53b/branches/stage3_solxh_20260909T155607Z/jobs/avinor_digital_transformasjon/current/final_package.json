@@ -1,0 +1,72 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom | Gevinstarbeid og digital gjennomføring",
+    "profile": "Samfunnsøkonom og rådgiver økonomi og IKT ved Oslo universitetssykehus. Kombinerer gevinstarbeid og beslutningsstøtte med praktisk digitalisering, fra sykehusdekkende metodikk og etterprøvbare modeller til modernisering av verktøy i bruk. Har særlig erfaring med å avgrense uklare behov, gjøre premisser synlige og levere sammen med økonomi-, fag- og teknologimiljøer.",
+    "competencies": [
+      "Gevinstrealisering og etterprøvbare beslutningsgrunnlag",
+      "Digitalisering fra behov til brukbar leveranse",
+      "Kontrollert endring i driftsnære løsninger",
+      "Arbeidsformer, prioritering og workshopfasilitering",
+      "Økonomi, analyse og lederrettet beslutningsstøtte",
+      "Power BI, DAX, Power Query, Excel/VBA, SQL og prosjektavhengig R/Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Medutviklet i et firepersoners team et rammeverk for gevinstrealisering som ble innført som sykehusdekkende standard og fortsatt var i bruk om lag 2,5 år senere. Bidro med forskningssyntese, metodeutvikling, økonomiske og strategiske vurderinger og styringsperspektiv.",
+          "Avviste direkte fordeling da bruksdata ikke ga et forsvarlig grunnlag, og utformet i stedet en vektet proxy-modell med synlige forutsetninger og vekter. Modellen ble ferdigstilt tidlig i 2026 og overlevert til controllere.",
+          "Var i praksis eneste kodende utvikler i 2025-moderniseringen av et arvet, om lag 20 år gammelt Excel/VBA-budsjetteringsverktøy, innenfor en interessentprosess med om lag 50 deltakere. Integrerte bemanningsdata, kontrollerte funksjonsparitet og utarbeidet controlleropplæring. Verktøyet brukes sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Deltok i den firepersoners etableringsgruppen for Analyseavdelingen og bidro med arbeidsstruktur for oppgaver, ansvar, avhengigheter og prioritering. Planla og fasiliterte workshops og utviklet samarbeidsflater for teamets arbeid.",
+          "Utvikler beslutningsstøtte for økonomi, bemanning, aktivitet og pasientflyt, og omsetter brede behov til avgrensede arkitekturer, kontroller og brukbare leveranser for ledere, controllere, fagmiljøer og tekniske samarbeidspartnere."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten og gjennomførte etter hvert kontroll, resultatforklaring og rapportering til klinikkledere selvstendig.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering ved overgangen til REGERP. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort tid etter overgangen."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker stillingen fordi Avinor samler verdibegrunnelse, prioritering og gjennomføring i én rolle. Som samfunnsøkonom og rådgiver økonomi og IKT ved Oslo universitetssykehus arbeider jeg i overgangen mellom økonomiske vurderinger, digitale løsninger og organisasjonens behov. Jeg kan tilføre den nye enheten konkret erfaring med gevinstarbeid og med å få krevende endringer frem til bruk.",
+    "body_paragraphs": [
+      "I et firepersoners team var jeg med på å videreutvikle et rammeverk for gevinstrealisering. Jeg bidro med forskningssyntese, metodeutvikling, økonomiske og strategiske vurderinger og styringsperspektiv. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere. I en annen leveranse var bruksdataene for svake til å fordele forventede gevinster direkte mellom klinikker. Jeg avviste derfor direkte fordeling og utformet en vektet proxy-modell med synlige og justerbare forutsetninger. Modellen ble ferdigstilt og overlevert til controllere tidlig i 2026. For Avinors digitale investeringer er dette relevant arbeid med å gjøre gevinstforventninger etterprøvbare før de inngår i prioriteringer.",
+      "Verdibegrunnelse må også møte praktisk gjennomføring. I 2025-moderniseringen av et arvet Excel/VBA-budsjetteringsverktøy var jeg i praksis eneste kodende utvikler, innenfor en interessentprosess med om lag 50 deltakere. Endringsrammen krevde en kontrollert funksjon-for-funksjon-refaktorering. Jeg integrerte bemanningsdata, sammenlignet gammel og ny funksjon, brukte akseptansekriterier og risikoregister og utarbeidet opplæring for controllere. Den moderniserte versjonen ble brukt sykehusdekkende i budsjettprosessen for 2026. Moderniseringen for 2027 er ferdigstilt, og verktøyet er i bruk i den pågående budsjettprosessen. Arbeidet krevde at teknisk endring, driftskontinuitet, kontroll og overlevering ble holdt sammen.",
+      "Min påvirkning har i hovedsak vært funksjonell, gjennom struktur, faglige vurderinger og leveranser, ikke gjennom linje- eller programmyndighet. I etableringen av Analyseavdelingen deltok jeg i en firepersoners gruppe og bidro med oppdeling av arbeid, ansvar, avhengigheter og prioritering, i tillegg til å planlegge og fasilitere workshops. Avinors nye transformasjonsmiljø er interessant fordi det skal koble teknologiinvesteringer til virksomhetsverdi og gjennomføring i en samfunnskritisk drift. Der vil jeg bruke erfaringen min til å gjøre premisser tydelige, finne gjennomførbare tiltak og bygge løsninger som fagmiljøene kan forstå og arbeide videre med."
+    ],
+    "closing": "Jeg tar gjerne en samtale om hvordan denne kombinasjonen av økonomisk analyse, gevinstarbeid og praktisk digitalisering kan brukes i Avinors arbeid med prioritering og transformasjon."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Finalen konsentrerer arbeidsgiverargumentet om to beslutninger: troverdig verdibegrunnelse og kontrollert gjennomføring. KI- og det tverrorganisatoriske Power BI-sporet er utelatt for å bevare en tydeligere rådgiveridentitet og høyere marginal argumentverdi.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-09",
+    "finalized_at": "2026-09-09T16:10:44Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260908-154257-0fa53b/branches/stage3_opt1_20260909T155607Z",
+    "job_id": "avinor_digital_transformasjon",
+    "employer": "Avinor AS",
+    "title": "Seniorrådgiver Digital Transformasjon",
+    "manifest_sha256": "e8aa65f1f88acac91eaf1c9ca7b4c37bce63b9c79250085b6f695052135b1259",
+    "vacancy_sha256": "ae69b813eb68f7b224781f2438365e2853c7025290965dee6009876ddc13d7b7",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "1bb79bd0c29f3d726cfa20cae48114b4dd8e720e1b33fadde95534d6f001fe50",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "66630cb97b118a06a97146d650c85d9ab610926680cd56f0d486deda60c722c2"
+  }
+}

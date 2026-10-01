@@ -1,0 +1,62 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | Analyse, gevinstarbeid og digitalisering i sykehus",
+    "profile": "Samfunnsøkonom med master fra NTNU og erfaring fra Oslo universitetssykehus siden mars 2023, først i den operative økonomistaben i Barne- og ungdomsklinikken og siden desember 2023 som rådgiver økonomi og IKT i Analyseavdelingen i direktørens stab. Lager beslutningsgrunnlag for økonomi, bemanning, aktivitet/DRG og pasientflyt, og gjennomfører endringer i verktøy og arbeidsprosesser som brukes i sykehusdriften. Gjorde i praksis alle kodeendringene i 2025-moderniseringen av sykehusets budsjetteringsverktøy, medutviklet i et team på fire gevinstmetodikken som ble sykehusstandard, og utformet en modell for gevinstfordeling som ble overlevert til controllere.",
+    "competencies": [
+      "Sykehusøkonomi og drift: budsjett, månedsoppgjør, bemanning, aktivitet/DRG og pasientflyt",
+      "Gevinstrealisering og beslutningsgrunnlag: metodeutvikling i team, forutsetninger, vekting og usikkerhet",
+      "Implementering: behovsavklaring, akseptansekriterier, differansekontroll, endringskontroll, dokumentasjon og onboarding",
+      "Samhandling: arbeidsmøter, workshops, brukertester og opplæring av controllere og teknisk personell",
+      "Prosjektarbeid: oppgavenedbryting, prioritering, avhengigheter og samarbeidsflater",
+      "Verktøy: Power BI (DAX, Power Query), Excel/VBA, SQL og prosjektavhengig R, Python og Stata"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Gjorde i praksis alle kodeendringene i 2025-moderniseringen av sykehusets om lag 20 år gamle, arvede budsjetteringsverktøy i Excel/VBA, innenfor en interessentprosess med om lag 50 deltakere. Integrerte ansatt-, ansettelses- og bemanningsdata som tidligere ble kopiert manuelt fra en annen arbeidsbok, og laget opplæringsmateriale for controllere. Verktøyet ble brukt sykehusdekkende i budsjettprosessen for 2026; den avsluttende moderniseringen for 2027 er ferdigstilt og i bruk i den pågående budsjettprosessen.",
+          "Medutviklet i et team på fire en forbedret metodikk for gevinstrealisering og gevinstestimering på oppdrag fra ledelsen, med forskningssyntese og økonomisk, metodisk og styringsmessig analyse. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Utformet en modell med vektede indirekte indikatorer for fordeling av gevinster fra steril logistikk på klinikker, som beslutningsstøtte for lager-, utstyrs- og investeringsvalg: fem arbeidsbøker med synlige og justerbare forutsetninger, skjemakontrollert overføring i Power Query og kontroller for umappede rader og skjemaavvik. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Hovedutvikler av backend i et teamutviklet styringsdashbord for økonomi, bemanning, sykefravær og aktivitet/DRG: nesten hele den semantiske modellen, mesteparten av Power Query-logikken og om lag 80-90 prosent av DAX. Ansvarlig for løsningen fra om lag august 2025 til den ble avviklet rundt februar 2026, med månedlig drift, brukertester med faktiske brukere og korte forbedringsrunder.",
+          "Lærte opp teknisk personell i rapporteringsmiljøet i Power BI, semantisk modellering og modelloptimalisering gjennom flere arbeidsmøter, og bidro vesentlig til en første del av en driftsrapport.",
+          "Deltok i firepersonersgruppen som etablerte Analyseavdelingen; utformet oppgavestruktur, prioritering og samarbeidsflater, planla og fasiliterte workshops og holdt en intern BI-workshop for økonomkolleger.",
+          "Utformer arkitektur, orkestrering og automatisering i et pågående utviklingsprosjekt for prognoser for pasientvolum, sengebehov og kapasitet (14, 90 og 365 dager), og integrerer bidrag fra en kollega og kodeagenter med krav til tidsriktig validering."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, med periodisering, avstemming, feilsøk og resultatforklaring. Kvalitetssikret og sendte mot slutten månedsrapportene til ledere i klinikken.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av gamle konteringslinjer ved overgangen til REGERP. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen.",
+          "Sammenstilte økonomi-, bemannings- og aktivitetsgrunnlag til lederrapportering, blant annet DRG og plantall, ventelister, kurdøgn og gjestepasientoppgjør, og arbeidet med prosjektøkonomi etter behov.",
+          "Bidro i budsjettprosessen for 2024 med årsverk og kvalitetssikring av bemannings- og vaktgrunnlag, bygget et eget budsjetthjelpeark og leverte seksjonsvise DRG-estimater til budsjett og planlegging med Stata, R og Power Query."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Siden mars 2023 har jeg arbeidet med økonomi, analyse og digitale verktøy ved Oslo universitetssykehus, først i økonomistaben i Barne- og ungdomsklinikken og nå i Analyseavdelingen i direktørens stab. Mye av arbeidet har handlet om å få endringer inn i prosesser som sykehuset allerede er avhengig av, og det er den erfaringen jeg vil ta med inn i Digital Health.",
+    "body_paragraphs": [
+      "Et eksempel er sykehusets budsjetteringsverktøy, et om lag 20 år gammelt Excel/VBA-verktøy som jeg arvet. I 2025 skulle ansatt- og bemanningsdata bygges inn i selve verktøyet i stedet for å kopieres manuelt fra en annen arbeidsbok. Om lag 50 personer deltok i arbeidsgrupper og kravdiskusjoner; jeg gjorde i praksis alle kodeendringene. Jeg anbefalte en bredere omstrukturering, men implementeringslederen valgte en smal refaktorering funksjon for funksjon. Innenfor den rammen sammenlignet jeg opprinnelige og omskrevne funksjoner, fant logikk som hadde drevet fra hverandre, og brukte akseptansekriterier og et risikoregister. Den moderniserte versjonen ble brukt i hele sykehusets budsjettprosess for 2026. I den avsluttende moderniseringen for 2027 hadde jeg vesentlig større frihet, og verktøyet er nå i bruk i årets budsjettprosess.",
+      "Analyseavdelingens første store prosjekt var å forbedre sykehusets metodikk for gevinstrealisering. Vi var fire som utviklet rammeverket, og mitt bidrag lå i forskningssyntesen og den økonomiske og metodiske analysen. Det ble sykehusstandard og var fortsatt i bruk om lag 2,5 år senere. Senere skulle gevinstene fra steril logistikk fordeles på klinikkene, men dataene om direkte bruk bar ikke en forsvarlig fordeling. I stedet for å gi tallene en presisjon de ikke hadde, omformet jeg oppgaven til en modell med vektede indirekte indikatorer, der forutsetninger og usikkerhet står åpent. Jeg bygget den uten kjerne-VBA, slik at controllere og fagansvarlige skulle kunne justere forutsetningene uten en utvikler, og overleverte den ferdige modellen til controllerne tidlig i 2026. Den typen grunnlag vil jeg bidra med i gevinstarbeid for helseforetak og kommuner: tall som de som skal ta ansvar for gevinstene, kan etterprøve.",
+      "Forståelsen av driften fikk jeg i Barne- og ungdomsklinikken. Etter om lag tre måneder hadde jeg overtatt hele den tildelte månedsoppgjørsflyten, og mot slutten sendte jeg selv månedsrapportene om blant annet DRG, ventelister og kurdøgn til ledere i klinikken. Ved overgangen til REGERP laget jeg på eget initiativ verktøy for konvertering og validering av gamle konteringslinjer, og økonomirådgivere i flere klinikker brukte dem i tiden etter overgangen. Da rapporteringsmiljøet senere utviklet nye rapporter, lærte jeg opp deres tekniske personell i Power BI og semantisk modellering."
+    ],
+    "closing": "Interessen min ligger særlig i arbeidsprosessene og forvaltningen rundt pasientbehandlingen: at budsjett, bemanning og gevinstberegninger bygger på data som stemmer, og på verktøy folk faktisk kan bruke. Hos EY kan jeg arbeide med dette i flere virksomheter enn én og utvikle meg i prosjektledelse sammen med kolleger fra helse, teknologi og økonomi. Jeg forteller gjerne mer om hvordan budsjettverktøyet og gevinstmodellen ble lagt opp."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Letter answers early whether the candidate can get change into hospital operations: budget-tool modernization (constraint plus drift checks) leads, then benefits framework (team) and STE reframing (own design), then BAR operations and technical training. CV carries scope/status; letter carries choices. Kept 2025 sole-coder attribution separate from 2027 round."
+}

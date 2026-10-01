@@ -1,0 +1,114 @@
+{
+  "artifact_role": "POLISH_LAYER",
+  "cv": {
+    "headline": "Rådgiver: økonomiprosesser og systemimplementering",
+    "profile": "Rådgiver økonomi og IKT ved Oslo universitetssykehus, med mastergrad i samfunnsøkonomi. Har stått i regnskapsflyten selv: overtok hele den tildelte månedsoppgjørsflyten med periodisering, avstemming, bilagsflyt og resultatforklaring, og bygget på eget initiativ verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot REGERP-format. Omsetter uavklarte behov til avgrensede løsninger med kontroller, akseptansekriterier og overlevering, og gjennomførte kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy innenfor en interessentprosess på om lag 50 personer.",
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med prosjektnulling, periodisering, reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot REGERP-format, og lærte VBA fra grunnen gjennom arbeidet; verktøyene ble i perioden kort etter overgangen brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Bidro i budsjettprosessen for 2024 med årsverksregistrering og kvalitetssikring av bemanningsgrunnlag, arbeidet med prosjektøkonomi, fakturering og prosjektavslutning, og koblet data fra blant annet JIT, ADI, REGERP og GAT."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "BNXT er produktet jeg skal lære, og det er nettopp derfor jeg søker rådgiversporet og ikke seniorsporet: prosess- og implementeringsarbeidet tar jeg med meg, og produktdybden bygges raskest i reelle kundeprosjekter sammen med erfarne kolleger. Veien fra et økonomifaglig behov til en løsning andre kan overta, kjenner jeg både fra den løpende regnskapsflyten og fra utviklingsarbeidet rundt den.",
+    "body_paragraphs": [
+      "I klinikkstaben ved Oslo universitetssykehus overtok jeg innen om lag tre måneder hele den tildelte månedsoppgjørsflyten. Ved overgangen til REGERP tok jeg initiativ til verktøy som konverterte og validerte gamle bilagslinjer mot det nye formatet. Her møttes to konkrete oppgaver: å forstå hva opplysningene betydde i regnskapet, og å få dem riktig over i en ny struktur. Jeg lærte VBA fra grunnen gjennom dette arbeidet. I et senere oppdrag om gevinstfordeling i steril logistikk avviste jeg direkte fordeling fordi bruksdataene ikke ga et forsvarlig grunnlag. Alternativet ble en modell med indirekte indikatorer og forutsetninger som var synlige og lot seg justere av dem som skulle bruke den. Å gjøre usikkerheten synlig er en del av rådet, særlig når tallene skal brukes til å sammenligne alternativer.",
+      "Abacus er ISO-sertifisert innen kvalitet, miljø og informasjonssikkerhet. Jeg leser det som en forventning om at arbeidet skal kunne dokumenteres og etterprøves gjennom leveransen. Ved modernisering av sykehusets budsjetteringsverktøy gjennomførte jeg kodeendringene i en prosess med om lag 50 involverte. Jeg sammenlignet endret og opprinnelig funksjon, brukte avtalte akseptansekriterier og et uttrykt krav om ingen regresjon, og kunne dermed undersøke om endringene holdt seg innenfor forutsetningene. Jeg laget også onboarding- og presentasjonsmateriell for controllerne. I et separat samarbeid med en annen organisasjons rapporteringsmiljø underviste jeg tekniske kolleger i Power BI og modellering, og bidro vesentlig til den første komponenten i en driftsrapport. Opplæring og dokumentasjon hører til gjennomføringen: mottakeren skal kunne bruke løsningen og se hva den bygger på."
+    ],
+    "closing": "Hos Abacus kan jeg utvikle produktkunnskapen mens jeg bruker erfaringen fra økonomiprosesser, kontrollert endring og overlevering i kundeprosjekter. Rådgiveroppgaven trekker meg hit nettopp fordi den henger sammen: forstå arbeidet som skal forbedres, gjennomføre løsningen og følge den frem til dem som skal bruke den."
+  },
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "Sporvalget og NAME_ONCE-setningen er samme setning, slik briefen la den opp. Den gjør terskelkravet om til begrunnelsen for sporet, som er nøyaktig formen doktrinen tillater, og den svarer på annonsens eget spørsmål om hvilken rolle som passer. Uendret."
+    },
+    {
+      "id": "K2",
+      "disposition": "KEPT",
+      "reason": "Skjønnsatomet: at det å synliggjøre usikkerheten er en del av rådet. Det er fasett PF-09 og hele grunnen til at avvisningen av direkte fordeling hører hjemme i en rådgiversøknad. Uendret."
+    },
+    {
+      "id": "K3",
+      "disposition": "KEPT",
+      "reason": "Konverteringen av ISO-faktumet: at leveransen skal kunne dokumenteres og etterprøves. Den kobler arbeidsgiverfaktumet til kontrollpraksisen i samme avsnitt og er ikke annonseekko. Uendret."
+    },
+    {
+      "id": "K4",
+      "disposition": "REWORDED",
+      "reason": "Funksjonen MOTIVE og hele innholdet er uendret. «Det er den sammenhengende rådgiveroppgaven som trekker meg hit» er en kløyvd motivsetning, mønsteret FORFATTERSTEMME navngir som utslitt i denne klyngen; omskrevet til «Rådgiveroppgaven trekker meg hit nettopp fordi den henger sammen». De tre leddene etter kolonet står ordrett."
+    }
+  ],
+  "changes": [
+    {
+      "field": "letter.closing",
+      "reason": "TIC",
+      "note": "K4: kløyvd motivsetning fjernet. «Det er X som trekker meg hit» er samme mønster som ble rettet i stortinget-brevet; skanneren fanger den ikke, men FORFATTERSTEMME navngir den. Setningen er nå aktiv med rådgiveroppgaven som subjekt."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TRUTH",
+      "note": "Avsnitt 1 underdrev U1. «sto jeg selv for den tildelte månedsoppgjørsflyten» er erstattet av «overtok jeg innen om lag tre måneder hele den tildelte månedsoppgjørsflyten». Både «hele» og tempoet står i CLM-BAR-001 og i den godkjente måltallstabellen, og begge sto allerede i CV-punktet. Tesen her er nettopp førstehåndsforståelsen av prosessen kunden skal endre."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TRUTH",
+      "note": "Avsnitt 1: «uttrykkelige forutsetninger» til «forutsetninger som var synlige og lot seg justere av dem som skulle bruke den». Kortet for PRJ-06 sier synlige og konfigurerbare, og at controllere og fagansvarlige selv skulle kunne inspisere og justere. Det er fasett PF-09, og det er poenget for en ERP-rådgiver: kunden må eie modellen."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TRUTH",
+      "note": "Avsnitt 2: lagt til «et uttrykt krav om ingen regresjon» ved siden av akseptansekriteriene, og «bidro til en første rapportkomponent» til «bidro vesentlig til den første komponenten i en driftsrapport». Begge står i U2 og i kortene (uttrykt nullregresjonskrav, vesentlig bidrag). «undersøke om» er beholdt: ingen nulldefektpåstand."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Avsnitt 1: «For meg begynner løsningsarbeidet med den sammenhengen mellom fag og system» og «Det innebærer også å utfordre premisset for en bestilling» er fjernet. Den første er ren selvtolkning av beviset foran, den andre en signpost som annonserer poenget saken etter viser selv. «I et senere oppdrag» bærer overgangen alene."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Avsnitt 2: «Det arbeidet krevde både teknisk forklaring og samarbeid om en konkret løsning» fjernet som lærdomssetning. «Jeg ser opplæring og dokumentasjon som deler av gjennomføringen» til «Opplæring og dokumentasjon hører til gjennomføringen», og «Sammenligning … gjorde det mulig å undersøke» til aktivt «Jeg sammenlignet … og kunne dermed undersøke»."
+    },
+    {
+      "field": "letter.opening",
+      "reason": "TONE",
+      "note": "«Jeg vil arbeide med hele veien fra et økonomifaglig behov til en løsning som andre kan overta» var en frittstående motivasjonssetning som sa det samme som avslutningen. Slått sammen med setningen etter til en påstand om hva han kjenner, ikke et ønske. Motivet ligger nå bare i avslutningen, der MOTIVE_ECHO hører hjemme."
+    },
+    {
+      "field": "cv.headline",
+      "reason": "TIC",
+      "note": "Tankestrek byttet mot kolon. WRITING_DOCTRINE, Tegnsetting: tankestrek skal ikke forekomme i arbeidsgivertekst. Overskriften renderer fortsatt på én linje."
+    },
+    {
+      "field": "cv.profile",
+      "reason": "TRUTH",
+      "note": "«overtok den tildelte månedsoppgjørsflyten» til «overtok hele den tildelte månedsoppgjørsflyten». CV-punktet hadde «hele», toppsonen ikke, og omfanget er hele poenget i U1."
+    },
+    {
+      "field": "cv.employment_overrides",
+      "reason": "TRUTH",
+      "note": "EMP_OUS_BAR, punkt 2: periodeavgrensningen «i perioden kort etter overgangen» lagt tilbake på bruken av konverteringsverktøyene. Den er del av den godkjente bruken i måltallstabellen; uten den leses bruken som varig."
+    }
+  ],
+  "writer_note": "Ingen evidens utenfor briefen er hentet inn. Sporvalget som åpning og motivet som avslutning er beholdt, så klyngens TRACK_CHOICE- og MOTIVE_ECHO-grep er intakt. Tre av fire keystones er uendret; K4 er bare av-kløyvd. Briefen ber om menneskelig konvergenskontroll på gevinstfordelingsmodellen, som også er skjønnsatom i norwegian-jobben; de to brevene bruker den til ulike poeng og med ulik ordlyd, og det er notert i review.",
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "85c8afab6e908fe8d50de9c190d1bcce986e3c5936c3731f47e3f0050ebc04e1",
+    "policy_fingerprint": "778d968544107da89d0199041d7dfd3a90cef53fc7d98fbe87a9af775ce5cd73",
+    "inputs": {
+      "scout": "a9b5113b059ab8afdf22e02d691f401157178f01b33443341bb35f8653dee631",
+      "brief": "8e7bd647821bf6aa46accade314b251d249ce34aedee6fdaab91ce38ed3a8aef",
+      "cv_draft": "106512af4f3f9d18a08390d145b50338004f29fb7fd1ef68ce129094fc79290a",
+      "advocacy_draft": "0c08c4fa0b5dce7b34e275d4395fd174d0d6cf1b24008a63c3354dd95562b985"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [
+    {
+      "reason": "Tankestrek i CV-overskriften brøt Tegnsetting og var eksplisitt overlatt til Stage 3 av Advocate-notatet.",
+      "recommended_action": "Ingen videre handling; reparert lokalt i polish.cv.headline.",
+      "priority": 1
+    },
+    {
+      "reason": "Brevet understaket et dokumentert kort opptak: om lag tre måneder til hele den tildelte månedsoppgjørsflyten.",
+      "recommended_action": "Ingen videre handling; lagt inn med støtte i EV:WORK#012.",
+      "priority": 2
+    },
+    {
+      "reason": "Kløyvd motivsetning i åpningen og kløyvsetning i K4 gjentok et grep som også finnes i EIE-brevet i klyngen.",
+      "recommended_action": "Ingen videre handling; begge skrevet om med ulike grep.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Annonsens søknadsfrist var 2026-09-14 og er passert. Om pakken fortsatt skal sendes, er en vurdering for mennesket.",
+    "Etter dette laget teller CV 349 dynamiske ord og brevet 322 ord. Sidetallene (CV 2, brev 1) er målt på utkastet før laget; endringene er netto forkortende, men teksten er ikke rendret på nytt.",
+    "U2 har tak på kun design, evaluering og prosjektnivåbruk; brevet holder seg innenfor dette og hevder ikke virksomhetsutrulling."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": null,
+  "notes": [
+    "Fire av fire CV-overskrifter i klyngen hadde samme tankestrekfeil fra Stage 1. Reparert lokalt i alle fire fremfor RERUN, fordi feilen er ren tegnsetting i ett felt og ikke berører spor, tese eller evidens."
+  ]
+}

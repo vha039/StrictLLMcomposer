@@ -1,0 +1,35 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Minstekravet om master og 2 til 4 års arbeidserfaring er dokumentert (master fra NTNU, ansatt ved OUS fra mars 2023). De bærende enhetene viser analyse av risiko og muligheter ved investeringer, teknologivalg og gjennomføring under rammer, og KI-støttet utvikling med validering. Ingen kjent ustøttet påstand gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Konsulenterfaring (ønsket), anskaffelser, vurdering av strategiske IT-partnere og programansvar er ikke dokumentert. Avslutningen sier dette én gang og bygger en bro med dokumentert rask opplæring.",
+      "recommended_action": "Ingen endring nødvendig.",
+      "priority": 2
+    },
+    {
+      "reason": "Prognoseprosjektet er under utvikling med fordelt forfatterskap, og masterprogrammet i kunstig intelligens er pågående. Teksten sier begge deler og påstår ingen produksjonssetting eller modellytelse.",
+      "recommended_action": "Behold statusordene hvis teksten kortes ned.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert konsulent- eller kundeerfaring.",
+    "Ingen dokumentert erfaring med anskaffelser, outsourcing eller valg av IT-partnere.",
+    "Ingen formell prosjekt- eller programlederrolle, og ingen dokumentert KI-adopsjon i virksomhetsskala.",
+    "Arbeid tett på ledelse er dokumentert som rapportering til klinikkledere og stabsarbeid, ikke som strategirådgivning for toppledelse."
+  ],
+  "material_strategy_change": "Beholdt strategiens rute og hovedbevis, men la til utfordring av prognosemål og valideringsvalg i prognoseprosjektet og vurderingen av teknologialternativer i budsjetteringsverktøyet som konkrete bevis for annonsens «utfordre etablerte sannheter», og tok med det pågående KI-masterprogrammet fordi arbeidsgiveren profilerer seg på data og AI.",
+  "upstream_claim_repaired": null,
+  "notes": [],
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "bearingpoint_forretning_teknologi",
+    "final_package_sha256": "c30550caff37aafdfe0bad29c22de35f48cea8d56d10d06cc39c7e572d143734"
+  }
+}

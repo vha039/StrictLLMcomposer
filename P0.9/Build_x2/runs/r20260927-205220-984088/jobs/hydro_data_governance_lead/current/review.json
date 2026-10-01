@@ -1,0 +1,36 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Rollen skal etablere Hydros globale data governance-rammeverk, policyer og lede Data Governance Council; kandidatens styrings- og kvalitetsarbeid er dokumentert på prosjekt- og avdelingsnivå i ett sykehus. Minstekravet om erfaring er oppfylt via analytics/digital transformasjon, men lederomfanget er ikke.",
+      "recommended_action": "Vurder ved godkjenning om søknaden skal sendes for et globalt lederspor; ingen tekstreparasjon gjenstår."
+    },
+    {
+      "priority": 2,
+      "reason": "Utlysningen er på engelsk og krever utmerket engelsk; pakken er på bokmål etter kjernekravet, og engelsk flytende står i CV og brevets avslutning.",
+      "recommended_action": "Normal godkjenning; en eventuell engelsk versjon er et manuelt valg utenfor kjernen."
+    },
+    {
+      "priority": 3,
+      "reason": "Prognoseprosjektet brukes som hovedbevis for pålitelige data og ansvarlig KI; status (under utvikling, ikke produksjon) og kollegaens andel står nær påstandene.",
+      "recommended_action": "Normal skumlesing."
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert global eller internasjonal leveranse, formell data owner/steward-modell, policyeierskap eller council-fasilitering.",
+    "Dataplattform- og metadataforståelse er praktisk (semantiske modeller, skjemakontroll, kildeintegrasjon) pluss utforskende pilotkontakt; ingen produksjonsplattform eller datakatalog.",
+    "Ingen dokumentert modellytelse for prognoseprosjektet; styrings-BI-et er avviklet og proxy-modellens organisatoriske bruk er uavklart."
+  ],
+  "material_strategy_change": "Ryggraden er flyttet fra BI-modellen først til prognoseprosjektets datagrunnlag først (målsemantikk, overlapp/dubletter, tidslekkasje, tidsriktig validering, menneskestyrt agentarbeid med sporbarhet), fordi det svarer direkte på 'trusted data for analytics and AI' og 'responsible AI'. PRJ-06 er brukt som eierskapsbevis (faglige vurderinger lagt hos controllerne som designmål), og PRJ-08/09-forslag om ansvar og beslutningsrettigheter er lagt i CV for beslutningsrett-kravet.",
+  "upstream_claim_repaired": "cv_draft sa at REGERP-verktøyene ble brukt av økonomirådgivere i flere klinikker uten kildens tidsavgrensning; rettet til 'relativt hyppig ... kort etter overgangen'. cv_draft sa 'Etablerte datadefinisjoner ...' og 'testet løsningen med brukere fram til den ble avviklet', som blandet forvaltningsperioden; skrevet om med eksplisitt periode (om lag aug. 2025 til feb. 2026) og avvikling. PRJ-05-bulleten manglet kollegaens andel (original XGBoost, mye av datavalideringen); lagt inn ved påstanden.",
+  "notes": [
+    "R11 (engelsk) er støttet og nevnt, men ikke demonstrert gjennom engelsk tekst fordi kjernen krever bokmål."
+  ],
+  "binding": {
+    "run_id": "r20260927-205220-984088",
+    "job_id": "hydro_data_governance_lead",
+    "final_package_sha256": "4fefb3e9a5c7a112f3af02fdd0154765bfae3a75038cf631ff26b2099c2d4c8c"
+  }
+}

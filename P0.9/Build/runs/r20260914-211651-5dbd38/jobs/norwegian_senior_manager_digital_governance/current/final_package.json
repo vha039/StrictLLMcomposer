@@ -1,0 +1,87 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver innen styring og digital gjennomføring",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver ved Oslo universitetssykehus, der jeg gjør bredt formulerte behov om til avgrensede løsninger, kontroller og beslutningsgrunnlag. Var i praksis eneste kodende utvikler da sykehusets budsjetteringsverktøy ble modernisert i en prosess med om lag 50 involverte, utformet en etterprøvbar fordelingsmodell der controllere selv skal kunne kontrollere og justere forutsetningene, og har utviklet backend for styringsinformasjon i Power BI. Registrert KI-superbruker som bruker KI med definerte kilder og menneskelig kontroll.",
+    "competencies": [
+      "Strukturering av løst definerte saker og beslutningsbehov",
+      "Krav, akseptansekriterier og risikoregistre",
+      "Kontrollert implementering av endringer",
+      "Dashbord og ledelsesrapportering (Power BI, DAX, Power Query)",
+      "Prosessforbedring, standardisering og automatisering (Excel/VBA)",
+      "Menneskestyrt KI-bruk og kontroll av KI-output",
+      "Tverrfaglig koordinering, workshops og veiledning",
+      "Samfunnsøkonomi, økonomistyring og analyse"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Gjør brede eller løst definerte behov innen økonomi, bemanning, aktivitet og kapasitet om til avgrensede løsninger, arbeidspakker, kontroller og leveranser for ledere, controllere og fagmiljøer.",
+          "Var i praksis eneste kodende utvikler da sykehusets om lag 20 år gamle budsjetteringsverktøy i Excel/VBA ble modernisert, i en prosess med om lag 50 involverte. Integrerte bemanningsdata, gjennomførte funksjonsvis refaktorering med differansekontroll, akseptansekriterier og risikoregister, og laget onboardingmateriell for controllere. Brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Utformet en modell for å fordele gevinster fra steril logistikk mellom klinikker da direkte bruksdata ikke var tilstrekkelig: vektede indikatorer med synlige og justerbare forutsetninger, fem arbeidsbøker med kontrollert sammenstilling i Power Query og kontroller for umappede rader og strukturavvik. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Hovedutvikler av backend i et styringsdashbord for økonomi, bemanning, sykefravær og aktivitet i Power BI (nesten hele den semantiske modellen, det meste av ETL og om lag 80 til 90 prosent av DAX). Ansvarlig for løsningen fra om lag august 2025 til den ble avviklet rundt februar 2026, med brukertester og forbedringssprinter.",
+          "Bidro i et firepersoners team til å videreutvikle sykehusets metodikk for gevinstrealisering, med forskningssyntese, metodisk og økonomisk analyse og standardisering. Metodikken ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Utformet strukturerte skjemaer for arbeidsinntak (formål, brukere, beslutningsbehov, avhengigheter, risiko, prioritet og akseptansekriterier) og vurderte løsninger i Forms, Loop, Power BI og lavkodeverktøy.",
+          "Deltok i firepersoners etableringsgruppe for Analyseavdelingen og bidro med forslag til ansvar, avhengigheter og beslutningsroller, oppgavestruktur og arbeidsflater i Loop.",
+          "Registrert KI-superbruker i om lag tre år med tekniske svar i en Teams-kanal. Bruker KI i analyse og utvikling med definerte kilder, avgrenset delegering, tester og menneskelig ansvar, og kontrollerer kode og notatbøker for sensitive data."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring hele den tildelte månedsoppgjørsflyten innen om lag tre måneder og gjennomførte mot slutten oppgjøret selvstendig, med periodisering, avstemming, kvalitetssikring og resultatforklaring.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av konteringslinjer ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker.",
+          "Dokumenterte arbeidssteg, utviklet kontroll- og valideringslogikk og koblet data fra blant annet ADI, REGERP, GAT og aktivitetsrapporter i arvede rapporteringsarbeidsbøker.",
+          "Sammenstilte og kvalitetssikret økonomi-, bemannings- og aktivitetsgrunnlag til månedlig lederrapportering, og sendte rapportene til ledere i klinikken."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Mye av arbeidet mitt ved Oslo universitetssykehus begynner med en bestilling som er for bred eller for løst formulert til å gjennomføres slik den står. Da må jeg finne ut hva som faktisk skal avgjøres, hvilke krav og data som gjelder, og hvordan resultatet kan kontrolleres og brukes av andre. Jeg er samfunnsøkonom med master fra NTNU og rådgiver i Analyseavdelingen i Direktørens stab, og søker stillingen som Senior Manager Digital Governance Operations.",
+    "body_paragraphs": [
+      "Et eksempel er fordelingen av gevinster fra steril logistikk mellom sykehusets klinikker. De direkte bruksdataene var ikke gode nok til å fordele gevinstene forsvarlig, og en direkte fordeling ville gitt en presisjon grunnlaget ikke bar. Jeg la i stedet opp en modell med vektede indirekte indikatorer, der forutsetninger og vekter ligger synlig og kan justeres, og med egne kontroller for rader som ikke lar seg koble og for avvik i strukturen. VBA valgte jeg bevisst bort i kjernen, slik at controllerne skulle kunne kontrollere og endre forutsetningene uten å være varig avhengige av en utvikler. Modellen ble ferdigstilt og overlevert til controllerne tidlig i 2026.",
+      "Sykehusets budsjetteringsverktøy var en om lag 20 år gammel Excel/VBA-løsning med mye manuelt arbeid rundt bemanningsdata. I moderniseringen i 2025 deltok om lag 50 personer i arbeidsgrupper og kravdiskusjoner, og jeg var i praksis den eneste som endret koden. Jeg anbefalte en bredere omstrukturering, mens implementeringsleder la opp til en smalere, funksjonsvis refaktorering. Den gjennomførte jeg med differansekontroll mot den gamle løsningen, akseptansekriterier og risikoregister, slik at et virksomhetskritisk verktøy kunne endres uten å bryte driften. Verktøyet ble brukt i hele sykehusets budsjettprosess for 2026 og er i bruk i prosessen for 2027.",
+      "For at saker skal være tydelige før arbeidet starter, har jeg utformet skjemaer for arbeidsinntak som fanger opp formål, brukere, beslutningsbehov, avhengigheter, risiko, prioritet og akseptansekriterier, og vurdert om de bør ligge i Forms, Loop, Power BI eller en lavkodeløsning. Jeg er også registrert KI-superbruker ved OUS og bruker KI i analyse og utvikling med avgrenset delegering, definerte kilder og menneskelig gjennomgang før noe tas i bruk. Den samme strukturen vil jeg ta med inn i vurderinger av nye digitale initiativer, slik at spesialistene får de riktige spørsmålene tidlig, ansvaret er tydelig og avtalte tiltak blir fulgt opp. Erfaringen fra egen KI-bruk kan i tillegg gjøre det lettere å se hvor kontrollpunktene bør ligge i praksis."
+    ],
+    "closing": "Da Analyseavdelingen ble startet, var jeg en av fire i etableringsgruppen og bidro med forslag til ansvar, avhengigheter og oppgavestruktur. Å være med på å bygge en ny funksjon igjen, nå for digital og regulatorisk styring i et internasjonalt konsern, er den viktigste grunnen til at jeg søker. Jeg tar gjerne en prat om hvordan jeg kan bidra."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#028-4-4-trygge-ki-pastander"
+  ],
+  "writer_note": "Operativ governance-rute: STE-avveiningen bærer løst definerte saker og etterprøvbarhet med mindre utvikleravhengighet; budsjettverktøyet bærer kontrollert gjennomføring under andres føringer med mange involverte; arbeidsinntak og KI-bruk er bro til strukturerte vurderinger. Ingen regelverksnavn, myndighetskontakt eller hendelseshåndtering er antydet. Etableringsgruppen brukes som motivasjonsparallell.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-14",
+    "finalized_at": "2026-09-14T21:44:50Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260914-211651-5dbd38",
+    "job_id": "norwegian_senior_manager_digital_governance",
+    "employer": "Norwegian Air Shuttle ASA",
+    "title": "Senior Manager Digital Governance Operations",
+    "manifest_sha256": "b755e5aa292f4ccc4c5ab42e27e51e889495ca56a7e85faf6a31d1755ffbf588",
+    "vacancy_sha256": "3279c4031148d143f436f43bb6434846daebc9945bd03e68a790217087b333f4",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "3b29e4540213373d6c7020e0d26818cd01da612755379dbf320727452fefe9d3",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "e49ce7baa67155c03c8a61404324ed58fa74682116ba23bcd8a9ae39eeb0cb36"
+  }
+}

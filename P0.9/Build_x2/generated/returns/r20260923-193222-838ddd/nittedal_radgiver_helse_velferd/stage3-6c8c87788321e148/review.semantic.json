@@ -1,0 +1,23 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Kravet om høyere utdanning innen relevante helsefag er ikke oppfylt. Brevet sier presist at utdanningen er samfunnsøkonomi og ikke helsefag, etter at bevisene er lagt fram.",
+      "recommended_action": "Ingen lokal reparasjon. Vurder om søknaden skal sendes med dette kjente minstekravsgapet.",
+      "priority": 1
+    },
+    {
+      "reason": "Frist 24.09.2026, i dag.",
+      "recommended_action": "Skum og send manuelt i dag.",
+      "priority": 2
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert erfaring med byggeprosjekter, overgang til innflytting og drift, SLA-er eller leverandøroppfølging.",
+    "Ingen dokumentert velferdsteknologi, kommunal forvaltning eller formell lederrolle.",
+    "STE-modellen er ferdigstilt og overlevert; organisatorisk bruk og realiserte gevinster er uavklart. Prognoseprosjektet er under utvikling uten produksjonssetting."
+  ],
+  "material_strategy_change": "Endret hovedbeviset fra BAR-budsjett og budsjettverktøy til STE-arbeidet, som er det eneste dokumenterte arbeidet om investeringer i utstyr, lager og automatisering, og dermed nærmest spørsmålet om bygg, teknologi og arbeidsprosesser. La til prognoser for sengebehov og kapasitet som støtte, og brukte gevinstmetodikken som bro til gevinster av nytt bygg.",
+  "upstream_claim_repaired": null,
+  "notes": []
+}

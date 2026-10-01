@@ -1,0 +1,97 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260902-155301-2120b3",
+  "derived_at": "2026-09-02T18:48:11Z",
+  "manifest_sha256": "fe3ba0b58f6eb3b7dcaa36f44e2ab3ec5fcd34eb9ddf0d337273ab4b75cb299b",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 2,
+    "core": 2,
+    "exception": 0,
+    "semantic_final_available": 2,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 2,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 2,
+      "DEGRADED": 0,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "huseierne_strategi_maalstyring",
+      "employer": "Huseiernes Landsforbund",
+      "title": "Strategi- og målstyringsrådgiver",
+      "cluster": "verify_a1",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken består Tjuesekunderstesten: kandidatidentitet, Huseiernes styringsproblem og de to sterkeste bevisene er tydelige i toppsonen og søknadens første del. Action: Gjør normal menneskelig gjennomlesning og godkjenning av de ferdige dokumentene. | Pakken består Arbeidsgiverbyttetesten: medlemsvekst, nye produkter, praktisk måloppfølging og medlemsoppdraget gjør både CV-profilen og søknaden spesifikke for Huseierne. Action: Ingen lokal tekstendring er kjent nødvendig. | Alle materielle kandidatpåstander holder dokumenterte team-, eierskaps-, bruks- og resultatgrenser. Action: Behold avgrensningene ved eventuell manuell redigering. | Known limitation: Kandidatmyndighetene dokumenterer ikke praktisk OKR-erfaring. | Known limitation: Dokumentert relevant OUS-erfaring starter i mars 2023 og er kortere enn annonsens minimumskrav på fem år. | Known limitation: Erfaring fra formell produktorganisasjon, privat kommersielt resultatansvar og produksjonsdybde i Azure/Fabric er ikke dokumentert.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.pdf"
+      ]
+    },
+    {
+      "job_id": "avinor_digital_transformasjon",
+      "employer": "Avinor AS",
+      "title": "Seniorrådgiver Digital Transformasjon",
+      "cluster": "verify_a1",
+      "sequence": 2,
+      "priority": "NORMAL",
+      "deadline": "2026-09-13",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken består Tjuesekunderstesten: samfunnsøkonom/rådgiver, Avinors gjennomføringsproblem og bevisene fra kontrollert digital endring og varig gevinstmetodikk fremgår tidlig. Action: Gjør normal menneskelig gjennomlesning og godkjenning av de ferdige dokumentene. | Pakken består Arbeidsgiverbyttetesten: flyplasser, flysikring, driftskontinuitet, sikkerhet og oppbyggingen av Digital Transformasjon gjør CV-profil og søknad spesifikke for Avinor. Action: Ingen lokal tekstendring er kjent nødvendig. | Teamgrenser, faktisk bruk, dokumentert varighet og fravær av kvantifiserte gevinster er bevart i alle materielle påstander. Action: Behold disse avgrensningene ved eventuell manuell redigering. | Known limitation: Formelt ansvar for konserntransformasjon, portefølje, program, produkt, linje eller personale er ikke dokumentert. | Known limitation: Dokumentasjonen støtter faktisk bruk og varighet, men ikke kvantifiserte gevinster, sikkerhetseffekt, tidsbesparelse eller realisert ROI. | Known limitation: Luftfart er et nytt domene, og aktuell sikkerhetsklareringsstatus er ikke dokumentert.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf"
+      ]
+    }
+  ]
+}

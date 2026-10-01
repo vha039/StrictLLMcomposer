@@ -1,0 +1,36 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "known_limitations": [
+    "Kildene dokumenterer ikke formelt konsernansvar for portefølje, program, strategiske beslutningsfora eller personalledelse.",
+    "Gevinstrammeverket ble innført, fordelingsmodellen ble ferdigstilt og overlevert, og budsjettverktøyet er i bruk, men det foreligger ikke dokumenterte mål på realisert økonomisk effekt.",
+    "Luftfartsdomene, utfallet av bakgrunnssjekk og eventuell sikkerhetsklarering er ikke dokumentert."
+  ],
+  "material_strategy_change": "Fordelingsmodellen ble løftet foran gevinststandarden i brevet fordi kandidatens egen beslutning under utilstrekkelige data gir et skarpere førstesignal for Avinors verdi- og prioriteringsoppgave. KI-sporet ble tatt ut av pakken fordi det hadde lavere marginal argumentverdi.",
+  "notes": [
+    "READY-call var ikke tett: alle kjente grenser er enten uttrykkelig avgrenset eller holdt utenfor arbeidsgiverteksten, og ingen avgrenset lokal bekreftelse eller redigering gjenstår."
+  ],
+  "reasons": [
+    {
+      "reason": "Pakken etablerer yrkesanker, utdanning, nåværende rolle og de to sterkeste Avinor-relevante bevisfunksjonene tidlig.",
+      "recommended_action": "Gjennomfør normal menneskelig skim og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Personlig bidrag, teamramme og lifecycle er skilt for gevinststandarden, fordelingsmodellen og budsjettmoderniseringen.",
+      "recommended_action": "Behold disse grensene ved eventuell lokal språkredigering.",
+      "priority": 2
+    },
+    {
+      "reason": "Det bredere konsernmandatet som stillingen kan innebære, presenteres som overføring fra prosjekt- og metodearbeid, ikke som allerede oppfylt ansvar.",
+      "recommended_action": "Bruk dette som et ærlig intervjutema, ikke som en tekstfeil.",
+      "priority": 3
+    }
+  ],
+  "triage": "READY",
+  "upstream_claim_repaired": "Strategiens gjennomføringsspor var forsiktig om 2027-statusen. Finalen bruker den nyere autoritetsbekreftelsen med full støttet styrke: 2027-moderniseringen er ferdigstilt og verktøyet er i sykehusdekkende bruk, uten å oppgradere kandidaten til eier av budsjettprosessen.",
+  "binding": {
+    "run_id": "r20260908-154257-0fa53b/branches/stage3_solmed_20260909T160521Z",
+    "job_id": "avinor_digital_transformasjon",
+    "final_package_sha256": "e8fb37364060580d6d8b7208df4800c6e5390dc74c75aa18cef1bf37a1cce002"
+  }
+}

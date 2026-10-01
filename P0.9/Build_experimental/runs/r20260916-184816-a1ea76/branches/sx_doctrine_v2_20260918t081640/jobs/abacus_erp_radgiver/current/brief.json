@@ -1,0 +1,204 @@
+{
+  "artifact_role": "BRIEF",
+  "position": {
+    "track": "ERP-rådgiver, ikke Senior ERP-rådgiver. Erfaringskravet på ett til to år er dekket med god margin; seniorsporets krav om solide ERP-leveranser og strategisk kunderådgivning er ikke dokumentert. Ett tydelig svar slår en søknad til begge.",
+    "thesis": "En ERP-rådgiver som selv har kjørt regnskapsflyten og bygget verktøyet som fikk de gamle bilagslinjene over i det nye formatet, rådgir på førstehåndsforståelse av prosessen kunden skal endre.",
+    "reader_need": "Abacus trenger en som raskt blir nyttig i et implementeringsprosjekt: forstå kundens økonomi- og logistikkprosess, omsette behovet til noe avgrenset, og holde kvalitet og fremdrift mens erfarne kolleger dekker produktdybden.",
+    "headline_intent": "Navngi rådgiverfunksjonen med økonomiprosesser og systemimplementering som feltet, slik at leseren plasserer kandidaten i økonomi- og prosessfaget og ikke som BI-utvikler."
+  },
+  "delivery": "LETTER_AND_CV",
+  "delivery_reason": "letter_requirement UNSPECIFIED og route UNKNOWN; annonsen sier bare «Søknader behandles fortløpende». Brev er ikke avvist, og det er eneste sted sporvalget kan begrunnes. Uten det må leseren gjette hvorfor kandidaten ikke søkte seniorsporet.",
+  "units": [
+    {
+      "id": "U1",
+      "refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#039-6-4-programmering-automatisering-og-impl",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "proves": "Overtok hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avsetninger, bilagsflyt, avstemming og resultatforklaring, og utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot REGERP-format. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+      "employer_problem": "«God forståelse for virksomhetsprosesser innen økonomi, logistikk»: en rådgiver som ikke har stått i regnskapsflyten selv, rådgir på annenhåndsforståelse av prosessen kunden skal endre.",
+      "ceiling": "Egen tildelt klinikkflyt, ikke hele OUS eller formelt regnskapsansvar; ingen ERP-/Oracle-eierskap, lønns-/årsoppgjørserfaring, alle-prosjekter-ansvar eller eierskap til alle arvede arbeidsbøker og modeller; ingen dokumentert tids-/feilreduksjon eller generalisert målt effekt",
+      "placement": "BOTH"
+    },
+    {
+      "id": "U2",
+      "refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "proves": "Gjennomførte kodeendringene i moderniseringen av et forretningskritisk verktøy innenfor en interessentprosess på om lag 50 personer, med differansekontroll, akseptansekriterier, risiko- og avviksregister og uttrykt nullregresjonskrav; laget onboarding- og presentasjonsmateriell for controllere, og underviste tekniske kolleger i en annen organisasjon.",
+      "employer_problem": "«Sikre kvalitet, fremdrift og gode kundeopplevelser gjennom hele leveransen»: en leveranse er ikke ferdig når den virker, men når kunden kan bruke og vedlikeholde den.",
+      "ceiling": "Ikke opphavsperson eller budsjetteier; ingen eierskap til hele moderniseringen eller budsjettprosessen; ingen besparelse tilsvarende budsjettskala, nulldefekt eller kvantifisert tids- og feilreduksjon; det foreligger ikke godkjente målinger av effekt",
+      "placement": "BOTH"
+    }
+  ],
+  "judgment": {
+    "refs": [
+      "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+    ],
+    "judgment": "Avviste direkte fordeling av gevinster i steril logistikk fordi datagrunnlaget ikke bar den, og omformet oppdraget til en vektet proxy-modell med synlige og konfigurerbare forutsetninger som controllere kunne justere selv. Å si at tallgrunnlaget ikke holder er en del av rådgivningen.",
+    "ceiling": "Ingen direkte måling, eierskap til klinikkestimater, realisert gevinst eller ROI-påstand; implementering per gren, endelige vekter, organisatorisk bruk og realiserte gevinster er fortsatt uavklart",
+    "integrate_into": "U1"
+  },
+  "reserve": [
+    {
+      "ref": "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+      "use_if": "ISO-faktumet skal møtes med kvalitets-, endringskontroll- og informasjonssikkerhetsnær praksis. Prosjektnivå. Utenfor kjernen."
+    },
+    {
+      "ref": "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+      "use_if": "Behovsfangst og akseptansekriterier før løsningsvalg skal vises. Design og evaluering, ingen utrulling."
+    },
+    {
+      "ref": "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+      "use_if": "Fremdrift og faglig pådriv trengs uten å oppgradere myndighet: faglig pådriver, koordinerte, tok ansvar for; aldri prosjektleder."
+    },
+    {
+      "ref": "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+      "use_if": "Den kommersielle kundesiden skal navngis: behovsavklaring, pristilbud og kundedialog hos Sector Alarm. Kort."
+    },
+    {
+      "ref": "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+      "use_if": "«Beste praksis» skal møtes med felles metodeverk i varig bruk. Teamlevert. Utenfor kjernen."
+    }
+  ],
+  "employer_fact": {
+    "fact": "Abacus er ISO-sertifisert på kvalitet, miljø og informasjonssikkerhet.",
+    "quote": "Vi er derfor ISO-sertifisert på ISO 9001 (kvalitet), 14001 (miljø) og 27001 (informasjonssikkerhet).",
+    "conversion": "Kundeleveransen skal kunne dokumenteres inn i etablerte styringssystemer. Akseptansekriterier, endringskontroll og sporbarhet er da ikke ekstraarbeid ved siden av leveransen, men det den måles mot, og det er praksisen U2 dokumenterer."
+  },
+  "stances": [
+    {
+      "req": "Q14",
+      "relation": "GAP",
+      "stance": "NAME_ONCE",
+      "via_ref": "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+      "line": "BNXT er produktet jeg skal lære, og det er nettopp derfor jeg søker rådgiversporet og ikke seniorsporet: prosess- og implementeringsarbeidet tar jeg med meg, og produktdybden bygges raskest i reelle kundeprosjekter sammen med erfarne kolleger."
+    },
+    {
+      "req": "Q01",
+      "relation": "GAP",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+    },
+    {
+      "req": "Q05",
+      "relation": "ADJACENT",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+    },
+    {
+      "req": "Q06",
+      "relation": "PARTIAL",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+    },
+    {
+      "req": "Q16",
+      "relation": "GAP",
+      "stance": "OMIT"
+    },
+    {
+      "req": "T2",
+      "relation": "GAP",
+      "stance": "OMIT"
+    }
+  ],
+  "distinctiveness": {
+    "facets": [
+      {
+        "facet_id": "PF-09",
+        "behaviour": "Vis presisjonen i rådet som praksis: fakta, slutning, anbefaling, estimat, forventet gevinst og realisert resultat holdes fra hverandre, og forutsetningene skrives der kunden kan se og endre dem i stedet for å ligge i modellen.",
+        "refs": [
+          "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+          "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+        ]
+      },
+      {
+        "facet_id": "PF-19",
+        "behaviour": "Vis at endringsviljen har rekkverk: nye tilnærminger ble faktisk prøvd ut og vurdert, men endringer i noe som var i daglig bruk gikk gjennom differansekontroll, akseptansekriterier og uttrykt nullregresjonskrav før de fikk stå.",
+        "refs": [
+          "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+          "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+        ]
+      }
+    ],
+    "motive": "Rådgiverarbeidet i et implementeringsprosjekt er den delen kandidaten har gjort mest av og hatt minst tittel på: sitte med noen som har en prosess som ikke virker, finne ut hva den egentlig skal gjøre, og bli med til den virker hos dem. Hos Abacus er det arbeidet selve leveransen.",
+    "opening_move": "TRACK_CHOICE",
+    "closing_move": "MOTIVE_ECHO"
+  },
+  "letter_plan": {
+    "word_target": 370,
+    "paragraphs": [
+      {
+        "job": "Åpne med sporvalget som svar på annonsens eget spørsmål «Hvilken rolle passer deg?»: ERP-rådgiver, begrunnet i hva som tas med og hva som skal læres. NAME_ONCE-setningen om BNXT hører hit, én gang, siden den er sporbegrunnelsen.",
+        "unit_ids": [],
+        "refs": []
+      },
+      {
+        "job": "Bær U1 med skjønnsatomet integrert: månedsoppgjørsflyten og REGERP-konverteringsverktøyet fra innsiden, og avvisningen av direkte gevinstfordeling.",
+        "unit_ids": [
+          "U1"
+        ],
+        "refs": [
+          "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+          "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+        ]
+      },
+      {
+        "job": "Bær U2 og omsett ISO-faktumet: kontrollert endring i noe som er i daglig bruk, onboarding for controllere, kompetanseoverføring til en annen organisasjon. Lukk ved å knytte tilbake til motivet, uten standardformel og uten nytt spørsmål.",
+        "unit_ids": [
+          "U2"
+        ],
+        "refs": [
+          "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+          "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "phrase": "«ERP-konsulent», «implementerte REGERP», «erfaring med ERP-leveranser»",
+      "ceiling": "Kandidaten utviklet ikke og eide ikke den sentrale REGERP-/Oracle-løsningen eller ERP-overgangsprogrammet."
+    },
+    {
+      "phrase": "Erfaring med BNXT by Visma ut over NAME_ONCE-setningen",
+      "ceiling": "No BNXT by Visma experience is documented. Produktet nevnes én gang, som det som skal læres."
+    },
+    {
+      "phrase": "«lønnsomme leveranser», «kundeansvar», «strategisk rådgiver for kunder» som dokumentert erfaring",
+      "ceiling": "Commercial ERP consulting, profitable delivery responsibility and strategic customer-adviser experience are not documented."
+    },
+    {
+      "phrase": "«avansert SQL-optimalisering», «produksjonseierskap», «CI/CD»",
+      "ceiling": "SQL: advanced optimization/production ownership requires confirmation. Git/GitLab: practical two-person coordination, not mature enterprise CI/CD."
+    }
+  ],
+  "outside_scout_refs": [
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+  ],
+  "notes": [
+    "Utfordrer til U1: nåværende rolle og virksomhetsforståelsesposten er bredere og dekker logistikk bedre, men ingen av dem viser kandidaten stående i selve systemovergangen. BAR-posten gjør det.",
+    "Utfordrer til U2: posten for funksjonell ledelse treffer «kvalitet og fremdrift» mest direkte, men er en liste over trygge signaler, ikke en hendelse. Kompetanseoverføringen på tvers av organisasjoner gir rådgiverbeviset budsjettverktøyet alene ikke gir.",
+    "Utfordrer til skjønnsatomet: budsjettverktøyposten har også en dokumentert avveining, men den ble brukt i Stortinget-jobben. Gevinstfordelingsmodellen velges her fordi finans og logistikk er annonsens egne fagområder.",
+    "Bevisst gjenbruk: gevinstfordelingsmodellen er også skjønnsatom i norwegian_senior_manager_digital_governance. Der bærer den inspiserbarhet i en styringsfunksjon; her at en rådgiver må kunne si at tallgrunnlaget ikke holder. Verdt menneskelig konvergenskontroll.",
+    "T2 og Q16 er OMIT fordi seniorsporet ikke søkes. Sporvalget nevnes positivt i track-feltet og én gang i NAME_ONCE-setningen, som et valg, ikke som et fravær."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "b8ff581c9d2a79afb36d66f305f678f5c787539383a80e7f130841fbea6a08bd",
+    "policy_fingerprint": "fd1983375eeef6e089e266616f394d7b7f1fffe287aec654f88a0f063a9e2d67",
+    "inputs": {
+      "scout": "a9b5113b059ab8afdf22e02d691f401157178f01b33443341bb35f8653dee631"
+    }
+  }
+}

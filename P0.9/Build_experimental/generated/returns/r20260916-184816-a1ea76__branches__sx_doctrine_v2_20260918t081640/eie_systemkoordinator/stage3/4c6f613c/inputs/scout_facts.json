@@ -1,0 +1,253 @@
+{
+  "artifact_role": "SCOUT_FACTS",
+  "vacancy": {
+    "employer": "EIE eiendomsmegling",
+    "unit": "EIE Franchise",
+    "title": "Systemkoordinator",
+    "deadline": "Snarest",
+    "reference": "FINN-kode: 476036017",
+    "language": "nb",
+    "sector": "PRIVATE"
+  },
+  "requirements": [
+    {
+      "id": "Q01",
+      "quote": "Du vil håndtere innkommende henvendelser angående system fra våre meglere, løse utfordringer og følge opp i etterkant.",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ]
+    },
+    {
+      "id": "Q02",
+      "quote": "Du jobber tett med vårt teknologiselskap Brokio",
+      "kind": "TASK",
+      "relation": "ADJACENT",
+      "refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q03",
+      "quote": "vil bidra i prosjekter, tester nye verktøy, og være med på å sette retningen for hvordan systemene våre skal utvikles.",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ]
+    },
+    {
+      "id": "Q04",
+      "quote": "Du vil være med på å effektivisere og forenkle meglernes arbeidsdag gjennom AI",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens"
+      ]
+    },
+    {
+      "id": "Q05",
+      "quote": "bidra til at EIE ligger i front når det gjelder å ta i bruk ny teknologi.",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ]
+    },
+    {
+      "id": "Q06",
+      "quote": "lage veiledninger folk faktisk leser og bruker",
+      "kind": "TASK",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q07",
+      "quote": "holde opplæring for brukere både digitalt og på fysiske samlinger.",
+      "kind": "TASK",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q08",
+      "quote": "Du setter opp systemene, koordinerer med leverandørene våre, og sørger for at alt er klart fra første dag.",
+      "kind": "TASK",
+      "relation": "GAP",
+      "refs": []
+    },
+    {
+      "id": "Q09",
+      "quote": "holder du oversikt over Core, EIE 365 og de andre systemene våre",
+      "kind": "TASK",
+      "relation": "GAP",
+      "refs": []
+    },
+    {
+      "id": "Q10",
+      "quote": "bidrar med underlag til møter med leverandører og meglerforetak.",
+      "kind": "TASK",
+      "relation": "ADJACENT",
+      "refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q11",
+      "quote": "Vi ser etter deg som er eiendomsmegler eller har økonomi og/eller IT kompetanse eller annen relevant utdannelse.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ]
+    },
+    {
+      "id": "Q12",
+      "quote": "Du har erfaring med arbeid i systemer",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    },
+    {
+      "id": "Q13",
+      "quote": "har hatt tett dialog med kunder.",
+      "kind": "MUST",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ]
+    },
+    {
+      "id": "Q14",
+      "quote": "Du er spesielt interessert hvordan det digitale kan bidra til å gjøre hverdagen til megler, boligkjøper- og selger enda enklere.",
+      "kind": "MUST",
+      "relation": "ADJACENT",
+      "refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ]
+    },
+    {
+      "id": "Q15",
+      "quote": "EIE er opptatt av utvikling og ønsker noen som er innovative og kreative i arbeidet sitt.",
+      "kind": "SHOULD",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ]
+    }
+  ],
+  "thresholds": [
+    {
+      "id": "T1",
+      "quote": "Vi ser etter deg som er eiendomsmegler eller har økonomi og/eller IT kompetanse eller annen relevant utdannelse.",
+      "dimension": "EDUCATION",
+      "required": "Eiendomsmegler, økonomi- og/eller IT-kompetanse, eller annen relevant utdannelse",
+      "candidate": "Fullført mastergrad og bachelorgrad i samfunnsøkonomi; pågående masterprogram i kunstig intelligens",
+      "status": "MEETS",
+      "refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ]
+    },
+    {
+      "id": "T2",
+      "quote": "Arbeidsspråk Norsk",
+      "dimension": "LANGUAGE",
+      "required": "Norsk arbeidsspråk",
+      "candidate": "Norsk morsmål",
+      "status": "MEETS",
+      "refs": [
+        "EV:OTHER#032-5-1-sprak"
+      ]
+    }
+  ],
+  "tracks": [],
+  "employer_facts": [
+    {
+      "fact": "EIE grows and is adding a new administration role.",
+      "quote": "EIE eiendomsmegling vokser og utvider administrasjonen med en ny rolle.",
+      "conversion": "The system coordinator must help define a role and operating routines while supporting growth."
+    },
+    {
+      "fact": "The role is a two-year temporary position with a possibility of permanent employment.",
+      "quote": "Dette er et vikariat på to år med mulighet for fast ansettelse.",
+      "conversion": "The position must create practical value during a fixed period while establishing sustainable working methods."
+    },
+    {
+      "fact": "EIE has expanded beyond residential brokerage into three additional service areas.",
+      "quote": "Utover megling av boliger, besitter vi i dag kompetanse innen næringsmegling, nybygg og advokattjenester knyttet til alle juridiske aspekter ved kjøp og salg av eiendom.",
+      "conversion": "Systems and user support must serve different professional workflows, not one uniform brokerage process."
+    },
+    {
+      "fact": "EIE describes itself as one of Norway's largest and fastest-growing brokerage chains.",
+      "quote": "har gjort oss til en av de største og raskest voksende eiendomsmeglerkjedene i Norge.",
+      "conversion": "Solutions, guidance and support need to scale across a growing chain."
+    },
+    {
+      "fact": "Knowledge sharing spans offices and job functions.",
+      "quote": "Kulturen i EIE preges av kunnskapsdeling på tvers av kontorer og stillingsfunksjoner.",
+      "conversion": "Training and documentation must work across distributed offices and varied user groups."
+    }
+  ],
+  "submission": {
+    "letter_requirement": "UNSPECIFIED",
+    "quote": null,
+    "route": "UNKNOWN",
+    "screening_questions": []
+  },
+  "reader_signals": [
+    {
+      "signal": "The reader wants practical user-facing support close to brokers.",
+      "quote": "jobbe tett på meglerne for å optimalisere deres digitale hverdag"
+    },
+    {
+      "signal": "Adoption matters: guidance must actually be read and used.",
+      "quote": "lage veiledninger folk faktisk leser og bruker"
+    },
+    {
+      "signal": "The role combines hands-on support with shaping future systems.",
+      "quote": "en rolle i skjæringspunktet mellom teknologi og eiendomsmegling, hvor du er med på å forme fremtidens meglerhverdag."
+    },
+    {
+      "signal": "The environment is fast-paced and varied.",
+      "quote": "et arbeidsmiljø preget av tempo, varierte arbeidsdager og samarbeid"
+    }
+  ],
+  "notes": [
+    "The record does not document real-estate brokerage domain experience or use of Core or EIE 365.",
+    "The record does not document new-office system setup or supplier coordination.",
+    "The ad does not state whether a letter is required or identify the application route.",
+    "The FINN skills list is excluded as a source of requirements."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "eie_systemkoordinator",
+    "employer": "EIE eiendomsmegling",
+    "title": "Systemkoordinator",
+    "evidence_fingerprint": "eb4cdf3689c40fdeb982cfcdb6619aed89d7037f72f6e3e797ca41733ca3e8a3",
+    "policy_fingerprint": "aa4d64ac6552944b30ffeb3944de5f2cea9c07a2b46da3adb105283065ac6aa0",
+    "inputs": {}
+  }
+}

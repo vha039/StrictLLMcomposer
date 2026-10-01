@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260923-193222-838ddd",
+  "job_id": "nittedal_radgiver_helse_velferd",
+  "employer": "Nittedal kommune",
+  "title": "Rådgiver Helse og velferd",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "06fdb4451f34da714a72ed995e9f1eb31bb52738fc6107eeca0b705277a12ff8",
+  "upstream": {
+    "strategy_sha256": "68ed2ec3691f9af51459aed072cec450a67cd64cfb427c5a3fe5a1c696eaf877"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

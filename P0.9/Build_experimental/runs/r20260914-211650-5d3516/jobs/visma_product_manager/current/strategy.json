@@ -1,0 +1,374 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "Visma Enterprise ansetter fem Product Managers til ERP (regnskap, innkjøp, HR og lønn) og Workforce Management (bemanningsplanlegging, drift, kompetanse og kapasitet) for kommuner, helseforetak og store private aktører. Uttalt: produktene skal utfordres for en AI-native verden, med mer automatisering, mindre manuelt arbeid og bedre beslutningsstøtte for brukerne. PM-en skal i et tverrfaglig team med Product Designer, Tech Lead og utviklere lede Product Discovery, bygge dyp forståelse for brukere, kunder, marked og domene, ta ansvar for teamets outcomes, bruke innsikt, data og eksperimentering, koble kundeverdi til kommersielle resultater og KPI-er, og utforske AI. Uttalte krav: 3–5 års erfaring som Product Manager, dokumentert kontinuerlig discovery og outcome-basert produktledelse, kommersiell forståelse, datadrevne beslutninger, erfaring fra empowered produktteam, kunnskap om hvordan AI endrer produkter og produktutvikling, norsk eller skandinavisk språk. Domeneerfaring fra ERP, lønn, økonomi, bemanning eller ressursstyring er en fordel, men sterk PM-kompetanse veier tyngst. Søknad skjer med CV og skjemaspørsmål; søknadsbrev kreves ikke. Slutning (ikke uttalt): med fem stillinger og vekt på domenebygging kan en Head of Product vurdere en kandidat som kjenner kundesegmentets arbeid fra innsiden, men bare hvis CV-en alene viser brukerforståelse, prioritering og datadrevet vurdering tydelig nok til å veie opp for manglende PM-tittel.",
+  "selection_logic": "Uttalt filter: 3–5 år som Product Manager, discovery og outcome-basert produktledelse, kommersiell forståelse, data og eksperimentering, tverrfaglige produktteam, AI-forståelse og språk; domene er fordel. Plattformens AI-genererte ferdighetsliste er ikke arbeidsgiverkrav. Slutning: vurderingen skjer primært på CV og skjema, og en Head of Product vil skanne etter PM-titler og discovery-/outcome-språk, der kandidaten ikke treffer. Den eneste troverdige veien er en CV-topp som straks viser (1) innsidekunnskap fra et helseforetak om nettopp økonomi-, bemannings- og kapasitetsarbeidet Visma vil automatisere, (2) funksjonelt eierskap til interne verktøy med brukertester, feedback og fokuserte forbedringer, og (3) datadrevet vurdering og praktisk KI i utviklingsarbeid. Kandidaten skal ikke kles ut som PM; profilen må leses som en domenesterk og brukernær kandidat som er verd en samtale.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver i økonomi og IKT i et helseforetak som utvikler og forbedrer digitale verktøy for økonomi, bemanning og kapasitet sammen med brukerne, med datadrevet vurdering og praktisk KI-støttet utviklingsarbeid. Brukernær og domenesterk, ikke formell Product Manager.",
+  "headline_hypothesis": "Rådgiver økonomi og IKT | Brukernære verktøy for økonomi, bemanning og kapasitet",
+  "shortlist_thesis": "Kandidaten kjenner Vismas kundesegment fra innsiden: i om lag 3,5 år ved Oslo universitetssykehus HF har han arbeidet med økonomi, bemanning, aktivitet og kapasitet og sett hvilke manuelle steg som tar tid. Han var offisiell eier av en styrings-BI-løsning i driftsperioden om lag august 2025–februar 2026, gjennomførte observerte tester med faktiske brukere og kjørte fokuserte forbedringssprinter på feedbacken; han var i praksis eneste kodende utvikler da manuell kopiering av bemanningsdata ble fjernet fra sykehusets budsjetteringsverktøy, som ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027. I prognosearbeid for pasientvolum, sengebehov og kapasitet definerer og utfordrer han operative mål, baselines og akseptansekriterier i en menneskestyrt KI-støttet utviklingsflyt. Tesen er domene, brukerforståelse og datadisiplin fra kundesiden, uten formell PM-erfaring.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "3–5 års erfaring som Product Manager, gjerne fra B2B SaaS eller andre teknologidrevne produkter.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:OTHER#005-0-3-ufravikelige-claim-kontroller"
+      ],
+      "note": "Ikke oppfylt: ingen erfaring som Product Manager eller fra B2B SaaS. Formell tittel er Rådgiver Økonomi og IKT (OUS, fra mars 2023). Nærliggende funksjonelt eierskap: offisiell eier av styrings-BI-løsningen om lag august 2025–februar 2026 med drift, brukertester og forbedringssprinter (PRJ-01), hovedimplementør av modernisert verktøy i sykehusdekkende bruk (PRJ-03), strukturert behovs- og kravarbeid (PRJ-09). Ikke oppgrader til produkteier eller PM, og ikke skriv år med produktledelse. CV-toppen må la domene og brukernær utvikling tale uten å antyde tittelen."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Dokumentert erfaring med kontinuerlig Product Discovery; lede discovery for å forstå kundenes utfordringer, identifisere muligheter og utforske riktige løsninger sammen med Product Designer og Tech Lead.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Nærliggende elementer: observerte tester med faktiske brukere, identifiserte forvirrende interaksjoner og fokuserte forbedringssprinter (PRJ-01); strukturerte spørreskjemaer som fanger formål, brukere, beslutningsbehov, avhengigheter, risiko, prioritet og akseptansekriterier før løsning, samt evaluering av løsningsalternativer (PRJ-09, design og evaluering); omforming av et oppdrag da problemet slik det var formulert ikke bar (PRJ-06). Ikke etablert: kontinuerlig discovery som fast praksis, ledelse av discovery i produktteam eller samarbeid med Product Designer og Tech Lead. Brukertestene dokumenterer ikke hvilke endringer som betydde mest. CV-bevis i toppsonen."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Outcome-basert produktledelse; ta ansvar for teamets outcomes og prioritere det som skaper størst verdi for kundene.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#054-10-2-uavklart-utelat-eller-behold-smal-k"
+      ],
+      "note": "Kumulativt; outcome-ansvar styrer. Prioritering er støttet: skilte stor modellmodernisering fra rutinemessig videreutvikling da modellgrenser skapte leveranserisiko (PRJ-01), prioritering og WIP-design (PRJ-08), skiller beslutningskritisk arbeid fra nyttige tillegg (EMP-OUS-003). Outcome-ansvar med definerte og målte resultater er ikke dokumentert; adopsjon, tidsbesparelse og effekt er uavklart og skal ikke konstrueres."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Bruke innsikt, data og eksperimentering til å utfordre antakelser, validere hypoteser og ta gode produktbeslutninger.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m"
+      ],
+      "note": "Data og innsikt til å utfordre antakelser er støttet og særegent: avviste falsk presisjon da bruksdata ikke bar en fordeling (PRJ-06); definerte og utfordret operativt prognosemål og krevde tidsbevisste holdouts, baselines, operative metrikker og akseptansekriterier (PRJ-05); master med økonometri og hypotesetesting. Brukertester er støttet (PRJ-01). Produkteksperimenter (A/B-tester, feature-eksperimenter) og produktbeslutninger i en PM-rolle er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Kommersiell forståelse; koble kundeverdi til forretningsresultater og følge opp relevante mål og KPI-er.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+        "EV:EDU#029-4-2-forbudte-oppgraderinger"
+      ],
+      "note": "Nærliggende: økonomisk kobling mellom verdi og effekt gjennom medutviklet sykehusdekkende gevinstrealiseringsmetode (PRJ-04) og beslutningsmodell for investeringsvalg (PRJ-06); samfunnsøkonomisk master og bachelorfag i bedriftsøkonomi og konkurranseøkonomi; bygget styringsinformasjon med KPI-er (PRJ-01). Ikke etablert: kommersielt ansvar, inntekt, prising, salg eller oppfølging av produkt-KPI-er. Offentlig virksomhet uten kommersiell produktkontekst."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Motiveres av å løse komplekse problemer i skjæringspunktet mellom teknologi, forretning og brukerbehov.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Støttet gjennom rollen: omsetter brede behov til avgrensede løsninger for ledere, controllere og fagmiljøer; modernisering der forretningsbehov, teknisk gjeld og brukere møttes (PRJ-03); styrings-BI med brukertester (PRJ-01). Vises gjennom arbeid, ikke motivasjonsord."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Trives i tverrfaglige, empowered produktteam og samarbeider godt med designere, utviklere og andre Product Managers.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Nærliggende: i PRJ-01 ledet kolleger innhold og visuell utforming mens kandidaten hadde backend, med teknisk veiledning til kolleger; i PRJ-05 integrerer han en kollegas bidrag og kodeagentarbeid; bred interessentprosess i PRJ-03; Scrum/Kanban og oppgavehierarki i en ny avdeling (PRJ-08). Ingen erfaring fra produktteam med Product Designer, Tech Lead eller andre PM-er."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Kunnskap om hvordan AI endrer produktene som bygges og måten man jobber med produktutvikling på; utforske hvordan AI kan løse problemer på nye måter.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#029-4-5-ki-grenser",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+        "EV:EDU#030-4-3-uavklarte-punkter"
+      ],
+      "note": "Hvordan AI endrer utviklingsarbeidet er støttet i praksis: menneskestyrt arbeidsflyt for kodeagenter med instruksjoner, avgrenset delegering, tester og overlevering i et aktivt utviklingsprosjekt; registrert KI-superbruker i om lag tre år; pågående KI-master. Hvordan AI endrer produkter er ikke dokumentert: ingen AI-funksjon i et produkt, produksjons-LLM eller kundeleveranse. Bruk som særegent CV-signal."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Kommuniserer godt på norsk eller et annet skandinavisk språk.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak"
+      ],
+      "note": "Norsk morsmål; engelsk flytende. CV."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Erfaring fra ERP, HR Tech, lønn, økonomi, Workforce Management, bemanningsplanlegging, ressursstyring eller andre komplekse B2B SaaS-produkter (fordel, ikke krav).",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+        "EV:WORK#053-10-1-eksplisitt-forbudt"
+      ],
+      "note": "Alternativer; økonomi er støttet fra brukersiden: operativt månedsoppgjør og prosjektøkonomi, budsjettarbeid med registrering av årsverk og kvalitetssikring av bemannings-, UTA- og vaktgrunnlag, overgang til ERP-løsningen REGERP med egenutviklede konverteringsverktøy, integrasjon av ansatt-, ansettelses- og bemanningsdata i budsjetteringsverktøy, og prognoser for pasientvolum, sengebehov og kapasitet (aktiv utvikling). Lønn er datakilde, ikke lønnsproduksjon; ERP er brukerside og overgang, ikke ERP-produkt eller -programeierskap; ingen B2B SaaS. Ikke påstå kjennskap til Vismas produkter."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Bygge dyp forståelse for brukerne, kundene, markedet og domenet.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver"
+      ],
+      "note": "Kumulativt. Domene og brukere er støttet og særegent: kandidaten har arbeidet i et helseforetak, som annonsen oppgir som kundesegment, med økonomi, bemanning, aktivitet og kapasitet, og har testet løsninger med faktiske brukere. Kunde- og markedsforståelse i kommersiell forstand er ikke etablert."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Samarbeide tett med andre Product Managers og bidra til å videreutvikle produktmiljøet.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Nærliggende: deltok i etableringsgruppen for Analyseavdelingen og utformet arbeidsmodellen; kompetanseoverføring på tvers av organisasjoner. Ikke produktmiljø."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser"
+      ],
+      "role": "Første bærende bevisenhet (nærmeste bevis for brukernær eierskap og iterasjon): en firepersoners analyseavdeling fikk et bredt og lett spesifisert oppdrag om styringsinformasjon for økonomi, bemanning, sykefravær og aktivitet. Kandidaten var hovedutvikler for backend, valgte stjerneskjema etter å ha vurdert alternativer, og var offisiell eier i driftsperioden om lag august 2025–februar 2026 med månedlige oppdateringer. Han gjennomførte observerte tester med faktiske brukere, identifiserte forvirrende interaksjoner, samlet feedback og kjørte fokuserte forbedringssprinter, og skilte stor modellmodernisering fra rutinemessig videreutvikling da modellgrenser skapte leveranserisiko. Svarer på Vismas spørsmål om kandidaten forstår brukere, prioriterer under begrensninger og itererer på feedback.",
+      "claim_ceiling": "Kolleger ledet innhold, visuell utforming og frontend. Løsningen ble avviklet rundt februar 2026; ingen nåværende eierskap og ingen flerårig eierskap. Årsak til avviklingen er uavklart og skal ikke forklares. Ingen kvantifisert adopsjon, effekt eller brukertall. Brukertestene dokumenterer ikke hvilke endringer som betydde mest. Ikke kall løsningen et produkt kandidaten var produktansvarlig for.",
+      "lifecycle": "DECOMMISSIONED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser"
+      ],
+      "role": "Andre bærende bevisenhet (domeneinnsikt fra kundesiden om manuelt arbeid i økonomi og bemanning), med to atskilte poster: i sykehusets forretningskritiske budsjetteringsverktøy måtte ansatt-, ansettelses- og bemanningsdata kopieres manuelt fra en annen arbeidsbok; i en bred interessentprosess på om lag 50 personer var kandidaten i praksis eneste kodende utvikler som integrerte dataene, med akseptansekriterier og differansekontroll, og verktøyet ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027 (PRJ-03). Tidligere, i klinikkstaben, gjennomførte han månedsoppgjør, kvalitetssikret bemannings-, UTA- og vaktgrunnlag i budsjettprosessen og bygget egne konverteringsverktøy som økonomirådgivere i flere klinikker brukte ved overgangen til REGERP (BAR). Svarer på Vismas ambisjon om mindre manuelt arbeid i økonomi, lønn/HR og bemanning, sett fra brukeren som gjør arbeidet.",
+      "claim_ceiling": "PRJ-03: ikke opphavsperson, budsjetteier eller gjennomføringsleder; om lag 50 er interessentskala; ingen kvantifisert tids- eller feilbesparelse. BAR: egen tildelt klinikkflyt; lønns- og vaktgrunnlag var data i budsjett og kostnader, ikke lønnskjøring eller turnusplanlegging; ikke den sentrale REGERP-/Oracle-løsningen eller ERP-programmet; ingen brukertall. Ikke påstå at OUS bruker Vismas produkter eller at kandidaten kjenner dem. Hver post beholder sin egen bruk og status.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE",
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#028-4-4-trygge-ki-pastander",
+        "EV:OTHER#029-4-5-ki-grenser",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "role": "Separat CV-bevis for datadrevet validering og AI i utviklingsarbeid, som også treffer WFMs beslutningsstøtte for kapasitet: i et aktivt prosjekt for 14-, 90- og 365-dagers prognoser for pasientvolum, sengebehov og kapasitet eier kandidaten arkitektur, orkestrering og integrasjon, definerte og utfordret det operative prognosemålet og krevde tidsbevisste holdouts, baselines, operative metrikker og akseptansekriterier. Implementeringen skjer i en menneskestyrt arbeidsflyt for kodeagenter med instruksjoner, avgrenset delegering, tester og overlevering. Registrert KI-superbruker i om lag tre år og pågående KI-master. Svarer på «validere hypoteser», «AI endrer måten vi jobber med produktutvikling» og domenet riktig kapasitet til riktig tid.",
+      "claim_ceiling": "Aktiv utvikling, ikke produksjonssatt, ingen verifisert modellytelse. Fordelt forfatterskap med en kollega (opprinnelig XGBoost, mye datavask og mange features) og kodeagenter. Ingen AI i et produkt, produksjons-LLM, organisasjonsomfattende KI eller kvantifisert produktivitetsgevinst. Prognoser for sengebehov er ikke bemannings- eller turnusplanlegging. UiA: pågående, uten progresjon eller forventet fullføring.",
+      "lifecycle": "IN_DEVELOPMENT",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE",
+        "BL:EDU_UIA_AI"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "CV-bevis for problemforståelse før løsning, i to atskilte poster: kandidaten utformet strukturerte spørreskjemaer for arbeidsinntak som fanger formål, brukere, beslutningsbehov, inndata, utdata, avhengigheter, risiko, prioritet og akseptansekriterier, og designet og evaluerte Forms-, Loop-, Power BI-, Pega- og lavkodealternativer (PRJ-09). I PRJ-06 avviste han falsk presisjon da direkte bruksdata ikke bar en fordeling, og utformet en transparent modell med synlige forutsetninger som ble ferdigstilt og overlevert til controllere. Svarer på discovery-elementene «forstå problemet» og «utfordre antakelser».",
+      "claim_ceiling": "PRJ-09 er design og evaluering med prosjektnivåbruk der støttet; ingen virksomhetsutrulling, produkteierskap eller organisasjonsdekkende adopsjon. PRJ-06: ingen organisatorisk bruk, realisert gevinst eller ROI dokumentert. Ikke kall dette Product Discovery som praksis."
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "CV-grunnlag for kobling mellom verdi og økonomi: fullført master i samfunnsøkonomi med økonometri og empirisk design, og medutviklet (én av fire) gevinstrealiseringsmetode som ble innført som sykehusdekkende standard og fortsatt var i bruk om lag 2,5 år senere. Nærmeste svar på kommersiell forståelse og KPI-oppfølging.",
+      "claim_ceiling": "Ingen kommersiell, inntekts- eller prisingserfaring. PRJ-04: medutvikler, ikke eier eller metodeleder; ingen målt effekt; «fortsatt i bruk om lag 2,5 år senere», ikke «i dag». Emner beviser ikke praktisk mestring.",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIB_ECON"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen erfaring som Product Manager, og minstekravet på 3–5 år i rollen er ikke oppfylt.",
+      "reframe": "Om lag 3,5 år med funksjonelt eierskap og brukernær videreutvikling av interne verktøy i et helseforetak: livsløpseier for styrings-BI med brukertester og forbedringssprinter, hovedimplementør av et verktøy i sykehusdekkende bruk, og strukturert behovsarbeid før løsning.",
+      "honesty_note": "Ikke bruk PM-, produkteier- eller produktledertittel, og ikke omtal interne verktøy som produkter kandidaten har ledet. CV-en må la kronologien vise faktisk rolle."
+    },
+    {
+      "objection": "Ingen B2B SaaS- eller kommersiell produkterfaring, og ingen eierskap til kommersielle KPI-er.",
+      "reframe": "Økonomisk forståelse av verdi og effekt gjennom samfunnsøkonomisk utdanning, gevinstrealiseringsmetode og investeringsbeslutningsstøtte, kombinert med innsikt i hvordan Vismas kundesegment arbeider med økonomi og bemanning.",
+      "honesty_note": "Ikke påstå inntekts-, prisings- eller salgsansvar. Ikke gjør styringsinformasjon med KPI-er om til oppfølging av egne produktmål."
+    },
+    {
+      "objection": "Kontinuerlig discovery og outcome-basert produktledelse er ikke dokumentert.",
+      "reframe": "Konkrete discovery-nære handlinger: observerte brukertester, identifisering av friksjon, fokuserte forbedringssprinter, strukturert kartlegging av brukere og beslutningsbehov før bygging, og utfordring av mål og akseptansekriterier.",
+      "honesty_note": "Ikke kall disse handlingene en discovery-praksis, og ikke oppfinn målte outcomes."
+    },
+    {
+      "objection": "Profilen er en utøvende bygger (Excel/VBA, Power BI, R/Python) snarere enn en produktleder.",
+      "reframe": "Løft problemet, brukeren og prioriteringen i hvert punkt; teknisk dybde kan leses som evne til å vurdere gjennomførbarhet sammen med Tech Lead og utviklere.",
+      "honesty_note": "Ikke skjul det tekniske bidraget og ikke posisjoner kandidaten som Tech Lead."
+    },
+    {
+      "objection": "Ingen erfaring fra team med Product Designer, Tech Lead og andre Product Managers.",
+      "reframe": "Tverrfaglig leveranse der kolleger ledet innhold og visuell utforming mens kandidaten eide backend, integrasjon av kollega- og kodeagentbidrag, og samarbeid i en bred interessentprosess.",
+      "honesty_note": "Ikke påstå empowered produktteam eller designsamarbeid ut over det som er dokumentert."
+    }
+  ],
+  "motivation_bridge": "Visma vil at produktene for økonomi, lønn/HR og bemanning skal gi kommuner og helseforetak mindre administrasjon og mindre manuelt arbeid, og vil bruke AI og automatisering til det. Kandidaten har arbeidet med disse problemene fra brukersiden i et helseforetak: manuell kopiering av bemanningsdata i budsjettarbeid, kontroll av bemannings- og vaktgrunnlag, en ERP-overgang som krevde egne verktøy, og kapasitetsprognoser. Motivasjonen kan forankres i å flytte fra å løse slike problemer for én virksomhet til å forme produkter som løser dem for mange, med praktisk erfaring i hvordan KI endrer utviklingsarbeidet. Ikke påstå kjennskap til Vismas produkter, og ikke motiver med feriebolig, konsernstørrelse eller produktmiljøets omfang.",
+  "cv_direction": {
+    "headline_direction": "Yrkesoverskrift som plasserer kandidaten som rådgiver i økonomi og IKT med brukernær utvikling av verktøy for økonomi, bemanning og kapasitet. Ikke «Product Manager», «produkteier» eller «produktleder»; formell tittel Rådgiver Økonomi og IKT står uendret i kronologien. Arbeidsgiveren krever ikke søknadsbrev, så CV-en er hoveddokumentet og må være utfyllende og selvstendig.",
+    "emphasis": [
+      "Profil som først etablerer samfunnsøkonom og rådgiver i økonomi og IKT ved Oslo universitetssykehus HF, deretter domene (økonomi, bemanning, aktivitet og kapasitet sett fra brukersiden), brukernær iterasjon og datadrevet validering.",
+      "PRJ-01 som eget punkt med brukertester, identifisert friksjon, forbedringssprinter, prioritering under modellbegrensninger og livsløpseierskap i perioden.",
+      "PRJ-03 formulert som fjerning av manuelt steg i bemanningsdata med sykehusdekkende bruk i to budsjettprosesser.",
+      "PRJ-05 formulert som mål-, baseline- og akseptansekriteriearbeid for kapasitetsprognoser, med menneskestyrt KI-støttet utvikling; PRJ-09 som strukturert behovs- og kravarbeid før løsning.",
+      "BAR-bullets som viser innsikt i økonomi-, bemannings- og ERP-prosesser fra brukersiden: månedsoppgjør, bemannings-, UTA- og vaktgrunnlag, konverteringsverktøy ved REGERP-overgangen.",
+      "Nøkkelkompetanser ledet av brukerinnsikt og behovsavklaring, prioritering og iterativ forbedring, data og validering, domene økonomi, bemanning og kapasitet, KI i utviklingsarbeid og tverrfaglig samarbeid; verktøy etter.",
+      "KI synlig i toppsonen: registrert superbrukerrolle, menneskestyrt arbeidsflyt og pågående KI-master."
+    ],
+    "deprioritize": [
+      "DAX-, Power Query- og VBA-interne detaljer.",
+      "Regnskapsterminologi ut over det som viser domeneinnsikt.",
+      "Modellfamilier (XGBoost, GAM, SARIMAX) og repositoriestørrelse.",
+      "Plattformpiloter og lange verktøylister.",
+      "Eldre roller 2013–2021 kompakt; tillitsverv kort eller utelatt."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Domenesterk og brukernær kandidat fra Vismas kundesegment: har eid og videreutviklet interne verktøy med faktiske brukere og fjernet manuelle steg i økonomi- og bemanningsarbeid, med datadisiplin og praktisk KI. Bæres av PRJ-01 (brukertester, feedback og forbedringssprinter i eierperioden) og domeneenheten PRJ-03 og BAR (manuelt arbeid i økonomi og bemanning sett og løst fra brukersiden), med PRJ-05 som datadisiplin og KI.",
+    "top_employer_problems": [
+      "Finne Product Managers som forstår brukerne og domenet i økonomi, lønn/HR og bemanning godt nok til å velge hva som bør bygges.",
+      "Redusere manuelt arbeid og gi bedre beslutningsstøtte for kommuner og helseforetak.",
+      "Ta produktbeslutninger basert på innsikt, data og validering heller enn antakelser.",
+      "Forstå hvordan AI endrer både produktene og måten produktutvikling gjøres."
+    ],
+    "structure_guidance": "Visma krever ikke søknadsbrev; vurderingen skjer på CV og skjemaspørsmål. Kjernen produserer likevel et brev: hold det kort og la det gjøre én jobb, å forklare hvorfor en domenesterk kandidat fra kundesiden søker produktrollen, med PRJ-01 og domeneenheten som bevis. Åpne med yrkesanker og kundesidens perspektiv på manuelt arbeid, ikke med annonsens AI-native-retorikk. Ett avsnitt om brukertester og forbedringssprinter i PRJ-01 med teamgrense og eierperiode. Ett avsnitt om manuelt bemanningsdataarbeid i PRJ-03 og innsikt fra BAR, som separate erfaringer. Én setning om mål, baselines og KI-støttet utvikling i PRJ-05 er nok. Avslutt med konkret bidrag og invitasjon. CV-en må kunne stå helt alene med de samme signalene i toppsonen. Denne søknaden leder med brukere og domene; den skal ikke åpne med automatisering av regnskapsprosesser eller strategisk rådgivning."
+  },
+  "avoid_guidance": [
+    "Ikke kall PRJ-01, PRJ-03 eller PRJ-09 produkter kandidaten var Product Manager eller produkteier for.",
+    "Ikke skriv år med produktledelse, discovery-praksis eller outcome-ansvar.",
+    "Ikke påstå at brukertestene i PRJ-01 førte til målte forbedringer, eller forklar hvorfor dashbordet ble avviklet.",
+    "Ikke gjør lønns- og vaktgrunnlag i budsjettarbeid til erfaring med lønnskjøring, turnusplanlegging eller WFM-systemer.",
+    "Ikke påstå at OUS bruker Vismas produkter eller at kandidaten kjenner dem, og ikke navngi leverandøren bak fagsystemene kandidaten har brukt.",
+    "Ikke gjør prognoser for sengebehov om til bemanningsplanlegging eller produksjonssatt beslutningsstøtte.",
+    "Ikke påstå AI i produkter eller kundeleveranser; KI-erfaringen gjelder utviklings- og analysearbeid.",
+    "Ikke bruk FINN-plattformens AI-genererte ferdighetsliste som arbeidsgiverkrav."
+  ],
+  "counterfactual_route": {
+    "identity": "Samfunnsøkonom med beslutningsstøtte for kapasitet og bemanning i helseforetak, rettet mot Workforce Management.",
+    "rationale": "Annonsen lar søkeren være åpen for ERP eller WFM, og WFM beskriver proaktiv beslutningsstøtte og riktig kompetanse og kapasitet til riktig tid. En skribent kan spisse mot WFM med PRJ-05 (prognoser for pasientvolum, sengebehov og kapasitet, med operative mål og baselines), PRJ-10 (seksjonsvise DRG-estimater levert og brukt i budsjett og planlegging) og BARs kvalitetssikring av bemannings-, UTA- og vaktgrunnlag. Ruten er mer domenespesifikk, men svakere på brukernær iterasjon og mer utsatt for FORECASTING-standardrute og aktiv-utviklingsstatus; PRJ-01 bør da stå i CV-en.",
+    "evidence_refs": [
+      "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+      "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+      "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+    ]
+  },
+  "risk_notes": [
+    "Minstekravet på 3–5 år som Product Manager er et reelt gap i en CV-basert screening; profilen må vinne på domene og brukernærhet.",
+    "LEADERSHIP_INFLATION / tittelinflasjon: PM-språk kan gli inn i beskrivelsen av interne verktøy.",
+    "BI_DEFAULTING og TECH_STACK_DUMP: en verktøytung CV-topp plasserer kandidaten som analytiker eller utvikler.",
+    "Uten krav om brev bærer CV-en nesten hele vurderingen; kombinasjonen i toppsonen er avgjørende."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-08",
+      "plain_language_label": "Tar utgangspunkt i brukerens faktiske arbeid",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "expression_ceiling": "Kan uttrykkes gjennom observerte brukertester med identifisert friksjon, spørreskjemaer som kartlegger brukere og beslutningsbehov før løsning, og en modell utformet slik at controllere kunne inspisere og justere den. Ikke påstå generell empati eller dokumentert brukertilfredshet.",
+      "vacancy_relevance": "Rollen krever dyp forståelse for brukere og kunder og discovery av deres utfordringer.",
+      "intended_employer_interpretation": "Starter med brukerens problem og arbeidsflyt, ikke med teknologien.",
+      "misread_risk": "Teknisk orientert profil uten reell brukerinteresse.",
+      "expression_guardrail": "Vis perspektivet gjennom konkrete brukerhandlinger og designvalg i CV-punktene, ikke gjennom egenskapsord."
+    },
+    {
+      "facet_id": "PF-03",
+      "plain_language_label": "Tester og justerer i små, kontrollerte steg",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "expression_ceiling": "Kan uttrykkes gjennom fokuserte forbedringssprinter etter brukertester, krav om baselines, tidsbevisste holdouts og akseptansekriterier før konklusjoner, og funksjon-for-funksjon-endring med differansekontroll i et forretningskritisk verktøy. Ikke påstå produkteksperimenter eller A/B-testing.",
+      "vacancy_relevance": "Visma ber om innsikt, data og eksperimentering for å validere hypoteser og ta produktbeslutninger.",
+      "intended_employer_interpretation": "Validerer antakelser før han forplikter seg, og lærer gjennom kontrollerte iterasjoner.",
+      "misread_risk": "Enten for forsiktig og treg, eller eksperimenterende uten kontroll.",
+      "expression_guardrail": "Par valideringen med levert resultat (forbedringssprinter i drift, verktøy i sykehusdekkende bruk)."
+    },
+    {
+      "facet_id": "PF-18",
+      "plain_language_label": "Utforsker bredt og lander i en fungerende løsning",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "expression_ceiling": "Kan uttrykkes gjennom et bredt, lett spesifisert oppdrag der alternativer ble vurdert før stjerneskjema ble valgt og løsningen bygget og driftet, og gjennom evaluering av flere verktøyalternativer for arbeidsinntak. Ikke påstå at PRJ-09 ble rullet ut.",
+      "vacancy_relevance": "Discovery skal utforske riktige løsninger før teamet forplikter seg, i komplekse domener.",
+      "intended_employer_interpretation": "Kan navigere uklare problemer uten å bli stående i analysen.",
+      "misread_risk": "Ustrukturert utforsker, eller rigid prosessperson.",
+      "expression_guardrail": "Vis hele løpet fra uklart oppdrag via valg til bygget og brukt løsning i samme punkt."
+    }
+  ],
+  "writer_guidance": "Skriv for en Head of Product som leser en CV raskt og leter etter produktkompetanse. Kandidaten har ikke PM-tittelen, så CV-toppen må på sekunder vise noe en typisk PM-søker ikke har: arbeid fra innsiden av et helseforetak med økonomi, bemanning og kapasitet, kombinert med konkrete brukernære handlinger (brukertester, identifisert friksjon, forbedringssprinter, strukturert behovsavklaring) og datadisiplin (mål, baselines, akseptansekriterier). Formuler interne verktøy som løsninger for navngitte brukergrupper, ikke som produkter. PRJ-01 er avviklet; bruk eierperioden og brukerarbeidet, ikke nåtid. PRJ-03 og BAR er separate erfaringer med egen status. KI skal vises som endret arbeidsmåte i utvikling, ikke som AI i produkter. Brevet er valgfritt for arbeidsgiveren og skal være kort; CV-en må kunne stå alene.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260914-211650-5d3516",
+    "job_id": "visma_product_manager",
+    "employer": "Visma Enterprise AS",
+    "title": "Product Manager",
+    "manifest_sha256": "ee29c2c8f729ec0cd72833a8024fa6300299d4e07792a5f5783e47e77dcd1616",
+    "vacancy_sha256": "01eb961604299a7e00ae585213cb8b690b6b7b31b78f0977e968e1a62ca35f9c",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

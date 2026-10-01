@@ -1,0 +1,26 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "RERUN",
+  "rerun_stage": 2,
+  "reasons": [
+    {
+      "reason": "Letter argues nothing about the product track.",
+      "recommended_action": "Rewrite the middle paragraph around BNXT."
+    }
+  ],
+  "known_limitations": [],
+  "binding": {
+    "run_id": "r20260916-185207-a37938",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "510876bb28a092ebd563b71d20ee00403817a02ceafbf90edc7ade1dadf8c9f8",
+    "policy_fingerprint": "26afb50695cc750cd34caa9a4d3aaf277d42d379f4f1f39ece12a38664257b51",
+    "inputs": {
+      "scout": "d7fccc0a3b9aebf19a503820ee73d30d790ae1c7c5a3ff8ef910ed4818c5f3fb",
+      "brief": "912712407de78d59afb1629728f27576e77b6020ef848e1a9089259fbda9ea2f",
+      "cv_draft": "135722c24c92bcbd5c7951781835fa3e0d4dc771469a2a4bedbc4ab9cccd0351",
+      "advocacy_draft": "250f15d2c27e419f9432e08a88ec0ab972c55a9ca66dbde045698df422e6840a"
+    }
+  }
+}

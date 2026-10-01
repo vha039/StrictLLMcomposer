@@ -1,0 +1,25 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Tre minstekrav (ResearchOps eller tilsvarende, personvern/etikk i kvalitativt innsiktsarbeid, god forståelse for kvalitativt innsiktsarbeid) er bare dekket med tilgrensende evidens: felles verktøy, bestillingsskjemaer, brukertester, sensitive data i sykehus. Pakken antyder ikke at de er oppfylt, og nevner metodebakgrunnen positivt etter bevisene.",
+      "recommended_action": "Ingen lokal reparasjon. Vurder ved godkjenning om søknaden skal sendes med denne kjente avstanden til kvalitativ metode.",
+      "priority": 1
+    },
+    {
+      "reason": "Frist 23.09.2026, samme dag som pakken ble laget.",
+      "recommended_action": "Skum og send manuelt umiddelbart.",
+      "priority": 2
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert ResearchOps-rolle, kvalitativ brukerforskning eller særskilt behandling av samtykke og personopplysninger i brukerforskning; broen går via felles verktøy, maler, brukertester og arbeid med sensitive data.",
+    "Bestillingsskjemaene (PRJ-09) er beskrevet som utformet og vurdert, uten påstand om utrulling.",
+    "Budsjettverktøyets bruk 2026/2027 er dokumentert; ingen målt tids- eller feilreduksjon."
+  ],
+  "material_strategy_change": "Beholdt strategiens bro, men flyttet ankeret fra innsiktsarbeid til felles arbeidsprosesser og verktøy, og hentet inn tre bevis strategien ikke brukte: REGERP-verktøyene tatt i bruk av økonomirådgivere i flere klinikker, STE-modellen bevisst utformet for at controllere skulle kunne eie forutsetningene, og den registrerte KI-superbrukerrollen som stående brukerstøtte. PRJ-03 ble løftet til hovedcase for verktøy mange bruker.",
+  "upstream_claim_repaired": "Strategiens headline og identitet (innsiktsarbeid, innsiktsstøtte) ville antydet kvalitativ innsiktskompetanse; erstattet med samfunnsøkonom og felles arbeidsprosesser. Strategien merket PRJ-08/09 som IN_DEVELOPMENT; PRJ-09 er utformet/vurdert og PRJ-08 blandet innført/foreslått, og teksten følger kilden.",
+  "notes": [
+    "R08 (standardisere uten unødig byråkrati) besvares gjennom STE-modellens eierskapsvalg og budsjettverktøyet; smal refaktorering er korrekt tilskrevet implementeringsansvarlig."
+  ]
+}

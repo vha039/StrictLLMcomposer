@@ -1,0 +1,48 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver innen gevinstrealisering, digitalisering og styring",
+    "profile": "Rådgiver med økonomisk og teknisk forståelse, spesialisert i å gjøre komplekse beslutnings- og endringsbehov konkrete, etterprøvbare og mulige å ta i bruk. Har erfaring med felles gevinstmetodikk, modernisering av kritiske arbeidsprosesser og utvikling av beslutningsgrunnlag i en stor samfunnskritisk virksomhet.",
+    "competencies": [
+      "Gevinstrealisering, virksomhetsstyring og verdilogikk",
+      "Digital endring med kontinuitet, kontroll og innføring",
+      "Beslutningsgrunnlag, analyse og styringsinformasjon",
+      "Prioritering, avhengigheter og strukturering av uklare behov",
+      "Workshopfasilitering, onboarding og kompetanseoverføring",
+      "Brobygging mellom virksomhetsbehov, brukere og teknologi"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Arbeider med beslutningsstøtte for økonomi, bemanning, aktivitet/DRG og pasientflyt, og gjør brede behov om til avgrensede leveranser, kontroller og dokumentasjon.",
+          "Deltok i et firepersonsteam som forbedret et rammeverk for gevinstrealisering. Det teamutviklede rammeverket ble innført som sykehusdekkende standard og var fortsatt rapportert i bruk om lag to og et halvt år senere.",
+          "Var hovedutvikler på modernisering av et virksomhetskritisk Excel/VBA-budsjetteringsverktøy, med integrasjon av bemanningsdata, kontrollarbeid og controller-onboarding. Den moderniserte versjonen ble brukt i budsjettprosessen for 2026.",
+          "Utformer strukturer for arbeidsinntak og prioritering, og planlegger og fasiliterer workshops og kunnskapsoverføring i tverrfaglige oppdrag."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Digital transformasjon får først verdi når investeringer, prioriteringer og arbeidsformer henger sammen helt frem til nye løsninger tas i bruk. Avinors oppgave med å koble teknologi, data og nye arbeidsformer til tryggere drift, mer effektive tjenester og bærekraftig utvikling treffer derfor godt med den typen endringsarbeid jeg har erfaring fra. Jeg søker stillingen som seniorrådgiver fordi jeg vil bruke økonomisk analyse, gevinstlogikk og praktisk gjennomføring til å styrke denne sammenhengen.",
+    "body_paragraphs": [
+      "Ved Oslo universitetssykehus var jeg en av fire som forbedret et rammeverk for gevinstrealisering. Vi arbeidet med forskningssyntese, metode, økonomiske og strategiske vurderinger og styring. Det teamutviklede rammeverket ble senere innført som sykehusdekkende standard og var fortsatt rapportert i bruk om lag to og et halvt år senere. For meg er dette et konkret eksempel på at verdistyring må være en felles, anvendelig arbeidsform, ikke bare en ambisjon eller rapporteringsøvelse.",
+      "Jeg har også hatt hovedansvar for kodingen i moderniseringen av et virksomhetskritisk budsjetteringsverktøy med lang historikk, mange avhengigheter og spredte versjoner. Arbeidet omfattet integrasjon av bemanningsdata, kontroller, dokumentasjon og onboarding i en bred interessentkontekst. Den moderniserte versjonen ble brukt i budsjettprosessen for 2026. Oppgaven har lært meg at endring i kritiske arbeidsprosesser må drives frem slik at bruk, kontinuitet og faglig kontroll ivaretas samtidig.",
+      "I arbeid med gevinstfordeling for steril logistikk møtte jeg en situasjon der tilgjengelige data ikke kunne bære en presis direktefordeling. Jeg valgte derfor å utforme en transparent modell med synlige antakelser og justerbare vekter, fremfor å gi inntrykk av større sikkerhet enn datagrunnlaget tillot. Arkitekturen er et beslutningsstøttedesign, ikke en dokumentert realisert gevinst, men erfaringen er relevant for hvordan jeg nærmer meg prioriteringer og investeringer under usikkerhet.",
+      "Jeg har ikke erfaring fra luftfart, og jeg har ikke hatt formelt ansvar for et konsernprogram eller en digital portefølje. Jeg kommer fra en annen kompleks og regulert samfunnskritisk virksomhet, og vil møte Avinors domene med respekt for fag, drift og sikkerhet. Det jeg kan bidra med fra start, er å strukturere beslutningsbehov, gjøre verdilogikk tydelig og samarbeide med ulike fagmiljøer om leveranser som kan brukes i praksis."
+    ],
+    "closing": "Rollen gir en meningsfull mulighet til å bidra til at digitalisering blir omgjort til prioriterte og gjennomførbare forbedringer i infrastrukturen som binder Norge sammen."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "writer_note": null
+}

@@ -1,0 +1,488 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": false,
+  "employer_decision_problem": "Annonsen beskriver en strategisk og operativ rådgiver som rapporterer til administrerende direktør, tilrettelegger ledergruppe- og styremøter, forbereder agenda og styremateriell og støtter tydelige lederbudskap til presentasjoner og foredrag. Samarbeid med strategiavdelingen og virksomhetsbesøk er også uttrykkelige oppgaver. Min prioriteringsslutning er at Hafslund først må kunne stole på at kandidaten gjør komplekst fagstoff anvendelig for en leder, leverer presist og følger opp praktiske oppgaver i en variert hverdag; analyse alene er utilstrekkelig. Annonsens vekt på hvem kandidaten er, læring og noen års erfaring åpner for en overføringskandidat, men opphever ikke oppgavene med møteforberedelse og lederkommunikasjon. Ingen intern svikt eller skjult utfordring hos Hafslund er kjent.",
+  "selection_logic": "Velg økonomirådgiveren med dokumentert lederrapportering og mottakertilpasset leveranse som yrkesanker. Den sterkeste plausible konkurrenten er en økonom med noen års strategi-/konsulenterfaring fra energi, som allerede har skrevet lederpresentasjoner og forberedt styresaker. Vegard kan ikke konkurrere med oppdiktet toppledererfaring. Det troverdige svaret er selvstendig kvalitetssikring og distribusjon av klinikkrapporter til ledere, beslutningsnotater og korte sammendrag, kombinert med at han endret en uforsvarlig direktefordeling til en transparent modell som ble ferdigstilt og overlevert til controllere. Dette viser leveranse og økonomisk dømmekraft. Arbeidsmøter, opplæring og prioritering av avhengigheter svarer deretter på samarbeid og praktisk oppfølging. Rangeringen følger ubesvarte arbeidsgiverspørsmål: kan han skrive for mottakeren, velge et forsvarlig grunnlag, samarbeide og håndtere både rutine og utvikling? Sykehusdekkende metodikk og budsjettverktøy gir relevant bredde og gjennomføring; teknisk skala tilfører lite til denne utvelgelsen. Direkte CEO-sparring, profesjonelt styresekretariat og foredragsbudskap står som gap.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver med erfaring fra økonomisk analyse, lederrapportering og praktisk beslutningsstøtte ved OUS.",
+  "headline_hypothesis": "Samfunnsøkonom og rådgiver i beslutningsstøtte",
+  "shortlist_thesis": "En rådgiver som kan gjøre økonomisk og operativt materiale forståelig og brukbart for ledelsen, og som har fulgt opp både løpende rapportering og krevende utviklingsleveranser. Den bærende styrken er forbindelsen mellom mottakertilpasset formidling, forsvarlige vurderinger og faktisk levering; erfaringen er overførbar til Hafslunds lederstøtte, uten at den fremstilles som tidligere rådgivning til en administrerende direktør.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Høyere utdanning på masternivå innen økonomi, energi, teknologi, ingeniørfag eller andre relevante fagområder.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ],
+      "note": "Alternative fagområder, ikke kumulative grader. Fullført master i samfunnsøkonomi fra NTNU oppfyller økonomialternativet; CV dokumenterer graden. Pågående UiA-program er supplerende og ikke grunnlaget for oppfyllelse."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Gjerne noen års erfaring fra strategi, forretningsutvikling, analyse, rådgivning eller prosjektledelse.",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Analyse og rådgivning siden mars 2023 er støttet og er to av alternativene. Ingen obligatorisk strategi-/konsulentbakgrunn eller bestemt årsterskel står i annonsen; ikke hevde dokumentert forretningsutviklingsansvar eller formell prosjektledertittel."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Strategisk og operativ rådgivning og sparring direkte til administrerende direktør, tett på selskapets beslutninger.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Lederrettede rapporter, økonomisk/strategisk metodebidrag og ferdig beslutningsmodell gir en positiv overføringsbro i brevet. Direkte CEO-rådgivning, eget toppledermandat og eierskap til selskapets strategi er ikke dokumentert. Plassering i Direktørens stab etablerer bare organisatorisk tilhørighet."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Ansvar for tilrettelegging av selskapets ledergruppe- og styremøter.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:OTHER#033-5-2-tillitsverv"
+      ],
+      "note": "Begge møtearenaene er kumulative arbeidsoppgaver. Workshopplanlegging og studentboligverv etablerer noe møte-/samhandlingserfaring, men ingen levert profesjonell ledergruppe- eller styremøtetilrettelegging. Behold gapet i review; ikke konstruere en sekretariatshistorie."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Forberede ledelsens agenda og styremateriell.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Skriftlig beslutningsmateriale, lederrapporter, interne presentasjoner og workshopopplegg svarer på forberedelse og mottakertilpasning. Konkret styremateriell og ledergruppeagenda er ikke dokumentert. CV viser faktiske dokumenttyper; brevet kan forklare overførbarheten, ikke omtale dem som styresaker."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Støtte utforming av tydelige lederbudskap til presentasjoner og foredrag; kommunisere godt skriftlig og muntlig på norsk.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:OTHER#032-5-1-sprak",
+        "EV:EDU#019-2-5-selvstendig-arbeid-kommunikasjon-og"
+      ],
+      "note": "Norsk morsmål er støttet. Faktiske lederrapporter, beslutningsnotater, korte sammendrag og en ledet workshop med slides gir skriftlig/muntlig leveransebevis. Det avgjørende ubesvarte spørsmålet er å skrive i en toppleders stemme; taler, foredrag og CEO-budskap er ikke dokumentert. Denne bevisfunksjonen må ha synlig plass i CV-toppen og brevet, ikke fortrenges av modellarkitektur."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Samarbeide tett med strategiavdelingen; bygge relasjoner og bidra positivt med kolleger.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Konkrete samarbeidsformer er flere arbeidsmøter med teknisk personell, tverrfaglig firepersoners metodeutvikling og workshops. Dokumenterer samarbeidsevne og mottakertilpasning, ikke tidligere samarbeid med en energi-strategiavdeling, sosial utstråling eller godt humør som bevist egenskap."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Nysgjerrighet, initiativ og evne til å sette seg inn i komplekse problemstillinger og ta tak i nye utfordringer.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell"
+      ],
+      "note": "Egeninitierte konverteringsverktøy, læring av VBA fra grunnen og rask overtakelse av tildelt månedsflyt viser konkret læring og initiativ. STE-valget viser håndtering av kompleksitet og utilstrekkelige data. Bruk handlingene; ikke utlede forhåndsekspertise i kraft."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Trives med høyt tempo og mange samtidige oppgaver, får energi av dette og prioriterer godt.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Oppgavenedbryting, prioritering, WIP-/avhengighetsdesign og samtidig løpende klinikkøkonomi er støttet. Kilden fastslår ikke subjektiv energi ved høyt tempo eller feilfri håndtering av mange samtidige topplederoppgaver. CV dokumenterer prioriteringshandlinger; behold resten som uverifisert, uten prestasjonsløfte."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Analytisk side og evne til å arbeide strukturert når det må til.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m"
+      ],
+      "note": "Synlige modellforutsetninger, avstemt lederrapportering og masterfag i empirisk metode gir direkte evidens. STE viser nyttig valg: indirekte indikatorer presenteres som proxy, ikke observerte fakta."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Interesse for strategi og forretningsutvikling, og motivasjon for å arbeide nær beslutninger med betydning for virksomheten.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit"
+      ],
+      "note": "Økonomisk/strategisk metodearbeid og investeringsrelatert beslutningsstøtte gir substans til neste-steg-motivasjon. Ikke påstå en etablert forretningsutviklingskarriere, strategi-eierskap eller kommersielt vekstansvar."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Interesse for energi- og kraftbransjen er en fordel.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit"
+      ],
+      "note": "Miljø- og ressursøkonomi, fornybare/ikke-fornybare ressurser og klimapolitikk er et dokumentert akademisk utgangspunkt. Dette beviser verken kraftbransjeerfaring eller en langvarig personlig interesse. Motivasjonen kan knyttes til virksomhetens faktiske produksjonsvekst og behovet for gode beslutningsgrunnlag."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Noe reisevirksomhet til kraftverk og lokasjoner i Sør-Norge.",
+      "importance": "IMPORTANT",
+      "relation": "UNKNOWN",
+      "evidence_refs": [],
+      "note": "Reisevilje og praktisk tilgjengelighet er ikke oppgitt i kandidatmyndighetene. Ingen påstand om dette i pakken. Praktisk arbeid med heismontører er en mulig forståelsesbro til operative miljøer, ikke dokumentert reiseaksept."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Ingen oppgaver er for store eller små; kombinere strategisk perspektiv med praktisk lederstøtte.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "note": "Tildelt månedsoppgjør, rapportdistribusjon, prosjektøkonomiske enkeltsaker og metodeutvikling viser både praktiske leveranser og analyse. Ikke utlede kalenderadministrasjon, reisebooking eller personlig assistent-erfaring. Tidligere praktiske roller beholdes kort i CV."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Bakgrunnssjekk og personkontroll etter kraftberedskapsforskriften og interne rutiner; mulig kredittsjekk og opplysningsplikt i prosessen.",
+      "importance": "IMPORTANT",
+      "relation": "UNKNOWN",
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "note": "Dette er en rekrutteringsbetingelse, ikke et dokumentert krav om allerede innvilget klarering. Regulerte sykehusprosesser viser kontrollbevissthet, men etablerer ikke godkjent personkontroll, kredittstatus eller sikkerhetsklarering."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ],
+      "role": "Første bevis for praktisk lederstøtte og skriftlig levering: sammenstilte og forklarte økonomi, bemanning og aktivitet; kvalitetssikret og distribuerte månedsrapporter til ledere i klinikken. Viser faktisk mottaker og gjentakende leveranse, og svarer på om kandidaten også gjennomfører rutinearbeid. Utviklingen fra opplæring til egen tildelt flyt gir læringsbevis. CV beholder økonomisk bredde: budsjettgrunnlag, prosjektøkonomi og egeninitierte konverteringsverktøy.",
+      "claim_ceiling": "Overtok innen omtrent tre måneder den tildelte månedsoppgjørsflyten og leverte senere selvstendig kontroll, resultatforklaring og rapportering til klinikkledere; bidro i budsjett og prosjektøkonomiske enkeltsaker og bygget konverteringsverktøy brukt av økonomirådgivere i flere klinikker. Eget BAR-omfang, ikke all-OUS regnskapsansvar, alt rapportinnhold eller ERP-eierskap; ingen dokumentert beslutningseffekt eller tids-/feilgevinst.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "Svarer direkte på formidlingsspørsmålet som et rent modellcase ville latt stå åpent: beslutningsnotater, korte sammendrag, rapporter, dokumentasjon og mottakertilpasset opplæring. Bruk sammen med konkrete BAR-mottakere og workshopdetaljer; ikke oppfinne et bestemt notat, lederbudskap, møteutfall eller en kjent CEO-mottaker.",
+      "claim_ceiling": "Oversetter økonomisk og teknisk materiale til beslutningsnotater, korte beslutningssammendrag, workshops og overlevering og tilpasser dybden til ledere, controllere, fagpersoner og tekniske kolleger. Eksakt tittel, mottaker og bruk av enkeltstående notater er ikke oppgitt; ingen støttet tale-/foredragsforfatterskap eller utforming av administrerende direktørs budskap."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "Økonomisk dømmekraft inne i den samme lederstøtteruten: avviste direktefordeling når datagrunnlaget ikke bar den, valgte transparente indirekte indikatorer og gjorde forutsetninger kontrollerbare for controllere. Svarer på om kandidaten kan skille et nyttig beslutningsgrunnlag fra falsk presisjon. Vis det nyttige metodevalget og ferdig overlevering, ikke størrelsen på et investeringsprosjekt.",
+      "claim_ceiling": "Utformet, ferdigstilte tidlig i 2026 og overleverte til controllere en vektet proxy-modell for gevinstfordeling i steril logistikk, med synlige forutsetninger og kontrollerbare vekter. Avviste ustøttet direktefordeling og valgte åpne formler fremfor sentral VBA-avhengighet. Dette er indirekte indikatorer, ikke direkte måling; organisatorisk bruk, endelige grenvekter, klinikkestimatenes eierskap og realisert gevinst er ikke avklart.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "Muntlig formidling og samarbeid har et konkret dokumentert eksempel: ledet intern workshop for økonomi-/helseøkonomkolleger med slides og Loop-arbeidsflate. Bruk workshopens mottakere, innhold og formidlingshandling uten å late som den var foredrag for CEO. Den historiske styrings-BI-leveransen gir et alternativt CV-bevis på sammensatt styringsinformasjon og forbedring etter brukerobservasjon.",
+      "claim_ceiling": "Ledet en intern BI-workshop for økonomi-/helseøkonomkolleger og laget slides og arbeidsflate; utviklet hoveddelen av backend i en firepersoners styrings-BI-leveranse, driftet den som eier omtrent august 2025–februar 2026 og gjennomførte brukerobservasjon og forbedringssprinter. Kolleger ledet innhold og visualisering; dashbordet ble avviklet rundt februar 2026. Workshopartefaktene var en separat leveranse, og verken nåværende dashbordeierskap eller målt bruker-/beslutningseffekt er støttet.",
+      "lifecycle": "DECOMMISSIONED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "role": "Konkrete relasjons- og samarbeidsbevis: flere arbeidsmøter med den ansvarlige rapport-/dataorganisasjonen, opplæring av teknisk personell og vesentlig bidrag til en rapportkomponent. Gir final writer en mottakerbundet samarbeidsvariant når intern workshop alene blir for teknisk.",
+      "claim_ceiling": "Ga opplæring og råd om Power BI, semantiske modeller og optimalisering til teknisk personell i en annen rapport-/dataorganisasjon gjennom flere møter, og bidro vesentlig til en første driftsrapportkomponent. Eksakt enhet, rapport, dato, videre støtte og nåstatus er uavklart; ikke rapport-/opplæringsprogrameier."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "Relevant samarbeid med et strategisk metodemiljø: et ledelsesbestilt arbeid der firepersonersgruppen undersøkte og videreutviklet gevinstmetodikken. Viser økonomisk/strategisk bidrag og en felles leveranse innført sykehusdekkende. CV bærer leveransens bredde; brevet bruker den bare hvis metode-/strategisamarbeid fortsatt er et ubesvart spørsmål.",
+      "claim_ceiling": "Medutviklet i en firepersonersgruppe en eksisterende gevinstmetodikk, med forskningssyntese, økonomisk/strategisk analyse og styringsbidrag; teamets rammeverk ble innført som sykehusdekkende standard og var i bruk om lag 2,5 år senere. Ingen ene-forfatter-, eier- eller metodelederrolle; individuelle delkomponenter, godkjenningsvei og målt effekt er uavklart.",
+      "lifecycle": "IMPLEMENTED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "Svarer på prioritering, strukturering og praktisk koordinering: oppgavenedbryting, synliggjøring av avhengigheter, workshopplanlegging og samarbeid. Vis utført arbeidsdesign og fasilitering uten å kalle det erfaring som styresekretær. Innførte praksiser og forslag må skilles der den konkrete formuleringen krever det.",
+      "claim_ceiling": "Deltok i etableringen av en firepersoners analyseavdeling, utformet arbeids-/oppgavestruktur, prioriterings- og avhengighetsoversikt og planla/fasiliterte workshops. Kilden blander innførte praksiser og forslag; ingen støtte for alle forslag innført, formelt organisasjonsdesignmandat, personalansvar eller styremøteadministrasjon."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "Gjennomføring som holder kontakten med mottakeren: hovedutvikling under rammer fastsatt av implementeringsleder, kontrollert kodeendring, controller-onboarding og presentasjonsmateriale. Kan svare på om analytikeren også fullfører arbeid som andre faktisk bruker. CV fører leveranse og dokumentert bruk; ikke la dette bli en teknologiutstilling i brevet.",
+      "claim_ceiling": "Var i praksis eneste kodende utvikler i 2025-moderniseringen av et arvet budsjettverktøy, innen en bred interessentprosess, og laget onboarding-/presentasjonsmateriale for controllere. Verktøyet brukes sykehusdekkende i budsjettprosessene for 2026 og 2027, og 2027-moderniseringen er ferdigstilt. Ikke opphavsperson, eier av hele moderniseringen eller budsjettprosessen; antall deltakere beviser ikke bestemte samhandlingshandlinger, og tids-/feil-/økonomieffekt er ikke målt.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ],
+      "role": "Bredde i faktisk økonomisk analyse: leverte fremoverskuende seksjonsestimater brukt i budsjett og planlegging. CV kan beholde dette som planleggingsbevis; det er mer direkte for denne rollen enn en lang liste over nåværende utviklingsmodeller.",
+      "claim_ceiling": "Anvendte Stata, R og Power Query til seksjonsvise DRG-estimater som ble levert og brukt i BAR-budsjett og planlegging. Ett avrundet månedsestimat traff avrundet faktisk verdi, men ingen generalisert treffsikkerhet, gjentatt ytelse, ene-kodeforfatterskap eller produksjonsprognosemotor er støttet.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE",
+        "BL:EMP_OUS_BAR"
+      ],
+      "role": "Yrkesanker, faktisk ansvarsomfang og rett kronologi: rådgivning, analyse, økonomi/bemanning/aktivitet og leveranser til ledere, controllere og fagmiljøer. Dekker CV-profilens ansatt- og rollepåstander; beskytter mot å gjøre organisatorisk plassering til CEO-relasjon.",
+      "claim_ceiling": "Rådgiver Økonomi og IKT ved OUS siden mars 2023, operativt i BAR mars–november 2023 og Analyseavdelingen fra desember 2023. Arbeider prosjektvis med økonomi, bemanning, aktivitet og beslutningsstøtte og leverer rapporter, modeller, workshops og dokumentasjon. Direktørens stab er enhet, ikke dokumentert direkte topplederrådgivning eller virksomhetsomfattende styringsmandat."
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m",
+        "EV:EDU#019-2-5-selvstendig-arbeid-kommunikasjon-og",
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIB_ECON",
+        "BL:EDU_UIA_AI"
+      ],
+      "role": "Formalkrav og relevant analyse-/skrivegrunnlag; miljø- og ressursøkonomi gir en nøktern faglig bro til Hafslunds fornybare virksomhet. Alle grunnlag for baseline-utdanning beholdes i den lukkede pakken. Pågående KI-program har sin korrekte status og ingen bærende identitetsfunksjon her.",
+      "claim_ceiling": "Fullført master i samfunnsøkonomi fra NTNU 2020–2022 og bachelor fra UiB 2017–2020; mastergrunnlag i kvantitativ/empirisk metode og selvstendig vitenskapelig arbeid, samt bachelorfag i miljø- og ressursøkonomi. UiA-masterprogram er pågående fra 2024. Faggrunnlag er ikke kraftbransjepraksis, profesjonell tale-/kommunikasjonsutdanning eller fullført KI-grad; oppgavetema, karakterer og studieprogresjon er uavklart."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "baseline_refs": [
+        "BL:EMP_TKS_HEIS",
+        "BL:EMP_AHLSELL",
+        "BL:EMP_LUFTFORSVARET",
+        "BL:EMP_SECTOR_ALARM"
+      ],
+      "role": "Komplett CV-kronologi og kompakt praktisk bredde: heismontørmiljø, varelogistikk, prosedyrer og kundedialog. Kan vise at operativt arbeid og forskjellige mottakere er kjent uten å konstruere kraftverkserfaring.",
+      "claim_ceiling": "Arbeidet som hjelpearbeider med heismontører, butikkmedarbeider med vareflyt/salg, vakt- og sikringssoldat og sikkerhetskonsulent med behovsavklaring og tilbud. Ikke fagutdannet heismontør, kraftverksoperatør eller dokumentert økonomi-/strategierfaring fra disse rollene.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:OTHER#033-5-2-tillitsverv",
+        "EV:OTHER#034-5-3-tjeneste-og-kurs",
+        "EV:OTHER#003-0-1-last-identitet-og-kontakt"
+      ],
+      "baseline_refs": [
+        "BL:SEC_OTHER_TRUST",
+        "BL:SEC_OTHER_COURSES"
+      ],
+      "role": "Alle faktakilder for felles CV-inventar: språk, identitet, valgte verv og kurs. Studentboligverv kan gi et saklig tillegg om representasjon og økonomisk ansvar dersom final writer trenger det, uten å låne profesjonell styresekretariatserfaring.",
+      "claim_ceiling": "Norsk morsmål og flytende engelsk skriftlig/muntlig; valgte studentboligverv med økonomiansvar, nestleder- og lederrolle 2017–2020; Sanitet nivå 2 april 2014 og godkjent kontaktidentitet. Verv er valgt tillit, ikke profesjonell personalledelse eller leverte konsernstyresaker; ingen standardisert engelsk testscore."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael"
+      ],
+      "role": "Nyttige alternativer for kritisk infrastruktur og økonomisk forståelse: kontrollpraksis i regulert miljø og skille mellom driftsvirkning, økonomisk effekt og forventet gevinst. Behold dette tilgjengelig i Stage 3 hvis mottakeransvar eller økonomiske avveininger trenger presisering.",
+      "claim_ceiling": "Anvender prosjektvise definisjoner, validering, endringskontroll og personvernbevisste kontroller i sykehusarbeid og har praktisk forståelse av ressurs-/økonomisammenhenger. Ingen kraftberedskapskompetanse, sikkerhetsklarering, enterprise-sikkerhetsmandat eller verifisert gevinst uten prosjektsærskilt kilde."
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen dokumentert direkte sparring til en administrerende direktør, profesjonell styremøteadministrasjon eller skriving av CEO-budskap/foredrag.",
+      "reframe": "Bruk levert klinikklederrapportering, beslutningsnotater og workshops som positiv bevisbro til mottakertilpasset forberedelse, og STE som bevis på økonomisk dømmekraft. Vis at kandidaten både skriver, vurderer og følger opp. Annonsen åpner uttrykkelig for utvikling og flere erfaringsbakgrunner.",
+      "honesty_note": "Oppgavene er sentrale og kumulative. Broen etablerer relevant kapasitet, ikke tidligere utførelse av alle oppgavene. Behold gapet i review; verken enheten Direktørens stab eller studentboligverv kan lukke det."
+    },
+    {
+      "objection": "Arbeidserfaringen er fra sykehus, mens rollen krever forståelse av et voksende kraftselskap.",
+      "reframe": "Knytt økonomisk vurdering, sammenstilling av driftsgrunnlag og praktisk mottakerarbeid til selskapets faktiske produksjons- og utviklingsoppgaver. Miljø- og ressursøkonomi gir et akademisk startpunkt; rask læring vises gjennom overtatt klinikkflyt og egeninitiert problemløsning.",
+      "honesty_note": "Ingen kraftmarkeds-, vannkraft- eller fornybar forretningsutviklingserfaring er dokumentert. Bransjeinteresse er en fordel, ikke et eksplisitt erfaringsminimum; ikke oppfinne langvarig energiengasjement."
+    },
+    {
+      "objection": "Den tekniske prosjektbredden kan skjule om kandidaten vil levere små, praktiske oppgaver og kommunisere kort på lederens premisser.",
+      "reframe": "Prioriter faktisk rapportdistribusjon, resultatforklaring, mottakertilpasset materiale, workshopforberedelse og tildelt månedsflyt. Budsjettmoderniseringen kan dokumentere utført arbeid innen andres rammer og onboarding for controllere.",
+      "honesty_note": "Ingen påstand om personlig assistent-arbeid, kalender/reiseadministrasjon eller at høyt tempo i seg selv gir kandidaten energi. Prioritering støttes gjennom handlinger, ikke personlighet alene."
+    }
+  ],
+  "motivation_bridge": "Hafslund Kraft skal øke fornybar produksjon, og rådgiveren skal hjelpe administrerende direktør med å gjøre prioriteringer og virksomhetsbudskap tydelige samtidig som møtearbeidet fungerer. Dette er en konkret neste bruk av økonomisk analyse, lederrettet rapportering og mottakertilpassede leveranser fra OUS. Økonomifaglig forståelse av ressurser og miljø gir en saklig kobling til fornybar virksomhet. Motivasjonen bør handle om å gjøre ledelsens beslutnings- og formidlingsarbeid godt forberedt og anvendelig, og å lære den operative virksomheten; ikke om prestisjen ved å sitte tett på toppledelsen eller udokumentert livslang kraftinteresse.",
+  "cv_draft": {
+    "headline": "Samfunnsøkonom og rådgiver i beslutningsstøtte",
+    "profile": "Master i samfunnsøkonomi og rådgiver ved Oslo universitetssykehus. Sammenstiller økonomisk og operativt materiale til rapporter, beslutningsnotater og presentasjoner tilpasset mottakeren. Har levert selvstendig klinikklederrapportering, ferdigstilt en transparent fordelingsmodell for controllere og medutviklet en sykehusdekkende gevinstmetodikk. Kombinerer analyse med praktisk oppfølging, workshops og overlevering, slik at komplekse leveranser blir forståelige og anvendelige for andre.",
+    "competencies": [
+      "Lederrettet formidling: rapporter, beslutningsnotater, korte sammendrag og presentasjoner",
+      "Økonomiske vurderinger: gevinstlogikk, ressursfordeling og åpne modellforutsetninger",
+      "Virksomhetsanalyse: økonomi, bemanning, aktivitet, budsjett og planlegging",
+      "Samhandling: arbeidsmøter, workshops, opplæring og overlevering til fagmiljøer",
+      "Leveransestruktur: behovsavklaring, prioritering, avhengigheter og kvalitetskontroll",
+      "Praktisk analyse og rapportering: Excel, Power Query og Power BI"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utarbeider beslutningsnotater, korte sammendrag og dokumentasjon og tilpasser økonomisk og teknisk materiale til ledere, controllere og fagmiljøer.",
+          "Utformet og ferdigstilte en modell for fordeling av gevinster i steril logistikk og overleverte den til controllere tidlig i 2026. Valgte transparente indirekte indikatorer da datagrunnlaget ikke støttet direkte måling, og gjorde forutsetninger og vekter synlige.",
+          "Medutviklet i en firepersonersgruppe en gevinstmetodikk med forskningssyntese og økonomiske og strategiske vurderinger. Rammeverket ble innført som sykehusdekkende standard og var i bruk om lag 2,5 år senere.",
+          "Gjennomførte hoveddelen av kodeendringene i moderniseringen av et arvet budsjettverktøy og laget onboarding- og presentasjonsmateriale for controllere. Verktøyet brukes sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Ledet en intern workshop for økonomi- og helseøkonomkolleger med presentasjonsmateriale og felles arbeidsflate; ga også opplæring og modellråd gjennom flere arbeidsmøter med teknisk personell i en annen rapport-/dataorganisasjon.",
+          "Deltok i etableringen av Analyseavdelingen og utformet oppgave- og samarbeidsstrukturer med prioriteringer, ansvar og avhengigheter. Planla og fasiliterte workshops."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen omtrent tre måneder den tildelte månedsoppgjørsflyten. Gjennomførte senere selvstendig avstemming og kvalitetssikring, forklarte resultater og distribuerte månedsrapporter om økonomi, bemanning og aktivitet til ledere i klinikken.",
+          "Bidro til budsjettgrunnlag og prosjektøkonomiske avklaringer, bygget et budsjetthjelpeark og leverte seksjonsvise aktivitetsestimater brukt i budsjett og planlegging.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved REGERP-overgangen. Verktøyene ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      },
+      {
+        "employment_id": "EMP_TKS_HEIS",
+        "bullets": [
+          "Sesong- og heltidsarbeid med heismontører under studiene i et praktisk arbeidsmiljø med sikkerhetskrav."
+        ]
+      },
+      {
+        "employment_id": "EMP_AHLSELL",
+        "bullets": [
+          "Varemottak, lager, bestillinger, salg og kundedialog."
+        ]
+      },
+      {
+        "employment_id": "EMP_LUFTFORSVARET",
+        "bullets": [
+          "Vakthold, adgangskontroll og alarmrespons etter fastsatte prosedyrer."
+        ]
+      },
+      {
+        "employment_id": "EMP_SECTOR_ALARM",
+        "bullets": [
+          "Behovsavklaring, pristilbud, direkte salg og dialog med kunder."
+        ]
+      }
+    ]
+  },
+  "application_direction": {
+    "backbone": "Gjør kompleks økonomisk og operativ informasjon anvendelig for ledelsen, og følger arbeidet helt frem til en levert og forståelig oppgave.",
+    "top_employer_problems": [
+      "Forberede tydelig materiale og budskap for en administrerende direktør, samtidig som mottakernes behov og faglig presisjon ivaretas.",
+      "Være en nyttig sparringspartner som skiller forsvarlig vurdering fra falsk presisjon og kan samarbeide med et strategimiljø.",
+      "Følge opp praktiske forberedelser og mange forskjellige oppgaver med struktur, prioritering og vilje til å utføre rutinearbeid."
+    ],
+    "structure_guidance": "CV dokumenterer formalkrav, faktisk skriftlig/muntlig leveranse, hele kronologien og bredden mellom løpende økonomiarbeid, metodearbeid og gjennomføring. Brevet tolker den samlede lederstøtteruten: konkret rapport-/formidlingsarbeid må svare på kommunikasjon før STE-valget utdyper økonomisk dømmekraft. Dette er to separate erfaringer som svarer på samme arbeidsfunksjon, ikke én prosjekthistorie. Arbeidsmøter/workshop kan bære samarbeid hvis det fortsatt er ubesvart; sykehusdekkende metodikk eller budsjettonboarding velges etter marginal nytte. Knytt motivasjon til Hafslunds faktiske produksjonsutvikling og rådgiverens forberedelsesarbeid. Ingen bestemt åpning, ferdige brevsetninger eller obligatorisk caseantall."
+  },
+  "avoid_guidance": [
+    "Ikke la enheten Direktørens stab bli påstand om direkte CEO-sparring, topplederbudskap eller styresekretariat.",
+    "Ledergruppe-/styremøter, agenda og styremateriell er reelle oppgaver; ikke erklær dem oppfylt gjennom workshops eller studentboligverv.",
+    "STE var ferdigstilt og overlevert til controllere; ikke omtale indirekte indikatorer som målt tjenestebruk eller overlevering som dokumentert adopsjon/gevinst.",
+    "Hold PRJ-04s teamleveranse og bruk adskilt fra STE. Metodikkens varighet dokumenterer ikke STE-modellens bruk eller Vegards eierskap til felles metode.",
+    "Ikke la programmeringsspråk, repository-skala eller KI flytte kandidatidentiteten fra økonomisk rådgiver til teknologispesialist i denne rollen.",
+    "Studentboligverv gir valgt tillit og økonomiansvar, ikke profesjonelt konsernstyrearbeid. Miljøøkonomi gir akademisk inngang, ikke kraftbransjeerfaring.",
+    "Plattformens 85 prosent match, AI-genererte ferdigheter og hjemmekontoroppsummering er ikke arbeidsgivers kvalifikasjonskrav; arbeidsgiverteksten tilbyr fleksibel arbeidstid og -sted."
+  ],
+  "counterfactual_route": null,
+  "risk_notes": [
+    "Reisevilje, bakgrunnssjekk/kredittstatus og subjektiv trivsel ved mange samtidige oppgaver er ikke avklart; ikke lage kandidatfakta av rekrutteringsbetingelser.",
+    "Annonsen ber om CV og vitnemål samt svar i søknadsskjemaet. Dette endrer ikke Stage-1-leveransen eller pipelinekravet om en senere Bokmål-pakke; portalinnsending er utenfor denne oppgaven."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-09",
+      "plain_language_label": "Gjør fagstoff tydelig for mottakeren",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "intended_employer_interpretation": "Kan forberede presist materiale som ledere og kolleger kan forstå og bruke.",
+      "vacancy_relevance": "En stor del av rollen er lederbudskap og skriftlig/muntlig norsk formidling.",
+      "expression_ceiling": "Har levert lederrapporter og beslutningsmateriale og ledet en faglig workshop med presentasjonsmateriale, tilpasset forskjellige mottakere.",
+      "expression_guardrail": "Vis dokumenttypen, mottakeren og handlingen. Ikke utlede erfaring med CEO-taler, universell kommunikasjonsevne eller spesielt sosialt talent.",
+      "misread_risk": "Presisjon kan leses som teknisk detaljfokus; løft mottaker, form og anvendelig leveranse før verktøy."
+    },
+    {
+      "facet_id": "PF-10",
+      "plain_language_label": "Lærer gjennom praktisk ansvar",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "intended_employer_interpretation": "Har en konkret erfaring med å lære nye arbeidsoppgaver og levere selvstendig etter opplæring.",
+      "vacancy_relevance": "Hafslund vektlegger nysgjerrighet og utvikling og beskriver en variert rolle med innlæring av virksomheten.",
+      "expression_ceiling": "Overtok egen tildelt månedsoppgjørsflyt innen omtrent tre måneder og lærte VBA fra grunnen for å bygge verktøy som løste et konkret konverteringsbehov.",
+      "expression_guardrail": "Behold opplæringen og tildelt omfang. Ingen garanti om tempo i en ny bransje eller påstand om eksisterende energi-/styrekompetanse.",
+      "misread_risk": "Rask læring kan misleses som forhåndsekspertise eller behov for stadig nye utfordringer; la selvstendig rapportlevering følge læringshandlingen."
+    }
+  ],
+  "writer_guidance": "Kontroller først om pakken gir et konkret svar på hvordan kandidaten har skrevet og forberedt materiale for andre. BAR-rapportering, nåværende beslutningsnotater og dokumentert workshop er nødvendige bevisfunksjoner for denne annonsen; en imponerende STE-/gevinstpakke alene blir for smal. Bevar de sterke personlige verbene i STE og månedsflyten og teamverbet for felles gevinstmetodikk. Toppfeltet skal være et lesbart økonomisk rådgiveranker. La CV føre formidling, økonomisk skjønn og praktisk levering før teknikk. Brevet kan integrere disse som svar på én lederstøttefunksjon, men beholder hvert prosjekts mottaker, levering, bruk og grenser. En sterk analytisk søknad kan ikke lukke ukjent erfaring med styresekretariat eller lederens stemme; bevar det materialgapet i review og bruk én nøktern overføringsbro hvis teksten ellers ville villede. Hele evidensutvalget er tilgjengelig for rekonstruksjon; ingen materiell kilde skal hentes utenfor det lukkede Stage-3-packet.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260930-205539-9bd8f0",
+    "job_id": "hafslund_kraft_radgiver_administrerende_direktor",
+    "employer": "Hafslund",
+    "title": "Rådgiver administrerende direktør - Hafslund Kraft",
+    "manifest_sha256": "4e7d82f0be62059a2a30f5837e5b7f78ef03e8f4cae22fbd4d896962dcc93a26",
+    "vacancy_sha256": "22409e29bae15fa9f98cba1a64853302393614df17ab8a9e4cfaa5305e48b72a",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "c4ceabaa82370cff63b9ea71f5ba3ce7549ecf95623d1baf6f6ee01090beb3b8"
+  }
+}

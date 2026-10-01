@@ -1,0 +1,24 @@
+{
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [
+    {
+      "reason": "Kløyvd motivsetning i avslutningen; samme grep som i to andre brev i klyngen, men ikke fanget av signaldetektoren.",
+      "recommended_action": "Ingen videre handling; skrevet om direkte.",
+      "priority": 1
+    },
+    {
+      "reason": "Tankestrek i CV-overskriften brøt Tegnsetting.",
+      "recommended_action": "Ingen videre handling; reparert lokalt.",
+      "priority": 2
+    }
+  ],
+  "known_limitations": [
+    "Kandidaten har ikke BNXT-erfaring. Brevet nevner det én gang og gjør det om til begrunnelsen for rådgiversporet fremfor seniorsporet; om Abacus aksepterer det, er arbeidsgiverens vurdering.",
+    "Etter dette laget teller CV 345 dynamiske ord og brevet 362 ord. Sidetallene (CV 2, brev 1) er målt på utkastet før laget og er ikke rendret på nytt.",
+    "Brevet bruker evidens utenfor briefen (EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso), deklarert av Stage 2."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": null,
+  "notes": []
+}

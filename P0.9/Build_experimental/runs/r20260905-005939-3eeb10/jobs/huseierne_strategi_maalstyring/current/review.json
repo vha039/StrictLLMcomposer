@@ -1,0 +1,40 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "To eksplisitte minstekrav er ikke oppfylt og er bevisst ikke påstått: minimum fem års relevant erfaring (dokumentert direkte relevant erfaring er om lag tre og et halvt år fra mars 2023) og praktisk OKR-metodikk (ikke dokumentert noe sted). Pakken nevner ikke OKR og teller ikke eldre roller inn i femårskravet.",
+      "recommended_action": "Les avsnitt 1 og avslutningen med dette i bakhodet og bekreft at avgrensningen er slik du vil ha den. Vurder om du selv vil si noe om OKR i et eventuelt intervju eller i portalens fritekstfelt.",
+      "priority": 1
+    },
+    {
+      "reason": "Fordelings- og investeringsmodellen for steril logistikk står i brevets tredje avsnitt som en dokumentert beslutning, ikke som en levert løsning. Statusen «utformet, ikke innført» er skrevet eksplisitt fordi implementering, endelige vekter, overlevering og realisert gevinst er uavklart.",
+      "recommended_action": "Bekreft at du er komfortabel med å bruke modellen som eksempel på arbeidsmåte når den ikke er innført. Den er intervjuforsvarlig som designbeslutning, ikke som resultat.",
+      "priority": 2
+    },
+    {
+      "reason": "Styringsløsningen omtales i brevet uten tidsangivelse. Den ble avviklet rundt februar 2026, og du eide den om lag august 2025 til februar 2026. Teksten påstår ikke nåværende eierskap eller drift, men sier heller ikke at løsningen er avviklet.",
+      "recommended_action": "Vurder om du vil nevne avviklingen selv i intervju. Det er ikke en feil i teksten, men det er den opplysningen en oppfølgingssamtale mest sannsynlig lander på.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Minimum fem års relevant erfaring er ikke oppfylt. Dokumentert direkte relevant erfaring starter mars 2023.",
+    "Praktisk OKR-erfaring er ikke dokumentert og er ikke påstått. Fasilitering av målprosesser og felles metodeutvikling er dekket, men under andre begreper.",
+    "Erfaring fra produktorganisasjon er ikke dokumentert. Annonsen oppgir dette som en fordel, ikke et krav.",
+    "Kommersiell forretningsutvikling i en medlems- eller markedsorganisasjon er ikke dokumentert; grunnlaget er offentlig sykehusdrift og økonomiutdanning.",
+    "Formuleringen «i praksis eneste kodende utvikler» i CV-punktet om budsjetteringsverktøyet er hentet fra kildematerialet og står sammen med den brede interessentprosessen. Kilden anbefaler ny bekreftelse dersom formuleringen blir framtredende; her står den i ett CV-punkt.",
+    "Den ene månedens DRG-estimat som traff avrundet faktisk verdi er ikke brukt i pakken, fordi den ikke tåler å bli lest som treffsikkerhet."
+  ],
+  "material_strategy_change": "Ingen endring i identitet, rute eller evidensvalg. Strukturell endring innenfor strategiens ramme: draftens fjerde avsnitt, som åpnet med en eksplisitt avgrensning mot OKR, er fjernet som eget avsnitt og den positive overføringen er lagt inn i avsnitt 1. Brevet gikk fra fire til tre kroppsavsnitt.",
+  "upstream_claim_repaired": "Draftens avsnitt 2 plasserte klinikkstabsperioden som «året før» arbeidet med styringsløsningen. Det er feil rekkefølge i tid; perioden i klinikkstaben var mars til november 2023, mens eierskapet til styringsløsningen lå om lag august 2025 til februar 2026. Rettet til en nøytral tidsangivelse uten årstall.",
+  "notes": [
+    "Kildefilen for stillingen er en skannet PDF uten lesbar tekst. Innholdet er lest visuelt fra originalen. FINN-generert materiale, altså Kortversjonen, ferdighetsetikettene merket AI-generert og JobbMatch-blokken, er utelatt fra kravgrunnlaget.",
+    "Søknaden skal sendes via www.financepeople.no, ikke direkte til oppgitt kontaktperson. Frist er oppgitt som snarest, og søknader behandles fortløpende."
+  ],
+  "binding": {
+    "run_id": "r20260905-005939-3eeb10",
+    "job_id": "huseierne_strategi_maalstyring",
+    "final_package_sha256": "2e76429a064f819d6a51c1aef9cfa87e7dab0a6ea3d700932910733df68221c5"
+  }
+}

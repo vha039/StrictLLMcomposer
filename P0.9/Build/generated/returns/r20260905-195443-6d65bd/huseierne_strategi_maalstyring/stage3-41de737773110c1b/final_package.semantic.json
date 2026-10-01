@@ -1,0 +1,58 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | Virksomhetsstyring og styringsinformasjon",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver i Analyseavdelingen i direktørens stab ved Oslo universitetssykehus. Har medutviklet en sykehusdekkende gevinstmetode og hatt hovedansvar for kodeendringene i budsjettverktøyet brukt til 2026-budsjettet. Kombinerer lederrapportering og prognoser til budsjettarbeid med utvikling av styringsinformasjon. Denne erfaringen vil jeg bruke i Huseiernes månedlige oppfølging og i samarbeidet mellom ledere, produktmiljøer og dataplattformteam.",
+    "competencies": [
+      "Budsjett, avviksanalyse og lederrapportering",
+      "Gevinstrealisering og felles metodikk",
+      "Prognoser som grunnlag for budsjett og planlegging",
+      "Workshopfasilitering, prioriteringsstøtte og controlleropplæring",
+      "Power BI, semantiske modeller, DAX og Power Query",
+      "Excel/VBA og kontrollert modernisering"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Medutviklet rammeverk for gevinstrealisering og estimering i et firepersonersteam. Innført som sykehusdekkende standard og fortsatt i bruk om lag 2,5 år senere.",
+          "Hovedansvar for kodeendringene i et arvet budsjetteringsverktøy i Excel/VBA, brukt til sykehusets 2026-budsjett. Integrerte bemanningsdata og laget onboarding og presentasjonsmateriell for controllere.",
+          "Hovedutvikler for datamodell og databehandling i en Power BI-løsning for økonomi, bemanning og aktivitet. Kollegene ledet innhold og visuell utforming. Hadde månedlig drift fra omtrent august 2025 til løsningen ble avviklet rundt februar 2026.",
+          "Gjennomførte veiledede brukertester og omsatte observert forvirring til avgrensede forbedringer. Lærte også opp teknisk personell i en annen rapporterings- og dataorganisasjon i Power BI og semantisk modellering.",
+          "Utformet oppgavehierarki, prioriterings- og samarbeidsstrukturer og fasiliterte workshops i Analyseavdelingen. Arbeidet omfattet både innført praksis og forslag; utformet også arbeidsinntak med beslutningsbehov og akseptansekriterier."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok hele den tildelte månedsoppgjørsflyten innen omtrent tre måneder. Gjennomførte etter opplæring oppgjøret selvstendig med periodisering, avstemming, resultatforklaring og rapportering til klinikkens ledere.",
+          "Bidro i oppfølging av økonomiske tiltak og oversatte tiltakslogikk til budsjett- og styringsspråk. Utarbeidet seksjonsvise DRG-estimater med Stata, R og Power Query til budsjett og planlegging.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker i overgangsperioden."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker stillingen hos Huseierne med erfaring fra å utvikle felles styringsmetodikk og få endringer inn i en løpende budsjettprosess. Som samfunnsøkonom og rådgiver ved Oslo universitetssykehus arbeider jeg med økonomi, styringsinformasjon og praktisk forbedring. Hos dere vil jeg bruke denne kombinasjonen til å knytte måloppfølgingen tettere til prioriteringene avdelinger og produktteam gjør underveis.",
+    "body_paragraphs": [
+      "I et firepersonersteam medutviklet jeg et rammeverk for gevinstrealisering og estimering på oppdrag fra ledelsen. Jeg bidro med forskningsgrunnlag, metodeforbedring og økonomisk analyse. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere. For Huseiernes målprosesser tar jeg med meg erfaringen med å utvikle et felles faglig grunnlag som flere enheter skal arbeide etter.",
+      "Et måltall må samtidig vise hva det bygger på. I et separat arbeid med gevinstfordeling avviste jeg direkte fordeling mellom klinikker fordi dataene om tjenestebruk ikke ga dekning for den. Jeg utformet i stedet en modell med vektede, indirekte indikatorer. Vekter og antakelser skulle være synlige og justerbare for controllere og fagansvarlige, uten at de måtte ha en utvikler for å endre dem. Dette var et modelldesign, ikke en innført løsning. Skillet mellom observerte resultater og antakelser er også nødvendig når ledere hos dere skal vurdere måloppnåelse og velge hva de følger opp.",
+      "I sykehusets omtrent tjue år gamle budsjetteringsverktøy hadde jeg hovedansvar for kodeendringene som integrerte ansatt- og bemanningsdata og erstattet kopiering fra en separat arbeidsbok. Jeg anbefalte en bredere omstrukturering; innføringen fikk en smalere ramme. Da gjennomførte jeg endringene funksjon for funksjon, sammenlignet gammel og ny beregning og brukte eksplisitte akseptansekriterier. Om lag 80 prosent av endringene bevarte eksisterende funksjon. Prosessen omfattet rundt 50 involverte, og jeg laget onboarding og presentasjonsmateriell for controllerne. Versjonen ble brukt til 2026-budsjettet.",
+      "Jeg vil arbeide nærmere de løpende prioriteringene som tallene skal støtte. Huseiernes kombinasjon av medlemsvekst, nye produkter og månedlig styringsdialog gjør det til en meningsfull videreføring av arbeidet mitt. Jeg vil bidra til at ledere og produktteam kan se hvilke forutsetninger prognosene hviler på, forklare avvik og bruke oppfølgingen til å prioritere medlemmenes midler."
+    ],
+    "closing": "Jeg tar gjerne en samtale om hvordan erfaringen min med felles metodikk, lederrapportering og innføring kan brukes i mål- og prognosearbeidet hos Huseierne."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Ny Stage-3-realisering fra uendret strategi og draft. Yrkesanker og innføringsbevis beholdt; CV bærer månedsrapportering, prognoser og teknisk bredde. Brevets måleargument rommer både felles metode og en separat faglig avvisning, uten overført lifecycle. Innhold og dokumentfordeling låst før siste uttrykkspuss."
+}

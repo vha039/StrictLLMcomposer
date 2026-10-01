@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260914-211651-5dbd38",
+  "job_id": "eie_systemkoordinator",
+  "employer": "EIE eiendomsmegling",
+  "title": "Systemkoordinator",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "27a1fc9d61dc13ae7270a472dd3789282ba7943ecd72197dc652b69e4d3ad8c8",
+  "upstream": {
+    "strategy_sha256": "5acd7105d4ab59076ed0720c3c3d0cf6d13b677a2a6aee6275b4f0b7b5a19cd4"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

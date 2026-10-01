@@ -1,0 +1,203 @@
+{
+  "artifact_role": "BRIEF",
+  "position": {
+    "track": "Rådgiver. Annonsen lønner begge nivåer, men rådgiversporet er der den dokumenterte stabs- og prosessevidensen faktisk bærer, og det gir avdelingen et tydelig svar i stedet for en søknad til to nivåer samtidig.",
+    "thesis": "Den som skal få forvaltningsavdelingens stabsprosesser til å fungere må kunne overta en kontrollkritisk flyt, drive den selvstendig og samtidig utforme arbeidsformene den går i, og det er nøyaktig det arbeidet Vegard har gjort i offentlig sykehusstab siden 2023.",
+    "reader_need": "Avdelingssjefen trenger en som holder saker, møter, årshjul og oppfølging av beslutninger i gang uten å måtte styres, og som gjør nye digitale arbeidsformer til noe kontrollert i stedet for noe risikabelt.",
+    "headline_intent": "Navngi yrkesfunksjonen rådgiver i stab, med beslutningsstøtte og arbeidsprosesser som feltet, ikke en liste over verktøy eller fagområder."
+  },
+  "delivery": "LETTER_AND_CV",
+  "delivery_reason": "Scoutens submission har letter_requirement REQUIRED med «Søknad, CV og attester/vitnemål skal fortrinnsvis sendes elektronisk», rute FINN og ingen screening-spørsmål. Brev og CV er da begge forventede dokumenter.",
+  "units": [
+    {
+      "id": "U1",
+      "refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver"
+      ],
+      "proves": "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten i en klinikkstab, gikk fra å få eget arbeid kvalitetssikret til selvstendig gjennomføring, og kvalitetssikret, rapporterte og distribuerte månedsrapporteringen til klinikkledere selv.",
+      "employer_problem": "«tar initiativ, skaper fremdrift og følger opp saker på en selvstendig og pålitelig måte»: kan denne personen overta ansvar i en fastlagt, feilfølsom prosess og bæres av seg selv?",
+      "ceiling": "Egen tildelt klinikkflyt, ikke hele OUS eller formelt regnskapsansvar; ingen ERP-/Oracle-eierskap, lønns-/årsoppgjørserfaring, alle-prosjekter-ansvar eller eierskap til alle arvede arbeidsbøker og modeller; ingen dokumentert tids-/feilreduksjon eller generalisert målt effekt",
+      "placement": "BOTH"
+    },
+    {
+      "id": "U2",
+      "refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "proves": "Utformet arbeidsmodell, oppgavehierarki, WIP og Loop-arbeidsflater i en firepersoners analyseavdeling, og strukturerte arbeidsinntak som fanger formål, brukere, beslutningsbehov, avhengigheter, risiko, prioritet og akseptansekriterier før arbeid settes i gang; skriver beslutningssammendrag og holder workshops og overlevering.",
+      "employer_problem": "«stabsprosesser som sikrer god planlegging, koordinering og oppfølging»: kan denne personen bygge selve strukturen, ikke bare betjene den?",
+      "ceiling": "Kun design, evaluering og prosjektnivåbruk inntil ytterligere bevis etablerer utrulling; ingen virksomhetsutrulling, formelt produkteierskap eller organisasjonsdekkende adopsjon",
+      "placement": "BOTH"
+    }
+  ],
+  "judgment": {
+    "refs": [
+      "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+    ],
+    "judgment": "Anbefalte bredere omstrukturering av et forretningskritisk budsjetteringsverktøy, men gjennomførte kodeendringene langs den smalere funksjon-for-funksjon-linjen innføringsleder krevde: om lag 80 prosent atferdsbevarende refaktorering med differansekontroll, akseptansekriterier og risikoregister. Fornyelse som ikke setter driften i spill.",
+    "ceiling": "Ikke opphavsperson eller budsjetteier; ingen eierskap til hele moderniseringen eller budsjettprosessen; ingen besparelse tilsvarende budsjettskala, nulldefekt eller kvantifisert tids- og feilreduksjon; det foreligger ikke godkjente målinger av effekt",
+    "integrate_into": "U2"
+  },
+  "reserve": [
+    {
+      "ref": "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+      "use_if": "Kontinuitets-, sikkerhets- og sporbarhetsvinkelen bak «forvalte og sikre Stortingets verdier», eller det ønskede beredskapspunktet."
+    },
+    {
+      "ref": "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin",
+      "use_if": "Arbeidsstilen trengs: både detaljert referansemateriell og korte beslutningssammendrag, tilpasset mottakeren."
+    },
+    {
+      "ref": "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+      "use_if": "Tverrgående styringsmetodikk i en stor offentlig virksomhet, i stedet for et internt avdelingseksempel. Utenfor kjernen."
+    },
+    {
+      "ref": "EV:OTHER#033-5-2-tillitsverv",
+      "use_if": "Valgt tillit, møtearbeid og økonomisk ansvar som tidlig signal. Kort kontekst, aldri personalledelse. Utenfor kjernen."
+    },
+    {
+      "ref": "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+      "use_if": "Utredningskravet trenger det samfunnsvitenskapelige metodegrunnlaget eksplisitt."
+    }
+  ],
+  "employer_fact": {
+    "fact": "Administrasjonen skal både bevare og fornye institusjonen.",
+    "quote": "Vi arbeider med å formidle kunnskap om folkestyret og Stortingets virksomhet, forvalte og sikre Stortingets verdier, og ivareta og fornye Stortinget som institusjon.",
+    "conversion": "Arbeidsbetingelsen er at nye arbeidsformer må innføres uten å sette den løpende driften eller etterprøvbarheten i spill; endring må kunne vises frem, ikke bare gjennomføres. Det svarer U2 og skjønnsatomet på direkte."
+  },
+  "stances": [
+    {
+      "req": "Q01",
+      "relation": "PARTIAL",
+      "stance": "NAME_ONCE",
+      "via_ref": "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+      "line": "Decisions og Planner lærer jeg raskt. Med meg tar jeg arbeidet med å få saker, møter og beslutninger til å henge sammen i de samhandlingsflatene en avdeling faktisk jobber i."
+    },
+    {
+      "req": "Q09",
+      "relation": "PARTIAL",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+    },
+    {
+      "req": "Q14",
+      "relation": "PARTIAL",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+    },
+    {
+      "req": "Q16",
+      "relation": "ADJACENT",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+    },
+    {
+      "req": "T2",
+      "relation": "GAP",
+      "stance": "OMIT"
+    },
+    {
+      "req": "T4",
+      "relation": "ADJACENT",
+      "stance": "OMIT"
+    }
+  ],
+  "distinctiveness": {
+    "facets": [
+      {
+        "facet_id": "PF-10",
+        "behaviour": "Vis tempoet i opptaket som handling, ikke som egenskap: fra strukturert opplæring til selvstendig produksjonsansvar i en kontrollkritisk økonomiflyt innen om lag tre måneder, og VBA lært fra grunnen gjennom å bygge konverteringsverktøyet selv.",
+        "refs": [
+          "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+        ]
+      },
+      {
+        "facet_id": "PF-12",
+        "behaviour": "Vis at sporet legges igjen: definisjoner, kildepresedens, validering, endringskontroll, akseptansekriterier og risikoregister, slik at neste person kan se hva som ble besluttet og hvorfor, og at fakta, slutning, anbefaling og forventet gevinst holdes fra hverandre.",
+        "refs": [
+          "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+          "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+        ]
+      }
+    ],
+    "motive": "Stabsarbeid i forvaltningsavdelingen er det samme håndverket som i sykehusstab, planlegging, beslutningsgrunnlag og oppfølging, men med institusjonell kontinuitet som den harde rammen i stedet for pasientdrift. Det gjør presisjon og sporbarhet til selve poenget med jobben, ikke til ekstraarbeid.",
+    "opening_move": "EMPLOYER_FACT",
+    "closing_move": "QUESTION"
+  },
+  "letter_plan": {
+    "word_target": 380,
+    "paragraphs": [
+      {
+        "job": "Åpne på arbeidsbetingelsen i «ivareta og fornye Stortinget som institusjon»: fornyelse som må kunne etterprøves. Slå fast rådgiversporet som et valg. Ikke gjenta stillingstittelen, ikke «søker ... fordi».",
+        "unit_ids": [],
+        "refs": []
+      },
+      {
+        "job": "Bær U1: overtakelsen av en kontrollkritisk stabsflyt og selvstendig rapportering til ledere. Dette er svaret på selvstendighet og pålitelig oppfølging.",
+        "unit_ids": [
+          "U1"
+        ],
+        "refs": [
+          "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+        ]
+      },
+      {
+        "job": "Bær U2 med skjønnsatomet integrert: arbeidsmodell og arbeidsinntak som er utformet, og endring gjennomført kontrollert under en innføringsleders begrensning. Plasser NAME_ONCE-setningen om Decisions og Planner her, én gang. Lukk med et spørsmål om avdelingens årshjul, ikke med standardformel.",
+        "unit_ids": [
+          "U2"
+        ],
+        "refs": [
+          "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+          "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+          "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "phrase": "«innførte arbeidsmodellen» eller «rullet ut arbeidsinntaket»",
+      "ceiling": "Ingen ene-etablering, formelt organisasjonsdesignmandat, programeierskap, personalansvar eller linjeledelse; innførte praksiser må skilles fra forslag."
+    },
+    {
+      "phrase": "«besvarer KI-henvendelser for organisasjonen» eller «ansvar for virksomhetsstyring»",
+      "ceiling": "Prosjekt-/oppdragsomfang, ikke formell virksomhetsstyringsrolle, personal- eller programmyndighet. KI-brukerantall, organisasjonsomfattende støtteansvar og styringsmandat er ikke oppgitt."
+    },
+    {
+      "phrase": "«ledet prosjektet», eller prosjektleder- og produkteiertittel",
+      "ceiling": "Do not convert this evidence into formal project-manager, product-owner, programme-owner or line-manager titles."
+    },
+    {
+      "phrase": "Å skrive at autorisasjon for HEMMELIG er uavklart, eller å love den",
+      "ceiling": "Autoriserbarhet for HEMMELIG er uavklart og kan ikke utledes av vakt- og sikringstjeneste. Uavklart status skal ikke skrives om til kjent fravær; kravet er en prosessbetingelse, ikke et kvalifikasjonsgap."
+    }
+  ],
+  "outside_scout_refs": [
+    "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#033-5-2-tillitsverv"
+  ],
+  "notes": [
+    "Utfordrer til U1: nåværende rolle er ferskere og bredere, men dokumenterer prosjektomfang, ikke en overtatt fastlagt stabsprosess. Annonsens tyngste utvelgelsessignal er selvstendig oppfølging.",
+    "Utfordrer til U2: det sykehusdekkende gevinstrammeverket har større rekkevidde, men er teamlevert metodikk uten personlig eierskap og svarer ikke på stabsprosesser for en ledergruppe.",
+    "Utfordrer til skjønnsatomet: den repeterbare KI-arbeidsmodellen treffer annonsens KI-ord, men er et arbeidsflytprinsipp, ikke en dokumentert beslutning.",
+    "T2 er OMIT: fem år er en «fortrinnsvis»-preferanse på seniorsporet, som ikke søkes.",
+    "Decisions og Planner skal ikke inn i CV-en. Eneste tillatte omtale er NAME_ONCE-setningen i brevet."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76",
+    "job_id": "stortinget_virksomhetsstyring_lederstotte",
+    "employer": "Stortinget",
+    "title": "seniorrådgiver/rådgiver",
+    "evidence_fingerprint": "7dc296db59690646a8537688f317ffb0bde9f454ab6b2e193609df27e33834e2",
+    "policy_fingerprint": "fd1983375eeef6e089e266616f394d7b7f1fffe287aec654f88a0f063a9e2d67",
+    "inputs": {
+      "scout": "5943fea524da3a94d0f0a6964157eddf3b78ef258bd604061bab0f941d45be26"
+    }
+  }
+}

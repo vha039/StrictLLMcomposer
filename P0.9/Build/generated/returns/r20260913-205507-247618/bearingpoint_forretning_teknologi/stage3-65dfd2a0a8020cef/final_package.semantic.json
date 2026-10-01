@@ -1,0 +1,65 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | Teknologi, økonomisk analyse og gjennomføring",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus siden 2023. Kobler økonomisk analyse med teknologivalg og praktisk gjennomføring: har utformet en beslutningsmodell for investeringer der datagrunnlaget var mangelfullt, videreutviklet sykehusets budsjetteringsverktøy i en prosess med om lag 50 involverte, og har ansvar for arkitekturen i et KI-støttet prognoseprosjekt under utvikling. Registrert superbruker for kunstig intelligens og student ved et pågående masterprogram i kunstig intelligens ved Universitetet i Agder.",
+    "competencies": [
+      "Analyse av situasjon, risiko og muligheter",
+      "Beslutningsgrunnlag for investeringer og gevinster",
+      "Teknologivalg vurdert mot risiko og vedlikehold",
+      "KI-støttet analyse og utvikling med menneskelig kontroll",
+      "Kontrollert modernisering og implementering",
+      "Nye arbeidsformer: Scrum, Kanban og workshops",
+      "Økonometri, prognoser og validering",
+      "Power BI, Excel/VBA, SQL, R og Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utformet en investerings- og gevinstfordelingsmodell for steril logistikk da direkte bruksdata ikke bar en klinikkvis fordeling: vektede indikatorer for driftsmessige og økonomiske virkninger, kvalitet og unngåtte kostnader, fordelt på fire grenmodeller og én konsolidering med synlige og justerbare forutsetninger. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Videreutviklet sykehusets arvede budsjetteringsverktøy i Excel/VBA i en prosess med om lag 50 involverte. Vurderte VBA, Office Scripts, Python og KI-støttede løsninger mot kompatibilitet, driftsrisiko og vedlikehold, og var i praksis eneste utvikler av kodeendringene med akseptansekriterier, risikoregister og differansekontroll. Brukt i hele sykehuset i budsjettprosessene for 2026 og 2027.",
+          "Har ansvar for arkitektur, orkestrering og integrasjon i et prosjekt under utvikling med prognoser for pasientvolum og kapasitet på 14, 90 og 365 dagers sikt. Utfordret definisjonen av prognosemålet og krevde tidsriktig validering mot referansemodeller. Implementeringen er fordelt på egen innsats, en kollega og kodeagenter med prosjektinstruksjoner, overleveringer og tester.",
+          "Registrert superbruker for kunstig intelligens ved sykehuset i om lag tre år, med teknisk bistand til kolleger i en Teams-kanal.",
+          "Videreutviklet sykehusets metodikk for gevinstrealisering og estimering i et team på fire. Rammeverket ble innført som standard i hele sykehuset og var fortsatt i bruk om lag 2,5 år senere.",
+          "Deltok i piloter og utforskning av Fabric, Power Platform, dbt og Pega, og vurderte mulighetene mot sykehusets rammer.",
+          "Deltok i gruppen på fire som etablerte Analyseavdelingen, og bidro med forslag til teamstruktur og ansvar, Scrum/Kanban-strukturer og workshops."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten, og kvalitetssikret og sendte etter hvert månedsrapportene til klinikkens ledere selv.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker.",
+          "Utarbeidet seksjonsvise DRG-prognoser med Stata, R og Power Query som ble brukt i klinikkens budsjett og planlegging."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Som rådgiver økonomi og IKT ved Oslo universitetssykehus har jeg siden 2023 jobbet med spørsmål der teknologi og økonomi må vurderes sammen: hvordan en investering skal vurderes når dataene er mangelfulle, hvordan et forretningskritisk verktøy kan moderniseres mens det er i drift, og hvordan KI kan brukes uten at kvaliteten glipper. Jeg er samfunnsøkonom med master fra NTNU, og søker stillingen i Technology-teamet fordi jeg vil bruke denne erfaringen på flere virksomheter og flere typer valg.",
+    "body_paragraphs": [
+      "Et oppdrag gjaldt gevinstene av investeringer i steril logistikk, som skulle fordeles på klinikkene. Bruksdataene var ikke gode nok til en direkte fordeling, og indirekte tall presentert som målt bruk ville gitt falsk presisjon. Jeg utformet i stedet en modell med vektede indikatorer for driftsmessige og økonomiske virkninger, kvalitet og unngåtte kostnader, der controllerne selv kan se og justere forutsetninger og vekter. Modellen skal støtte valg om lager, utstyr og automatisering, og ble ferdigstilt og overlevert tidlig i 2026.",
+      "Budsjetteringsverktøyet sykehuset bruker i budsjettprosessen, er et om lag 20 år gammelt Excel/VBA-verktøy. I moderniseringen i 2025 vurderte jeg VBA, Office Scripts, Python og KI-støttede løsninger opp mot kompatibilitet, driftsrisiko og vedlikehold, og anbefalte en bredere omstrukturering. Gjennomføringsleder valgte en smalere vei. Den gjennomførte jeg som i praksis eneste utvikler, med akseptansekriterier, risikoregister og differansekontroll, i en prosess med om lag 50 involverte. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026, og i runden for 2027 hadde jeg vesentlig større frihet.",
+      "I et prognoseprosjekt for pasientvolum og kapasitet, som fortsatt er under utvikling, har jeg ansvar for arkitektur, orkestrering og integrasjon. Koden skrives av meg, en kollega og kodeagenter, og agentene arbeider etter prosjektinstruksjoner, overleveringer og tester. Jeg har også utfordret hvordan prognosemålet var definert, og krevd tidsriktig validering mot enkle referansemodeller. Ved siden av er jeg registrert superbruker for kunstig intelligens ved sykehuset og tar et masterprogram i kunstig intelligens ved Universitetet i Agder."
+    ],
+    "closing": "Jeg har ikke jobbet som konsulent, og anskaffelser og valg av IT-partnere blir nytt for meg. Da jeg begynte i staben til Barne- og ungdomsklinikken, hadde jeg overtatt hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, og det er det tempoet jeg vil sette meg inn i nye kunder og fagområder med. Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#028-4-4-trygge-ki-pastander"
+  ],
+  "writer_note": "Kept strategy route (PRJ-06, PRJ-03, AI). Added PRJ-05 target and validation challenge plus technology-option evaluation and the rejected broader restructuring in PRJ-03 as evidence for challenging established assumptions. AI master and superuser included because the employer's profile is data/AI-heavy. Consulting, procurement and IT-partner selection stated once as new."
+}

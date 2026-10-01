@@ -1,0 +1,56 @@
+{
+  "cv": {
+    "headline": "Rådgiver: digitale verktøy og brukeropplæring"
+  },
+  "letter": {
+    "body_paragraphs": [
+      "I arbeidet med en styrings-BI-løsning undersøkte jeg brukeropplevelsen gjennom veiledede tester. Jeg så hvor faktiske brukere ble forvirret, samlet tilbakemeldinger og fulgte opp med målrettede forbedringsrunder. Det ga konkrete observasjoner å arbeide ut fra, fremfor å ta min egen forståelse av systemet som mål på hvor forståelig det var. Opplæringen må også treffe den som skal overta: I en intern workshop for økonomikolleger koblet jeg prosesskartlegging til datamodellering og datakvalitet. I samarbeid med en annen organisasjons rapporteringsmiljø underviste jeg tekniske kolleger i modellering og optimalisering, og bidro til en første rapportkomponent. Jeg tilpasser detaljnivået i materiell til mottakeren. En som skal vedlikeholde en modell, trenger noe annet enn en som skal bruke svaret i sitt daglige arbeid.",
+      "Den samme vurderingen av bruk og ansvar ligger bak KI-arbeidsformen min. I superbrukerrollen svarer jeg på tekniske spørsmål i en Teams-kanal. I eget arbeid avgrenser jeg oppgaven, angir hvilke kilder som skal veie tyngst og kontrollerer resultatet før det går videre. Konsekvensrike handlinger beholder et menneskelig beslutningspunkt. Også ved vurdering av nye verktøy må driften være med: I arbeidet med sykehusets budsjettverktøy vurderte jeg teknologialternativer opp mot kompatibilitet, risiko og vedlikehold, og laget materiell for controllerne som skulle bruke verktøyet. For meg hører derfor utprøving og forklaring sammen. En ny mulighet må kunne beskrives som en konkret oppgave brukeren kan utføre og kontrollere. Core og EIE 365 er systemene jeg skal inn i, og selve systemkunnskapen går raskest å tilegne seg. Å finne ut hvor en bruker faktisk står fast, tar lengre tid, og det er den delen jeg kommer fra."
+    ]
+  },
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "EMPLOYER_FACT står uendret; den knytter EIEs utvidede tjenestespekter til at samme forklaring ikke passer alle brukere."
+    },
+    {
+      "id": "K2",
+      "disposition": "KEPT",
+      "reason": "JUDGMENT står uendret. Å arbeide fra observasjon av faktiske brukere fremfor egen forståelse er den bærende faglige vurderingen."
+    },
+    {
+      "id": "K3",
+      "disposition": "REWORDED",
+      "reason": "GAP_TURN beholdt. Kløyvsetningen det som tar tid, er er skrevet om og semikolonet delt i to setninger. Samme terskelnevning av Core og EIE 365 én gang, samme vending fra systemkunnskap til brukerforståelse."
+    },
+    {
+      "id": "K4",
+      "disposition": "KEPT",
+      "reason": "CLOSE står uendret; NEXT_STEP-grepet er klyngens eneste og er konkret forankret i meglerhenvendelser og Brokio."
+    }
+  ],
+  "changes": [
+    {
+      "field": "cv.headline",
+      "reason": "TONE",
+      "note": "Tankestrek er ikke tillatt i arbeidsgivertekst (WRITING_DOCTRINE, Tegnsetting). Erstattet med kolon; ordlyden er uendret."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TIC",
+      "note": "Kløyvsetningen det som tar tid, er ... var signalet preview meldte. Skrevet om uten å endre hva som sies om terskelen."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Delte den lange semikolonsetningen i K3 i to. Semikolon skal være uvanlig (WRITING_DOCTRINE, Tegnsetting), og setningen bar tre ledd."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "DIFFERENTIATION",
+      "note": "Samme kløyvkonstruksjon fantes i Stortinget-brevet i klyngen. De to er løst med ulike grep, ikke med samme erstatning."
+    }
+  ],
+  "writer_note": "Innholdslåst puss på registernivå 2. Terskelnevningen av Core og EIE 365 er beholdt én gang, som argument og ikke som unnskyldning."
+}

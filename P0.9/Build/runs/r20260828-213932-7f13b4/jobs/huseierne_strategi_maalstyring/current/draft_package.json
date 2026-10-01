@@ -1,0 +1,69 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE2_DRAFT",
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver | styringsinformasjon, forbedring og gjennomføring",
+    "profile": "Samfunnsøkonom og rådgiver i økonomi og IKT med erfaring fra å gjøre komplekse styrings- og forbedringsbehov om til beslutningsgrunnlag, felles arbeidsmåter og gjennomførbare leveranser. Arbeider med økonomi, styringsinformasjon og praktisk implementering i tverrfaglige miljøer, og har særlig erfaring med metodeutvikling, modernisering av budsjettflyt og brukbar rapportering. Søker å bidra til at Huseiernes mål og prioriteringer blir fulgt opp med relevant informasjon og arbeidsformer som virker i praksis.",
+    "competencies": [
+      "Virksomhetsstyring og beslutningsgrunnlag",
+      "Prosessforbedring og metodeutvikling",
+      "Økonomi, budsjett og styringsinformasjon",
+      "Prioritering, kravavklaring og fasilitering",
+      "Power BI, semantiske modeller og datakvalitet",
+      "Excel/VBA og kontrollert modernisering",
+      "Tverrfaglig samhandling, onboarding og kompetanseoverføring"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utvikler styringsinformasjon og beslutningsstøtte som sammenstiller økonomi, bemanning, aktivitet og kapasitet for ledere, controllere og fagmiljøer.",
+          "Bidro i et firepersonsteam som videreutviklet et gevinstrealiseringsrammeverk; rammeverket ble innført som sykehusdekkende standard og var fortsatt rapportert aktivt om lag 2,5 år senere.",
+          "Rekonstruerte og moderniserte, i en bred interessentprosess, et arvet virksomhetskritisk budsjettverktøy med integrasjon av bemanningsdata, kontrollert endring, dokumentasjon og onboarding; den moderniserte versjonen ble brukt i sykehusets budsjettprosess for 2026.",
+          "Omsetter uklare behov til avgrensede løsninger, kontroller og dokumentasjon og bidrar med workshops og kompetanseoverføring i tverrfaglige leveranser."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Gjennomførte etter opplæring en tildelt månedsoppgjørsflyt, fra periodisering og avstemming til kvalitetssikring, resultatforklaring og rapportering til ledere.",
+          "Bygget et budsjettstøtteark og bidro i kvalitetssikring av bemannings- og aktivitetsgrunnlag i budsjettarbeidet.",
+          "Utviklet Excel/VBA-verktøy for konvertering og validering ved REGERP-overgangen; verktøyene ble brukt av økonomirådgivere i flere klinikker i overgangsperioden."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker stillingen som strategi- og målstyringsrådgiver fordi Huseierne står i en vekstfase der ambisjoner må bli til prioriteringer, relevant styringsinformasjon og en oppfølgingsrytme som faktisk brukes. Som samfunnsøkonom og rådgiver i økonomi og IKT arbeider jeg med å gjøre komplekse behov om til beslutningsgrunnlag, felles arbeidsmåter og gjennomførbare forbedringer.",
+    "body_paragraphs": [
+      "Et relevant eksempel er arbeidet med et gevinstrealiseringsrammeverk ved OUS. I et firepersonsteam bidro jeg med forskningssyntese og økonomisk, strategisk og styringsmessig analyse i videreutviklingen av en eksisterende metode. Teamets reviderte rammeverk ble innført som sykehusdekkende standard og var fortsatt rapportert aktivt om lag 2,5 år senere. For meg har dette gitt konkret erfaring med at en styringsmetode må være tydelig nok til å samordne, men praktisk nok til å bli brukt.",
+      "I et annet arbeid rekonstruerte og moderniserte jeg, i en bred interessentprosess, et arvet og virksomhetskritisk budsjettverktøy. Jeg integrerte bemanningsdata, arbeidet med kontrollert endring og dokumentasjon, og bidro med onboarding av controllere. Den moderniserte versjonen ble brukt i sykehusets budsjettprosess for 2026. Erfaringen har lært meg å omsette behov og avhengigheter til en løsning som kan tas i bruk, uten å ofre driftskontinuitet.",
+      "I nåværende rolle utvikler og forbedrer jeg styringsinformasjon knyttet til økonomi, bemanning, aktivitet og kapasitet. Jeg samarbeider med ledere, controllere, fagmiljøer og tekniske kolleger og legger vekt på å avklare behov, gjøre informasjon forståelig og dokumentere løsninger slik at de kan følges opp. Det gjør meg godt rustet til bindeleddsoppgaven mellom forretning og data som Huseierne beskriver.",
+      "Jeg har ikke praktisk OKR-erfaring, og den dokumenterte relevante erfaringen min er kortere enn fem år. Jeg vil derfor ikke fremstå som en ferdig OKR-spesialist. Jeg kan derimot bidra med en fullført mastergrad i samfunnsøkonomi, erfaring fra metodeutvikling, budsjett og styringsinformasjon, og en arbeidsform som går fra mål og problemforståelse til struktur, gjennomføring og bruk."
+    ],
+    "closing": "Jeg motiveres av å bruke denne erfaringen i en medlemsorganisasjon der bedre styring kan styrke prioriteringer, samhandling og arbeidet for boligeierne. Jeg ser frem til muligheten til å utdype hvordan jeg kan bidra til å forankre målprosesser, utvikle relevant styringsinformasjon og følge forbedringer helt frem til bruk."
+  },
+  "used_evidence_refs": [
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te"
+  ],
+  "writer_note": "Direkte OKR-erfaring og annonsens femårskrav er ikke fremstilt som oppfylt. Brevet avgrenser bidraget til dokumentert metode-, forbedrings- og styringsinformasjonserfaring.",
+  "binding": {
+    "run_id": "r20260828-213932-7f13b4",
+    "job_id": "huseierne_strategi_maalstyring",
+    "employer": "Huseiernes Landsforbund",
+    "title": "Strategi- og målstyringsrådgiver",
+    "manifest_sha256": "0f9195ce9b510d6c7e0a06f3a5fc79e37a7a6ec078296d8c9b1a7807047d12ce",
+    "vacancy_sha256": "66a3e564484b987ecf94a25e019cf291b529e762281f605d8caeb056811c9748",
+    "evidence_index_sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+    "stage_instruction_sha256": "af745af5bef6b523a61632eaf79c0cff35e75fb9e204a323c2a648793d87b241",
+    "baseline_map_sha256": "3e5e8bdfe53f2e01b5399afe22930ab37d57eab8e6840b0958a40a6b0e1e04bf",
+    "strategy_sha256": "14ca9656dbc6876e479e965fc56a3d59ad6059570f22981acc2b8ef687b1c18f"
+  }
+}

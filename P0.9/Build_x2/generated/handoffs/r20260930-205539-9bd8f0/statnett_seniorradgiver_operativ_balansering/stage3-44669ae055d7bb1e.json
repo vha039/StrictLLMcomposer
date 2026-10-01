@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260930-205539-9bd8f0",
+  "job_id": "statnett_seniorradgiver_operativ_balansering",
+  "employer": "Statnett",
+  "title": "Seniorrådgiver Operativ balansering",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "edfea1ea60f2dbf86f446f244cf46782deee3582f9812d2dca5be66b14388877",
+  "upstream": {
+    "strategy_sha256": "b5fe7d6c68d90620e0d892733f625bf09e6e30752d35a8e550b43bedfdeca4bf"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "cv": {
+    "headline": "Rådgiver: styring og gjennomføring av digitale endringer",
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Kartlegger krav, aktører, avhengigheter, kildepresedens og risiko i løst definerte oppdrag, og strukturerer arbeidsinntak med formål, beslutningsbehov, prioritet og akseptansekriterier før arbeid settes i gang.",
+          "Gjennomførte kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy innenfor en interessentprosess på om lag 50 personer, med differansekontroll, akseptansekriterier og risikoregister; verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Utformet en vektet proxy-modell for gevinstfordeling i fem arbeidsbøker da direkte fordeling ikke var faglig forsvarlig, med synlige og konfigurerbare forutsetninger og skjemakontrollert overføring; modellen ble ferdigstilt tidlig i 2026 og overlevert til controllere.",
+          "Hadde hovedansvaret for backend i en styrings-BI-løsning for økonomi, bemanning og aktivitet (eid om lag august 2025 til februar 2026, senere avviklet): nesten hele den semantiske modellen, mesteparten av ETL og om lag 80-90 prosent av DAX, mens kolleger ledet innhold og visualisering.",
+          "Etablerer sporbarhet, validering og endringskontroll i prosjektene, vurderer eksponering av sensitive data i en regulert virksomhet, og skriver beslutningssammendrag og dokumentasjon for ledere, controllere og fagmiljøer."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, avstemming, kvalitetssikring og resultatforklaring, og rapporterte den selv til klinikkledere.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP; verktøyene ble i perioden kort etter overgangen brukt relativt hyppig av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Datagrunnlaget for å fordele gevinster fra steril logistikk mellom klinikker bar ikke en direkte fordeling. Jeg avviste den tilnærmingen og utformet i stedet en modell med vektede, indirekte indikatorer og synlige forutsetninger. Jeg valgte bevisst bort kode i kjernen som ville gjort controllere avhengige av en utvikler for å justere vurderingene. Fagansvarlige skulle kunne undersøke hva et svar bygget på. Modellen ble ferdigstilt tidlig i 2026 og overlevert til controllere. Norwegians funksjon for digital og regulatorisk styring er nyopprettet. Da blir arbeidet med inntak, ansvar og oppfølging en del av selve leveransen mens funksjonen bygges.",
+    "body_paragraphs": [
+      "Jeg deltok i firepersonersgruppen som etablerte Analyseavdelingen ved Oslo universitetssykehus, og har utformet arbeidsinntak og arbeidsmodell for et tverrfaglig miljø. I inntaket kobler jeg beslutningsbehovet til brukere, avhengigheter og akseptansekriterier, slik at det er avklart hva en leveranse må svare på før den får form som verktøy eller rapport. Jeg har utformet forslag til ansvar og beslutningsrettigheter, og strukturer for prioritering og pågående arbeid, fordi en oppgaveliste alene ikke viser hvem som må bidra eller hva som må avklares før neste steg.",
+      "Gjennomføring krever samtidig at vurderingene tåler å bli kontrollert. I moderniseringen av sykehusets budsjetteringsverktøy gjennomførte jeg kodeendringene innenfor en interessentprosess med om lag 50 personer. Jeg sammenlignet endret og opprinnelig funksjon, undersøkte logikkavvik og brukte akseptansekriterier og risikoregister, slik at det fantes et konkret grunnlag for å vurdere om en endring holdt seg innenfor den avtalte rammen. I prosjektene skiller jeg fakta, anbefaling og forventet gevinst fra hverandre og vurderer eksponering av sensitive data, slik at et kort beslutningsgrunnlag kan leses raskt uten at usikkerheten forsvinner bak konklusjonen."
+    ]
+  },
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "Skjønnsatomet: det bevisste bortvalget av kjerne-VBA for at controllere skulle slippe utviklerbindingen. Det er fasett PF-05 vist som handling, og det bærer åpningen. Uendret."
+    },
+    {
+      "id": "K2",
+      "disposition": "KEPT",
+      "reason": "Konverteringen av arbeidsgiverfaktumet: fordi funksjonen er ny, er strukturarbeidet leveransen og ikke forarbeid. Det er hele broen fra sykehusstab til digital governance. Uendret."
+    },
+    {
+      "id": "K3",
+      "disposition": "KEPT",
+      "reason": "Avslutningen er klyngens CONTRIBUTION-grep og holder seg innenfor taket: omsette krav, samle bidrag, holde beslutninger og oppfølging samlet, uten et ord om linjemyndighet. Uendret."
+    }
+  ],
+  "changes": [
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TIC",
+      "note": "Avsnitt 1: «Jeg har også utformet forslag til ansvar …» til «Jeg har utformet forslag til ansvar …». «Jeg har også» var preview-signalet bolt-on marker. Setningen er samtidig knyttet til begrunnelsen sin i stedet for å stå som et tillegg."
+    },
+    {
+      "field": "letter.opening",
+      "reason": "TRUTH",
+      "note": "Understatement repareres. Åpningen beskrev modellen som utformet, men utelot at den ble ferdigstilt og overlevert til controllere. Kortet sier uttrykkelig at dette dokumenterer en ferdigstilt og overlevert beslutningsstøttemodell, og CV-en hadde det allerede. Uten det leser skjønnsatomet som en designøvelse. Ordlyden er kortets egen og går ikke videre til organisatorisk bruk."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Avsnitt 1 hadde fire tolkende setninger mot tre fakta. «Hensikten er å avklare …» er gjort til en leddsetning på inntaket selv; «En oppgaveliste alene viser ikke …» og «Derfor arbeider jeg med både oppgaven og sammenhengene» er slått sammen til én begrunnelse i stedet for to lærdomssetninger. Ingen evidens er fjernet."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Avsnitt 1: sluttsetningen «Å gjøre slike sammenhenger håndterbare … er en oppgave jeg vil fortsette med i en operativ styringsfunksjon» er fjernet. Det var brevets andre overføringsbro, og K3 bærer den samme bevegelsen som avslutning. Én overføring er nok."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Avsnitt 2: sluttsetningen «Modellen for gevinstfordeling og arbeidet med budsjettverktøyet viser to sider av samme faglige krav …» er fjernet. Avsluttende lærdom som forteller leseren hva han skal konkludere av to saker teksten allerede har vist, og som gjentar åpningen. «Kontrollarbeidet ga et konkret grunnlag …» og «Det er særlig viktig når …» er gjort til leddsetninger."
+    },
+    {
+      "field": "cv.headline",
+      "reason": "TIC",
+      "note": "Tankestrek byttet mot kolon. WRITING_DOCTRINE, Tegnsetting: tankestrek skal ikke forekomme i arbeidsgivertekst. Overskriften renderer fortsatt på én linje."
+    },
+    {
+      "field": "cv.employment_overrides",
+      "reason": "TIC",
+      "note": "EMP_OUS_ANALYSE, BI-punktet sluttet på «senere avviklet», mønsteret playbooken navngir som tic. Livsløpet er flyttet inn i en parentes, så punktet slutter på bidragsgrensen i stedet. Ingen opplysning er fjernet."
+    },
+    {
+      "field": "cv.employment_overrides",
+      "reason": "TRUTH",
+      "note": "EMP_OUS_ANALYSE, BI-punktet: lagt til kortets egen bidragsskala («nesten hele den semantiske modellen, mesteparten av ETL og om lag 80-90 prosent av DAX») og lagt teamrammen inntil den sterke påstanden («mens kolleger ledet innhold og visualisering»). Det levende taket på PRJ-01 krever begge deler; «semantisk modell, ETL og det meste av DAX» sa mindre enn kilden bærer og bar ikke kollegagrensen."
+    },
+    {
+      "field": "cv.employment_overrides",
+      "reason": "TRUTH",
+      "note": "EMP_OUS_BAR, punkt 2: periodeavgrensningen «i perioden kort etter overgangen» lagt tilbake på bruken av konverteringsverktøyene. Den er del av den godkjente bruken i måltallstabellen; uten den leses bruken som varig."
+    }
+  ],
+  "writer_note": "Ingen evidens utenfor briefen er hentet inn; de to outside-refsene Stage 2 erklærte (språk og BAR) står uendret. Alle tre keystones er beholdt ordrett. Brevet faller fra 345 til rundt 300 ord. Alt som gikk ut var lærdomssetninger, generaliserende maksimer og en dobbel overføringsbro, ikke bevis, og åpningen har fått tilbake et faktum den manglet. Ingen omtale av regelverksomfanget, verken som erfaring eller som fravær, i tråd med briefens felle 4 og notatet om NAME_ONCE."
+}

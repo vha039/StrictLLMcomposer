@@ -1,0 +1,400 @@
+{
+  "artifact_role": "SCOUT_FACTS",
+  "vacancy": {
+    "employer": "Abacus IT AS",
+    "unit": null,
+    "title": "Senior ERP-rådgivere og ERP-rådgivere innen BNXT by Visma (Finans/Logistikk)",
+    "deadline": "Snarest",
+    "reference": "FINN-kode: 472066647",
+    "language": "nb",
+    "sector": "PRIVATE"
+  },
+  "requirements": [
+    {
+      "id": "Q01",
+      "quote": "Rådgi kunder og bidra til å utvikle virksomheten deres gjennom moderne ERP-løsninger.",
+      "kind": "TASK",
+      "relation": "GAP",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ]
+    },
+    {
+      "id": "Q02",
+      "quote": "Analysere forretningsprosesser og omsette behov til effektive og fremtidsrettede løsninger.",
+      "kind": "TASK",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    },
+    {
+      "id": "Q03",
+      "quote": "Delta i eller lede implementerings- og forbedringsprosjekter, avhengig av erfaring og rolle.",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#039-6-4-programmering-automatisering-og-impl"
+      ]
+    },
+    {
+      "id": "Q04",
+      "quote": "Sikre kvalitet, fremdrift og gode kundeopplevelser gjennom hele leveransen.",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q05",
+      "quote": "Identifisere nye muligheter og bidra til videreutvikling av kundeforhold gjennom verdiskapende rådgivning.",
+      "kind": "TASK",
+      "relation": "ADJACENT",
+      "refs": [
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ]
+    },
+    {
+      "id": "Q06",
+      "quote": "Samarbeide tett med prosjektledere, salgsapparat og øvrige fagmiljøer.",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q07",
+      "quote": "Dele kompetanse og bidra til utvikling av beste praksis og et sterkt ERP-miljø.",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q08",
+      "quote": "Holde deg oppdatert på teknologi, regelverk og nye funksjonaliteter, slik at kundene alltid får de beste rådene.",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#039-6-4-programmering-automatisering-og-impl"
+      ]
+    },
+    {
+      "id": "Q09",
+      "quote": "Ett til to års erfaring med ERP, økonomi, logistikk, systemimplementering eller tilsvarende.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    },
+    {
+      "id": "Q10",
+      "quote": "Interesse for rådgiverrollen og et ønske om å utvikle deg videre.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ]
+    },
+    {
+      "id": "Q11",
+      "quote": "God forståelse for virksomhetsprosesser innen økonomi, logistikk eller tilsvarende fagområder.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ]
+    },
+    {
+      "id": "Q12",
+      "quote": "Gode kommunikasjons- og samarbeidsevner.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q13",
+      "quote": "En strukturert arbeidsform, gjennomføringsevne og evne til å skape fremdrift.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    },
+    {
+      "id": "Q14",
+      "quote": "Solid erfaring med implementering og rådgivning innen ERP-løsninger.",
+      "kind": "MUST",
+      "relation": "GAP",
+      "refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ]
+    },
+    {
+      "id": "Q15",
+      "quote": "Sterk forretningsforståelse innen finans, logistikk eller begge områder.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ]
+    },
+    {
+      "id": "Q16",
+      "quote": "Erfaring med å lede faglige prosesser og være en strategisk rådgiver for kunder.",
+      "kind": "MUST",
+      "relation": "GAP",
+      "refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ]
+    },
+    {
+      "id": "Q17",
+      "quote": "Evne til å håndtere komplekse problemstillinger og sikre kvalitet i leveranser.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    },
+    {
+      "id": "Q18",
+      "quote": "Gode samarbeidsevner og et ønske om å utvikle både kunder, kolleger og fagmiljøet.",
+      "kind": "MUST",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    }
+  ],
+  "thresholds": [
+    {
+      "id": "T1",
+      "quote": "Denne rollen passer for deg som har ett til to års relevant erfaring",
+      "dimension": "YEARS",
+      "required": "Ett til to års relevant erfaring for ERP-rådgiver",
+      "candidate": "Om lag 3,5 års dokumentert erfaring fra økonomi, systemarbeid, implementering og forbedring ved OUS",
+      "status": "MEETS",
+      "refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ]
+    },
+    {
+      "id": "T2",
+      "quote": "Seniorrollen passer for deg som har solid erfaring med ERP-leveranser",
+      "dimension": "LEVEL",
+      "required": "Solid erfaring med ERP-leveranser for seniorrollen",
+      "candidate": "Produksjonsnær REGERP-erfaring og systemimplementering er dokumentert, men ikke solide ERP-leveranser eller BNXT-rådgivning",
+      "status": "MISSES",
+      "refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    },
+    {
+      "id": "T3",
+      "quote": "Arbeidsspråk Norsk",
+      "dimension": "LANGUAGE",
+      "required": "Norsk arbeidsspråk",
+      "candidate": "Norsk morsmål",
+      "status": "MEETS",
+      "refs": [
+        "EV:OTHER#032-5-1-sprak"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "label": "ERP-rådgiver",
+      "quote": "Denne rollen passer for deg som har ett til to års relevant erfaring og ønsker å utvikle deg videre som rådgiver eller konsulent.",
+      "fit": "STRONG"
+    },
+    {
+      "label": "Senior ERP-rådgiver",
+      "quote": "Seniorrollen passer for deg som har solid erfaring med ERP-leveranser og ønsker en sentral rolle med større faglig og strategisk ansvar.",
+      "fit": "UNDER"
+    }
+  ],
+  "employer_facts": [
+    {
+      "fact": "Abacus is growing and expects more BNXT implementations for new and existing customers.",
+      "quote": "Abacus er i sterk vekst, og stadig flere nye og eksisterende kunder skal implementere BNXT by Visma.",
+      "conversion": "The role enters a growing implementation pipeline where repeatable delivery and customer enablement matter."
+    },
+    {
+      "fact": "The company is a total supplier of IT services and business systems.",
+      "quote": "Vi er totalleverandør av IT-tjenester og forretningssystemer – og har som mål å skape merverdi for bedrifter gjennom leveranse av effektive digitale løsninger.",
+      "conversion": "Advice must connect technology choices to concrete business-process value."
+    },
+    {
+      "fact": "Abacus has nearly 200 employees across 12 offices in Norway and Sweden.",
+      "quote": "I dag har vi snart 200 ansatte fordelt på 12 avdelingskontor i Norge og Sverige.",
+      "conversion": "Methods and competence sharing need to work across a distributed Nordic organisation."
+    },
+    {
+      "fact": "Abacus works exclusively with business customers.",
+      "quote": "vi jobber utelukkende mot bedriftskunder.",
+      "conversion": "The advisory context is commercial B2B delivery rather than internal-only improvement."
+    },
+    {
+      "fact": "Abacus holds three ISO certifications.",
+      "quote": "Vi er derfor ISO-sertifisert på ISO 9001 (kvalitet), 14001 (miljø) og 27001 (informasjonssikkerhet).",
+      "conversion": "ERP delivery must fit explicit quality, environmental and information-security management systems."
+    }
+  ],
+  "submission": {
+    "letter_requirement": "UNSPECIFIED",
+    "quote": "Vi vil gjerne høre fra deg så raskt som mulig. Søknader behandles fortløpende.",
+    "route": "UNKNOWN",
+    "screening_questions": []
+  },
+  "reader_signals": [
+    {
+      "signal": "The reader evaluates business value, not technical implementation alone.",
+      "quote": "Bli en strategisk rådgiver som skaper verdi"
+    },
+    {
+      "signal": "The adviser track is explicitly developmental and supported by experienced colleagues.",
+      "quote": "Du blir en del av implementeringsprosjekter fra start til slutt og jobber tett med både kunder og erfarne kolleger."
+    },
+    {
+      "signal": "Senior selection weighs profitable delivery and practice development.",
+      "quote": "bidrar du til høy kvalitet, god fremdrift og lønnsomme leveranser, og er en aktiv pådriver for utvikling av metodeverk, beste praksis og fagmiljøet i Abacus."
+    },
+    {
+      "signal": "The role bridges people, technology and business.",
+      "quote": "trives i skjæringspunktet mellom mennesker, teknologi og forretning"
+    }
+  ],
+  "triage": {
+    "core": [
+      {
+        "ref": "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "why": "Core for needs analysis, solution design, implementation, controls, stakeholders and decision support."
+      },
+      {
+        "ref": "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "why": "Strongest bridge to REGERP, finance processes, operational implementation and user-facing tools."
+      },
+      {
+        "ref": "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+        "why": "Non-obvious core for customer dialogue, direct sales, logistics and practical operational work."
+      },
+      {
+        "ref": "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "why": "Covers progress, quality, functional leadership, workshops and adoption without overstating authority."
+      },
+      {
+        "ref": "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "why": "Strongest advisory, competence-sharing and cross-organisational collaboration evidence."
+      },
+      {
+        "ref": "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "why": "Strongest end-to-end system-modernisation, implementation, quality and onboarding case."
+      },
+      {
+        "ref": "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "why": "Covers needs capture, requirements, acceptance criteria and solution-option assessment."
+      },
+      {
+        "ref": "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "why": "Direct evidence for advisory communication, training, documentation and handover."
+      },
+      {
+        "ref": "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+        "why": "Detailed finance, accounting-process, logistics and business-process understanding."
+      },
+      {
+        "ref": "EV:WORK#039-6-4-programmering-automatisering-og-impl",
+        "why": "Implementation inventory including REGERP conversion tools and operational automation."
+      },
+      {
+        "ref": "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "why": "Documents advanced economics education supporting the finance/business route."
+      },
+      {
+        "ref": "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin",
+        "why": "Non-obvious core for audience-adapted advice, teaching and maintainable handover."
+      }
+    ],
+    "reserve": [
+      {
+        "ref": "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "why": "Adds lifecycle ownership, user testing and troubleshooting outside an ERP product context."
+      },
+      {
+        "ref": "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "why": "Adds standardisation and durable shared-method development."
+      },
+      {
+        "ref": "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "why": "Adds complex financial/logistics problem solving and controller-oriented solution design."
+      },
+      {
+        "ref": "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "why": "Adds method, workflow and collaboration-practice development."
+      },
+      {
+        "ref": "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+        "why": "Adds quality, change-control and information-security-adjacent practice."
+      },
+      {
+        "ref": "EV:EDU#017-2-3-ntnu-okonomi-insentiver-makro-og-fin",
+        "why": "Adds academic finance and business foundations without substituting for ERP delivery."
+      },
+      {
+        "ref": "EV:OTHER#032-5-1-sprak",
+        "why": "Documents Norwegian against the stated working language."
+      }
+    ]
+  },
+  "notes": [
+    "The record documents REGERP-adjacent operational work and system implementation, but not ownership of an ERP solution or programme.",
+    "No BNXT by Visma experience is documented.",
+    "Commercial ERP consulting, profitable delivery responsibility and strategic customer-adviser experience are not documented.",
+    "The ad does not state whether a letter is required or identify the application route.",
+    "The FINN skills list is excluded as a source of requirements."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "6d58a628d8a57463929cc9eda946e4644793da634452785d72741db4e514fba6",
+    "policy_fingerprint": "aa4d64ac6552944b30ffeb3944de5f2cea9c07a2b46da3adb105283065ac6aa0",
+    "inputs": {}
+  }
+}

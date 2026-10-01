@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "eie_systemkoordinator",
+    "final_package_sha256": "ba2c9796f68117b5c6a519434c369bb90d1dbbed8d53b09135ef728c306d9743",
+    "document_date": "2026-09-18",
+    "baseline_map_sha256": "513363e273559a00cf68694974e8ce869f0b3aa2efa804e10f7def15358bf9e9",
+    "cv_master_sha256": "b656c2d55f6c40e43f5cbac2a13404a61168c718a1830566a082cfb432cdd971",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "0ea47ee3a013072afc3799b36dae07df53c5c4f78d709f29631a9438a578b6bd",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\CV_EIE_eiendomsmegling_Systemkoordinator.docx",
+      "output_sha256": "8bf4cf9d47d73f1ca308ccf0af42f7e584fae829b4694f06992e5e94bc320f45",
+      "bytes": 40419,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\CV_EIE_eiendomsmegling_Systemkoordinator.pdf",
+      "output_sha256": "8cd983f8ef499f371a81eab836546bf707da401dfa8f0855c5caa8ba50bf97c3",
+      "bytes": 297338,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_qh2vxi9p\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\.rnd.2e81c701\\CV_EIE_eiendomsmegling_Systemkoordinator.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\.rnd.2e81c701\\CV_EIE_eiendomsmegling_Systemkoordinator.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\Soknad_EIE_eiendomsmegling_Systemkoordinator.docx",
+      "output_sha256": "f463f59f820c826aaf2031c896ba50a074465f029344a6cbf75dee6a679515f0",
+      "bytes": 38405,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\Soknad_EIE_eiendomsmegling_Systemkoordinator.pdf",
+      "output_sha256": "ad80baa977332b5ff4cc90d58907d458343ce7fb15ccf94346c01cbb4a63195d",
+      "bytes": 190977,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_k7aehrwe\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\.rnd.2e81c701\\Soknad_EIE_eiendomsmegling_Systemkoordinator.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\.rnd.2e81c701\\Soknad_EIE_eiendomsmegling_Systemkoordinator.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-18T08:54:46Z"
+}

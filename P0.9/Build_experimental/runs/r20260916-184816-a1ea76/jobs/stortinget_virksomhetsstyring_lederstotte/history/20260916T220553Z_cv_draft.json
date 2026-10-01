@@ -1,0 +1,67 @@
+{
+  "artifact_role": "CV_LAYER",
+  "cv": {
+    "headline": "Rådgiver i stab – beslutningsstøtte og arbeidsprosesser",
+    "profile": "Rådgiver økonomi og IKT i Direktørens stab ved Oslo universitetssykehus, med mastergrad i samfunnsøkonomi. Arbeider i grenseflaten mellom ledelsens behov for planlegging og oppfølging og de digitale flatene arbeidet faktisk skjer i. Overtok som nyansatt hele den tildelte månedsoppgjørsflyten i en klinikkstab og rapporterte den selv til ledere; utformer i dag arbeidsmodell, arbeidsinntak og beslutningsgrunnlag for et tverrfaglig analysemiljø. Gjennomfører endring med definisjoner, kontroller og akseptansekriterier som lar andre etterprøve hva som ble besluttet.",
+    "competencies": [
+      "Stabs- og lederstøtte: planlegging, koordinering og oppfølging av saker, møter og leveranser",
+      "Beslutningsgrunnlag: notater, beslutningssammendrag og rapportering til ledere",
+      "Utredning og analyse på samfunnsvitenskapelig metodegrunnlag",
+      "Arbeidsprosessdesign: arbeidsinntak, oppgaveflyt, prioritering og avhengigheter",
+      "Digitale samhandlings- og oppfølgingsflater i Microsoft 365",
+      "Kontroll og sporbarhet: definisjoner, kildepresedens, validering og akseptansekriterier",
+      "Formidling og kompetanseoverføring: workshops, onboarding, veiledning og overlevering",
+      "Organisasjonsforståelse på tvers av fag-, økonomi- og teknologimiljøer"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Deltok i den firepersoners gruppen som etablerte Analyseavdelingen, og utformer arbeidsmodell, oppgavehierarki, prioritering og digitale arbeidsflater for et tverrfaglig fagmiljø.",
+          "Strukturerer arbeidsinntak som fanger formål, brukere, beslutningsbehov, avhengigheter, risiko, prioritet og akseptansekriterier før arbeid settes i gang, og omsetter brede eller uavklarte behov til avgrensede leveranser med kontroller og dokumentasjon.",
+          "Skriver beslutningssammendrag og referansemateriell tilpasset ledere, controllere og fagmiljøer, og planlegger og gjennomfører workshops, onboarding og overlevering.",
+          "Gjennomførte kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy langs en smal funksjon-for-funksjon-linje med differansekontroll, akseptansekriterier og risikoregister; verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Etablerer definisjoner, kildepresedens, validering og endringskontroll i prosjektene, og vurderer eksponering av sensitive data i en regulert virksomhet."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avsetninger, avstemming, feilsøk og resultatforklaring, og kvalitetssikret, rapporterte og distribuerte månedsrapporteringen til klinikkledere selv.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP; verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Bidro i budsjettprosessen for 2024 med registrering av årsverk og kvalitetssikring av bemanningsgrunnlag, og arbeidet løpende med prosjektøkonomi og økonomiske avklaringer."
+        ]
+      }
+    ],
+    "tools_line": "Microsoft 365 (Loop, Forms, Teams, Excel/VBA), Power BI, DAX, Power Query, SQL og prosjektavhengig R/Python; Scrum/Kanban, akseptansekriterier, endringskontroll og risikoregister."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "outside_brief_refs": [],
+  "notes": [
+    "Decisions og Planner er bevisst holdt utenfor verktøylinjen og kompetansepunktene: de er navngitt i annonsen, ikke i evidensen.",
+    "Kompetansepunktet om Microsoft 365 dekker de dokumenterte flatene Loop, Forms og Teams; det er ingen påstand om M365-administrasjon.",
+    "Luftforsvaret og de øvrige tidligere arbeidsforholdene beholdes fra baseline uten overstyring; vakt- og sikringstjenesten er relevant kontekst for annonsens sikkerhets- og beredskapspunkt, men brukes ikke som påstand om autoriserbarhet."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76",
+    "job_id": "stortinget_virksomhetsstyring_lederstotte",
+    "employer": "Stortinget",
+    "title": "seniorrådgiver/rådgiver",
+    "evidence_fingerprint": "7dc296db59690646a8537688f317ffb0bde9f454ab6b2e193609df27e33834e2",
+    "policy_fingerprint": "fd1983375eeef6e089e266616f394d7b7f1fffe287aec654f88a0f063a9e2d67",
+    "inputs": {
+      "scout": "5943fea524da3a94d0f0a6964157eddf3b78ef258bd604061bab0f941d45be26",
+      "brief": "cebc7df3f23454a8f2e2ac09e7a5ffab0bee2791825695f6519b274079f8a978"
+    }
+  }
+}

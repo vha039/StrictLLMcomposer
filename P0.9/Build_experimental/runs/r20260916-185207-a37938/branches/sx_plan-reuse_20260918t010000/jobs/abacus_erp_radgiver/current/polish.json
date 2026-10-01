@@ -1,0 +1,33 @@
+{
+  "artifact_role": "POLISH_LAYER",
+  "cv": {
+    "tools_line": "Excel"
+  },
+  "changes": [
+    {
+      "field": "cv.tools_line",
+      "reason": "COMPLEMENTARITY"
+    }
+  ],
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "Fixture"
+    }
+  ],
+  "binding": {
+    "run_id": "r20260916-185207-a37938/branches/sx_plan-reuse_20260918t010000",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "2a7ff4ef674687bdfd2c47bf7549b4a22e62e9dcb6ac132c193d372f98b4c274",
+    "policy_fingerprint": "26afb50695cc750cd34caa9a4d3aaf277d42d379f4f1f39ece12a38664257b51",
+    "inputs": {
+      "scout": "5ae74aa8c8089fdec5c537ac11a055d46e0175e64cefe84bdf74f59d80665054",
+      "brief": "166c8d2142129e45e569ea7f7036bb6a258dafea53de9f08136ca6d7a9ebc0d3",
+      "cv_draft": "8ae015187de4a74e59fa6ede5b616ca947e28a6e16b81bb5fbc34aa8e602047b",
+      "advocacy_draft": "dff04d560c65391647a83bf5b13dee1dbe50e3074e995b73ab67d1844f691c5c"
+    }
+  }
+}

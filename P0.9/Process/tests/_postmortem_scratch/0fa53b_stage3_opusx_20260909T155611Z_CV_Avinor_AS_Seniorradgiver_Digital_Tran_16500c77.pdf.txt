@@ -1,0 +1,89 @@
+Side 1 av 2 
+VEGARD HÅLAND 
+SAMFUNNSØKONOM OG RÅDGIVER ØKONOMI OG IKT | GEVINSTMETODIKK OG 
+DIGITAL GJENNOMFØRING 
+Oslo  |  +47 905 26 886  |  vegard-haaland@outlook.com 
+PROFIL 
+Samfunnsøkonom med fullført master fra NTNU, og rådgiver økonomi og IKT i Analyseavdelingen i 
+direktørens stab ved Oslo universitetssykehus. Jeg arbeider med gevinstmetodikk, investerings- og 
+beslutningsgrunnlag og med digitale endringer som skal virke i driftsnære økonomi- og 
+styringsprosesser. Metodikk jeg var med på å utvikle, ble innført som sykehusdekkende standard, og 
+budsjetteringsverktøyet jeg hadde hovedansvaret for å endre, er i sykehusdekkende bruk. Jeg vurderer 
+hva et gevinstanslag kan bygge på, og gjør forutsetningene synlige for dem som skal bruke tallene. 
+KJERNEOMRÅDER  Gevinstrealisering og gevinstmetodikk: rammeverk, estimering, proxyfordeling og 
+eksplisitte forutsetninger · Investerings- og beslutningsgrunnlag for ledelse, controllere og fagmiljøer 
+· Kontrollert endring av virksomhetskritiske løsninger, med paritetskontroll, akseptansekriterier og 
+risikoregister · Virksomhetsstyring og økonomiprosess: budsjett, periodisering, avstemming og 
+lederrapportering · Beslutningsstøtte og datamodellering: Power BI, DAX, Power Query, Excel/VBA, 
+SQL og prosjektavhengig R/Python · Arbeidsformer og teamdesign: oppgavenedbryting, prioritering, 
+avhengigheter og fasilitering av workshops · Kompetanseoverføring og rådgivning på tvers av 
+organisasjonsgrenser · KI-støttet utvikling med menneskelig gjennomgang, validering og ansvar 
+YRKESERFARING 
+Rådgiver Økonomi og IKT  |  Oslo universitetssykehus HF 03.2023-d.d. 
+Direktørens stab, Analyseavdelingen 12.2023-d.d. 
+• Videreutviklet sykehusets metodikk for gevinstrealisering og estimering i et firepersonsteam på 
+oppdrag fra ledelsen, med bidrag til forskningssyntese, metodisk forbedring, økonomisk og strategisk 
+analyse og standardisering. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i 
+bruk om lag 2,5 år senere. 
+• Utformet investerings- og gevinstfordelingsmodellen for steril logistikk. Da bruksdataene ikke bar en 
+forsvarlig direkte fordeling på klinikk, utformet jeg i stedet en vektet proxymodell over fire 
+grenmodeller og en konsolideringsmodell, med synlige og justerbare vekter, skjemakontrollert 
+overføring i Power Query og kontroller for umappede rader og skjemaavvik. Modellen ble ferdigstilt 
+tidlig i 2026 og overlevert til controllere. 
+• Var i praksis eneste kodende utvikler i 2025-moderniseringen av sykehusets arvede 
+budsjetteringsverktøy, innenfor en interessentprosess med om lag 50 deltakere. Hentet ansatt-, 
+arbeidsforhold- og bemanningsdata inn i verktøyet, gjennomførte funksjonsvis refaktorering med 
+paritetskontroll, akseptansekriterier og risikoregister, og laget opplæringsmateriell for controllere. 
+Den avsluttende moderniseringen for 2027 er ferdigstilt, og verktøyet er i sykehusdekkende bruk i 
+budsjettprosessene for 2026 og 2027. 
+• Deltok i firepersonsgruppen som etablerte Analyseavdelingen, og bidro med alternativer for 
+teamstruktur, ansvars- og avhengighetsfordeling, oppgavehierarki og WIP-styring. Planla og 
+fasiliterte workshops og utarbeidet internt samarbeids- og presentasjonsmateriell. 
+• Lærte opp teknisk personell i en annen rapporterings- og dataorganisasjon i Power BI, semantisk 
+modellering og modelloptimalisering gjennom flere arbeidsmøter, og bidro vesentlig til en første 
+komponent i det som omtales som en driftsrapport. 
+VEGARD HÅLAND  |  CV 
+Side 2 av 2 
+• Eier arkitektur, orkestrering og integrasjon i et pågående prognosearbeid for pasientvolum, 
+sengebehov og kapasitet, der implementeringen er fordelt mellom meg, en kollega og kodeagenter. 
+Bygde orkestratoren og det meste av automatikken rundt, la til GAM-modellering og stiller krav om 
+tidsriktige holdout-tester, baselinjer og akseptansekriterier. 
+Barne- og ungdomsklinikken, Stab 03.2023-11.2023 
+• Overtok etter om lag halvannen måneds opplæring oppgaver i månedsavslutningen, og innen om lag 
+tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avstemming, 
+feilsøk og resultatforklaring. Mot slutten gjennomførte jeg oppgjøret selvstendig og rapporterte til 
+klinikkens ledere. 
+• Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av 
+konterings- og bilagslinjer ved overgangen til REGERP. Verktøyene ble kort tid etter overgangen brukt 
+relativt hyppig av økonomirådgivere i flere klinikker. 
+• Bidro i budsjettprosessen for 2024 med registrering av årsverk, kvalitetssikring av bemannings-, UTA- 
+og vaktgrunnlag og forbedring av formler i automatisk genererte kolonner, og bygde selv hjelpearket 
+som ble brukt i budsjettarbeidet. 
+UTDANNING 
+Masterprogram i kunstig intelligens  |  Universitetet i Agder 2024-d.d. 
+Pågående. 
+Master i samfunnsøkonomi  |  NTNU 2020-2022 
+Relevante fag: videregående og anvendt økonometri, anvendt tidsserieøkonometri og videregående matematisk analyse.  
+Bachelor i samfunnsøkonomi  |  Universitetet i Bergen 2017-2020 
+Bred økonomifaglig bakgrunn, blant annet statistikk og økonometri, offentlig økonomi, arbeidsmarked, konkurranse, finans 
+og bedriftsøkonomi. 
+KURS 
+Sanitet nivå 2, 04.2014. 
+REFERANSER 
+Oppgis ved forespørsel. 
+TIDLIGERE ERFARING 
+07.2015-08.2021  |  Hjelpearbeider, TKS Heis. Sesong- og heltidsarbeid sammen med heismontører under studiene, i et 
+praktisk og sikkerhetssensitivt arbeidsmiljø. 
+02.2015-04.2015  |  Butikkmedarbeider/vikar, Ahlsell, Auglendsmyra. Arbeidet med varemottak, lager, bestilling, salg og 
+kundekontakt. 
+03.2014-02.2015  |  Vakt- og sikringssoldat, Luftforsvaret, Sola. Utførte vakthold, adgangskontroll og alarmrespons med 
+tydelige prosedyrer og ansvar. 
+10.2013-03.2014  |  Sikkerhetskonsulent, Sector Alarm. Gjennomførte behovsavklaring, pristilbud, direkte salg og 
+kundedialog. 
+TILLITSVERV 
+Styremedlem/beboerrepresentant, Solheimslien studentboliger, 10.2017 -01.2019. 
+Økonomiansvarlig og nestleder, 01.2019-01.2020. 
+Styreleder og økonomiansvarlig, 01.2020-08.2020. 
+SPRÅK 
+Norsk: Morsmål 
+Engelsk: Flytende skriftlig og muntlig 

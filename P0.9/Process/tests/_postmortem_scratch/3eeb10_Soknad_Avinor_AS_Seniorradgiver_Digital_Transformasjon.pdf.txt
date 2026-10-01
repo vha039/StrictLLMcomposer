@@ -1,0 +1,41 @@
+ 
+VEGARD HÅLAND +47 905 26 886  ·  vegard-haaland@outlook.com 
+Oslo 
+ 
+ 
+Avinor AS 
+Digital Transformasjon 
+Oslo, 5. september 2026 
+Stilling: Seniorrådgiver Digital Transformasjon  
+Søknad: Seniorrådgiver Digital Transformasjon  
+Jeg søker stillingen som seniorrådgiver i Digital Transformasjon. Jeg er samfunnsøkonom og 
+arbeider med digitalisering og virksomhetsstyring i Direktørens stab ved Oslo universitetssykehus, i 
+en drift som ikke tåler at ting slutter å virke mens de forbedres. 
+Sykehusets budsjetteringsverktøy var om lag tjue år gammelt og virksomhetskritisk, og logikken lå 
+spredt mellom formler, navngitte områder og makrokode i kopier som hadde vokst fra hverandre. 
+Jeg rekonstruerte arkitekturen fra kilden, integrerte bemannings- og lønnsdata som tidligere 
+måtte kopieres manuelt fra en annen arbeidsbok, og var i praksis eneste kodende utvikler i en 
+prosess med om lag 50 involverte. Jeg anbefalte en bredere restrukturering, men 
+innføringsansvarlig krevde en smal tilnærming der én funksjon ble tatt om gangen, og omtrent 80 
+prosent av endringene ble derfor atferdsbevarende én til én. Jeg tok den rammen og kjøpte 
+forsvarligheten med kontroll i stedet for med omfang: differansesammenligning av original og 
+omskrevet funksjon, akseptansekriterier, gap- og risikoregister og en uttalt forventning om null 
+regresjon. Den moderniserte versjonen ble brukt til å utarbeide sykehusets budsjett for 2026. 
+Analyseavdelingens første store oppdrag var å forbedre sykehusets eksisterende metodikk for 
+gevinstrealisering og estimering, ikke å erstatte den. Vi var fire som gikk gjennom 
+forskningsgrunnlaget, diskuterte og utviklet den reviderte metodikken, og mitt bidrag lå i 
+forskningssyntesen, i de økonomiske og styringsmessige vurderingene og i standardiseringen. 
+Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et 
+halvt år senere. 
+Der gevinsten ikke lar seg måle direkte, gjør jeg heller forutsetningen synlig enn å lage presisjon 
+som ikke finnes. I en fordelings- og investeringsmodell for steril logistikk holdt ikke direkte målt 
+tjenestebruk til å fordele gevinster forsvarlig mellom klinikker. Jeg utformet i stedet en vektet 
+modell på indirekte indikatorer, med åpne og justerbare vekter, og bevisst uten makrokode, slik at 
+controllere og fagansvarlige kunne endre forutsetningene uten å være avhengige av meg. Den 
+modellen er utformet, ikke innført. 
+Det som gjør stillingen interessant for meg er at den ligger der jeg har arbeidet: mellom en løsning 
+som er levert og en som faktisk er tatt i bruk, og mellom en beregnet gevinst og en som lar seg 
+etterprøve. Jeg bidrar gjerne med gjennomføring under driftskrav og med gevinstlogikk som tåler 
+ettersyn, og tar gjerne en samtale om hvordan den nye enheten arbeider nå. 
+Med vennlig hilsen 
+Vegard Håland 

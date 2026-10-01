@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260913-205507-247618",
+  "job_id": "bi_business_designer",
+  "employer": "Handelshøyskolen BI Digital",
+  "title": "Business Designer",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "850cf837d9417c86a85dbf7896b28550b5d4d70b173cb06ea15621d2acf7ea05",
+  "upstream": {
+    "strategy_sha256": "4c9be728ace1f9237f954cc9322265f2f48e1e5e50897c189140012c7d17355c"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

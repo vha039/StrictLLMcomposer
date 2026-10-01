@@ -1,0 +1,58 @@
+{
+  "artifact_role": "CURRENT_FAILURE",
+  "run_id": "r20260905-005939-3eeb10",
+  "job_id": "huseierne_strategi_maalstyring",
+  "operation": "STAGE1",
+  "classification": "FAILED",
+  "applies_to_hashes": {},
+  "violations": [
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/counterfactual_route",
+      "expected": "type: ['object', 'null']",
+      "observed": "'Alternativet er å lede med styringsinformasjon og BI-leveransen som hovedidentitet og la metodearbeidet være støtte. Det ville truffet annonsens BI- og dataplattformkrav hardere og vært lettere å dokumentere, men det svarer på feil usikkerhet: annonsen etterspør en som får styring forankret, ikk...",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/cv_direction/employment_focus/0",
+      "expected": "pattern: '^BL:(EMP|EDU|SEC)_[A-Z0-9_]+$'",
+      "observed": "'EMP_OUS_ANALYSE'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/cv_direction/employment_focus/1",
+      "expected": "pattern: '^BL:(EMP|EDU|SEC)_[A-Z0-9_]+$'",
+      "observed": "'EMP_OUS_BAR'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "DEC-34",
+      "file": "strategy.json",
+      "location": "cv_direction.employment_focus[0]",
+      "expected": "a baseline reference present in the mechanical baseline map",
+      "observed": "'EMP_OUS_ANALYSE' does not resolve",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "DEC-34",
+      "file": "strategy.json",
+      "location": "cv_direction.employment_focus[1]",
+      "expected": "a baseline reference present in the mechanical baseline map",
+      "observed": "'EMP_OUS_BAR' does not resolve",
+      "severity": "ERROR"
+    }
+  ],
+  "diagnostic_summary": "Semantic stage return failed mechanical validation.",
+  "attempts_used": 0,
+  "retry_position": null,
+  "mechanical_corrections_used": 0,
+  "semantic_attempt": null,
+  "last_successful_stage": null,
+  "recommended_next_action": "Correct the reported mechanical defects once in the same session and resubmit with the same handoff.",
+  "recorded_at": "2026-09-05T01:07:11Z"
+}

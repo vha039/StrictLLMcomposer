@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260923-193222-838ddd",
+  "job_id": "kpmg_cfo_advisory_prosjektleder",
+  "employer": "KPMG Norge",
+  "title": "Prosjektleder til CFO Advisory",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "06fdb4451f34da714a72ed995e9f1eb31bb52738fc6107eeca0b705277a12ff8",
+  "upstream": {
+    "strategy_sha256": "edd0e83304443f11a8979c1cf8273682b21f55b3bde9d3fa89ac39ae6856dc3b"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

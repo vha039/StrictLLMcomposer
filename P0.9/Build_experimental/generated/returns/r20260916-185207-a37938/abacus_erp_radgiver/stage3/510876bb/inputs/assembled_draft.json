@@ -1,0 +1,25 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "ASSEMBLED",
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT",
+    "profile": "Rådgiver i økonomi og IKT ved Oslo universitetssykehus.",
+    "competencies": [
+      "Månedsoppgjør",
+      "Gevinstmetode",
+      "Datamodellering"
+    ],
+    "employment_overrides": [],
+    "tools_line": "Excel/VBA, Power BI, SQL"
+  },
+  "letter": {
+    "opening": "BNXT skal bære kundenes oppgjør, og jeg kommer fra siden som eier oppgjøret.",
+    "body_paragraphs": [
+      "Da gevinstene fra steril logistikk skulle fordeles, bar ikke bruksdataene en forsvarlig fordeling, og jeg valgte en modell som gjorde forutsetningene synlige."
+    ],
+    "closing": "Hva er den vanskeligste avveiningen dere står i nå?"
+  },
+  "used_evidence_refs": [
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+  ]
+}

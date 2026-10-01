@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260913-205507-247618",
+  "job_id": "nasjonalmuseet_forretningsutvikling",
+  "employer": "Nasjonalmuseet",
+  "title": "Seniorrådgiver forretningsutvikling",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "850cf837d9417c86a85dbf7896b28550b5d4d70b173cb06ea15621d2acf7ea05",
+  "upstream": {
+    "strategy_sha256": "a63ac381a263aba00ed7b0c98dbf048e4b01670c706cbc570065d3ca9c242381"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

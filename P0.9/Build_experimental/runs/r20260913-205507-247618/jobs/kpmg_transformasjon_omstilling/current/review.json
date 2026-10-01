@@ -1,0 +1,35 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "known_limitations": [
+    "Ingen dokumentert konsulenterfaring, formell prosjektlederrolle eller kundeansvar.",
+    "Ingen dokumentert erfaring med nedbemanning, organisasjonsomlegging eller lønnsomhetsprogrammer.",
+    "Ingen dokumentert erfaring med salgsprosesser eller utvikling av kommersielle kunderelasjoner.",
+    "Rammeverket for gevinstrealisering var teamarbeid, uten dokumentert metodelederrolle eller målt effekt."
+  ],
+  "material_strategy_change": "Den substantielle pakken erstatter teamdesign som bærende støttebevis med den ferdigstilte proxy-modellen. Det gir et sterkere og mer stillingsrelevant signal om å strukturere en krevende problemstilling uten ferdig oppskrift, samtidig som hovedruten snevres inn fra generell transformasjon til beslutningskvalitet og kontrollert gjennomføring.",
+  "notes": [],
+  "reasons": [
+    {
+      "reason": "Pakken svarer på kartlegging, datadrevet analyse, beslutningsgrunnlag, gevinstmetodikk og implementering med tre dokumenterte og tydelig avgrensede arbeider.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Konsulenterfaring, formell prosjektledelse, nedbemanning og salg er reelle gap. Søknaden sier dette samlet uten å svekke de dokumenterte bidragene eller antyde at minstekravene er oppfylt.",
+      "recommended_action": "Vær forberedt på å forklare overgangen fra intern rådgivning til kundeoppdrag i intervju. Ingen lokal tekstreparasjon gjenstår.",
+      "priority": 2
+    },
+    {
+      "reason": "Alle sterke resultater beholder korrekt attribusjon og status: gevinstmetodikken er teamutviklet og innført, budsjettverktøyet er i bruk, og proxy-modellen er ferdigstilt og overlevert uten påstand om organisatorisk bruk eller realiserte gevinster.",
+      "recommended_action": "Behold disse skillene ved eventuell manuell komprimering.",
+      "priority": 3
+    }
+  ],
+  "triage": "READY",
+  "upstream_claim_repaired": null,
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "kpmg_transformasjon_omstilling",
+    "final_package_sha256": "35080917f56314d887cd9dc50086bff490fda5fcb603bb1f0a75d01ae3749eab"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "letter": {
+    "closing": "Takk for tiden.",
+    "body_paragraphs": [
+      "Prøven bekrefter publisering og binding."
+    ],
+    "opening": "Dette er et mekanisk prøvebrev."
+  },
+  "cv": {
+    "profile": "Rådgiver i økonomi og IKT; kjenner oppgjørsflyten ERP-en skal bære.",
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Mekanisk kontrolltekst."
+        ]
+      }
+    ]
+  },
+  "form_answers": [
+    {
+      "question": "Hvorfor søker du?",
+      "answer": "Fordi prosess og system møtes her."
+    }
+  ],
+  "keystones": [
+    {
+      "function": "JUDGMENT",
+      "document": "LETTER",
+      "text": "Prøven bekrefter publisering og binding.",
+      "id": "K1"
+    }
+  ],
+  "used_evidence_refs": [
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+  ]
+}

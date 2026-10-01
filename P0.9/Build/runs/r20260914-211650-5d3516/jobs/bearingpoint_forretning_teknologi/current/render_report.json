@@ -1,0 +1,138 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260914-211650-5d3516",
+    "job_id": "bearingpoint_forretning_teknologi",
+    "final_package_sha256": "1ec4b8c98b3ede5a23c187353f2a3bbdbf14e88e8dda8eb872485a62771f40db",
+    "document_date": "2026-09-14",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "84a069c32995b61353e3edcee53d2c5fab5d289148f0358c3b461338108a2acb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\bearingpoint_forretning_teknologi\\out\\CV_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.docx",
+      "output_sha256": "93bc89acbf631deed013d653f67fd6c42214860cc1e38bfa306cfa6964e4ba07",
+      "bytes": 41182,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\bearingpoint_forretning_teknologi\\out\\CV_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.pdf",
+      "output_sha256": "f6d47e0bdf5c2ec5ea74f0b534b1b8435a44151a05f1e89f15fb455422cc939c",
+      "bytes": 298554,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_2grqpedq\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\bearingpoint_forretning_teknologi\\out\\.rnd.8572a88a\\CV_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\bearingpoint_forretning_teknologi\\out\\.rnd.8572a88a\\CV_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 3,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": [
+        "CV rendered to 3 pages; editorial target is <=2. Review signal only."
+      ]
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\bearingpoint_forretning_teknologi\\out\\Soknad_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.docx",
+      "output_sha256": "14c840922899f0c52cd5eed679689c8f7189789860554ed2bdbb559e13919adf",
+      "bytes": 38824,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\bearingpoint_forretning_teknologi\\out\\Soknad_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.pdf",
+      "output_sha256": "1d04351bf772de2c22e875fd8b21a1c48a5eff9f5918aa412efc4abcca060d50",
+      "bytes": 199832,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_1v4guubc\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\bearingpoint_forretning_teknologi\\out\\.rnd.8572a88a\\Soknad_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\bearingpoint_forretning_teknologi\\out\\.rnd.8572a88a\\Soknad_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-14T21:52:46Z"
+}

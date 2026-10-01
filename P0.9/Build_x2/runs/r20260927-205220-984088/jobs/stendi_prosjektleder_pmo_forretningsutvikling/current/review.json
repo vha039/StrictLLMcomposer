@@ -1,0 +1,33 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Stendi ber om å oppgi tidligste tiltredelse ('oppgi gjerne'). Tidspunktet finnes ikke i kildene og er ikke skrevet inn.",
+      "recommended_action": "Legg eventuelt til én setning om tidligste tiltredelse i avslutningen før innsending; valgfritt."
+    },
+    {
+      "priority": 2,
+      "reason": "Kandidaten har ikke hatt formell prosjektleder- eller PMO-rolle; pakken viser egne arbeidsstrømmer, workshops, oppdragsavklaring og teamleveranser med riktig tittel og ansvar.",
+      "recommended_action": "Normal skumlesing; forbered intervjueksempler på fremdriftsoppfølging og interessenthåndtering."
+    },
+    {
+      "priority": 3,
+      "reason": "Søknader vurderes fortløpende og fristen er 27.09.2026.",
+      "recommended_action": "Send så snart pakken er godkjent."
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert erfaring med forretningsplanprosess, porteføljestyring eller styringsgruppeoppfølging.",
+    "Ingen erfaring fra private omsorgstjenester, oppkjøp eller integrasjon av virksomheter.",
+    "Inntaksskjemaene og deler av arbeidsmodellen er utformet og foreslått, ikke dokumentert som organisasjonsdekkende innført; proxy-modellens bruk er uavklart."
+  ],
+  "material_strategy_change": "Brevet åpner med gevinstmetodikken som et lederbestilt teamprosjekt med varig sykehusdekkende bruk, i stedet for budsjettmoderniseringen først, fordi den best svarer på Stendis PMO-kjerne (fra bestilling til forankret felles praksis). Budsjettmoderniseringen er innrammet som egen arbeidsstrøm i et større prosjekt, med den dokumenterte anbefalingen som ble underordnet implementeringsansvarliges valg, som bevis på å følge opp beslutninger. PRJ-01s løst formulerte oppdrag og PRJ-06s omforming av bestillingen er brukt som svar på uavklarte mandater.",
+  "upstream_claim_repaired": "cv_draft understatet PRJ-03 ('gjennomførte kodeendringene') uten at kandidaten var i praksis eneste kodende utvikler i en prosess med om lag 50 deltakere; lagt inn. cv_draft sa at REGERP-verktøyene ble brukt av økonomirådgivere i flere klinikker uten tidsavgrensningen 'relativt hyppig ... kort etter overgangen'; rettet. cv_draft sa at PRJ-03-bulleten 'avklarte avhengigheter', som ikke er et støttet atom for PRJ-03; fjernet. Egne førsteutkast brukte 'satte opp' om Scrum/Kanban-strukturer (kilden sier utformet) og 'kunne etterprøve' om et designmål; begge rettet.",
+  "binding": {
+    "run_id": "r20260927-205220-984088",
+    "job_id": "stendi_prosjektleder_pmo_forretningsutvikling",
+    "final_package_sha256": "a4866e35cc82e7773d19c9631810f821ebf86ea0f2d9247aee679b7b3ac518a9"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken svarer på metodeverk, oppfølging av tiltak og anvendbar formidling med dokumentert arbeid: et felles gevinstrealiseringsrammeverk innført i hele sykehuset, oppfølging av økonomiske tiltak i klinikkstaben, brukertester av en analyseløsning og en modell med synlige forutsetninger. Erfaringskravet er formulert som publikumsutvikling, målgruppearbeid, forretningsutvikling, analyse eller strategiarbeid, og analyseerfaringen dekker det. Ingen kjent ustøttet påstand gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Publikumsutvikling, målgruppearbeid, medlemskap, inntektsvekst og kommersiell publikumsreise er ikke dokumentert. Søknaden sier dette én gang i avslutningen og påstår ingen overføring av resultater.",
+      "recommended_action": "Ingen endring nødvendig. Vurder om søknaden er verdt å sende gitt sektorgapet.",
+      "priority": 2
+    },
+    {
+      "reason": "Kravet om erfaring med kvalitative og kvantitative innsiktsmetoder er bare delvis besvart: kvantitativ analyse, økonometri og prognoser er dokumentert, mens den kvalitative siden bare er dekket av brukertester og observasjon, ikke intervjuer, segmentering eller publikumsundersøkelser.",
+      "recommended_action": "Ingen endring nødvendig; ikke legg til kvalitative metoder uten ny kildestøtte.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert publikums-, markeds-, medlems- eller inntektserfaring.",
+    "Ingen dokumentert kvalitativ innsiktsmetodikk utover brukertester og observasjon.",
+    "Rollen har overordnet fagansvar; kandidaten har ikke formelt fagansvar eller metodelederrolle, og gevinstrammeverket var teamarbeid.",
+    "Erfaring fra matriseorganisasjon er ikke dokumentert som formell arbeidsform."
+  ],
+  "material_strategy_change": "Beholdt metoderuten, men knyttet gevinstrammeverket til oppfølging av tiltak ved å legge til bidraget i oppfølgingen av klinikkens økonomiske tiltak, og slo sammen brukertestene i styringsdashbordet og modellen med synlige forutsetninger til én enhet om å gjøre innsikt anvendbar. Prognosearbeid for pasientvolum og DRG ligger i CV-en som bredde med riktig status.",
+  "upstream_claim_repaired": "Understatement: strategien vurderte erfaringskravet som bare tilgrensende, men annonsen godtar erfaring med analyse eller strategiarbeid, og analyseerfaringen er godt dokumentert. Pakken behandler kravet som dekket, mens publikumsdelen fortsatt holdes utenfor.",
+  "notes": []
+}

@@ -1,0 +1,35 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Minstekravet om prosesser med flere virksomheter og fagmiljøer er besvart med ferdig, innført arbeid: et rammeverk utviklet i team og innført som felles standard i hele sykehuset, en videreutvikling med om lag 50 deltakere og kompetanseoverføring til en annen organisasjon. Utdannings- og språkkravene er dokumentert. Ingen kjent ustøttet påstand gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Pakken er en reell strekk mot rollens domene: eID, identitetsforvaltning, nordisk-baltisk samarbeid, Nordisk ministerråd og møteledelse på engelsk for politiske grupper er ikke dokumentert. Søknaden sier dette én gang og bygger en positiv bro med dokumentert rask opplæring, uten å antyde domeneerfaring.",
+      "recommended_action": "Ingen endring nødvendig. Vurder om søknaden er verdt å sende gitt domenegapet; det er en søknadsbeslutning, ikke en reparasjon.",
+      "priority": 2
+    },
+    {
+      "reason": "Workshops er dokumentert på norsk og innad i sykehuset. Engelsk er dokumentert som flytende og med skolegang fra Calgary, men ikke som erfaring med å lede møter eller presentasjoner på engelsk.",
+      "recommended_action": "Behold formuleringen om engelsk slik den står; ikke legg til internasjonal møteerfaring.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert kjennskap til eID, eIDAS2, identitetslommebok eller aktørene i identitetsforvaltningen.",
+    "Ingen dokumentert erfaring med samarbeid på tvers av land, med Nordisk ministerråd eller med politiske grupper.",
+    "Ingen formell prosjektlederrolle eller dokumentert ansvar for fremdrift, rapportering og resultatoppnåelse i et samlet prosjekt.",
+    "Ingen dokumentert erfaring med utvikling av strategier eller målbilder utover metode- og løsningsarbeid."
+  ],
+  "material_strategy_change": "Byttet bærende bevis: strategien la forslag til teamstruktur og design av oppdragsinntak (forslags- og designstatus) som hovedbevis. Finalen lar gevinstrealiseringsrammeverket, utviklet av et team på fire og innført i hele sykehuset, og videreutviklingen av budsjetteringsverktøyet med om lag 50 deltakere bære minstekravet om samarbeid på tvers, fordi de dokumenterer innført resultat og varighet. Workshops, kompetanseoverføring og engelsk er støttebevis, og domenegapet håndteres med en dokumentert læringsbro i stedet for taushet.",
+  "upstream_claim_repaired": "Understatement: strategien vurderte samarbeid på tvers av virksomheter og fagmiljøer bare som tilgrensende med bevis av foreløpig status, og brukte ikke det sykehusdekkende rammeverket for gevinstrealisering, som er det sterkeste dokumenterte eksempelet på et felles opplegg som ble tatt i bruk av mange enheter.",
+  "notes": [],
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "digdir_nobid_prosjektmedarbeider",
+    "final_package_sha256": "083911abb8b834926fc93352396bd257509d483a53d87a35472ce7d5d98aa4c8"
+  }
+}

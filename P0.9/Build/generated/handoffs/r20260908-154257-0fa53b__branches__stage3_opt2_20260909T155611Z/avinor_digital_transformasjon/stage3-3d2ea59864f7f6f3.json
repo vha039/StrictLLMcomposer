@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260908-154257-0fa53b/branches/stage3_opt2_20260909T155611Z",
+  "job_id": "avinor_digital_transformasjon",
+  "employer": "Avinor AS",
+  "title": "Seniorrådgiver Digital Transformasjon",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "33b21655f660234ca0f5a4c4d7ed0f49c7c75cca057efc01b4c5a2cf9c09045c",
+  "upstream": {
+    "strategy_sha256": "2025de2e8cd64e280d269a550e3e1fd2e70d34e0b0653312f25f2da0e8daa815"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

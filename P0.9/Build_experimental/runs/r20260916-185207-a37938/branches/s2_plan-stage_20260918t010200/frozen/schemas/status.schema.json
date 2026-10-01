@@ -1,0 +1,386 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/status.schema.json",
+  "title": "DerivedStatus",
+  "description": "Disposable derived view (DEC-42, Contract 5.8, 7). Regenerated from the immutable manifest, current artifacts and their fixed input hashes, the current failure record and the current render report. Never authoritative, never a progress file, never consulted by validation.\n\nThe three axes stay separate and are never collapsed into one enum: semantic triage, production/mechanical state, and render state. A PDF problem never changes semantic triage.\n\nHuman measurements are never stored here; they live in the durable pilot log (Spec 18.3).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "run_id",
+    "derived_at",
+    "manifest_sha256",
+    "integrity",
+    "counts",
+    "jobs"
+  ],
+  "properties": {
+    "artifact_role": {
+      "const": "DERIVED_VIEW"
+    },
+    "run_id": {
+      "type": "string",
+      "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}(?:/branches/[a-z0-9][a-z0-9_-]{0,31})?$"
+    },
+    "derived_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "manifest_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "integrity": {
+      "type": "object",
+      "description": "Every manifest-frozen file is verified before job-state precedence is applied (Contract 7). A mismatch is a run-integrity error requiring restoration or a child run, not ordinary STALE state.",
+      "additionalProperties": false,
+      "required": [
+        "ok",
+        "mismatches"
+      ],
+      "properties": {
+        "ok": {
+          "type": "boolean"
+        },
+        "mismatches": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "path",
+              "expected_sha256",
+              "observed_sha256"
+            ],
+            "properties": {
+              "path": {
+                "type": "string"
+              },
+              "expected_sha256": {
+                "type": "string"
+              },
+              "observed_sha256": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "counts": {
+      "type": "object",
+      "description": "Reportable approved-set integrity (ACC-02). Core-only quality is never presented as coverage of the entire approved opportunity set (Spec 2.3).",
+      "additionalProperties": false,
+      "required": [
+        "approved_total",
+        "core",
+        "exception",
+        "semantic_final_available",
+        "blocked_manual",
+        "failed",
+        "stale",
+        "not_started"
+      ],
+      "properties": {
+        "approved_total": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "core": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "exception": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "semantic_final_available": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "blocked_manual": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "failed": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "stale": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "not_started": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "triage": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "READY": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "CHECK": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "RERUN": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        },
+        "render": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "NOT_RENDERED": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "OK": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "DEGRADED": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "FAILED": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        }
+      }
+    },
+    "jobs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "job_id",
+          "employer",
+          "title",
+          "cluster",
+          "sequence",
+          "priority",
+          "semantic_triage",
+          "production_state",
+          "highest_valid_stage",
+          "semantic_final_available",
+          "render_state"
+        ],
+        "properties": {
+          "job_id": {
+            "type": "string"
+          },
+          "employer": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "cluster": {
+            "type": "string"
+          },
+          "sequence": {
+            "type": "integer"
+          },
+          "priority": {
+            "enum": [
+              "HIGH",
+              "NORMAL",
+              "LOW"
+            ]
+          },
+          "deadline": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "semantic_triage": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "READY",
+              "CHECK",
+              "RERUN",
+              null
+            ],
+            "description": "Axis A. Null before a current final and review exist and bind to each other. Pure triage: a RERUN label never mutates an artifact or starts a workflow (DEC-37)."
+          },
+          "production_state": {
+            "enum": [
+              "NOT_STARTED",
+              "VALID",
+              "FAILED",
+              "STALE",
+              "BLOCKED_MANUAL",
+              "EXCEPTION"
+            ],
+            "description": "Axis B."
+          },
+          "highest_valid_stage": {
+            "enum": [
+              "SCOUT",
+              "ARCHITECT",
+              "ADVOCATE",
+              "EDITOR",
+              null
+            ],
+            "description": "The last stage whose artifacts are current and valid."
+          },
+          "semantic_final_available": {
+            "type": "boolean",
+            "description": "Reported explicitly, never inferred from the presence of a render file (Spec 7.5)."
+          },
+          "render_state": {
+            "type": "object",
+            "description": "Axis C. Component-level, orthogonal to the other two.",
+            "additionalProperties": false,
+            "required": [
+              "overall"
+            ],
+            "properties": {
+              "overall": {
+                "enum": [
+                  "NOT_RENDERED",
+                  "OK",
+                  "DEGRADED",
+                  "FAILED"
+                ]
+              },
+              "cv_docx": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "cv_pdf": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "letter_docx": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "letter_pdf": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "limitation": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "human_action": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          },
+          "stale_scope": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Artifact names whose evidence fingerprint moved."
+          },
+          "exception_note": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "blocking": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "recommended_action": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "output_paths": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "next_stage": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "enum": [
+              0,
+              1,
+              2,
+              3,
+              null
+            ],
+            "description": "The stage this job is waiting for."
+          },
+          "signals": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Editorial signals from preview and render: pages, headline lines, first person in the CV, formula tics. Never a gate."
+          },
+          "stale_reason": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "rerun_stage": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "enum": [
+              1,
+              2,
+              null
+            ]
+          },
+          "delivery": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "LETTER_AND_CV",
+              "CV_ONLY",
+              "CV_PLUS_FORM_ANSWERS",
+              null
+            ]
+          }
+        }
+      }
+    }
+  }
+}

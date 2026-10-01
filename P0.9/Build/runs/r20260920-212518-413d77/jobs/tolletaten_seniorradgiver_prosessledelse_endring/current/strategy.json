@@ -1,0 +1,343 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "Tolletaten må velge en seniorrådgiver som kan gjøre et flerårig digitaliseringsprogram gjennomførbart: avgrense komplekse problemstillinger, få riktige aktører og beslutninger på plass, synliggjøre avhengigheter og følge opp endring, fremdrift, gevinster og risiko på tvers av program, linje og eksterne parter. Det uttalte behovet er prosessledelse og endringsgjennomføring; en rimelig utvelgelsesrisiko er om kandidaten har tilstrekkelig tyngde til å drive avklaringer uten formell myndighet i en stor og aktørrik kontekst.",
+  "selection_logic": "Etabler Vegard som samfunnsøkonom og rådgiver med dokumentert funksjonell prosessledelse i komplekse, regulerte omgivelser. La moderniseringen av et sykehusdekkende budsjetteringsverktøy bære gjennomføringsargumentet: han rekonstruerte en kritisk arbeidsflyt, gjennomførte hoveddelen av kodeendringene under sterke kompatibilitetskrav, brukte kontroll- og akseptansestruktur og laget onboarding i en bred interessentprosess; løsningen er i sykehusdekkende bruk. Koble dette til medutviklingen av et varig, sykehusdekkende rammeverk for gevinstrealisering og til konkret utforming av arbeidsprosesser, ansvar, avhengigheter, beslutningsbehov og workshops. Dette reduserer usikkerhet om analyse, struktur, operasjonalisering og forankring, men skal ikke fremstilles som formell programledelse eller som erfaring fra samhandling med næringsliv og sektormyndigheter.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver innen prosessforbedring, styring og kontrollert digitalisering",
+  "headline_hypothesis": "Seniorrådgiver for prosess, styring og endringsgjennomføring",
+  "shortlist_thesis": "Vegard kombinerer masterutdanning i samfunnsøkonomi med praktisk evne til å avklare komplekse behov, strukturere ansvar og avhengigheter og omsette dem til kontrollerte leveranser og arbeidsformer i en stor offentlig virksomhet. Det mest overbevisende beviset er en krevende modernisering som gikk fra fragmentert, risikoutsatt arbeidsflyt til sykehusdekkende bruk, mens gevinstmetodikk, workshops og beslutningsstruktur viser relevant bredde for Tolletatens endrings- og interessentarbeid.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Relevant høyere utdanning på masternivå, eventuelt særlig relevant erfaring og svært god realkompetanse",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ],
+      "note": "Fullført mastergrad i samfunnsøkonomi gir et tydelig formelt og analytisk grunnlag; den etablerer ikke leder- eller programutdanning."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Solid og dokumentert erfaring med å drive komplekse, tverrgående prosesser avhengig av flere fagmiljøer, organisatoriske nivåer og beslutningstakere",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "note": "Dokumenterer funksjonell ledelse, en bred interessentprosess, workshops og praktisk strukturering av ansvar og avhengigheter. Kildene etablerer ikke formelt ansvar for en programomfattende prosess eller sikker kontaktflate mot alle organisatoriske nivåer og beslutningstakere."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Erfaring fra større endrings-, digitaliserings-, program-, prosjekt- eller transformasjonsinitiativ, gjerne i en kompleks organisasjon",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Sykehusdekkende digitalisering og metodeinnføring i OUS dekker prosjekt-/endringsalternativet i kravet. Beviset skal ikke oppgraderes til program- eller transformasjonsledelse."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Drive prosesser fra problemstilling og behov til avklaring, beslutning og oppfølging",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse"
+      ],
+      "note": "Sterk støtte for problemavklaring, behovsstruktur, prioritering, leveranse og overlevering på prosjekt-/oppdragsnivå. Formell beslutningsoppfølging gjennom et flerårig program er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Identifisere aktører, avhengigheter og beslutningsbehov, drive avklaringer og utfordre konstruktivt ved uklart ansvar eller fremdrift",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ],
+      "note": "Arbeidsevidensen støtter avhengighetsoversikt, prioritering, stakeholder-tilpasning og konstruktive tilbakemeldinger. Unngå å gjøre dette til formell eskaleringsmyndighet."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Operasjonalisere endringsstrategi og aktørplaner i arbeidsprosesser, aktiviteter, ansvar og milepæler",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:OTHER#018-2-5-rute-for-funksjonell-endringsledelse"
+      ],
+      "note": "Har konkret erfaring med arbeidsstruktur, ansvar, avhengigheter, prioritering, workshops og handover. Har ikke dokumentert eierskap til en endringsstrategi eller aktørplan på programnivå."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Sikre struktur, koordinering og fremdrift, identifisere flaskehalser og løfte beslutningsbehov til riktig nivå",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse",
+        "EV:WORK#043-6-8-styring-kvalitet-og-kontroll"
+      ],
+      "note": "Dokumentert på funksjonelt prosjekt- og leveransenivå; eskalering gjennom programstyring og linjehierarki er ikke uttrykkelig dokumentert."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Planlegge og fasilitere involverings- og arbeidsprosesser på tvers av program, linjeorganisasjon, næringsliv og sektormyndigheter",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Workshops og arbeid med ulike interne faggrupper og organisasjonsflater er støttet. Tilsvarende prosessansvar mot næringsliv, andre myndigheter eller EU er et reelt gap."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Følge opp beslutninger og avklaringer og utarbeide beslutnings- og ledelsesunderlag",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ],
+      "note": "Sterk støtte for beslutningsnotater, ledelsesunderlag, presentasjoner og mottakertilpasset dokumentasjon. Ikke påstå hvilke beslutninger underlagene utløste."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Bidra til operasjonalisering av gevinstrealisering og oppfølging av endringsrelatert risiko",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#043-6-8-styring-kvalitet-og-kontroll"
+      ],
+      "note": "Medutvikling av et sykehusdekkende gevinstrealiseringsrammeverk og dokumentert bruk av risiko-/kontrollstrukturer gir direkte relevans. Ingen påstand om metodeeierskap, programoppfølging eller målt effekt."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Svært god skriftlig og muntlig fremstillingsevne på norsk",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Norsk er morsmål; arbeidsevidensen viser beslutningsnotater, dokumentasjon, workshops og presentasjoner for ulike mottakere."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Erfaring fra offentlig sektor og/eller arbeid i grensesnittet mellom virksomhet, myndigheter og eksterne aktører",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Arbeid i offentlig eid sykehusvirksomhet dekker offentlig-sektor-alternativet. Beviset dekker ikke myndighets-/næringslivsgrensesnittet."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "God organisasjonsforståelse, analytisk og strukturert arbeidsform, eierskap til uklare problemstillinger, gjennomføringsevne og relasjonell trygghet",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ],
+      "note": "Bruk konkrete handlinger og leveranser som bevis, ikke en liste med selvkarakteristikker."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Tilfredsstillende ordinær politiattest før tiltredelse",
+      "importance": "MINIMUM",
+      "relation": "UNKNOWN",
+      "note": "Dette er et vilkår ved eventuell ansettelse; kandidatmyndighetene dokumenterer ikke atteststatus."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Bærende gjennomføringsbevis: vise hvordan Vegard rekonstruerte en kritisk arbeidsflyt, avgrenset endringer under sterke drifts- og kompatibilitetskrav, gjorde hoveddelen av implementeringen og støttet innføring i en bred interessentkontekst. Det svarer på arbeidsgiverens usikkerhet om han kan gjøre komplekse endringsambisjoner konkrete uten å miste kontroll eller kontinuitet.",
+      "claim_ceiling": "Ikke kall ham eier av budsjettprosessen, program-/prosjektleder eller eier av hele moderniseringen. Omtrent 50 personer er prosesskontekst, ikke hans team eller personalansvar. Ingen kvantifisert tids-, feil- eller økonomisk effekt.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Bærende metode- og gevinstbevis: vise at han i en firepersonersgruppe medutviklet, analyserte og standardiserte en gevinstrealiseringsmetodikk som ble innført som sykehusstandard og var aktiv om lag 2,5 år senere. Det svarer på Tolletatens behov for å operasjonalisere gevinster og forene ulike faglige perspektiver i en varig arbeidsform.",
+      "claim_ceiling": "Bevar firepersoners samskaping. Ikke påstå metodeeierskap, hovedansvar, eksakt godkjenningsløp, personlig effekt eller målte gevinster.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "role": "Konkretisere prosesslederadferden bak hovedcasene: ansvar og avhengigheter, prioritering og WIP, beslutningsbehov, workshopfasilitering og strukturerte inntaks-/akseptansekriterier. Brukes kort for å vise hvordan han skaper fremdrift og avklaring uten formell linjemyndighet.",
+      "claim_ceiling": "Skill mellom innførte og foreslåtte arbeidsformer. Ingen formell organisasjonsdesign-, program-, produkt- eller personalmyndighet og ingen virksomhetsomfattende utrulling av arbeidsinntaket.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#026-3-5-seniorradgiver-og-tverrfunksjonelle"
+      ],
+      "role": "Dokumentere det formelle masterkravet og gi faglig grunnlag for seniorrådgiverens analyse av offentlige beslutninger, insentiver, institusjoner og avveininger. Hører primært hjemme i CV-toppen og utdanningsdelen.",
+      "claim_ceiling": "Utdanningen etablerer ikke formell leder-, endrings- eller programkompetanse og skal ikke brukes som erstatning for praktisk prosessevidens.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ],
+      "role": "Dekke beslutnings- og ledelsesunderlag, mottakertilpasning og samhandling: han oversetter komplekst teknisk/økonomisk innhold til notater, oppsummeringer, dokumentasjon, workshops og presentasjoner for ledere, controllere, fagmiljøer og tekniske mottakere.",
+      "claim_ceiling": "Ikke tilskriv bestemte lederbeslutninger, opplæringseffekt, adopsjonsmål eller ekstern myndighetsdialog som kildene ikke dokumenterer.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen dokumentert formell rolle som programleder, endringsleder eller prosessleder for et flerårig program.",
+      "reframe": "Vis funksjonell prosessledelse gjennom konkrete handlinger: avgrense behov, strukturere ansvar og avhengigheter, prioritere, fasilitere, kontrollere endring og overlevere leveranser som tas i bruk.",
+      "honesty_note": "Ikke bruk stillingstitler eller mandat som kildene ikke etablerer; dette er den mest materielle forskjellen mellom erfaringen og Tolletatens rolle."
+    },
+    {
+      "objection": "Begrenset dokumentert erfaring med å fasilitere prosesser mellom egen virksomhet, næringsliv, sektormyndigheter og EU.",
+      "reframe": "Fremhev kompleks offentlig organisasjon, tverrfaglige/interne organisasjonsflater, interessenttilpasning og trygg oversettelse mellom virksomhet og teknologi som en relevant overgangsbase.",
+      "honesty_note": "Ikke antyd at OUS-arbeidet omfattet de eksterne aktørgruppene annonsen nevner."
+    },
+    {
+      "objection": "Den sterkeste gjennomføringserfaringen er teknisk og analyse-/økonominær, ikke et rent organisasjonsutviklingsløp.",
+      "reframe": "La teknologien være mekanismen, mens argumentet handler om arbeidsprosess, beslutningsstruktur, kontroll, onboarding og faktisk bruk i en kritisk virksomhetsprosess.",
+      "honesty_note": "Unngå at verktøydetaljer fortrenger arbeidsgiverens prosess- og endringsproblem."
+    },
+    {
+      "objection": "Det er ikke dokumentert formell eskaleringsmyndighet eller ansvar for å følge beslutninger gjennom flere organisatoriske nivåer.",
+      "reframe": "Bruk dokumentert ansvar for avklaringer, fremdrift, avhengigheter, beslutningsunderlag og neste handling som bevis på relevant arbeidsmåte.",
+      "honesty_note": "Ikke gjør funksjonell koordinering til linje- eller programmyndighet."
+    }
+  ],
+  "motivation_bridge": "Fremtidens tollbehandling kombinerer et samfunnskritisk oppdrag med den typen krevende overgang Vegard er motivert av: strategiske ambisjoner må brytes ned til avklaringer, beslutninger, ansvar, kontroller og arbeidsformer som faktisk virker på tvers av fag og organisasjon. Erfaringen fra OUS gir en troverdig kobling til offentlig kompleksitet, styrt endring og gevinstorientering, samtidig som rollen gir en meningsfull mulighet til å bruke denne arbeidsformen i en større aktør- og programkontekst.",
+  "cv_direction": {
+    "headline_direction": "Samfunnsøkonom | Prosessforbedring, styring og digitalisering",
+    "emphasis": [
+      "Plasser master i samfunnsøkonomi, offentlig OUS-kontekst og funksjonell prosessledelse i toppsonen før teknologi.",
+      "Gi budsjetteringsmoderniseringen første prioritet under nåværende rolle: kritisk arbeidsprosess, bred interessentkontekst, hovedansvar for kodeendringer, kontrollert gjennomføring, onboarding og sykehusdekkende bruk.",
+      "Vis gevinstrealiseringsrammeverket som teamlevert metodikk med varig sykehusdekkende innføring.",
+      "Ta med workshopfasilitering, ansvar-/avhengighetsstruktur, beslutningsunderlag og mottakertilpasset kommunikasjon som skannbare prosessledersignaler.",
+      "Bruk verktøy selektivt som bevis på gjennomføring og kontroll; ikke la BI, KI eller programmering definere kandidaten."
+    ],
+    "deprioritize": [
+      "Detaljert BI-backend, prognosemodeller og KI-studiet som identitetsbærer.",
+      "Eldre operative roller utover den korte kronologien.",
+      "Tekniske implementasjonsdetaljer som ikke forklarer prosess, risiko, forankring eller bruk."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Fra uoversiktlige, tverrgående behov til styrt endring som kan brukes: vis først kontrollert modernisering av en kritisk arbeidsprosess, og bruk gevinstmetodikk samt ansvar-/avhengighetsstruktur til å forklare hvordan Vegard skaper avklaringer, fremdrift og forankring uten å påstå formelt programmandat.",
+    "top_employer_problems": [
+      "Gjøre programmets strategi og ambisjoner om til konkrete arbeidsprosesser, ansvar og leveranser.",
+      "Skape avklaring og fremdrift når mange fagmiljøer, avhengigheter og beslutninger må henge sammen.",
+      "Koble endring til beslutningsgrunnlag, gevinstrealisering, risiko og varig bruk."
+    ],
+    "structure_guidance": "Åpne med Tolletatens gjennomføringsproblem og Vegards prosess-/styringsidentitet. La moderniseringscaset vise gjennomføring og kontroll, ikke kodeprestasjon. Bruk gevinstrealiseringsrammeverket som et kort, selvstendig bevis på felles metode og varighet. Integrer workshop-, avhengighets- og beslutningsstruktur som arbeidsmåte, og avslutt med hvorfor samfunnskritisk vareflyt og aktørsamarbeid er en meningsfull neste anvendelse av denne erfaringen."
+  },
+  "avoid_guidance": [
+    "Ikke bruk «programleder», «endringsleder» eller «prosesseier» som kandidatidentitet; kildene støtter funksjonell ledelse og faglig pådriverrolle.",
+    "Ikke fremstå omtrent 50 deltakere/interessenter som et team Vegard ledet eller som dokumentasjon på personalansvar.",
+    "Ikke antyd erfaring med EU, næringsliv eller sektormyndigheter fra OUS-prosjektene.",
+    "Ikke gjør sykehusdekkende bruk av budsjetteringsverktøyet til målt effekt, budsjetteierskap eller eierskap til hele moderniseringen.",
+    "Ikke gjør firepersoners medutvikling av gevinstmetodikken til personlig metodeeierskap eller dokumenterte realiserte gevinster.",
+    "Ikke la teknologistakk eller pågående KI-utdanning skyve prosess, styring og endringsgjennomføring ut av toppsonen."
+  ],
+  "counterfactual_route": {
+    "identity": "Samfunnsøkonom og rådgiver for gevinstrealisering, beslutningsstøtte og styrt endring",
+    "rationale": "Hvis final writer vurderer gapet i formell prosess-/programledelse som for stort for hovedruten, kan pakken snevres inn rundt Tolletatens behov for gevinstrealisering, beslutningsunderlag og endringsrisiko. Det gir en skarpere og svært godt dokumentert økonomi-/styringsrute, men dekker fasilitering og programfremdrift svakere.",
+    "evidence_refs": [
+      "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+      "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+      "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+    ]
+  },
+  "risk_notes": [
+    "Hovedruten er selektiv fordi minstekravet om solid erfaring med komplekse tverrgående prosesser er støttet funksjonelt, men ikke gjennom en formell program- eller prosesslederrolle.",
+    "Ekstern aktørbredde mot næringsliv, andre myndigheter og EU er ikke dokumentert og må forbli et synlig gap.",
+    "Den tekniske tyngden kan feilklassifisere kandidaten som BI-/utviklerspesialist dersom CV-toppen ikke eksplisitt prioriterer prosess, styring, interessenter og innføring.",
+    "Politiattest er et eksplisitt tiltredelsesvilkår, men atteststatus er ukjent i kandidatmyndighetene."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-01",
+      "plain_language_label": "Systemkartlegging og nedbryting av komplekse sammenhenger",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "expression_ceiling": "Kan fremstilles som en dokumentert arbeidsmåte for å kartlegge behov, aktører, ansvar, avhengigheter, risiko og beslutningsbehov og omsette dette til prioriterte arbeidssteg; ikke som allmenn organisatorisk ekspertise eller programmyndighet.",
+      "vacancy_relevance": "Tolletaten etterspør nettopp rask orientering i komplekse sammenhenger og evne til å gjøre avhengigheter og beslutninger håndterbare.",
+      "intended_employer_interpretation": "Han kan skape en lesbar beslutnings- og gjennomføringsstruktur når problem, aktørbilde og ansvar ennå er uklart.",
+      "misread_risk": "Kan oppfattes som analytisk eller prosessorientert uten tilstrekkelig fremdrift og levering.",
+      "expression_guardrail": "Knytt alltid arbeidsmåten til moderniseringsleveransen i sykehusdekkende bruk eller en annen konkret gjennomført leveranse."
+    },
+    {
+      "facet_id": "PF-09",
+      "plain_language_label": "Presis og evidensbasert kommunikasjon",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ],
+      "expression_ceiling": "Kan fremstilles som evne til å oversette teknisk og økonomisk kompleksitet til beslutningsnotater, oppsummeringer, dokumentasjon, workshops og presentasjoner tilpasset ulike mottakere; ikke som universell kommunikasjonsevne eller dokumentert påvirkning på bestemte beslutninger.",
+      "vacancy_relevance": "Rollen krever norsk formidling, konstruktiv utfordring og beslutningsunderlag på tvers av fagmiljøer og nivåer.",
+      "intended_employer_interpretation": "Han kombinerer tydelighet og faglig presisjon med evne til å tilpasse innholdet til ledere, controllere, fagpersoner og tekniske mottakere.",
+      "misread_risk": "Presisjon kan leses som for teknisk, detaljert eller direkte i en relasjonstung endringsrolle.",
+      "expression_guardrail": "Vis mottakertilpasning, workshopfasilitering og kompetanseoverføring sammen med presisjonen; unngå abstrakt selvkarakteristikk."
+    }
+  ],
+  "writer_guidance": "Skriv Tolletaten-pakken som en gjennomføringshistorie, ikke som et teknologisk karriereskifte. Den viktigste integrerte bevisenheten er moderniseringen av en kritisk budsjettarbeidsflyt: kompleksitet og interessentkontekst, Vegards personlige hovedbidrag til implementeringen, kontrollene som beskyttet driften, onboarding og dokumentert bruk. Gevinstrealiseringsrammeverket skal være et separat, kort bevis på felles metodeutvikling og varighet. Prosessarkitektur, workshops og beslutningsstruktur forklarer hvordan han arbeider, men skal ikke bli et tredje fullverdig case. Legg gapet i formelt programmandat og eksternt myndighets-/næringslivsgrensesnitt i review og la selve teksten holde seg til presise positive handlinger.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260920-212518-413d77",
+    "job_id": "tolletaten_seniorradgiver_prosessledelse_endring",
+    "employer": "Tolletaten",
+    "title": "Seniorrådgiver - Prosessledelse og endring",
+    "manifest_sha256": "f714a66a517b08a5e8c679c9ce3af8c88cb77a910d69f846031958a96b2ec853",
+    "vacancy_sha256": "869ca3f58b260886f65417a7f4736ef0bae3a62d3dfa44bdf614adeb4f0e9fab",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

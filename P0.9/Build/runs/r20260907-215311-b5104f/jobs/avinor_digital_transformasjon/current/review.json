@@ -1,0 +1,44 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Den største utvalgsrisikoen er at ansvaret er prosjektvist og funksjonelt, mens rollen ligger nær konsernnivå. Pakken bruker gjennomgående funksjonelt språk (hovedansvar for kodeendringene, medutvikler, utformet, deltok) og hevder ingen portefølje-, program- eller linjemyndighet.",
+      "recommended_action": "Ingen tekstendring gjenstår. Vær forberedt på å beskrive påvirkning uten mandat konkret i intervju."
+    },
+    {
+      "priority": 2,
+      "reason": "Annonsen ber om målbar verdi av digitale initiativer. Kildene dokumenterer metode, beslutningskvalitet, implementering og bruk, men ingen kvantifisert eller realisert gevinst, og pakken påstår ingen.",
+      "recommended_action": "Ikke legg til beløp, ROI, tidsbesparelse eller feilreduksjon ved gjennomlesing. Har du godkjente målinger, må de inn i Work_experience.md §8 først."
+    },
+    {
+      "priority": 3,
+      "reason": "Avinor gjennomfører bakgrunnssjekk og kan kreve sikkerhetsklarering for enkelte oppgaver. Kildene sier ingenting om nåværende klarering, og pakken berører det ikke.",
+      "recommended_action": "Avklar for deg selv at bakgrunnssjekk er greit før du sender. Ingen endring i dokumentene."
+    }
+  ],
+  "known_limitations": [
+    "Ingen formell portefølje-, program-, produkt- eller linjelederrolle er dokumentert. Ledelsesevidensen er funksjonell og teknisk, på prosjekt- og avdelingsnivå.",
+    "Ingen kvantifiserte eller realiserte gevinster foreligger for noen av de valgte leveransene.",
+    "STE-modellen er ferdigstilt og overlevert til controllere. Implementering per gren, endelige vekter, organisatorisk bruk og realiserte gevinster er uavklart, og pakken påstår ingen av delene.",
+    "Individuell fordeling av bidrag i det firepersoners gevinstrealiseringsarbeidet er uavklart; teamrammen står eksplisitt.",
+    "Ingen luftfartsfaglig erfaring. Overføringen bygger på kompleks, regulert og driftskritisk virksomhet, ikke på domenelikhet, og militærtjenesten er ikke brukt som luftfartsnærhet.",
+    "Plattformarbeidet med Fabric, Power Platform, dbt og Pega er utforskende og pilotnært; ingen plattformeierskap, adopsjonsledelse eller produksjonsdataengineering.",
+    "Formell tittel er Rådgiver Økonomi og IKT. Senioritet er vist gjennom omfang og skjønn, ikke gjennom tittel.",
+    "Bakgrunnssjekk og eventuell sikkerhetsklarering er eksterne og betingede forhold som ikke kan forhåndsbekreftes."
+  ],
+  "material_strategy_change": "Strategiens rute er beholdt, med tre materielle valg utover den. For det første er teknologivurderingen inne i budsjetteringsmoderniseringen (VBA, Office Scripts, Python og KI-støttede alternativer vurdert mot kompatibilitet, driftsrisiko og vedlikeholdbarhet) løftet inn i brevet; strategien beskrev PRJ-03 som implementeringsbevis uten å bruke den vurderingen, mens den er den mest direkte evidensen for annonsens punkt om forståelse for hvordan teknologi skaper forretningsverdi. For det andre er PRJ-07 (plattformpiloter og vurdering av muligheter mot konkrete driftsbegrensninger) og PRJ-09 (arbeidsinntak, krav og samhandlingsverktøy) tatt inn i CV-en selv om de ikke sto i evidensplanen, fordi annonsens punkter om arbeidsformer og teknologiforståelse ellers ville hvilt på arbeidsmodellen alene. For det tredje er Luftforsvaret ikke overstyrt selv om strategiens employment_focus nevnte den: baseline-punktet står nøytralt, i tråd med strategiens eget forbud mot å bruke tjenesten som luftfartsnærhet. Prognosearbeidet er nedprioritert i denne pakken, i motsetning til den andre pakken i klyngen, fordi Avinor ikke etterspør prognoseeierskap.",
+  "upstream_claim_repaired": null,
+  "notes": [
+    "Søknadsfrist 13.09.2026. Arbeidsspråk norsk. Stillingen er i offentlig sektor, og Avinor følger offentlighetsloven; reservasjon fra søkerlisten må begrunnes.",
+    "Ingen upstream-påstand krevde reparasjon i noen retning for denne jobben; strategiens claim-tak holdt mot kildene, og ingen påstand er hevet eller senket i forhold til dem.",
+    "Klyngevariasjon mot Huseierne-pakken: annen åpning, annet arbeidsgiverproblem, motsatt rekkefølge på gevinstrealisering og verdimodell, annen motivasjon og andre CV-toppsignaler. De delte fakta (PRJ-03, PRJ-04, PRJ-06) er formulert ulikt i de to pakkene.",
+    "Alle tallverdier er hentet fra godkjente måltall i Work_experience.md §8. Tallene om 43 lufthavner og flysikringstjenesten er arbeidsgiverfakta fra annonsen."
+  ],
+  "binding": {
+    "run_id": "r20260907-215311-b5104f",
+    "job_id": "avinor_digital_transformasjon",
+    "final_package_sha256": "c403fcc0648623090099f3f3204e82c1e42a1f47104bc2b9e9a4969a30013cd2"
+  }
+}

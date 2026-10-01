@@ -1,0 +1,253 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/advocacy_draft.schema.json",
+  "title": "Advocacy layer",
+  "description": "Stage 2 (ADVOCATE). The persuasion specialist's layer. For letter delivery it writes the letter; for CV-only delivery it returns letter null and strengthens the CV instead, plus any form answers. Keystones name the sentences whose argument function must survive editing.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "binding",
+    "letter",
+    "keystones",
+    "used_evidence_refs"
+  ],
+  "properties": {
+    "artifact_role": {
+      "const": "ADVOCACY_LAYER"
+    },
+    "binding": {
+      "type": "object",
+      "description": "Written by the tool at submit.",
+      "additionalProperties": false,
+      "required": [
+        "run_id",
+        "job_id",
+        "employer",
+        "title",
+        "evidence_fingerprint",
+        "policy_fingerprint",
+        "inputs"
+      ],
+      "properties": {
+        "run_id": {
+          "type": "string",
+          "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}(?:/branches/[a-z0-9][a-z0-9_-]{0,31})?$"
+        },
+        "job_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$"
+        },
+        "employer": {
+          "type": "string",
+          "minLength": 2
+        },
+        "title": {
+          "type": "string",
+          "minLength": 2
+        },
+        "evidence_fingerprint": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "What this stage consumed as fact: frozen authorities, evidence index, baseline map, CV baseline, this vacancy and the upstream artifacts. Staleness is this hash recomputed."
+        },
+        "policy_fingerprint": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "Playbook plus consumed writing policy. Provenance only; a policy edit never invalidates an artifact."
+        },
+        "inputs": {
+          "type": "object",
+          "description": "Upstream artifact name -> artifact hash.",
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          }
+        }
+      }
+    },
+    "letter": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "opening": {
+              "type": "string",
+              "minLength": 1
+            },
+            "body_paragraphs": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 1
+            },
+            "closing": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "opening",
+            "body_paragraphs",
+            "closing"
+          ]
+        }
+      ],
+      "description": "null when the brief's delivery is CV_ONLY."
+    },
+    "cv": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "headline": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 70,
+          "description": "One rendered line, a function not a list. Uppercased at render."
+        },
+        "profile": {
+          "type": "string",
+          "minLength": 1
+        },
+        "competencies": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "employment_overrides": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "employment_id": {
+                "type": "string",
+                "pattern": "^EMP_[A-Z0-9_]+$"
+              },
+              "bullets": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "minItems": 0
+              }
+            },
+            "required": [
+              "employment_id",
+              "bullets"
+            ]
+          },
+          "minItems": 0,
+          "description": "Keyed by baseline employment_id. A present override fully replaces that employment's bullets; an empty array renders none."
+        },
+        "tools_line": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Optional VERKTOY line, so tool lists leave the bullets."
+        }
+      },
+      "description": "Replacement fields only: a present field replaces, an absent field inherits, an empty array clears."
+    },
+    "form_answers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "type": "string",
+            "minLength": 1
+          },
+          "answer": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "question",
+          "answer"
+        ]
+      },
+      "minItems": 0
+    },
+    "keystones": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^K[0-9]$"
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1
+          },
+          "document": {
+            "enum": [
+              "LETTER",
+              "CV"
+            ]
+          },
+          "function": {
+            "enum": [
+              "JUDGMENT",
+              "EMPLOYER_FACT",
+              "GAP_TURN",
+              "TRACK_CHOICE",
+              "MOTIVE",
+              "CLOSE"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "text",
+          "document",
+          "function"
+        ]
+      },
+      "minItems": 0,
+      "maxItems": 4
+    },
+    "used_evidence_refs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "outside_brief_refs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+      },
+      "minItems": 0
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0
+    }
+  }
+}

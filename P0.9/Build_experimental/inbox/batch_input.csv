@@ -1,0 +1,3 @@
+job_id,employer,title,job_class,cluster,sequence,priority,source,unit,reference,deadline,exception_note
+huseierne_strategi_maalstyring,Huseiernes Landsforbund,Strategi- og målstyringsrådgiver,CORE,pilot_live_smoke,1,HIGH,vacancies/huseierne_strategi_maalstyring.pdf,Avdeling for virksomhetsstyring,,,,
+avinor_digital_transformasjon,Avinor AS,Seniorrådgiver Digital Transformasjon,CORE,pilot_live_smoke,2,NORMAL,vacancies/avinor_digital_transformasjon.pdf,Digital Transformasjon,,2026-09-13,,

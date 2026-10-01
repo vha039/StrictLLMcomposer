@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260930-205539-9bd8f0",
+  "job_id": "ey_konsulent_digital_health",
+  "employer": "EY",
+  "title": "Konsulent Digital Health",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "edfea1ea60f2dbf86f446f244cf46782deee3582f9812d2dca5be66b14388877",
+  "upstream": {
+    "strategy_sha256": "b3f26a5dc21ef6f029d842dd01cdab6d962fdc682e7f8eba20100a254379fef6"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "known_limitations": [
+    "Kandidatkildene dokumenterer prosjekt- og metodearbeid, men ikke formelt ansvar for konsernportefølje, transformasjonsprogram eller strategiske beslutningsfora.",
+    "De valgte leveransene dokumenterer innføring, bruk, ferdigstillelse og metodearbeid, men ikke målte økonomiske effekter eller realiserte gevinster som kan tilskrives kandidaten.",
+    "Luftfartens drifts- og sikkerhetskontekst er ny for kandidaten. Utfallet av eventuell bakgrunnssjekk, adgangsgodkjenning eller sikkerhetsklarering er ikke dokumentert."
+  ],
+  "material_strategy_change": "Strategiens bredere CV-rute er komprimert ved å utelate KI-arbeid og tverrorganisatorisk Power BI-kompetanseoverføring. Finalen prioriterer gevinststandard, etterprøvbar proxy-modell, budsjettmodernisering og arbeidsform fordi disse samlet gir høyere beslutningsverdi for Avinors kombinasjon av verdi, prioritering og gjennomføring.",
+  "notes": [
+    "Pakken bruker Avinors verdi- og gjennomføringsoppgave som arbeidsgiverspesifikk ramme og gjør ikke sykehus- eller forsvarserfaring til luftfartsfaglig erfaring.",
+    "Triage gjelder gjenstående reparasjonsomfang. Normal menneskelig gjennomlesning og godkjenning gjenstår."
+  ],
+  "reasons": [
+    {
+      "reason": "CV og søknad har en tydelig rådgiveridentitet og prioriterer to kildestøttede bevisfunksjoner: gevinst- og beslutningsarbeid samt kontrollert digital gjennomføring.",
+      "recommended_action": "Gjør ordinær menneskelig gjennomlesning av den ferdige pakken.",
+      "priority": 1
+    },
+    {
+      "reason": "Personlig bidrag, teamramme, lifecycle og manglende effektmåling er avgrenset i teksten. Ingen kjent materiell faktareparasjon gjenstår.",
+      "recommended_action": "Behold de presise ansvars- og resultatgrensene ved eventuell språklig justering.",
+      "priority": 2
+    },
+    {
+      "reason": "Det reelle gapet mot konsernportefølje- og programansvar er ikke forsøkt skjult eller oppgradert. Gapet krever arbeidsgivers helhetsvurdering, ikke en lokal tekstendring.",
+      "recommended_action": "Vurder gapet som del av ordinær godkjenning og eventuell intervjuforberedelse.",
+      "priority": 3
+    }
+  ],
+  "triage": "READY",
+  "upstream_claim_repaired": null,
+  "binding": {
+    "run_id": "r20260908-154257-0fa53b/branches/stage3_opt1_20260909T155607Z",
+    "job_id": "avinor_digital_transformasjon",
+    "final_package_sha256": "626795d7fcd4dafa68af62bfe035d58bcc19ca570d59bffd28703b5771d847d0"
+  }
+}

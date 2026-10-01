@@ -1,0 +1,84 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver økonomi og IKT | Prosess, dataflyt og løsningsvurdering",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus. Arbeider mellom fagmiljøene som skal bruke løsningene og det tekniske arbeidet med å lage dem: kartlegger arbeidsflyter, datastrømmer og avhengigheter, gjør kostnader, gevinster og forutsetninger synlige, og omsetter behov til løsninger som tas i bruk. Har blant annet videreutviklet sykehusets budsjetteringsverktøy i en prosess med om lag 50 involverte og utformet en modell for gevinstfordeling ved investeringer i steril logistikk.",
+    "competencies": [
+      "Kartlegging av arbeidsprosesser, systemer og avhengigheter",
+      "Dataflyt, integrasjon og datamodellering",
+      "Behovsavklaring, krav og akseptansekriterier",
+      "Kostnads- og gevinstlogikk i beslutningsgrunnlag",
+      "Vurdering av løsningsalternativer mot risiko og vedlikehold",
+      "Workshops, fasilitering og kompetanseoverføring",
+      "Brukertester og forbedring i avgrensede runder",
+      "Excel/VBA, Power BI, Power Query, SQL, R og Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Videreutviklet sykehusets arvede budsjetteringsverktøy i Excel/VBA, om lag 20 år gammelt, i en prosess med om lag 50 involverte. Rekonstruerte arkitekturen fra kildekode, formler og navngitte områder, integrerte ansatt-, ansettelses- og bemanningsdata som tidligere ble kopiert manuelt, og var i praksis eneste utvikler av kodeendringene.",
+          "Vurderte VBA, Office Scripts og Python mot kompatibilitet, driftsrisiko og vedlikehold, og gjennomførte endringene som kontrollert refaktorering funksjon for funksjon med differansekontroll, akseptansekriterier, risikoregister og opplæring av controllere. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026 og er i bruk i budsjettprosessen for 2027.",
+          "Gjorde om et oppdrag om klinikkvis gevinstfordeling for steril logistikk til en modell med vektede indirekte indikatorer da direkte bruksdata ikke bar fordelingen. Strukturerte driftsmessige, økonomiske og kvalitetsmessige virkninger på klinikk- og sykehusnivå i fire grenmodeller og én konsolideringsmodell, med synlige og justerbare forutsetninger. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Videreutviklet sykehusets metodikk for gevinstrealisering og estimering i et team på fire. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Deltok i gruppen på fire som etablerte Analyseavdelingen. Bidro med forslag til teamstruktur, ansvar og avhengigheter, utformet Scrum/Kanban- og WIP-strukturer og samhandlingsflater i Loop, og planla og holdt workshops.",
+          "Utformet strukturerte spørreskjemaer for nye oppdrag med formål, brukere, beslutningsbehov, avhengigheter, risiko og akseptansekriterier, og vurderte Forms-, Loop-, Power BI- og lavkodealternativer for inntak og samhandling.",
+          "Utviklet nesten hele datamodellen og det meste av Power Query- og DAX-logikken i avdelingens styringsdashbord for økonomi, bemanning og aktivitet, der kolleger ledet innhold og visualisering. Gjennomførte tester med faktiske brukere og forbedret løsningen i avgrensede runder. Dashbordet ble avviklet rundt februar 2026.",
+          "Lærte bort Power BI og semantisk modellering til teknisk personell i en annen organisasjon, og deltok i piloter og utforskning av Fabric, Power Platform, dbt og Pega vurdert mot sykehusets rammer."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, med periodisering, avstemming, resultatforklaring og selvstendig rapportering til klinikkens ledere.",
+          "Koblet data fra blant annet JIT, ADI, REGERP, GAT, lønnsgrunnlag og DRG-rapporter, og dokumenterte arbeidssteg og kontroll- og valideringslogikk i arvede rapporteringsarbeidsbøker.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Da jeg skulle fordele gevinstene av en investering i steril logistikk på sykehusets klinikker, ble det avgjørende spørsmålet om datagrunnlaget i det hele tatt bar en slik fordeling. Det gjorde det ikke, og svaret ble en annen løsning enn den som var bestilt. Jeg er samfunnsøkonom og rådgiver økonomi og IKT ved Oslo universitetssykehus, og arbeidet mitt ligger mellom fagmiljøene som skal bruke løsningene og det tekniske arbeidet med å lage dem. Derfor søker jeg stillingen som Business Designer i BI Digital.",
+    "body_paragraphs": [
+      "I stedet for å presentere indirekte tall som observert bruk, gjorde jeg oppdraget om til en fordelingsmodell basert på vektede indikatorer. Jeg strukturerte virkningene i driftsmessige og økonomiske effekter, kvalitet og robusthet, unngåtte kostnader og belastning som flyttes mellom enheter, både på klinikk- og sykehusnivå, og delte modellen i fire grenmodeller og én konsolidering. Kjernen er bygget uten VBA, slik at controllere og fageiere kan se og justere forutsetninger og vekter uten å være avhengige av en utvikler. Modellen skal støtte valg om lager, utstyr og automatisering, og ble ferdigstilt og overlevert til controllere tidlig i 2026.",
+      "Kartlegging av et systemlandskap har jeg gjort i praksis med budsjetteringsverktøyet sykehuset bruker i budsjettprosessen, et arvet Excel/VBA-verktøy på om lag 20 år. Logikken lå spredt i formler, navngitte områder, VBA og kopier av arbeidsbøker, og bemanningsdata måtte kopieres manuelt inn fra en annen arbeidsbok. Jeg rekonstruerte arkitekturen fra kildekode og formler, og vurderte VBA, Office Scripts og Python opp mot kompatibilitet, driftsrisiko og vedlikehold. Om lag 50 personer deltok i arbeidsgrupper og kravarbeid, og jeg gjorde i praksis alle kodeendringene. Jeg anbefalte en bredere omstrukturering, mens gjennomføringsleder valgte en smal refaktorering funksjon for funksjon. Den gjennomførte jeg med differansekontroll, akseptansekriterier og risikoregister. Verktøyet med integrerte bemanningsdata ble brukt i hele sykehuset i budsjettprosessen for 2026 og er i bruk for 2027.",
+      "Dette arbeidet skjer sammen med folk som ser problemet fra ulike ståsteder. Jeg var med i gruppen på fire som etablerte Analyseavdelingen, bidro med forslag til teamstruktur, ansvar og avhengigheter, og har planlagt og holdt workshops. Jeg har utformet spørreskjemaer for nye oppdrag som får fram formål, brukere, beslutningsbehov, avhengigheter og akseptansekriterier før noe bygges. I avdelingens styringsdashbord, der jeg laget nesten hele datamodellen, testet jeg løsningen med faktiske brukere, observerte hva som skapte forvirring og forbedret den i korte runder. Jeg har også lært bort semantisk modellering og Power BI til teknisk personell i en annen organisasjon."
+    ],
+    "closing": "Det som trekker meg mot stillingen, er at dere kobler prosessdesign og dataflyt med en forretningsmessig vurdering av kostnader, gevinster og om en løsning bør bygges. Min erfaring er fra et sykehus og ikke fra en tittel som business designer, men mye av arbeidsformen er den samme: kartlegge hvordan arbeid og data faktisk flyter, gjøre forutsetningene synlige og lage noe som fagmiljøene kan bruke og vedlikeholde. Det vil jeg gjerne gjøre sammen med produktområdelederne i BI Digital, og jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt"
+  ],
+  "writer_note": "Route kept as business-technology bridge, but carrying evidence changed: STE proxy model now leads as business-design judgment (whether and how to build, costs/benefits, designed inspectability), PRJ-03 carries system mapping and delivery under constraint. PRJ-08/09 and PRJ-01 user tests moved to a supporting facilitation paragraph with design/proposal status kept. No lean canvas, product-method or service-design claim.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-13",
+    "finalized_at": "2026-09-13T21:33:43Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "bi_business_designer",
+    "employer": "Handelshøyskolen BI Digital",
+    "title": "Business Designer",
+    "manifest_sha256": "d68a8bf0c96a0df58fcded9772503c06957c162c9f4762a03f049228eb60dc77",
+    "vacancy_sha256": "ae360e2f29ba0b0a93e0f58b99803276520e4d8681bd9f5caf708900b8f17678",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "3b29e4540213373d6c7020e0d26818cd01da612755379dbf320727452fefe9d3",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "4c9be728ace1f9237f954cc9322265f2f48e1e5e50897c189140012c7d17355c"
+  }
+}

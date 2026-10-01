@@ -1,0 +1,126 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260828-213932-7f13b4",
+    "job_id": "avinor_digital_transformasjon",
+    "final_package_sha256": "0e5c24c8a644d58746e6845fb67bfdf1ddb0d1edc5b09bca60fa15a1cf15ebb9",
+    "document_date": "2026-08-29",
+    "baseline_map_sha256": "3e5e8bdfe53f2e01b5399afe22930ab37d57eab8e6840b0958a40a6b0e1e04bf",
+    "cv_master_sha256": "80a41a751eb5bc11379a1bcd93b5e2f21f95ec84ad668a6f003cad81d1d7096a",
+    "letter_master_sha256": "aff96d15b7e11930d9ac790a983c79158a2573d6a023a2211b288ff4510c7c26",
+    "template_map_sha256": "a6d6297eb2cd49e924e8edeeccb33259e1ce434775c1bec0cbf27a84ecbbb7eb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": null
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "DEGRADED",
+    "letter_docx": "OK",
+    "letter_pdf": "DEGRADED",
+    "overall": "DEGRADED"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260828-213932-7f13b4\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+      "output_sha256": "56242331358562963dbfb0d609bfe1ce7dbbffaffb09934da55477006573c94f",
+      "bytes": 39992,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "DEGRADED",
+      "output_path": null,
+      "output_sha256": null,
+      "bytes": null,
+      "promotion": null,
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_5ew4l_rc\\export.ps1 C:\\Users\\veggi\\AppData\\Local\\Temp\\.jb-avinor_digital_t.c46xbxm0\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx C:\\Users\\veggi\\AppData\\Local\\Temp\\.jb-avinor_digital_t.c46xbxm0\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf",
+      "tool_version": null,
+      "exit_code": 1,
+      "diagnostics": [
+        "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_5ew4l_rc\\export.ps1 : Retrieving the COM class factory for component with ",
+        "Word COM export returned exit code 1."
+      ],
+      "page_count": null,
+      "checks": {},
+      "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+      "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF.",
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260828-213932-7f13b4\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+      "output_sha256": "bb69aacdad19fe8fcbc0f2c00a4d890a5eb0d49a01216fde43a6ef217c346267",
+      "bytes": 38481,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "DEGRADED",
+      "output_path": null,
+      "output_sha256": null,
+      "bytes": null,
+      "promotion": null,
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_h2btudn2\\export.ps1 C:\\Users\\veggi\\AppData\\Local\\Temp\\.jb-avinor_digital_t.c46xbxm0\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx C:\\Users\\veggi\\AppData\\Local\\Temp\\.jb-avinor_digital_t.c46xbxm0\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf",
+      "tool_version": null,
+      "exit_code": 1,
+      "diagnostics": [
+        "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_h2btudn2\\export.ps1 : Retrieving the COM class factory for component with ",
+        "Word COM export returned exit code 1."
+      ],
+      "page_count": null,
+      "checks": {},
+      "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+      "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF.",
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-08-29T08:46:13Z"
+}

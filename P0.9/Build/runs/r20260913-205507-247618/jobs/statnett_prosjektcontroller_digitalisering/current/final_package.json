@@ -1,0 +1,80 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom | Økonomioppfølging, budsjett og prognoser",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus. Har arbeidet operativt med månedsoppgjør, resultatforklaring, budsjett og prosjektøkonomi i en klinikkstab, og videreutviklet budsjetteringsverktøyet som brukes i hele sykehusets budsjettprosess. Kombinerer økonomifaglig kontroll med praktisk utvikling av verktøy og modeller, og tar med avstemming, dokumentasjon og opplæring av brukerne i leveransen.",
+    "competencies": [
+      "Budsjettarbeid, prognoser og resultatforklaring",
+      "Månedsoppgjør: periodisering, avsetninger og avstemming",
+      "Prosjektøkonomi: oppfølging, fakturering og avslutning",
+      "Økonomiske analyser og beslutningsgrunnlag med synlige forutsetninger",
+      "Kvalitetssikring, kontroller og validering",
+      "Videreutvikling av økonomiverktøy og arbeidsprosesser",
+      "Rapportering til ledere og opplæring av controllere",
+      "Excel/VBA, Power BI, Power Query, SQL, R og Stata"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Videreutviklet sykehusets arvede budsjetteringsverktøy i Excel/VBA, om lag 20 år gammelt, i en prosess med om lag 50 involverte. Integrerte ansatt-, ansettelses- og bemanningsdata som tidligere måtte kopieres manuelt fra en annen arbeidsbok, og var i praksis eneste utvikler av kodeendringene.",
+          "Gjennomførte endringene som kontrollert refaktorering funksjon for funksjon, der om lag 80 prosent bevarte eksisterende atferd, med differansekontroll, akseptansekriterier og risikoregister. Laget opplærings- og presentasjonsmateriell for controllere. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026 og er i bruk i budsjettprosessen for 2027.",
+          "Utformet en investerings- og gevinstfordelingsmodell for steril logistikk da direkte bruksdata ikke bar en forsvarlig fordeling per klinikk: vektede indikatorer, synlige og justerbare forutsetninger og kontroller for umappede rader og skjemaavvik. Modellen ble ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Videreutviklet sykehusets metodikk for gevinstrealisering og estimering i et team på fire, med bidrag til forskningsgrunnlag, metode og økonomisk analyse. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Utviklet nesten hele den semantiske modellen, det meste av Power Query-logikken og om lag 80 til 90 prosent av DAX-beregningene i avdelingens styringsdashbord for økonomi, bemanning og aktivitet, der kolleger ledet innhold og visualisering. Var eier og hadde månedlig drift fra om lag august 2025 til dashbordet ble avviklet rundt februar 2026."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring. Gjennomførte og kvalitetssikret etter hvert oppgjøret selvstendig og sendte månedsrapportene til klinikkens ledere.",
+          "Håndterte prosjektøkonomiske saker etter behov: oppfølging av prosjekter og ekstern finansiering, fakturering, frikjøp og lønnskostnader, overhead og prosjektavslutning.",
+          "Bidro i budsjettprosessen for 2024 med registrering av årsverk og kvalitetssikring av bemannings- og vaktgrunnlag, og bygget klinikkens budsjetthjelpeark.",
+          "Utarbeidet seksjonsvise DRG-prognoser med Stata, R og Power Query som ble brukt i klinikkens budsjett og planlegging.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg er samfunnsøkonom og rådgiver økonomi og IKT ved Oslo universitetssykehus. Jeg har arbeidet både i selve økonomiprosessen, med månedsoppgjør, budsjett og prosjektøkonomi, og med verktøyene den prosessen går gjennom. Den kombinasjonen er grunnen til at jeg søker stillingen som prosjektcontroller digitalisering, der budsjett, prognoser og faktisk forbruk skal følges opp tett sammen med prosjektledere og ledere.",
+    "body_paragraphs": [
+      "Min første plassering ved sykehuset var i staben til Barne- og ungdomsklinikken. Etter opplæringen overtok jeg gradvis månedsoppgjøret, og innen om lag tre måneder hadde jeg hele den tildelte flyten: periodisering, avsetninger, avstemming, feilsøk og resultatforklaring. Mot slutten gjennomførte og kvalitetssikret jeg oppgjøret selv og sendte månedsrapportene til klinikkens ledere. Samtidig tok jeg prosjektøkonomiske saker etter behov, som oppfølging av ekstern finansiering, fakturering, frikjøp og prosjektavslutning, og laget seksjonsvise DRG-prognoser som klinikken brukte i budsjett og planlegging.",
+      "I Analyseavdelingen har jeg videreutviklet budsjetteringsverktøyet sykehuset bruker i budsjettprosessen, et arvet Excel/VBA-verktøy som er om lag 20 år gammelt. Det viktigste i moderniseringen i 2025 var bemanningsdataene. De måtte før kopieres inn fra en annen arbeidsbok med mye manuelt arbeid, og nå er ansatt-, ansettelses- og bemanningsdata integrert i verktøyet. Om lag 50 personer deltok i arbeidsgrupper og kravarbeid, og jeg gjorde i praksis alle kodeendringene. Rammen var en smal refaktorering funksjon for funksjon, der om lag 80 prosent av endringene skulle bevare eksisterende atferd. Jeg kontrollerte dem med differansesammenligning, akseptansekriterier og et risikoregister, og laget opplæringsmateriell for controllerne. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026 og er i bruk i prosessen for 2027. Det er denne typen forbedring jeg vil ta med inn i arbeidet med metoder og verktøy i prosjekt- og produktøkonomi: enklere arbeid, uten at noen mister oversikten over hva tallene bygger på.",
+      "Å kvalitetssikre en økonomisk analyse handler ofte om hva datagrunnlaget faktisk bærer. Da gevinstene fra en investering i steril logistikk skulle fordeles på klinikkene, holdt ikke de direkte bruksdataene til en forsvarlig fordeling. Jeg gikk bort fra den direkte fordelingen og utformet i stedet en modell med vektede indirekte indikatorer, der forutsetninger og vekter er synlige og kan justeres av controllerne. Modellen ble ferdigstilt og overlevert til controllere tidlig i 2026."
+    ],
+    "closing": "Det som gjør stillingen aktuell for meg, er at økonomistyringen for prosjekter og produkter skal utvikles i takt med nye arbeidsformer, og at investeringene skal gi et mer robust kraftsystem. Jeg kan bidra med tett oppfølging av budsjett, prognoser og faktisk forbruk sammen med prosjektlederne, og med kontrollerte forbedringer i verktøyene som brukes. Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt"
+  ],
+  "writer_note": "Controller route kept, but BAR moved to first carrying unit because month close, result explanation and demand-driven project economics answer the controller minimum more directly than the tool case. PRJ-10 added for forecasting in budget use; PRJ-06 added as a short judgment unit for quality-assuring economic analyses. PRJ-04 kept CV-only. No portfolio, IT-contract or cost-estimation claim.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-13",
+    "finalized_at": "2026-09-13T21:29:46Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "statnett_prosjektcontroller_digitalisering",
+    "employer": "Statnett",
+    "title": "Prosjekt controller digitalisering",
+    "manifest_sha256": "d68a8bf0c96a0df58fcded9772503c06957c162c9f4762a03f049228eb60dc77",
+    "vacancy_sha256": "f81aece4c3d6f7b527a04e0256c96f37eebe44ecd198453be4755ca086bf1494",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "3b29e4540213373d6c7020e0d26818cd01da612755379dbf320727452fefe9d3",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "47fb8ed93370d034de5ba177d608d42a12221cb7437691719ec208a27bf4622e"
+  }
+}

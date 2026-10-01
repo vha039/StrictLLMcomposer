@@ -1,0 +1,59 @@
+{
+  "cv": {
+    "headline": "Rådgiver – styring og gjennomføring av digitale endringer",
+    "profile": "Rådgiver økonomi og IKT i Direktørens stab ved Oslo universitetssykehus, med mastergrad i samfunnsøkonomi og pågående masterprogram i kunstig intelligens. Arbeider med løst definerte oppdrag i en regulert virksomhet: kartlegger krav, aktører, avhengigheter, kildepresedens og risiko, og omsetter dem til avgrensede leveranser med kontroller, akseptansekriterier og overlevering. Gjennomførte kodeendringene i et forretningskritisk verktøy innenfor en interessentprosess på om lag 50 personer, og utformer beslutningsstøtte slik at fagansvarlige selv kan inspisere og justere forutsetningene. Norsk og engelsk som arbeidsspråk.",
+    "competencies": [
+      "Styring og kontroll: definisjoner, kildepresedens, sporbarhet, validering og endringskontroll",
+      "Omsetting av krav og prioriteringer til arbeidsprosesser, eierskap og oppfølgingsstrukturer",
+      "Strukturerte vurderinger av løst definerte oppdrag: avhengigheter, risiko og akseptansekriterier",
+      "Gjennomføring i tverrfaglige interessentprosesser uten linjemyndighet",
+      "Beslutningsstøtte og ledelsesrapportering, blant annet i Power BI",
+      "Standardisering og forenkling av gjentakende arbeid",
+      "Arbeid i regulert virksomhet, med vurdering av eksponering av sensitive data",
+      "Formidling til ledere, controllere, fagmiljøer og tekniske team, på norsk og engelsk"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Kartlegger krav, aktører, avhengigheter, kildepresedens og risiko i løst definerte oppdrag, og strukturerer arbeidsinntak med formål, beslutningsbehov, prioritet og akseptansekriterier før arbeid settes i gang.",
+          "Gjennomførte kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy innenfor en interessentprosess på om lag 50 personer, med differansekontroll, akseptansekriterier og risikoregister; verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Utformet en vektet proxy-modell for gevinstfordeling i fem arbeidsbøker da direkte fordeling ikke var faglig forsvarlig, med synlige og konfigurerbare forutsetninger og skjemakontrollert overføring; modellen ble ferdigstilt tidlig i 2026 og overlevert til controllere.",
+          "Var hovedutvikler på backend, med semantisk modell, ETL og det meste av DAX, i en styrings-BI-løsning for økonomi, bemanning og aktivitet; eide løsningen fra om lag august 2025 til februar 2026, og den er senere avviklet.",
+          "Etablerer sporbarhet, validering og endringskontroll i prosjektene, vurderer eksponering av sensitive data i en regulert virksomhet, og skriver beslutningssammendrag og dokumentasjon for ledere, controllere og fagmiljøer."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, avstemming, kvalitetssikring og resultatforklaring, og rapporterte den selv til klinikkledere.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP; verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ],
+    "tools_line": "Power BI, DAX, Power Query og SQL; Excel/VBA; Microsoft 365 (Loop, Forms, Teams); prosjektavhengig R og Python. Metode: akseptansekriterier, differanse- og skjemakontroll, endringskontroll samt risiko- og avviksregister."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "outside_brief_refs": [
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "notes": [
+    "Regelverksområdene i annonsen (GDPR, NIS2, Digitalsikkerhetsloven, EU AI Act, leverandørstyring, EASA Part-IS) forekommer ikke i CV-en, verken som erfaring eller som fravær. Kompetansepunktet om regulert virksomhet dekker det dokumenterte: personvernbevisste kontroller og vurdering av eksponering av sensitive data.",
+    "BI-punktet står i fortid med avgrenset eierskapsvindu fordi løsningen er avviklet; backend-rammen er valgt fordi kolleger ledet innhold og visualisering.",
+    "Det pågående masterprogrammet i kunstig intelligens oppgis med status «pågående» og uten studietakt, årstrinn eller forventet fullføring.",
+    "Utenfor briefen: BAR-posten og språkposten er brukt i CV-en uten å være navngitt i briefen. BAR-punktene dokumenterer selvstendig gjennomføring i en fastlagt prosess, og språkpunktet svarer på annonsens to arbeidsspråk. Begge er ført i outside_brief_refs."
+  ]
+}

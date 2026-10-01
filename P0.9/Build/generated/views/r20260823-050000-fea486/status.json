@@ -1,0 +1,56 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260823-050000-fea486",
+  "derived_at": "2026-08-28T16:02:58Z",
+  "manifest_sha256": "c7cb60f4e80a5ca3cc59e9fa6de70fe8986bcdc70f4648527e78362da3a90527",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 1,
+    "core": 1,
+    "exception": 0,
+    "semantic_final_available": 1,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 0,
+      "CHECK": 1,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 0,
+      "DEGRADED": 0,
+      "FAILED": 1
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "testetaten_radgiver",
+      "employer": "Testetaten HF",
+      "title": "Rådgiver økonomi og analyse",
+      "cluster": "c1",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-15",
+      "semantic_triage": "CHECK",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "FAILED",
+        "limitation": "Render receipt is not current: [ERROR  ] DEC-21 render_report.json:binding.final_package_sha256\n          expected: 'ab1d480294cd5cd01af5dd980a7e6cedf8a684b6ba278765953d6e7c00395139'\n          observed: '74e87c0e65ea74754aed00712ab63e27884e2a93f93413e930cde7a7f88ffe25'",
+        "human_action": "Close the open document and rerun status; no output was overwritten."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Utlysningen nevner prognosearbeid; pakken dekker det bare indirekte. Action: Bekreft om prognoseerfaringen er sterk nok til å nevnes. | Kontaktperson og frist er ikke omtalt i brevet. Action: Vurder én setning om frist dersom det er ønskelig. | Known limitation: Ingen dokumentert erfaring med prognosemodeller ut over budsjettarbeid.",
+      "output_paths": []
+    }
+  ]
+}

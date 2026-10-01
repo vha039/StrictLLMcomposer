@@ -1,0 +1,46 @@
+{
+  "cv": {
+    "headline": "Rådgiver: styring og gjennomføring av digitale endringer"
+  },
+  "letter": {
+    "body_paragraphs": [
+      "Jeg deltok i firepersonersgruppen som etablerte Analyseavdelingen ved Oslo universitetssykehus, og har utformet arbeidsinntak og arbeidsmodell for et tverrfaglig miljø. I inntaket setter jeg beslutningsbehovet sammen med brukere, avhengigheter og akseptansekriterier. Hensikten er å avklare hva en leveranse faktisk må svare på før den får form som et verktøy eller en rapport. I samme arbeid utformet jeg forslag til ansvar og beslutningsrettigheter, og strukturer for prioritering og pågående arbeid. En oppgaveliste alene viser ikke hvem som må bidra, eller hva som må avklares før neste steg. Derfor arbeider jeg med både oppgaven og sammenhengene rundt den. Å gjøre slike sammenhenger håndterbare for fagpersonene som skal gjennomføre arbeidet, er en oppgave jeg vil fortsette med i en operativ styringsfunksjon.",
+      "Gjennomføring krever samtidig at vurderingene tåler å bli kontrollert. I moderniseringen av sykehusets budsjetteringsverktøy gjennomførte jeg kodeendringene innenfor en interessentprosess med om lag 50 personer. Jeg sammenlignet endret og opprinnelig funksjon, undersøkte logikkavvik og brukte akseptansekriterier og risikoregister. Kontrollarbeidet ga et konkret grunnlag for å vurdere om en endring holdt seg innenfor den avtalte rammen. I prosjektene mine skiller jeg mellom fakta, anbefalinger og forventet gevinst, og vurderer eksponering av sensitive data. Det er særlig viktig når et kort beslutningsgrunnlag skal være lett å lese uten å skjule usikkerheten bak konklusjonen."
+    ]
+  },
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "JUDGMENT står uendret. Den bevisste bortvelgingen av kode i kjernen er brevets sterkeste dokumenterte vurdering."
+    },
+    {
+      "id": "K2",
+      "disposition": "KEPT",
+      "reason": "EMPLOYER_FACT står uendret og knytter den nyopprettede funksjonen til inntak, ansvar og oppfølging som leveranse."
+    },
+    {
+      "id": "K3",
+      "disposition": "KEPT",
+      "reason": "CLOSE står uendret; bidragsavslutningen er klyngens eneste CONTRIBUTION-grep og skiller dette brevet fra de tre andre."
+    }
+  ],
+  "changes": [
+    {
+      "field": "cv.headline",
+      "reason": "TONE",
+      "note": "Tankestrek er ikke tillatt i arbeidsgivertekst (WRITING_DOCTRINE, Tegnsetting). Erstattet med kolon; ordlyden er uendret."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "SCREEN_OUT",
+      "note": "Jeg har også utformet ... er en bolt-on-markør og var det eneste signalet preview meldte. Skrevet om til I samme arbeid utformet jeg ..., som knytter arbeidet til samme oppdrag i stedet for å legge det til på siden."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Fjernet den avsluttende lærdomssetningen Modellen for gevinstfordeling og arbeidet med budsjettverktøyet viser to sider av samme faglige krav ... Avsnittet har allerede vist begge sidene; setningen fortalte leseren hva han skulle konkludere (FORFATTERSTEMME, selvfremstilling 1)."
+    }
+  ],
+  "writer_note": "Innholdslåst puss på registernivå 2. Ingen evidens lagt til eller fjernet; begge casene står med samme tak som i briefen."
+}

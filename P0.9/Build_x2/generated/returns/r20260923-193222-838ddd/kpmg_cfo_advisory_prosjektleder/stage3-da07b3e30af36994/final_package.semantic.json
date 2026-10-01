@@ -1,0 +1,65 @@
+{
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:OTHER#017-2-4-senioritetsinnramming",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach"
+  ],
+  "cv": {
+    "headline": "Samfunnsøkonom | Økonomiprosesser, styring og teknologisk endring",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver Økonomi og IKT ved Oslo universitetssykehus, i grensesnittet mellom økonomi, styringsinformasjon og teknologi. Har gjennomført en klinikks månedsoppgjør og laget konverteringsverktøy ved overgangen til nytt ERP-system, modernisert sykehusets budsjetteringsverktøy til sykehusdekkende bruk i budsjettprosessene for 2026 og 2027, og bygget styringsdashbord og beslutningsmodeller for ledere og controllere. Medutviklet sykehusets metodikk for gevinstrealisering, innført som sykehusstandard, og har ansvaret for den tekniske arbeidsstrømmen i et prognoseprosjekt med kollega og kodeagenter.",
+    "competencies": [
+      "Implementering og modernisering av økonomiverktøy",
+      "Budsjett, månedsoppgjør og økonomiprosesser",
+      "Styringsinformasjon og beslutningsgrunnlag",
+      "Gevinstrealisering og gevinstlogikk",
+      "Koordinering på tvers av økonomi, fag og teknologi",
+      "Akseptansekriterier, risikoregister og kontrollert endring",
+      "Onboarding, workshops og kompetanseoverføring",
+      "Power BI, DAX, Power Query, Excel/VBA, SQL, R/Python og KI-støttet utvikling"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Moderniserte sykehusets om lag 20 år gamle, virksomhetskritiske budsjetteringsverktøy i Excel/VBA som i praksis eneste kodende utvikler, i en prosess med om lag 50 involverte. Rekonstruerte arkitekturen, bygget inn bemanningsdata som tidligere ble kopiert manuelt, kontrollerte endringene med differansesammenligning, akseptansekriterier og risikoregister, og laget onboarding for controllere. I sykehusdekkende bruk i budsjettprosessene for 2026 og 2027; 2027-moderniseringen er ferdigstilt.",
+          "Hovedutvikler av backend i et styringsdashbord for økonomi, bemanning, sykefravær og aktivitet/DRG, bygget fra grunnen i en avdeling på fire: nesten hele den semantiske modellen, det meste av ETL i Power Query og om lag 80 til 90 prosent av DAX. Ansvarlig for løsningen og den månedlige driften fra aug. 2025 til den ble avviklet rundt feb. 2026; gjennomførte brukertester og forbedringsrunder.",
+          "Videreutviklet i et team på fire sykehusets metodikk for gevinstrealisering, med bidrag til forskningssyntese, metode, økonomisk og strategisk analyse og styring. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Avviste en direkte fordeling av gevinster fra steril logistikk fordi datagrunnlaget ikke bar den, og utformet i stedet en transparent vektet modell i fem arbeidsbøker med synlige forutsetninger og kontroller, beregnet på investeringsvalg. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Har ansvaret for den tekniske arbeidsstrømmen i et prognoseprosjekt under aktiv utvikling: arkitektur, orkestrering, integrasjon av kollegaens og kodeagentenes bidrag, akseptansekriterier og menneskelig kontroll av KI-støttet utvikling.",
+          "Deltok i etableringsgruppen på fire for Analyseavdelingen med arbeidsmodell, oppgavestruktur og prioritering, holdt workshops og vurderte Fabric, Power Platform og dbt opp mot sykehusets begrensninger."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avsetninger, avstemming og resultatforklaring, og gjennomførte den mot slutten selvstendig.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til REGERP; i perioden etter overgangen ble de brukt av økonomirådgivere i flere klinikker.",
+          "Bidro i budsjettprosessen for 2024 og sendte månedlig lederrapportering om økonomi, bemanning og aktivitet til klinikkens ledere."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Det meste av arbeidet mitt ved Oslo universitetssykehus har skjedd der økonomi, styring og teknologi møtes: månedsoppgjør og konverteringsverktøy ved overgangen til nytt ERP-system, et budsjettverktøy som hele sykehuset er avhengig av, og styringsinformasjon for ledere. Det er de samme skjæringspunktene CFO Advisory arbeider i, og jeg vil gjerne lære å lede slike endringer for flere kunder.",
+    "body_paragraphs": [
+      "Sykehusets budsjetteringsverktøy er en om lag 20 år gammel Excel/VBA-løsning som hele budsjettprosessen hviler på. I moderniseringen i 2025 var jeg i praksis eneste kodende utvikler, i en prosess med om lag 50 involverte. Jeg rekonstruerte arkitekturen, bygget inn bemanningsdata som tidligere måtte kopieres inn manuelt, og kontrollerte endringene med differansesammenligning, akseptansekriterier og risikoregister. Jeg anbefalte en bredere omstrukturering, men implementeringsansvarlig valgte en smal ramme med funksjon-for-funksjon-endringer, og jeg leverte innenfor den. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026. I 2027-runden hadde jeg vesentlig større frihet, og den moderniseringen er ferdigstilt og i bruk. Controllerne fikk onboarding og presentasjonsmateriell underveis.",
+      "Økonomiprosessen kjenner jeg fra drift. I Barne- og ungdomsklinikken overtok jeg innen om lag tre måneder hele den tildelte månedsoppgjørsflyten. Ved overgangen til REGERP laget jeg på eget initiativ verktøy for å konvertere og validere gamle konteringslinjer, og i perioden etter ble de brukt av økonomirådgivere i flere klinikker. Senere var jeg hovedutvikler av backend i et styringsdashbord for økonomi, bemanning og aktivitet, og hadde ansvaret for det i drift fram til det ble avviklet.",
+      "Gevinster har jeg arbeidet med både som metode og som beslutning. I et team på fire videreutviklet vi sykehusets metodikk for gevinstrealisering, som ble innført som standard og fortsatt var i bruk om lag 2,5 år senere. Da oppdraget var å fordele gevinstene av steril logistikk mellom klinikkene, avviste jeg en direkte fordeling fordi datagrunnlaget ikke bar den, og bygget i stedet en vektet modell med synlige forutsetninger. I et prognoseprosjekt har jeg ansvaret for den tekniske arbeidsstrømmen og bruker kodeagenter under faste instruksjoner, tester og menneskelig kontroll, en arbeidsmåte som er nyttig når CFO-er vil ta i bruk analyse og KI uten å miste kontroll over tallene.",
+      "Erfaringen min er fra en intern rådgiverrolle i sykehuset siden 2023, og ikke fra konsulentbransjen. Det jeg tar med meg, er økonomiforståelsen fra samfunnsøkonomi og drift, og erfaringen med å levere endringer som tas i bruk. Hos KPMG vil jeg gjerne bruke det på flere og mer varierte CFO-problemstillinger, og utvikle prosjektlederrollen i et større fagmiljø."
+    ],
+    "closing": "Jeg forteller gjerne mer i et intervju."
+  },
+  "writer_note": "5 til 8 års consulting/prosjektledelse og formell prosjektlederrolle er ikke dokumentert; brevet sier presist at erfaringen er fra intern rådgiverrolle siden 2023."
+}

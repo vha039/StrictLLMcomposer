@@ -1,0 +1,66 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260916-185207-a37938",
+  "derived_at": "2026-09-17T22:43:05Z",
+  "manifest_sha256": "340e31592ebbfcc49d182f7f16c77d55a6d3359fb6f9639e37bacc46f43c5334",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 1,
+    "core": 1,
+    "exception": 0,
+    "semantic_final_available": 1,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 1,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 0,
+      "DEGRADED": 1,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "abacus_erp_radgiver",
+      "employer": "Abacus IT AS",
+      "title": "Senior ERP-rådgivere og ERP-rådgivere",
+      "cluster": "smoke",
+      "sequence": 4,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "EDITOR",
+      "next_stage": null,
+      "rerun_stage": null,
+      "delivery": "CV_PLUS_FORM_ANSWERS",
+      "semantic_final_available": true,
+      "render_state": {
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "SKIPPED",
+        "letter_pdf": "SKIPPED",
+        "overall": "DEGRADED"
+      },
+      "stale_scope": [],
+      "stale_reason": null,
+      "signals": [
+        "preview metrics STALE: measured package differs from reported package"
+      ],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Read the package and decide what to send.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-185207-a37938\\jobs\\abacus_erp_radgiver\\out\\CV_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.docx"
+      ]
+    }
+  ]
+}

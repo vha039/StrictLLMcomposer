@@ -1,0 +1,238 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/strategy.schema.json",
+  "title": "Strategy",
+  "description": "Sole canonical Stage-1 strategy representation (DEC-09). A human-readable view may be generated but is marked derived/read-only and is never a second truth.\n\nHard validation is limited to mechanical properties (DEC-33): parse/schema validity, identity and manifest binding, required epistemic constants, allowed enums and known IDs, factual evidence-reference existence and namespace, and baseline-mechanical reference existence. Word counts, requirement counts, evidence-bridge counts, objection counts and similar semantic-density choices are NOT hard failures here. No hard cap may truncate a material employer requirement. The single mechanically enforced cardinality is the 0-3 personality facet bound, which defines the interface rather than semantic density (Spec 9.4).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "authority",
+    "elasticity",
+    "final_writer_may_reconstruct",
+    "source_escape_permitted",
+    "binding",
+    "employer_decision_problem",
+    "selection_logic",
+    "primary_candidate_identity",
+    "headline_hypothesis",
+    "shortlist_thesis",
+    "material_requirements",
+    "evidence_plan",
+    "objections",
+    "motivation_bridge",
+    "cv_direction",
+    "application_direction",
+    "avoid_guidance",
+    "personality_facets",
+    "writer_guidance"
+  ],
+  "properties": {
+    "artifact_role": { "const": "STRATEGY_HYPOTHESIS" },
+    "authority": { "const": "NON_FACTUAL_NON_FINAL" },
+    "elasticity": { "const": "ELASTIC" },
+    "final_writer_may_reconstruct": { "const": true },
+    "source_escape_permitted": {
+      "const": true,
+      "description": "Explicit source-escape permission (CTR-04). Every downstream stage may open the original authorities and the original vacancy at any time."
+    },
+
+    "binding": { "$ref": "#/$defs/stage1Binding" },
+
+    "employer_decision_problem": { "type": "string", "minLength": 1 },
+    "selection_logic": { "type": "string", "minLength": 1 },
+    "primary_candidate_identity": { "type": "string", "minLength": 1 },
+    "headline_hypothesis": { "type": "string", "minLength": 1 },
+    "shortlist_thesis": { "type": "string", "minLength": 1 },
+
+    "material_requirements": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Every material minimum and important desired requirement. Deliberately NO maxItems: no hard cap may truncate a material employer requirement (Spec 8.3, DEC-33).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["requirement_id", "text", "importance", "relation"],
+        "properties": {
+          "requirement_id": { "type": "string", "pattern": "^R[0-9]{2,3}$" },
+          "text": { "type": "string", "minLength": 1 },
+          "importance": { "enum": ["MINIMUM", "IMPORTANT", "DESIRED"] },
+          "relation": { "enum": ["SUPPORTED", "ADJACENT", "GAP", "UNKNOWN"] },
+          "evidence_refs": { "$ref": "#/$defs/factualRefs" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+
+    "evidence_plan": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Strongest evidence bridges with their claim ceilings. No maxItems (DEC-33).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["evidence_refs", "role", "claim_ceiling"],
+        "properties": {
+          "evidence_refs": {
+            "allOf": [{ "$ref": "#/$defs/factualRefs" }, { "minItems": 1 }]
+          },
+          "role": { "type": "string", "minLength": 1 },
+          "claim_ceiling": {
+            "type": "string",
+            "minLength": 1,
+            "description": "What this evidence may NOT be used to claim. Where the source does not establish exact scale, lifecycle, result, ownership or formal mandate, the documented lower ceiling applies (Spec 4.1)."
+          },
+          "lifecycle": {
+            "enum": ["CONCEPT", "PILOT", "IN_DEVELOPMENT", "IMPLEMENTED", "IN_USE", "COMPLETED", "DECOMMISSIONED"]
+          },
+          "baseline_refs": { "$ref": "#/$defs/mechanicalRefs" }
+        }
+      }
+    },
+
+    "objections": {
+      "type": "array",
+      "description": "Material objections and gaps with truthful reframes. May be empty when none is material; no maxItems.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["objection", "reframe"],
+        "properties": {
+          "objection": { "type": "string", "minLength": 1 },
+          "reframe": { "type": "string", "minLength": 1 },
+          "honesty_note": { "type": "string" }
+        }
+      }
+    },
+
+    "motivation_bridge": { "type": "string", "minLength": 1 },
+
+    "cv_direction": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["headline_direction", "emphasis"],
+      "properties": {
+        "headline_direction": { "type": "string", "minLength": 1 },
+        "emphasis": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "deprioritize": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "employment_focus": { "$ref": "#/$defs/mechanicalRefs" }
+      }
+    },
+
+    "application_direction": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["backbone", "top_employer_problems"],
+      "properties": {
+        "backbone": { "type": "string", "minLength": 1 },
+        "top_employer_problems": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "structure_guidance": { "type": "string" }
+      }
+    },
+
+    "avoid_guidance": {
+      "type": "array",
+      "description": "ONE consolidated avoid-guidance surface (Spec 8.3). Do not add a second.",
+      "items": { "type": "string", "minLength": 1 }
+    },
+
+    "counterfactual_route": {
+      "type": ["object", "null"],
+      "description": "A materially different route, kept only when genuinely useful. Omit or null rather than filling with boilerplate (Spec 9.3).",
+      "additionalProperties": false,
+      "required": ["identity", "rationale"],
+      "properties": {
+        "identity": { "type": "string", "minLength": 1 },
+        "rationale": { "type": "string", "minLength": 1 },
+        "evidence_refs": { "$ref": "#/$defs/factualRefs" }
+      }
+    },
+
+    "risk_notes": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+
+    "personality_facets": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 3,
+      "description": "Zero to three facets, selected after factual grounding (DEC-35, Spec 10.2). Zero is valid and is the null outcome; there is no OFF switch. This is the ONE mechanically enforced cardinality in this schema because it defines the interface, not semantic density (Spec 9.4).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["facet_id", "plain_language_label", "evidence_refs", "expression_ceiling"],
+        "properties": {
+          "facet_id": {
+            "type": "string",
+            "pattern": "^PF-[0-9]{2}$",
+            "description": "Must exist in policy/personality_facets.json. Private: never appears in employer-facing text."
+          },
+          "plain_language_label": { "type": "string", "minLength": 1 },
+          "evidence_refs": {
+            "allOf": [{ "$ref": "#/$defs/factualRefs" }, { "minItems": 1 }],
+            "description": "Every selected facet must be evidence-bound (Spec 10.2, Contract 12.4). Personality never establishes candidate facts or raises claim ceilings."
+          },
+          "expression_ceiling": { "type": "string", "minLength": 1 },
+          "vacancy_relevance": { "type": "string" },
+          "intended_employer_interpretation": { "type": "string" },
+          "misread_risk": { "type": "string" },
+          "expression_guardrail": { "type": "string" }
+        }
+      }
+    },
+
+    "writer_guidance": { "type": "string", "minLength": 1 },
+
+    "requires_source_inspection_observed": {
+      "type": "boolean",
+      "description": "Set by Stage 1 to record that it saw the manifest signal and inspected the original source (Spec 8.2 step 4)."
+    }
+  },
+
+  "$defs": {
+    "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+
+    "factualRefs": {
+      "type": "array",
+      "description": "Factual evidence references. Resolve ONLY to the three candidate authority files through the evidence index (DEC-34, ACC-08). A BL: mechanical reference here is a validation error. Reference existence proves resolvability only, never semantic support (Spec 14.4).",
+      "items": {
+        "type": "string",
+        "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+      }
+    },
+
+    "mechanicalRefs": {
+      "type": "array",
+      "description": "Baseline-mechanical references. A separate namespace from factual evidence; never valid as factual support.",
+      "items": { "type": "string", "pattern": "^BL:(EMP|EDU|SEC)_[A-Z0-9_]+$" }
+    },
+
+    "stage1Binding": {
+      "type": "object",
+      "description": "Exact identity plus the fixed upstream hashes Stage 1 depends on (Spec 7.2, Contract 6.4). Fixed comparisons only; no dependency engine.",
+      "additionalProperties": false,
+      "required": [
+        "run_id",
+        "job_id",
+        "employer",
+        "title",
+        "manifest_sha256",
+        "vacancy_sha256",
+        "evidence_index_sha256",
+        "stage_instruction_sha256"
+      ],
+      "properties": {
+        "run_id": { "type": "string", "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}$" },
+        "job_id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$" },
+        "employer": { "type": "string", "minLength": 2 },
+        "title": { "type": "string", "minLength": 2 },
+        "manifest_sha256": { "$ref": "#/$defs/sha256" },
+        "vacancy_sha256": { "$ref": "#/$defs/sha256" },
+        "evidence_index_sha256": { "$ref": "#/$defs/sha256" },
+        "stage_instruction_sha256": { "$ref": "#/$defs/sha256" }
+      }
+    }
+  }
+}

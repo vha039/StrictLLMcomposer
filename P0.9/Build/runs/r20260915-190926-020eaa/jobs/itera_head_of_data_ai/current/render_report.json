@@ -1,0 +1,126 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260915-190926-020eaa",
+    "job_id": "itera_head_of_data_ai",
+    "final_package_sha256": "dc8ef69ada9430b98061ab8fb097793189a0314c0602b3f36683d3eb16ccf40f",
+    "document_date": "2026-09-15",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "84a069c32995b61353e3edcee53d2c5fab5d289148f0358c3b461338108a2acb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": null
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "DEGRADED",
+    "letter_docx": "OK",
+    "letter_pdf": "DEGRADED",
+    "overall": "DEGRADED"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260915-190926-020eaa\\jobs\\itera_head_of_data_ai\\out\\CV_Itera_Norway_Head_of_Data_AI.docx",
+      "output_sha256": "1988ca6334e47308d4b3f803fc2c89e397fc686859a3d555b6b7ac0758b617a3",
+      "bytes": 40278,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "DEGRADED",
+      "output_path": null,
+      "output_sha256": null,
+      "bytes": null,
+      "promotion": null,
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_7uhan6jq\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260915-190926-020eaa\\jobs\\itera_head_of_data_ai\\out\\.rnd.5a0476f3\\CV_Itera_Norway_Head_of_Data_AI.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260915-190926-020eaa\\jobs\\itera_head_of_data_ai\\out\\.rnd.5a0476f3\\CV_Itera_Norway_Head_of_Data_AI.pdf",
+      "tool_version": null,
+      "exit_code": 1,
+      "diagnostics": [
+        "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_7uhan6jq\\export.ps1 : Retrieving the COM class factory for component with ",
+        "Word COM export returned exit code 1."
+      ],
+      "page_count": null,
+      "checks": {},
+      "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+      "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF.",
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260915-190926-020eaa\\jobs\\itera_head_of_data_ai\\out\\Soknad_Itera_Norway_Head_of_Data_AI.docx",
+      "output_sha256": "09950bad0b58be5089fbcd892965d0e15093f14ddf23e1c5bf5f23b9e3e6872a",
+      "bytes": 38436,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "DEGRADED",
+      "output_path": null,
+      "output_sha256": null,
+      "bytes": null,
+      "promotion": null,
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_0hvhgow2\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260915-190926-020eaa\\jobs\\itera_head_of_data_ai\\out\\.rnd.5a0476f3\\Soknad_Itera_Norway_Head_of_Data_AI.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260915-190926-020eaa\\jobs\\itera_head_of_data_ai\\out\\.rnd.5a0476f3\\Soknad_Itera_Norway_Head_of_Data_AI.pdf",
+      "tool_version": null,
+      "exit_code": 1,
+      "diagnostics": [
+        "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_0hvhgow2\\export.ps1 : Retrieving the COM class factory for component with ",
+        "Word COM export returned exit code 1."
+      ],
+      "page_count": null,
+      "checks": {},
+      "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+      "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF.",
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-15T19:34:08Z"
+}

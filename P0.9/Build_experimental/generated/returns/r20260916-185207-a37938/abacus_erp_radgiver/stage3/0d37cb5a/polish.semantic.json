@@ -1,0 +1,18 @@
+{
+  "letter": {
+    "opening": "BNXT skal bære kundenes oppgjør, og jeg kommer fra siden som eier oppgjøret."
+  },
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "question close is the differentiator"
+    }
+  ],
+  "changes": [
+    {
+      "field": "letter.opening",
+      "reason": "TONE"
+    }
+  ]
+}

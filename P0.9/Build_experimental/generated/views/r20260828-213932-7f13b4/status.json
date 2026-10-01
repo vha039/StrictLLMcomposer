@@ -1,0 +1,93 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260828-213932-7f13b4",
+  "derived_at": "2026-09-02T17:09:41Z",
+  "manifest_sha256": "0f9195ce9b510d6c7e0a06f3a5fc79e37a7a6ec078296d8c9b1a7807047d12ce",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 2,
+    "core": 2,
+    "exception": 0,
+    "semantic_final_available": 2,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 2,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 0,
+      "DEGRADED": 2,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "huseierne_strategi_maalstyring",
+      "employer": "Huseiernes Landsforbund",
+      "title": "Strategi- og målstyringsrådgiver",
+      "cluster": "pilot_live_smoke",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "DEGRADED",
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "OK",
+        "letter_pdf": "DEGRADED",
+        "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+        "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken består Tjuesekunderstesten: kandidatidentitet, Huseiernes styringsproblem og de to sterkeste bevisene er tydelige i toppsonen og søknadens første del. Action: Gjør normal menneskelig gjennomlesning og godkjenning av de ferdige dokumentene. | Pakken består Arbeidsgiverbyttetesten: medlemsvekst, nye produkter, praktisk måloppfølging og medlemsoppdraget gjør både CV-profilen og søknaden spesifikke for Huseierne. Action: Ingen lokal tekstendring er kjent nødvendig. | Alle materielle kandidatpåstander holder dokumenterte team-, eierskaps-, bruks- og resultatgrenser. Action: Behold avgrensningene ved eventuell manuell redigering. | Known limitation: Kandidatmyndighetene dokumenterer ikke praktisk OKR-erfaring. | Known limitation: Dokumentert relevant OUS-erfaring starter i mars 2023 og er kortere enn annonsens minimumskrav på fem år. | Known limitation: Erfaring fra formell produktorganisasjon, privat kommersielt resultatansvar og produksjonsdybde i Azure/Fabric er ikke dokumentert.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260828-213932-7f13b4\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260828-213932-7f13b4\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx"
+      ]
+    },
+    {
+      "job_id": "avinor_digital_transformasjon",
+      "employer": "Avinor AS",
+      "title": "Seniorrådgiver Digital Transformasjon",
+      "cluster": "pilot_live_smoke",
+      "sequence": 2,
+      "priority": "NORMAL",
+      "deadline": "2026-09-13",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "DEGRADED",
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "OK",
+        "letter_pdf": "DEGRADED",
+        "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+        "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken består Tjuesekunderstesten: samfunnsøkonom/rådgiver, Avinors gjennomføringsproblem og bevisene fra kontrollert digital endring og varig gevinstmetodikk fremgår tidlig. Action: Gjør normal menneskelig gjennomlesning og godkjenning av de ferdige dokumentene. | Pakken består Arbeidsgiverbyttetesten: flyplasser, flysikring, driftskontinuitet, sikkerhet og oppbyggingen av Digital Transformasjon gjør CV-profil og søknad spesifikke for Avinor. Action: Ingen lokal tekstendring er kjent nødvendig. | Teamgrenser, faktisk bruk, dokumentert varighet og fravær av kvantifiserte gevinster er bevart i alle materielle påstander. Action: Behold disse avgrensningene ved eventuell manuell redigering. | Known limitation: Formelt ansvar for konserntransformasjon, portefølje, program, produkt, linje eller personale er ikke dokumentert. | Known limitation: Dokumentasjonen støtter faktisk bruk og varighet, men ikke kvantifiserte gevinster, sikkerhetseffekt, tidsbesparelse eller realisert ROI. | Known limitation: Luftfart er et nytt domene, og aktuell sikkerhetsklareringsstatus er ikke dokumentert.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260828-213932-7f13b4\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260828-213932-7f13b4\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx"
+      ]
+    }
+  ]
+}

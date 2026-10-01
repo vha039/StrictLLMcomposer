@@ -1,0 +1,93 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom | Rådgiver i skjæringspunktet mellom virksomhet og teknologi",
+    "profile": "Samfunnsøkonom med master fra NTNU og om lag 3,5 års erfaring som rådgiver i økonomi og IKT ved Oslo universitetssykehus. Gjør brede eller uklare forespørsler om til beslutningsgrunnlag med synlige forutsetninger, og kombinerer det med praktisk teknisk gjennomføring. Har utformet en modell for fordeling av gevinster fra steril logistikk som beslutningsstøtte for investeringsvalg, og var i praksis eneste kodende utvikler i moderniseringen av sykehusets budsjetteringsverktøy, som ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027. Registrert KI-superbruker ved OUS, bruker menneskestyrte KI-arbeidsflyter i analyse og utvikling, og tar masterprogram i kunstig intelligens ved Universitetet i Agder.",
+    "competencies": [
+      "Beslutningsgrunnlag for investerings- og gevinstvurderinger",
+      "Vurdering av teknologialternativer mot driftsrisiko og vedlikehold",
+      "KI i analyse og utvikling, med tester og menneskelig kontroll",
+      "Strukturering av uklare behov: krav, arbeidspakker og akseptansekriterier",
+      "Styringsmodeller og arbeidsformer: gevinstrealisering, Scrum/Kanban og WIP",
+      "Kontrollert modernisering av forretningskritiske verktøy",
+      "Samfunnsøkonomi, økonometri og prognoser",
+      "Power BI, Excel/VBA, SQL og R/Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utformet en beslutningsmodell for fordeling av gevinster fra steril logistikk per klinikk, tiltenkt valg om lager, utstyr, automatisering og investeringer: vektede indirekte indikatorer i fem arbeidsbøker, med synlige og justerbare forutsetninger, skjemakontrollert overføring og kontroller for avvik. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Gjennomførte kodeendringene i moderniseringen av sykehusets om lag 20 år gamle budsjetteringsverktøy i Excel/VBA, der ansatt-, ansettelses- og bemanningsdata ble bygget inn i stedet for å kopieres manuelt. Rekonstruerte arkitekturen, vurderte VBA, Office Scripts, Python og KI-støttede tilnærminger mot kompatibilitet, driftsrisiko og vedlikehold, og var i praksis eneste kodende utvikler i en prosess med om lag 50 deltakere. Laget onboarding for controllere. Brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Videreutviklet sykehusets metodikk for gevinstrealisering og estimering som én av fire, på oppdrag fra ledelsen, med bidrag til forskningssyntese, metode, økonomisk og strategisk analyse og styring. Innført som sykehusdekkende standard og fortsatt i bruk om lag 2,5 år senere.",
+          "Ansvar for arkitektur, orkestrering, automatisering og integrasjon i et prognoseprosjekt for pasientvolum og sengebehov (14, 90 og 365 dager) under utvikling. Utfordret definisjonen av prognosemålet og krevde tidsriktig validering, referanseprognoser og akseptansekriterier. Implementeringen er delt med en kollega og kodeagenter.",
+          "Registrert KI-superbruker ved OUS i om lag tre år, med teknisk bistand i en Teams-kanal. Etablerte en menneskestyrt arbeidsflyt for kodeagenter med prosjektinstruksjoner, tester, overleveringslogger og gjennomgang før bidrag tas inn.",
+          "Designet og evaluerte løsninger for strukturert arbeidsinntak (Forms, Loop, Power BI, Pega og lavkode) som fanger formål, brukere, beslutningsbehov, avhengigheter, risiko og akseptansekriterier. Har deltatt i pilot- og utforskningsarbeid rundt Fabric, Power Platform, dbt og Pega og vurdert mulighetene mot sykehusets begrensninger.",
+          "Deltok i firepersoners etableringsgruppe for Analyseavdelingen og utformet alternativer for teamstruktur, ansvar og avhengigheter samt Scrum/Kanban-, oppgave- og WIP-strukturer.",
+          "Hovedutvikler for backend i et nytt styringsdashbord bygget fra et bredt og lett spesifisert oppdrag, med observerte brukertester og eierskap til driften fra om lag august 2025 til avviklingen rundt februar 2026. Lærte opp teknisk personell i en annen rapporteringsorganisasjon i Power BI og semantisk modellering."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter om lag halvannen måneds opplæring gradvis oppgaver i månedsavslutningen, og innen om lag tre måneder hele den tildelte månedsoppgjørsflyten. Gjennomførte den mot slutten selvstendig, med kvalitetssikring og månedsrapportering til ledere i klinikken.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til REGERP, og lærte VBA fra grunnen gjennom arbeidet. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen.",
+          "Sammenstilte økonomi-, bemannings- og aktivitetsgrunnlag, blant annet DRG, ventelister og estimert innleie, til lederrapportering, og bidro i budsjettprosessen for 2024 og i prosjektøkonomi."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg er samfunnsøkonom med master fra NTNU og har i om lag 3,5 år vært rådgiver i økonomi og IKT ved Oslo universitetssykehus. Oppgavene har spent fra månedsoppgjør i en klinikk til gevinstmetode, beslutningsmodeller og modernisering av forretningskritiske verktøy. I oppdragene i Analyseavdelingen begynner jeg med å skille behovet som ligger under, fra løsningen som er bestilt.",
+    "body_paragraphs": [
+      "Ett av oppdragene var å fordele gevinster fra steril logistikk per klinikk. De direkte bruksdataene var ikke gode nok til å gjøre det forsvarlig, og en fordeling basert på dem ville sett mer presis ut enn den var. Jeg omformet derfor oppdraget til en modell med vektede indirekte indikatorer, der forutsetninger og vekter står synlig og kan justeres. Modellen er laget som beslutningsstøtte for valg om lager, utstyr, automatisering og investeringer. Jeg bygget den bevisst uten kjerne-VBA, slik at controllere og fagfolk skulle kunne etterprøve og endre forutsetningene uten å være varig avhengige av en utvikler. Den ble ferdigstilt og overlevert til controllerne tidlig i 2026. Hos kunder som står foran et investeringsvalg, vil jeg gjøre det samme: vise hva tallene bærer, og hva som er antakelser.",
+      "Sykehusets budsjetteringsverktøy er et om lag 20 år gammelt Excel/VBA-verktøy som skulle få bemanningsdata bygget inn. Jeg vurderte VBA, Office Scripts, Python og KI-støttede tilnærminger mot kompatibilitet, driftsrisiko og vedlikehold. Jeg anbefalte en bredere omstrukturering, mens gjennomføringslederen valgte en smal refaktorering. Den gjennomførte jeg funksjon for funksjon, med differansekontroll og akseptansekriterier. Om lag 50 personer deltok i prosessen, og i praksis var jeg den eneste som endret koden. Verktøyet ble brukt i hele sykehuset i budsjettprosessene for 2026 og 2027.",
+      "I et prognoseprosjekt for pasientvolum og sengebehov, som fortsatt er under utvikling, har jeg ansvar for arkitekturen og har bygget en fast arbeidsstruktur for kodeagenter med prosjektinstruksjoner, tester og overleveringslogger. Implementeringen er delt mellom en kollega, agentene og meg, og jeg går gjennom det som tas inn. I samme prosjekt utfordret jeg hvordan prognosemålet var definert, og krevde tidsriktig validering mot referanseprognoser. Jeg er også registrert KI-superbruker ved OUS og tar et masterprogram i kunstig intelligens ved Universitetet i Agder. Den kombinasjonen av bruk og kontroll vil jeg ta med når kunder skal ta i bruk AI.",
+      "Hos dere vil jeg arbeide med flere virksomheter og flere typer problemstillinger, nærmere beslutningene om teknologi og organisering, og i et miljø der data og AI er et hovedfelt. Nye fagområder har jeg satt meg inn i før. I klinikken hadde jeg overtatt hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, og VBA lærte jeg fra grunnen da jeg laget konverteringsverktøyene til overgangen til REGERP."
+    ],
+    "closing": "Jeg tar gjerne en samtale om hvordan dette kan brukes i Technology-teamet."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:WORK#053-10-1-eksplisitt-forbudt",
+    "EV:OTHER#005-0-3-ufravikelige-claim-kontroller",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#029-4-5-ki-grenser",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Vinkel: skjønn og beslutningsgrunnlag først (STE-modellen), deretter teknologivurdering og gjennomføring (budsjettverktøyet), deretter KI med prognoseprosjektets målutfordring og valideringskrav som konkret kontroll. Formalfilteret står i åpningen. Konsulentgapet håndteres i motivasjonen via variasjon og rask læring. Teknologivurderingen i budsjettverktøyet er ikke fremstilt som avgjørende for løsningsvalget.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-14",
+    "finalized_at": "2026-09-14T21:52:34Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260914-211650-5d3516",
+    "job_id": "bearingpoint_forretning_teknologi",
+    "employer": "BearingPoint Norway AS",
+    "title": "Konsulent forretning- og teknologirådgivning",
+    "manifest_sha256": "ee29c2c8f729ec0cd72833a8024fa6300299d4e07792a5f5783e47e77dcd1616",
+    "vacancy_sha256": "00d8cbdab2d6d2713679fa149b698e16c33704c9861944eb0d4b5b51256508c6",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "3b29e4540213373d6c7020e0d26818cd01da612755379dbf320727452fefe9d3",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "1cb826f3928b4b439cd1085a0cb16d8243cecd3d838b37dd5653f1d436ade396"
+  }
+}

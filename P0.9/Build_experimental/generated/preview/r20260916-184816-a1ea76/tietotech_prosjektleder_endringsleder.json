@@ -1,0 +1,34 @@
+{
+  "job_id": "tietotech_prosjektleder_endringsleder",
+  "stage": 2,
+  "cv_dynamic_words": 488,
+  "letter_words": 497,
+  "signals": [
+    "stock close",
+    "«søker … fordi»",
+    "identity opening",
+    "title restated in opening",
+    "repeated transfer bridge x2"
+  ],
+  "documents": {
+    "cv": {
+      "pages": 2,
+      "tail_sections": {
+        "TIDLIGERE ERFARING": 2,
+        "TILLITSVERV": 2,
+        "SPRÅK": 2,
+        "SPRÅK OG KURS": 2,
+        "KURS": 2
+      },
+      "headline_lines": 2,
+      "warnings": []
+    },
+    "letter": {
+      "pages": 1,
+      "tail_sections": {},
+      "warnings": []
+    }
+  },
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\tietotech_prosjektle\\0916\\72734",
+  "render_state": "OK"
+}

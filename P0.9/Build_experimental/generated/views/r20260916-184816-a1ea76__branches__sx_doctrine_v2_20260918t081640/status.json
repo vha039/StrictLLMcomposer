@@ -1,0 +1,278 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+  "derived_at": "2026-09-18T09:04:16Z",
+  "manifest_sha256": "e80200728200bb898d464bc1a19d9b93ab47fa3194ce2826c9dab0ea012bb9f7",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 8,
+    "core": 8,
+    "exception": 0,
+    "semantic_final_available": 4,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 4,
+    "triage": {
+      "READY": 4,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 4,
+      "OK": 4,
+      "DEGRADED": 0,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "stortinget_virksomhetsstyring_lederstotte",
+      "employer": "Stortinget",
+      "title": "seniorrådgiver/rådgiver",
+      "cluster": "rung",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-14",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "EDITOR",
+      "next_stage": null,
+      "rerun_stage": null,
+      "delivery": "LETTER_AND_CV",
+      "semantic_final_available": true,
+      "render_state": {
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "overall": "OK"
+      },
+      "stale_scope": [],
+      "stale_reason": null,
+      "signals": [
+        "preview metrics STALE: measured package differs from reported package"
+      ],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Read the package and decide what to send.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\CV_Stortinget_e8d73122.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\CV_Stortinget_e8d73122.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\Soknad_Stortinget_e8d73122.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\Soknad_Stortinget_e8d73122.pdf"
+      ]
+    },
+    {
+      "job_id": "norwegian_senior_manager_digital_governance",
+      "employer": "Norwegian Air Shuttle ASA",
+      "title": "Senior Manager Digital Governance Operations",
+      "cluster": "rung",
+      "sequence": 2,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "EDITOR",
+      "next_stage": null,
+      "rerun_stage": null,
+      "delivery": "LETTER_AND_CV",
+      "semantic_final_available": true,
+      "render_state": {
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "overall": "OK"
+      },
+      "stale_scope": [],
+      "stale_reason": null,
+      "signals": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Read the package and decide what to send.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\CV_Norwegia_5b5cf860.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\CV_Norwegia_5b5cf860.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\Soknad_Norwegia_5b5cf860.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\Soknad_Norwegia_5b5cf860.pdf"
+      ]
+    },
+    {
+      "job_id": "eie_systemkoordinator",
+      "employer": "EIE eiendomsmegling",
+      "title": "Systemkoordinator",
+      "cluster": "rung",
+      "sequence": 3,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "EDITOR",
+      "next_stage": null,
+      "rerun_stage": null,
+      "delivery": "LETTER_AND_CV",
+      "semantic_final_available": true,
+      "render_state": {
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "overall": "OK"
+      },
+      "stale_scope": [],
+      "stale_reason": null,
+      "signals": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Read the package and decide what to send.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\CV_EIE_eiendomsmegling_Systemkoordinator.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\CV_EIE_eiendomsmegling_Systemkoordinator.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\Soknad_EIE_eiendomsmegling_Systemkoordinator.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\eie_systemkoordinator\\out\\Soknad_EIE_eiendomsmegling_Systemkoordinator.pdf"
+      ]
+    },
+    {
+      "job_id": "abacus_erp_radgiver",
+      "employer": "Abacus IT AS",
+      "title": "Senior ERP-rådgivere og ERP-rådgivere",
+      "cluster": "rung",
+      "sequence": 4,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "EDITOR",
+      "next_stage": null,
+      "rerun_stage": null,
+      "delivery": "LETTER_AND_CV",
+      "semantic_final_available": true,
+      "render_state": {
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "overall": "OK"
+      },
+      "stale_scope": [],
+      "stale_reason": null,
+      "signals": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Read the package and decide what to send.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\CV_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\CV_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\Soknad_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\Soknad_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.pdf"
+      ]
+    },
+    {
+      "job_id": "tietotech_prosjektleder_endringsleder",
+      "employer": "Tieto Tech Consulting",
+      "title": "Prosjektleder & Endringsleder",
+      "cluster": "runf",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": null,
+      "production_state": "NOT_STARTED",
+      "highest_valid_stage": null,
+      "next_stage": 0,
+      "rerun_stage": null,
+      "delivery": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "stale_reason": null,
+      "signals": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Run Stage 0 (SCOUT).",
+      "output_paths": []
+    },
+    {
+      "job_id": "bearingpoint_forretning_teknologi",
+      "employer": "BearingPoint Norway AS",
+      "title": "Konsulent forretning- og teknologirådgivning",
+      "cluster": "runf",
+      "sequence": 2,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": null,
+      "production_state": "NOT_STARTED",
+      "highest_valid_stage": null,
+      "next_stage": 0,
+      "rerun_stage": null,
+      "delivery": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "stale_reason": null,
+      "signals": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Run Stage 0 (SCOUT).",
+      "output_paths": []
+    },
+    {
+      "job_id": "amesto_ai_transformasjon",
+      "employer": "Amesto Accounthouse AS",
+      "title": "AI Team Lead – Transformasjon",
+      "cluster": "runf",
+      "sequence": 3,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": null,
+      "production_state": "NOT_STARTED",
+      "highest_valid_stage": null,
+      "next_stage": 0,
+      "rerun_stage": null,
+      "delivery": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "stale_reason": null,
+      "signals": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Run Stage 0 (SCOUT).",
+      "output_paths": []
+    },
+    {
+      "job_id": "visma_product_manager",
+      "employer": "Visma Enterprise AS",
+      "title": "Product Manager",
+      "cluster": "runf",
+      "sequence": 4,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": null,
+      "production_state": "NOT_STARTED",
+      "highest_valid_stage": null,
+      "next_stage": 0,
+      "rerun_stage": null,
+      "delivery": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "stale_reason": null,
+      "signals": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Run Stage 0 (SCOUT).",
+      "output_paths": []
+    }
+  ]
+}

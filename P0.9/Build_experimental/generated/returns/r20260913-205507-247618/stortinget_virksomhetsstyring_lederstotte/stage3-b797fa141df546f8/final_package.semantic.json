@@ -1,0 +1,64 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver i stab | Beslutningsgrunnlag, arbeidsprosesser og digitale arbeidsformer",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus, med erfaring fra staben i Barne- og ungdomsklinikken og fra Analyseavdelingen i direktørens stab. Lager rapporter, analyser og beslutningsgrunnlag for ledere, strukturerer arbeidsprosesser og oppgaveflyt, og har vært registrert superbruker for kunstig intelligens ved sykehuset i om lag tre år. Bruker M365-verktøy som Teams, Loop, Forms, Excel, PowerPoint og Power BI i planlegging, samhandling og oppfølging.",
+    "competencies": [
+      "Beslutningsgrunnlag, analyser og rapportering til ledere",
+      "Planlegging, prioritering og oppfølging av oppgaver",
+      "Strukturering av arbeidsprosesser og oppdragsinntak",
+      "Planlegging og gjennomføring av workshops",
+      "Digitale arbeidsformer og ansvarlig bruk av KI",
+      "Veiledning og opplæring av kolleger",
+      "M365: Teams, Loop, Forms, Excel, PowerPoint og Power BI",
+      "Utredning og økonomisk analyse"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Registrert superbruker for kunstig intelligens ved sykehuset i om lag tre år, og svarer på tekniske spørsmål fra kolleger i en Teams-kanal.",
+          "Bruker KI i analyse, dokumentasjon og utvikling med tydelige instruksjoner, avgrensede oppgaver, tester og kritisk gjennomgang av resultatet, med mennesket som ansvarlig for det som leveres.",
+          "Deltok i gruppen på fire som etablerte Analyseavdelingen. Bidro med forslag til teamstruktur, ansvar og beslutningsroller, utformet oppgavestruktur med prioritering og begrenset parallelt arbeid, satte opp felles arbeidsflater i Loop, og planla og holdt workshops.",
+          "Utformet strukturerte spørreskjemaer for nye oppdrag med formål, brukere, beslutningsbehov, avhengigheter, risiko og prioritet, og vurderte oppsett i Forms og Loop.",
+          "Videreutviklet sykehusets metodikk for gevinstrealisering og estimering i et team på fire. Rammeverket ble innført som standard i hele sykehuset og var fortsatt i bruk om lag 2,5 år senere.",
+          "Videreutviklet sykehusets budsjetteringsverktøy i en prosess med om lag 50 involverte, var i praksis eneste utvikler av endringene og laget opplærings- og presentasjonsmateriell for controllere. Verktøyet ble brukt i hele sykehuset i budsjettprosessene for 2026 og 2027.",
+          "Holdt en intern workshop for økonomer og helseøkonomer om prosesskartlegging, datamodellering, datakvalitet og handlingsplan."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten, og kvalitetssikret og sendte etter hvert månedsrapportene til klinikkens ledere selv.",
+          "Bidro i budsjettprosessen for 2024 og i oppfølgingen av klinikkens økonomiske tiltak, og oversatte tiltakslogikken til budsjett- og styringsspråk.",
+          "Tok prosjektøkonomiske saker og økonomiske avklaringer etter behov og etter økonomileders kapasitet, blant annet ekstern finansiering, fakturering og prosjektavslutning.",
+          "Dokumenterte arbeidssteg og la inn kontroll- og valideringslogikk i arvede arbeidsbøker, og utviklet Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP som ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg har arbeidet i stabsenheter ved Oslo universitetssykehus siden 2023, først i staben til Barne- og ungdomsklinikken og nå i Analyseavdelingen i direktørens stab. Jeg er samfunnsøkonom og rådgiver økonomi og IKT, og arbeidet mitt handler om beslutningsgrunnlag for ledere og om å få arbeidsprosessene rundt dem til å fungere. Derfor søker jeg stillingen som seniorrådgiver/rådgiver i forvaltningsavdelingens stab.",
+    "body_paragraphs": [
+      "I klinikkstaben fikk jeg oppgaver etter behov og etter hva økonomileder hadde kapasitet til, fra økonomiske avklaringer til oppfølging av ekstern finansiering og prosjektavslutning. Innen om lag tre måneder hadde jeg overtatt hele den tildelte månedsoppgjørsflyten, og etter hvert kvalitetssikret og sendte jeg månedsrapportene til klinikkens ledere selv. Jeg bidro også i budsjettprosessen for 2024 og i oppfølgingen av klinikkens økonomiske tiltak, og dokumenterte arbeidsstegene og la inn kontroller i arbeidsbøkene jeg brukte.",
+      "Analyseavdelingen var jeg med og etablere, i en gruppe på fire. Jeg bidro med forslag til teamstruktur, ansvar og beslutningsroller, utformet en oppgavestruktur med prioritering og begrenset parallelt arbeid, og satte opp felles arbeidsflater i Loop. Jeg har planlagt og holdt workshops, og utformet spørreskjemaer for nye oppdrag som skal få formål, beslutningsbehov og prioritet avklart før arbeidet starter.",
+      "Rollen skal utvikle arbeidsformer med digitale verktøy og kunstig intelligens. Jeg har vært registrert superbruker for kunstig intelligens ved sykehuset i om lag tre år, og svarer på tekniske spørsmål fra kolleger i en Teams-kanal. I eget arbeid bruker jeg KI til analyse, dokumentasjon og utvikling, med tydelige instruksjoner, avgrensede oppgaver og kritisk gjennomgang av resultatet før det brukes videre. Da sykehusets budsjetteringsverktøy ble videreutviklet, laget jeg også opplæringsmateriell for controllerne som skulle ta det i bruk."
+    ],
+    "closing": "Det som trekker meg mot stillingen, er å få planlegging, beslutninger og oppfølging i en ledergruppe til å henge sammen, i en institusjon med Stortingets samfunnsoppdrag. Jeg kan bidra med ryddige saksgrunnlag, en oppfølgingsstruktur som er enkel å bruke, og nøktern bruk av KI der den gjør arbeidet enklere for avdelingen. Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#045-7-teknologi-og-metodeinventar",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#028-4-4-trygge-ki-pastander"
+  ],
+  "writer_note": "Anchor changed to the documented staff-unit placements (clinic staff; Analysis department in director's staff). AI superuser role and human-governed AI workflow promoted to a carrying unit because the ad names AI explicitly. BAR demand-driven assignments used as closest leader-support analogue. No Decisions/Planner, HEMMELIG or preparedness claim."
+}

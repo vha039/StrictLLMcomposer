@@ -1,0 +1,32 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken gir en skannbar virksomhetsstyringsprofil og knytter de to bærende eksemplene til Huseiernes behov for at felles styring skal fungere i praksis.",
+      "recommended_action": "Godkjenn eller avvis pakken på ordinær human lesning; ingen lokal omskriving er kjent nødvendig.",
+      "priority": 1
+    },
+    {
+      "reason": "Kandidaten oppfyller ikke annonsens minimumskrav om fem års relevant erfaring; dokumentert relevant erfaring ved OUS er om lag tre og et halvt år.",
+      "recommended_action": "Vurder om rekruttererens femårsgrense er absolutt. Ikke forsøk å lukke gapet med eldre eller irrelevante arbeidsforhold.",
+      "priority": 2
+    },
+    {
+      "reason": "Praktisk OKR-erfaring er ikke dokumentert. Pakken viser nærliggende metodearbeid, workshop- og innføringspraksis uten å omtale dette som OKR-erfaring.",
+      "recommended_action": "Vurder om Huseierne vil akseptere overførbar erfaring med felles metodearbeid og fasilitering; ingen faktakorreksjon gjenstår i pakken.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Praktisk OKR-metodikk og en gjennomført målprosess fra virksomhetsstrategi til avdelings- og teammål er ikke dokumentert.",
+    "Kandidaten har om lag tre og et halvt års relevant erfaring, ikke annonsens minimum på fem år, og ingen konsulenterfaring.",
+    "Han har ikke eid en forretningsmessig prognoseprosess eller gjennomført faste styringsdialoger som formelt mandat.",
+    "Erfaring fra produktorganisasjon og kommersielle medlems- eller inntektsdrivere er tilstøtende, ikke direkte."
+  ],
+  "material_strategy_change": "Strammet pakken rundt to bevisenheter: en felles metode som faktisk ble brukt over tid, og kontrollert modernisering av et styringsverktøy i drift. Styringsinformasjon og løpende økonomiarbeid ligger som CV-bevis og som kort bro i søknaden, fremfor et tredje fortalt case.",
+  "upstream_claim_repaired": null,
+  "notes": [
+    "Fordelingsmodellen er uttrykkelig avgrenset som utformet beslutningsstøtte, ikke som innført løsning.",
+    "Budsjettverktøyets avgrensede modernisering, personlige kodeansvar og bruk i 2026-prosessen er beholdt uten påstander om eierskap til budsjettprosessen, målte gevinster eller nåværende 2027-status."
+  ]
+}

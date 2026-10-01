@@ -1,0 +1,60 @@
+{
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+    "EV:WORK#050-9-3-intervjuforsvarlige-historiekart",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach"
+  ],
+  "cv": {
+    "headline": "Samfunnsøkonom | Dataflyt, mapping og integrasjonskontroll",
+    "profile": "Samfunnsøkonom og rådgiver Økonomi og IKT ved Oslo universitetssykehus, med praktisk arbeid der data skal flyttes riktig mellom systemer og formater. Bygget på eget initiativ Excel/VBA-verktøy som konverterte og validerte gamle konteringslinjer til nytt ERP-format ved overgangen til REGERP, brukt av økonomirådgivere i flere klinikker, og har koblet data fra blant annet ADI, REGERP, GAT og lønnsgrunnlag i kontrollkritiske økonomiprosesser. Vant til behovsavklaring, dokumentasjon og opplæring mellom fagbrukere og tekniske løsninger.",
+    "competencies": [
+      "Mapping og konvertering mellom dataformater",
+      "Validering, feilsøking og kvalitetssikring av dataflyt",
+      "Filbaserte grensesnitt og skjemakontroll i Power Query",
+      "Behovsavklaring mellom fag og teknologi",
+      "Dokumentasjon, standardisering og onboarding",
+      "Oppfølging av oppgaver og avhengigheter",
+      "ERP-nære økonomiprosesser (REGERP, ADI, GAT)",
+      "Excel/VBA, Power Query M, SQL, Power BI, R/Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utformet en modell i fem arbeidsbøker der fire grenmodeller overføres til én konsolidering med skjemakontrollert Power Query-overføring, og kontroller som fanger umappede rader og skjema- og kontrollavvik. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Hovedutvikler av ETL og datamodell i et styringsdashbord bygget fra grunnen: Power Query-pipelines med egne funksjoner, type- og nullhåndtering og datakvalitetskontroller, og primær teknisk feilsøking; ansvarlig for den månedlige driften fra aug. 2025 til løsningen ble avviklet rundt feb. 2026.",
+          "Rekonstruerte og moderniserte sykehusets om lag 20 år gamle budsjetteringsverktøy i Excel/VBA som i praksis eneste kodende utvikler, med integrasjon av ansatt- og bemanningsdata, differansekontroll, akseptansekriterier og onboarding for controllere. I sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Utformet strukturerte bestillingsskjemaer som får frem formål, brukere, input, output, avhengigheter, risiko og akseptansekriterier før arbeid starter, og vurderte Forms-, Loop- og lavkodeløsninger for inntak og samhandling.",
+          "Deltok i etableringsgruppen på fire for Analyseavdelingen med oppgavestruktur, avhengigheter og prioritering i Scrum/Kanban."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Lærte VBA fra grunnen for å bygge egne verktøy som konverterte, standardiserte og validerte gamle konterings- og bilagslinjer mot REGERP-format, med mapping, feilrader og prosjekt- og kontokontroller. I perioden etter overgangen ble verktøyene brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Koblet data fra blant annet JIT, ADI, REGERP, GAT, personell- og lønnsgrunnlag og DRG-rapporter, dokumenterte arbeidssteg og utviklet kontroll- og valideringslogikk i arvede arbeidsbøker.",
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, avstemming, feilsøk og kvalitetssikring, og gjennomførte den mot slutten selvstendig."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Da Oslo universitetssykehus gikk over til REGERP, måtte gamle konteringslinjer over i et nytt format. Jeg lærte meg VBA for å løse det og bygget verktøy som konverterte linjene, sjekket prosjekt og konto og skrev ut feilrader som måtte rettes. I perioden etter overgangen ble verktøyene brukt av økonomirådgivere i flere klinikker. Det er den typen arbeid jeg vil gjøre mer av, nå med kunder og leverandører i Würth.",
+    "body_paragraphs": [
+      "I den samme klinikken koblet jeg data fra blant annet ADI, REGERP, GAT og lønnsgrunnlag i månedsoppgjøret og rapporteringen, og utviklet kontroll- og valideringslogikk i arbeidsbøkene. Senere, i Analyseavdelingen, utformet jeg en modell der fire delmodeller overføres til én samlet modell med skjemakontroll i Power Query, og der kontrollene viser umappede rader og avvik i skjema. Det er ikke EDI, men det er de samme spørsmålene: hvordan feltene i kilden svarer til feltene i mottakeren, hva som skjer når en rad ikke passer, og hvordan man ser det før det blir et problem.",
+      "Integrasjoner handler også om mennesker på begge sider. I moderniseringen av sykehusets budsjetteringsverktøy var jeg i praksis eneste kodende utvikler i en prosess med om lag 50 involverte, og jeg laget onboarding for controllerne som bruker verktøyet. I Analyseavdelingen har jeg utformet bestillingsskjemaer som får frem formål, input, output, avhengigheter og akseptansekriterier før arbeidet starter. Det er en god vane også når en kunde eller leverandør skal kobles på.",
+      "Kunnskap om EDI-standarder, PunchOut, prisfiler og Seeburger vil jeg bygge opp gjennom opplæringen dere tilbyr. Det jeg tar med, er erfaringen med å sette meg inn i ukjente systemer og formater raskt, en bachelor og master i samfunnsøkonomi som gjør det lett å forstå forretningssiden av dataflyten, og vanen med å dokumentere det jeg gjør slik at andre kan overta."
+    ],
+    "closing": "Jeg forteller gjerne mer i et intervju."
+  },
+  "writer_note": "EDI, PunchOut, prisfiler og Seeburger er ikke dokumentert; annonsen gjør dem til læringsområder og fordeler."
+}

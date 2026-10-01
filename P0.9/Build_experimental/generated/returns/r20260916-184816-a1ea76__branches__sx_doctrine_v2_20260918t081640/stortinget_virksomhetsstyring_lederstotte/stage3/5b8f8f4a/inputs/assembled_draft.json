@@ -1,0 +1,58 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "ASSEMBLED",
+  "cv": {
+    "headline": "Rådgiver i stab – beslutningsstøtte og arbeidsprosesser",
+    "profile": "Rådgiver økonomi og IKT i Direktørens stab ved Oslo universitetssykehus, med mastergrad i samfunnsøkonomi. Arbeider i grenseflaten mellom ledelsens behov for planlegging og oppfølging og de digitale flatene arbeidet faktisk skjer i. Overtok som nyansatt hele den tildelte månedsoppgjørsflyten i en klinikkstab og rapporterte den selv til ledere; utformer i dag arbeidsmodell, arbeidsinntak og beslutningsgrunnlag for et tverrfaglig analysemiljø. Gjennomfører endring med definisjoner, kontroller og akseptansekriterier som lar andre etterprøve hva som ble besluttet.",
+    "competencies": [
+      "Stabs- og lederstøtte: planlegging, koordinering og oppfølging av saker, møter og leveranser",
+      "Beslutningsgrunnlag: notater, beslutningssammendrag og rapportering til ledere",
+      "Utredning og analyse på samfunnsvitenskapelig metodegrunnlag",
+      "Arbeidsprosessdesign: arbeidsinntak, oppgaveflyt, prioritering og avhengigheter",
+      "Digitale samhandlings- og oppfølgingsflater i Microsoft 365",
+      "Kontroll og sporbarhet: definisjoner, kildepresedens, validering og akseptansekriterier",
+      "Formidling og kompetanseoverføring: workshops, onboarding, veiledning og overlevering",
+      "Organisasjonsforståelse på tvers av fag-, økonomi- og teknologimiljøer"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Deltok i den firepersoners gruppen som etablerte Analyseavdelingen, og utformer arbeidsmodell, oppgavehierarki, prioritering og digitale arbeidsflater for et tverrfaglig fagmiljø.",
+          "Strukturerer arbeidsinntak som fanger formål, brukere, beslutningsbehov, avhengigheter, risiko, prioritet og akseptansekriterier før arbeid settes i gang, og omsetter brede eller uavklarte behov til avgrensede leveranser med kontroller og dokumentasjon.",
+          "Skriver beslutningssammendrag og referansemateriell tilpasset ledere, controllere og fagmiljøer, og planlegger og gjennomfører workshops, onboarding og overlevering.",
+          "Gjennomførte kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy langs en smal funksjon-for-funksjon-linje med differansekontroll, akseptansekriterier og risikoregister; verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Etablerer definisjoner, kildepresedens, validering og endringskontroll i prosjektene, og vurderer eksponering av sensitive data i en regulert virksomhet."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avsetninger, avstemming, feilsøk og resultatforklaring, og kvalitetssikret, rapporterte og distribuerte månedsrapporteringen til klinikkledere selv.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP; verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Bidro i budsjettprosessen for 2024 med registrering av årsverk og kvalitetssikring av bemanningsgrunnlag, og arbeidet løpende med prosjektøkonomi og økonomiske avklaringer."
+        ]
+      }
+    ],
+    "tools_line": "Microsoft 365 (Loop, Forms, Teams, Excel/VBA), Power BI, DAX, Power Query, SQL og prosjektavhengig R/Python; Scrum/Kanban, akseptansekriterier, endringskontroll og risikoregister."
+  },
+  "letter": {
+    "opening": "Stortingets administrasjon skal både ivareta og fornye institusjonen. For meg setter det en konkret ramme for forbedringsarbeidet: nye arbeidsformer må kunne etterprøves, samtidig som den løpende driften holdes i gang. Jeg velger rådgiversporet, med erfaring fra å overta faste stabsoppgaver og utforme strukturene rundt nye. Det er kombinasjonen av praktisk oppfølging og rom for å forbedre selve arbeidsformen som gjør denne rollen interessant for meg.",
+    "body_paragraphs": [
+      "I Barne- og ungdomsklinikkens stab gikk jeg fra opplæring og kontroll av eget arbeid til selv å stå for kvalitetssikringen og rapporteringen til ledere. Overtakelsen krevde at jeg forsto sammenhengen mellom det som ble registrert, kontrollene underveis og forklaringen mottakeren trengte. Jeg sammenstilte økonomi-, bemannings- og aktivitetsgrunnlag til lederrapportering og dokumenterte arbeidssteg i flyten. Å følge en sak helt frem betyr for meg også å kunne forklare resultatet, ikke bare levere tallene. Den erfaringen er relevant for en stab der både små oppfølgingsoppgaver og større beslutningsgrunnlag må få en tydelig avslutning. Løpende økonomiske avklaringer ga dessuten trening i å håndtere saker etter behov, innenfor økonomilederens kapasitet og den tildelte oppgaven.",
+      "I analyseavdelingens firepersoners miljø har jeg utformet arbeidsmodell og arbeidsinntak med et spørsmål foran verktøyvalget: Hvilken beslutning skal dette arbeidet gjøre mulig? Formål, avhengigheter og kriterier for ferdig arbeid er derfor med i inntaket. Et separat arbeid med sykehusets budsjetteringsverktøy viser hvordan jeg håndterer en fastsatt ramme: Jeg anbefalte en bredere omstrukturering, men gjennomførte kodeendringene funksjon for funksjon slik innføringslederen krevde. I en prosess med om lag 50 involverte brukte jeg sammenligning med opprinnelig funksjon og eksplisitte akseptansekriterier for å kontrollere endringene. En annen foretrukket løsning fritar ikke for å gjøre den valgte løsningen etterprøvbar. Jeg skriver også korte beslutningssammendrag og mer detaljert referansemateriell, slik at mottakeren får riktig dybde. Decisions og Planner lærer jeg raskt; det jeg tar med, er arbeidet med å få saker, møter og beslutninger til å henge sammen i de samhandlingsflatene en avdeling faktisk jobber i."
+    ],
+    "closing": "Hvor i avdelingens årshjul er behovet størst for å knytte planlegging, beslutning og oppfølging tettere sammen?"
+  },
+  "used_evidence_refs": [
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+  ]
+}

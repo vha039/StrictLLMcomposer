@@ -1,0 +1,37 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Pakken søker uttrykkelig ERP-rådgiversporet innen finans og dokumenterer økonomiprosessarbeid, datakonvertering ved ERP-overgang og kontrollert systemendring med kildestøttede case. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning. Søknader behandles fortløpende."
+    },
+    {
+      "priority": 2,
+      "reason": "BNXT/Visma-erfaring, konsulentarbeid i kundeprosjekter og full ERP-implementering er ikke dokumentert; REGERP-verktøyene var egne hjelpeverktøy, ikke del av den sentrale innføringen.",
+      "recommended_action": "Ingen redigering. Forbered et intervjusvar om hvordan økonomiprosessforståelsen overføres til kundeimplementeringer."
+    },
+    {
+      "priority": 3,
+      "reason": "Seniorsporets minstekrav om solid ERP-leverandør- og rådgivningserfaring er ikke oppfylt, og pakken posisjonerer ikke mot det.",
+      "recommended_action": "Ingen endring. Bekreft ved innsending at søknaden gjelder ERP-rådgiverrollen."
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert erfaring med BNXT, Visma eller ERP-konsulentarbeid mot kunder.",
+    "Logistikk og lagerprosesser i ERP er ikke dokumentert utover kortvarig butikk- og lagerarbeid i Ahlsell.",
+    "Ingen dokumentert erfaring med lønnsproduksjon, årsoppgjør eller kommersielt ansvar for lønnsomme leveranser.",
+    "Arbeidssted (Son eller annet Abacus-kontor) og tiltredelse er ikke omtalt."
+  ],
+  "material_strategy_change": "Ruten er beholdt. Brevet åpner med REGERP-overgangen sett fra brukersiden og lar hjelpeverktøyene stå som eget argument om datakonvertering og validering, mens arbeidsinntaksskjemaene og fordelingsmodellen for steril logistikk er lagt til i CV-en som bredde i behovsanalyse og økonomimodellering.",
+  "upstream_claim_repaired": null,
+  "notes": [
+    "Tett kundedialog fra tidligere arbeid (Sector Alarm) er dokumentert i CV-kronologien, ikke i brevet."
+  ],
+  "binding": {
+    "run_id": "r20260914-211651-5dbd38",
+    "job_id": "abacus_erp_radgiver",
+    "final_package_sha256": "bbb5dfbaff4742640cbbd6eb94e5329b0899ca71dcf1453c45905329edf3ec7b"
+  }
+}

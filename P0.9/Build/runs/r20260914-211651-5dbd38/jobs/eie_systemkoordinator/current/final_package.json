@@ -1,0 +1,85 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT med erfaring fra systemforbedring og brukerveiledning",
+    "profile": "Rådgiver økonomi og IKT ved Oslo universitetssykehus med master i samfunnsøkonomi og pågående masterprogram i kunstig intelligens. Registrert KI-superbruker i om lag tre år som svarer på tekniske henvendelser i Teams, og som bruker KI i analyse, utvikling og dokumentasjon med tydelige kilder og kontroll. Har laget hjelpeverktøy som ble brukt av økonomirådgivere i flere klinikker, og opplæringsmateriell for controllere til et budsjetteringsverktøy som er i bruk i hele sykehuset.",
+    "competencies": [
+      "Brukerhjelp og teknisk feilsøking",
+      "Veiledninger, opplæring og workshops",
+      "Praktisk KI-bruk i arbeidsprosesser",
+      "Utprøving og vurdering av nye verktøy",
+      "Brukertester og forbedring av løsninger",
+      "Microsoft 365, Excel/VBA og Power BI",
+      "Behovsavklaring og kravstruktur",
+      "Økonomi og virksomhetsforståelse"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Registrert KI-superbruker ved OUS i om lag tre år. Svarer på tekniske henvendelser i en Teams-kanal og bruker KI i analyse, utvikling og dokumentasjon med definerte kilder, avgrensede oppgaver, testing og menneskelig gjennomgang.",
+          "Ansvarlig for et styringsdashbord i Power BI fra om lag august 2025 til det ble avviklet rundt februar 2026: månedlig drift, teknisk feilsøking og brukertester med faktiske brukere, der observerte problemer ble fulgt opp i avgrensede forbedringsrunder. Hovedutvikler av datamodellen, mens kolleger ledet innhold og visuell utforming.",
+          "Laget onboarding- og presentasjonsmateriell for controllere og var i praksis eneste kodende utvikler da sykehusets budsjetteringsverktøy i Excel/VBA ble modernisert, i en prosess med om lag 50 involverte. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Ledet en intern workshop for økonomkolleger om prosesskartlegging, datakvalitet og Power BI, og veiledet tekniske medarbeidere utenfor egen avdeling i Power BI og datamodellering gjennom flere arbeidsmøter.",
+          "Deltok i tidlig tilgang og utprøving knyttet til Microsoft Fabric, Power Platform, dbt, Pega og Python, og vurderte mulighetene opp mot sykehusets faktiske begrensninger.",
+          "Utformet strukturerte skjemaer for innmelding av behov (formål, brukere, avhengigheter, prioritet og akseptansekriterier) og vurderte løsninger i Forms, Loop, Power BI og lavkodeverktøy.",
+          "Utvikler beslutningsstøtte for økonomi, bemanning og aktivitet med Power BI, Excel/VBA, SQL og R/Python etter behov."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av gamle konteringslinjer ved overgangen til REGERP, og lærte VBA fra grunnen gjennom arbeidet. Verktøyene ble brukt relativt ofte av økonomirådgivere i flere klinikker kort etter overgangen.",
+          "Overtok etter opplæring hele den tildelte månedsoppgjørsflyten innen om lag tre måneder og gjennomførte mot slutten oppgjør, kvalitetssikring og rapportering til ledere i klinikken selvstendig.",
+          "Koblet data fra blant annet ADI, REGERP, GAT og aktivitetsrapporter, dokumenterte arbeidssteg og forbedret arvede arbeidsbøker med kontroll- og valideringslogikk.",
+          "Bidro med prosjektøkonomi, fakturering og budsjettarbeid for 2024, blant annet med et eget budsjetthjelpeark."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "I om lag tre år har jeg vært registrert KI-superbruker ved Oslo universitetssykehus og svart på tekniske henvendelser i en Teams-kanal. Til daglig er jeg rådgiver økonomi og IKT i Analyseavdelingen, der jeg lager og forbedrer verktøy som ledere, controllere og fagfolk skal bruke. Jeg har master i samfunnsøkonomi, er i gang med et masterprogram i kunstig intelligens og søker stillingen som systemkoordinator hos EIE.",
+    "body_paragraphs": [
+      "Ved overgangen til REGERP, mens jeg arbeidet i Barne- og ungdomsklinikken, måtte gamle konteringslinjer gjøres om til den nye strukturen. Jeg tok initiativ til å lage Excel/VBA-verktøy som konverterte og kontrollerte linjene, og lærte meg VBA underveis. Kort etter overgangen ble verktøyene brukt relativt ofte av økonomirådgivere i flere klinikker. Når nye verktøy tas i bruk eller nye kontorer skal i gang hos EIE, er det denne typen praktisk hjelp jeg vil bidra med.",
+      "Fra om lag august 2025 til det ble avviklet rundt februar 2026 hadde jeg ansvaret for et styringsdashbord i Power BI. Jeg holdt det oppdatert hver måned, var den som feilsøkte når noe ikke virket, og testet løsningen sammen med faktiske brukere. Der jeg så at de ble usikre eller misforsto noe, samlet jeg innspillene og tok dem i korte, avgrensede forbedringsrunder. Jeg har også holdt en intern workshop for økonomkolleger og laget opplæringsmateriell for controllerne som bruker sykehusets budsjetteringsverktøy. Veiledninger og opplæring for meglerne vil jeg bygge på samme måte, med utgangspunkt i hvor folk faktisk står fast.",
+      "Når jeg bruker KI i analyse, utvikling og dokumentasjon, avgrenser jeg oppgaven, legger inn kildene som skal gjelde og sjekker svaret før det brukes videre. Jeg har også vært med på tidlig utprøving av plattformer som Microsoft Fabric, Power Platform og Pega, der oppgaven var å vurdere hva som kunne fungere innenfor sykehusets begrensninger. Det vil jeg ta med inn i samarbeidet med Brokio: finne ut sammen med meglerne hvor KI kan forenkle arbeidsdagen, prøve det ut i praksis og gjøre det som fungerer, lett å ta i bruk."
+    ],
+    "closing": "Jeg søker fordi rollen ligger tett på brukerne, med KI som en stor del av arbeidet og et eget teknologiselskap å utvikle løsningene sammen med. Der kan erfaringen fra sykehuset brukes på noe meglerne merker i sin egen arbeidsdag. Jeg tar gjerne en prat om stillingen."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#045-7-teknologi-og-metodeinventar",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#028-4-4-trygge-ki-pastander"
+  ],
+  "writer_note": "Brukernær rute: KI-superbruker åpner; REGERP-verktøyene bærer hjelp ved systemovergang med dokumentert bruk i flere klinikker; dashbordansvaret bærer feilsøking, brukertester og forbedring; KI-bruk og plattformutprøving er bro til Brokio. Kontoretablering, Core/EIE 365 og megling er ikke antydet; kundedialog fra Sector Alarm står i CV-kronologien.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-14",
+    "finalized_at": "2026-09-14T21:48:06Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260914-211651-5dbd38",
+    "job_id": "eie_systemkoordinator",
+    "employer": "EIE eiendomsmegling",
+    "title": "Systemkoordinator",
+    "manifest_sha256": "b755e5aa292f4ccc4c5ab42e27e51e889495ca56a7e85faf6a31d1755ffbf588",
+    "vacancy_sha256": "297d52a3417b3fb25542930633525245ce29c17165deb3328d559dfbf72a66a5",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "3b29e4540213373d6c7020e0d26818cd01da612755379dbf320727452fefe9d3",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "5acd7105d4ab59076ed0720c3c3d0cf6d13b677a2a6aee6275b4f0b7b5a19cd4"
+  }
+}

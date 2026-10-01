@@ -1,0 +1,414 @@
+{
+  "application_direction": {
+    "backbone": "Avinor trenger å øke gjennomføringskraften i digitaliseringen og styre investeringer mot dokumenterbar virksomhetsverdi i en sikkerhetskritisk konsernkontekst. Bygg argumentet rundt kandidaten som en samfunnsøkonomisk rådgiver som kobler gevinstlogikk, styring og teknologi til praktisk innføring: det sykehusdekkende gevinstrealiseringsrammeverket viser felles metode og varighet, mens moderniseringen av budsjetteringsverktøyet viser kontrollert digital endring som ble tatt i bruk.",
+    "top_employer_problems": [
+      "Sikre at digitale initiativer og investeringer gir målbar verdi og gevinst for virksomheten.",
+      "Omsette strategiske ambisjoner til prioriterte tiltak og leveranser på tvers av produkter, prosjekter og porteføljer.",
+      "Utvikle styringsmodeller, beslutningsprosesser og arbeidsformer som skaper fremdrift mellom teknologi, forretning, organisasjon og ledelse."
+    ],
+    "structure_guidance": "La søknaden vise en sammenhengende verdikjede fra strategisk hensikt til styringslogikk, prioritering, implementering og bruk. Gevinstrealiseringsrammeverket skal bære metode- og verdistyringsargumentet; budsjetteringsmoderniseringen skal bære gjennomførings- og endringsargumentet. Bruk investeringsmodellen eller arbeidsmodellcasene kort for å vise dømmekraft under usikkerhet og tverrfaglig fasilitering, ikke som et tredje hovedcase."
+  },
+  "avoid_guidance": [
+    "Ikke hev formell ledelse av konserntransformasjon, program, portefølje, produkt eller personell; dokumentasjonen støtter funksjonell/teknisk ledelse og bidrag i større initiativer.",
+    "Ikke gjør det sykehusdekkende gevinstrealiseringsrammeverket til soloarbeid, og ikke hev målt individuell effekt eller realiserte gevinster.",
+    "Ikke presenter den utformede investerings-/proxy-modellen som implementert, vedtatt eller som bevis på realisert avkastning.",
+    "Ikke led med KI, Power BI, Fabric eller teknisk nyhetsverdi; teknologien skal forklare forretningsverdi, gjennomføring og kontrollert endring.",
+    "Ikke likestill helse og luftfart eller hev flyplass-, luftfarts- eller konsernporteføljeerfaring; bruk OUS kun som dokumentert erfaring fra en kompleks og regulert samfunnskritisk virksomhet.",
+    "Ikke bruk FINNs KI-genererte JobMatch-score, vurdering eller søknadstips som arbeidsgiverkrav eller kandidatbevis."
+  ],
+  "counterfactual_route": {
+    "identity": "Forretning–teknologi-rådgiver for arbeidsformer, prioritering og kontrollert implementering",
+    "rationale": "Bruk denne ruten dersom Avinor i praksis vektlegger fasilitering, arbeidsformer og tverrfaglig gjennomføring mer enn portefølje- og gevinststyring. Den gir mer direkte personlig bidrag gjennom kravstrukturering, workshoparbeid, prioritering og en digital leveranse som ble tatt i bruk, men har svakere dekning av konsernstrategi og porteføljemandat.",
+    "evidence_refs": [
+      "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+      "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+      "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+    ]
+  },
+  "cv_direction": {
+    "headline_direction": "Samfunnsøkonom og rådgiver innen gevinstrealisering, digitalisering og styring",
+    "emphasis": [
+      "Fullført mastergrad i samfunnsøkonomi og nåværende rolle som Rådgiver Økonomi og IKT ved OUS.",
+      "Sykehusdekkende gevinstrealiseringsrammeverk utviklet i et firepersonsteam, innført som felles standard og med dokumentert varighet.",
+      "Kontrollert modernisering av et virksomhetskritisk budsjettverktøy i en bred interessentkontekst, med onboarding og faktisk bruk.",
+      "Strukturering av arbeidsinntak, prioritering, avhengigheter, akseptansekriterier og workshopbaserte arbeidsformer.",
+      "Lederrettede analyser, styringsinformasjon, beslutningsgrunnlag og oversettelse mellom virksomhet og teknologi."
+    ],
+    "deprioritize": [
+      "Detaljert kode-, modell- og plattforminventar som ikke forklarer verdistyring eller endring.",
+      "Pågående KI-utdanning som hovedidentitet.",
+      "Aktive eller utforskende initiativer uten dokumentert innføring som om de var fullførte transformasjonsresultater."
+    ]
+  },
+  "employer_decision_problem": "Avinors nye enhet for Digital Transformasjon må gjøre teknologi, data og nye arbeidsformer til tryggere drift, mer effektive tjenester og bærekraftig utvikling. De må velge en seniorrådgiver som kan styre og prioritere initiativer på tvers, gjøre gevinst og virksomhetsverdi målbar, omsette strategi til leveranser og skape fremdrift mellom ledelse, forretning, fagmiljøer og teknologi.",
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Hovedbevis for gevinstrealisering og styringsmodell: kandidaten var med på å forbedre en metode og utvikle et felles rammeverk som ble innført som sykehusdekkende standard og var i bruk om lag to og et halvt år senere.",
+      "claim_ceiling": "Kandidaten var ett av fire teammedlemmer og kan ikke kalles eier, soloforfatter eller metodeleder. Ingen individuell eller målt gevinst-/effektpåstand er dokumentert.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Hovedbevis for digital gjennomføring og endring under reelle driftskrav: kandidaten rekonstruerte og moderniserte et virksomhetskritisk budsjettverktøy, integrerte bemanningsdata, arbeidet i en bred interessentprosess og støttet onboarding; den moderniserte versjonen ble brukt i budsjettarbeidet.",
+      "claim_ceiling": "Ikke hev at kandidaten skapte originalverktøyet, eide budsjettprosessen eller hele moderniseringen, ledet et konsernprogram, leverte 2027-versjonen ferdig eller dokumenterte kvantifiserte gevinster.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Støttebevis for analytisk verdistyring under mangelfulle data: kandidaten avviste falsk presisjon og utformet en transparent, justerbar proxyarkitektur for gevinstfordeling og investeringsstøtte.",
+      "claim_ceiling": "Arkitekturen er designet, men implementering, endelige vekter, organisatorisk bruk, overlevering og realiserte gevinster er uavklart. Ingen ROI eller direkte effektmåling kan hevdes.",
+      "lifecycle": "CONCEPT"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "role": "Støttebevis for å utvikle arbeidsformer, prioritering og beslutningsstruktur: kandidaten har utformet WIP-/oppgavestrukturer, kartlagt ansvar og avhengigheter, fasilitert workshops og strukturert formål, risiko og akseptansekriterier før levering.",
+      "claim_ceiling": "Bevar skillet mellom forslag, evaluering og faktisk innført praksis. Ikke hev formelt organisasjonsdesignmandat, porteføljeansvar, programansvar, produktansvar eller personalledelse."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "role": "Støttebevis for beslutningsgrunnlag og brukerrettet styringsinformasjon: kandidaten hadde hovedbidrag i backend for en tverrgående styringsløsning, driftet den månedlig i en avgrenset periode og forbedret den gjennom observasjon av faktiske brukere.",
+      "claim_ceiling": "Ikke hev alt innhold eller visuell utforming, nåværende eierskap, kvantifisert effekt eller virksomhetsarkitekturmandat. Løsningen ble avviklet rundt februar 2026.",
+      "lifecycle": "DECOMMISSIONED"
+    }
+  ],
+  "headline_hypothesis": "Samfunnsøkonom og rådgiver innen gevinstrealisering, digitalisering og styring",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Drive strategiske initiativer og omsette strategiske ambisjoner til konkrete tiltak og leveranser.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Strategi-/metodebidrag og gjennomførte leveranser er støttet, men ikke et formelt mandat til å drive konsernstrategiske initiativer."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Sikre at digitale initiativer og investeringer gir målbar verdi og gevinst for virksomheten.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Gevinstmetode, investeringsstøtte og målelogikk er dokumentert; ansvar for realisering og målte digitale gevinster er ikke."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Styrke prioritering og styring på tvers av produkter, prosjekter og porteføljer.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Prioritering, WIP, avhengigheter og beslutningsstruktur er støttet på prosjekt-/teamnivå; konsernporteføljestyring er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Videreutvikle arbeidsformer, styringsmodeller og prosesser som øker gjennomføringskraften.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ]
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Drive og fasilitere strategiske prosesser, workshops og beslutningsfora.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Workshopfasilitering og beslutningsrettet formidling er støttet; ansvar for formelle strategiske beslutningsfora er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Utarbeide analyser, beslutningsgrunnlag og presentasjoner for ledelse og styringsgrupper.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ]
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Bygge bro mellom teknologi, forretning og organisasjon for helhetlig utvikling og verdiskaping.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ]
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Erfaring fra større transformasjons-, endrings- eller digitaliseringsinitiativer.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Større digitalisering og sykehusdekkende metodeendring er dokumentert; ikke kall dem konserntransformasjonsprogrammer."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Bakgrunn fra strategi, virksomhetsutvikling, teknologi, endringsledelse eller operasjonelt lederansvar i områder som har gjennomgått større endringer.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "note": "Teknologi, virksomhetsnær analyse og kontrollert endring er støttet; formelt endringsleder- eller operasjonelt lederansvar er ikke."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "God forståelse for hvordan teknologi kan skape forretningsverdi.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#038-6-3-data-engineering-og-integrasjon"
+      ]
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Erfaring med porteføljestyring, gevinstrealisering eller virksomhetsstyring.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael"
+      ],
+      "note": "Gevinstrealisering og virksomhetsstyring er direkte støttet; porteføljestyring er ikke dokumentert som formelt ansvar."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Sterke kommunikasjons- og fasiliteringsferdigheter.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Bygge relasjoner og skape samarbeid på tvers av fagområder og organisasjonsnivåer.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ],
+      "note": "Tverrorganisatorisk samarbeid og tilpasset interessentkommunikasjon er støttet; ikke hev formell påvirkningsmyndighet på konsernnivå."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Strukturert og analytisk tilnærming kombinert med høy gjennomføringsevne.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Høyere utdanning innen teknologi, ledelse, økonomi, organisasjonsutvikling eller tilsvarende.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ]
+    },
+    {
+      "requirement_id": "R16",
+      "text": "Flere års erfaring fra strategisk utviklingsarbeid, digital transformasjon eller større endringsprosesser.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Relevant OUS-erfaring løper fra mars 2023; bruk faktisk prosjektomfang og ikke antyd lengre transformasjonsansiennitet."
+    },
+    {
+      "requirement_id": "R17",
+      "text": "Erfaring med å lede eller støtte komplekse initiativer på tvers av organisasjonen.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "note": "Støtte, samskaping og funksjonell/teknisk ledelse er dokumentert; ikke formell program-, portefølje- eller linjeledelse."
+    },
+    {
+      "requirement_id": "R18",
+      "text": "Erfaring med utvikling av styringsmodeller, beslutningsprosesser eller porteføljestyring.",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Styringsrammeverk og beslutningsstruktur er støttet; porteføljestyring i seg selv er ikke."
+    },
+    {
+      "requirement_id": "R19",
+      "text": "Meget gode skriftlige og muntlige kommunikasjonsevner på norsk og engelsk.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "requirement_id": "R20",
+      "text": "Evne og vilje til læring, nysgjerrighet og å finne nye løsninger sammen med andre.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ]
+    },
+    {
+      "requirement_id": "R21",
+      "text": "Digitale ferdigheter og trygghet i å ta i bruk nye systemer og verktøy.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#039-6-4-programmering-automatisering-og-impl"
+      ]
+    },
+    {
+      "requirement_id": "R22",
+      "text": "God helhetsforståelse og evne til å se sammenhenger i komplekse og samfunnsviktige problemstillinger.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael"
+      ]
+    }
+  ],
+  "motivation_bridge": "Avinors behov for å gjøre digitale investeringer til tryggere drift, mer effektive tjenester og bærekraftig samfunnskritisk infrastruktur er en konkret neste bruk av kandidatens erfaring fra et annet regulert og komplekst samfunnsoppdrag. Det faglig meningsfulle er ikke teknologien alene, men å etablere gevinstlogikk, beslutningsgrunnlag og arbeidsformer som gjør at endring faktisk kan prioriteres, gjennomføres og tas i bruk.",
+  "objections": [
+    {
+      "objection": "Kandidaten har ikke dokumentert formelt ansvar for en konserntransformasjon, digital portefølje eller strategisk beslutningsmyndighet på konsernnivå.",
+      "reframe": "Vis funksjonell/teknisk ledelse gjennom prioritering, arkitektur, kravstruktur, workshops, kontroll og innføring, og bruk sykehusdekkende standardisering og den brede budsjettmoderniseringen som bevis på arbeid på tvers.",
+      "honesty_note": "Ikke bruk leder-, program-, portefølje- eller produkteiertitler."
+    },
+    {
+      "objection": "Transformasjonserfaringen er dokumentert fra 2023 og er kortere enn hos mange typiske seniorprofiler.",
+      "reframe": "La senioriteten komme fra kompleksitet, dømmekraft, personlig bidrag, tverrfaglig omfang, innføring og lifecycle-ansvar fremfor tittel eller oppblåst ansiennitet.",
+      "honesty_note": "Formell tittel er Rådgiver Økonomi og IKT og relevant OUS-periode starter i mars 2023."
+    },
+    {
+      "objection": "Gevinstarbeidet dokumenterer metode, standardisering og beslutningsarkitektur, men ikke personlig realiserte eller kvantifiserte gevinster fra digitale investeringer.",
+      "reframe": "Fremhev evnen til å etablere transparent måle- og beslutningslogikk og å få en felles metode innført; bruk budsjetteringsverktøyets faktiske bruk som separat gjennomføringsbevis.",
+      "honesty_note": "Ikke konverter innføring, varighet eller planlagt måling til dokumentert økonomisk effekt."
+    },
+    {
+      "objection": "Kandidaten mangler direkte luftfarts-, flyplass- og sikkerhetskritisk teknologierfaring.",
+      "reframe": "Bruk OUS nøkternt som bevis på arbeid med samfunnskritiske tjenester, regulerte data, høy konsekvens av feil og kontrollert endring; motivasjonen skal vise respekt for domenelæring fremfor å hevde direkte likhet.",
+      "honesty_note": "Ingen kandidatmyndighet etablerer luftfartsdomene, flyplassdrift eller sikkerhetsklarering."
+    },
+    {
+      "objection": "Den tekniske bredden kan overskygge rollen som strategisk rådgiver og gi inntrykk av en BI-/utviklerprofil.",
+      "reframe": "La teknologi være bevis på at kandidaten kan omsette styring og gevinstlogikk til praktiske leveranser; led med verdi, prioritering, arbeidsformer og gjennomføring.",
+      "honesty_note": "Tekniske detaljer hører primært hjemme som selektiv CV-dokumentasjon eller intervjureserve."
+    }
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-01",
+      "plain_language_label": "Systemkartlegging og årsaksrettet problemnedbryting",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "expression_ceiling": "Kan uttrykkes som evne til å avklare beslutningsproblemer, synliggjøre antakelser og koble mål, data og gjennomføring i konkrete prosjekter; ikke som formelt konsernstrategi-, portefølje- eller virksomhetsarkitekturmandat.",
+      "vacancy_relevance": "Avinor må prioritere og styre digitalisering på tvers av flere organisatoriske og tekniske lag.",
+      "intended_employer_interpretation": "En rådgiver som kan skape en beslutningsklar helhet av kompleksitet og motstridende hensyn.",
+      "misread_risk": "Kan fremstå som analyse- eller arkitekturtung uten tilstrekkelig fremdrift.",
+      "expression_guardrail": "Par alltid problemstruktureringen med et dokumentert implementerings- eller bruksutfall."
+    },
+    {
+      "facet_id": "PF-08",
+      "plain_language_label": "Perspektivtaking i tverrfaglig samarbeid",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "expression_ceiling": "Kan uttrykkes gjennom brukerobservasjon, tilpasset formidling, kompetanseoverføring og workshopfasilitering; ikke som universell relasjonsstyrke, forhandlingsmandat eller dokumentert påvirkning av konsernledelse.",
+      "vacancy_relevance": "Rollen må bygge bro mellom teknologi, forretning, organisasjon, ledere og fagmiljøer.",
+      "intended_employer_interpretation": "En faglig tydelig rådgiver som undersøker ulike behov og gjør dem forståelige på tvers.",
+      "misread_risk": "Teknisk presisjon kan tolkes som svakere mottaker- og endringsorientering.",
+      "expression_guardrail": "Vis konkrete brukere, workshops og tilpasset formidling; ikke bruk generelle personlighetspåstander."
+    },
+    {
+      "facet_id": "PF-19",
+      "plain_language_label": "Endringsvilje med produksjonsnære kontrollmekanismer",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "expression_ceiling": "Kan uttrykkes som vilje til å utforske og gjennomføre forbedring samtidig som kontinuitet, validering og reell risiko ivaretas i konkrete leveranser; ikke som formell endringsledelse, konserntransformasjon eller produksjonseierskap for nye plattformer.",
+      "vacancy_relevance": "Avinor skal øke gjennomføringskraften uten å miste sikkerhet, drift eller kvalitet av syne.",
+      "intended_employer_interpretation": "En endringsorientert gjennomfører som bruker kontroll til å muliggjøre trygg fremdrift.",
+      "misread_risk": "Kontroll- og valideringsfokuset kan tolkes som endringsskepsis eller prosessbyråkrati.",
+      "expression_guardrail": "Led med den gjennomførte moderniseringen og faktisk bruk; kontroller omtales bare som midler for trygg endring."
+    }
+  ],
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver i økonomi og IKT som kobler gevinstlogikk, virksomhetsbehov og teknologi til styringsmodeller, beslutningsgrunnlag og kontrollert digital gjennomføring.",
+  "requires_source_inspection_observed": true,
+  "risk_notes": [
+    "Den originale annonsen måtte inspiseres visuelt fordi den avledede visningen ikke inneholdt lesbar tekst; FINNs KI-genererte JobMatch-panel er holdt utenfor arbeidsgiverkravene.",
+    "Kandidatens sterkeste evidens gjelder gevinstmetode, digital implementering og funksjonell ledelse, ikke formelt konsern-, program- eller porteføljemandat.",
+    "Dokumentert relevant erfaring starter i 2023; senioritet må vises gjennom omfang og dømmekraft, ikke oppblåst ansiennitet.",
+    "PRJ-06 er et design-/beslutningsarkitekturbevis uten dokumentert implementering eller realisert gevinst."
+  ],
+  "selection_logic": "Utvalget vil trolig først se etter flere års troverdig erfaring fra større endrings- eller digitaliseringsinitiativ, relevant høyere utdanning og styrke i kommunikasjon og fasilitering. Deretter avgjøres shortlisten av om kandidaten kan koble strategisk prioritering, gevinstrealisering, styringsmodeller og gjennomføring på tvers uten å miste virksomhetsverdi eller sikker drift. Kandidaten bør derfor ikke konkurrere som formell transformasjons- eller porteføljeleder, men som en verdistyrt digitaliseringsrådgiver med dokumentert metode, implementering og tverrfaglig arbeidsstruktur.",
+  "shortlist_thesis": "Kandidaten kan styrke Avinors transformasjonsmiljø fordi han kombinerer økonomisk og analytisk dømmekraft med tre relevante praksiser: en felles gevinstmetode som ble innført og varte, kontrollert modernisering av en kritisk digital arbeidsprosess som ble brukt, og beslutnings-/arbeidsstrukturer som gjør uklare behov prioriterbare. Det gir en troverdig vei fra digital ambisjon til verdi og gjennomføring, uten å late som han allerede har eid en konsernportefølje.",
+  "writer_guidance": "CV-en skal dokumentere utdanning, kronologi, prosjektomfang, personlig bidrag, lifecycle og tverrfaglig arbeid. Søknaden skal argumentere for Avinors verdistyrings- og gjennomføringsproblem uten å gjenta CV-punktene. Bruk sterke, nøkterne arbeidsverb: gevinstrealiseringsrammeverket beviser felles metode og varighet; budsjetteringsmoderniseringen beviser kontrollert endring og bruk; investeringsmodellen viser dømmekraft under ufullstendige data; arbeidsmodellcasene viser fasilitering og prioritering. Hold luftfartsdomene, formelle mandater og målte gevinster innenfor de dokumenterte grensene."
+}

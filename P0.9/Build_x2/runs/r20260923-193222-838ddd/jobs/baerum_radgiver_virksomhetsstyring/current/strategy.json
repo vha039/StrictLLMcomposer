@@ -1,0 +1,223 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "Bærum trenger en rådgiver som raskt kan bidra i en ettårig sentral økonomi- og virksomhetsstyringsfunksjon: holde virksomhetsplanlegging og rapportering i gang, støtte direktørområder og forbedre reglementer, prosedyrer og opplæring. At hurtig tiltredelse og erfaring som fordel, ikke krav, står i annonsen gjør dokumentert praktisk økonomiflyt og læringsevne særlig beslutningsrelevant.",
+  "selection_logic": "Velg rådgiversporet. Dokumenter fullført økonomiutdanning og reell produksjonsnær økonomi- og rapporteringserfaring i stor offentlig virksomhet. Skill denne erfaringen fra kommunal konsernoppfølging, Framsikt og formelt eierskap til virksomhetsstyringsprosesser, som ikke er etablert.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver Økonomi og IKT ved OUS med praktisk økonomirapportering, budsjettarbeid og forbedring av styringsverktøy.",
+  "headline_hypothesis": "Samfunnsøkonom | Økonomi- og virksomhetsstyring",
+  "shortlist_thesis": "Han kan gå inn i økonomienhetens løpende arbeid med en sjelden kombinasjon av operativ klinikkøkonomi, lederrapportering og kontrollert modernisering av et sykehusdekkende budsjettverktøy. Kommune- og Framsikt-spesifikk erfaring må læres i rollen, uten at dette skjules eller overdrives.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Økonomisk/administrativ utdanning minimum bachelor",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach"
+      ],
+      "note": "Fullført master og bachelor i samfunnsøkonomi. CV kan vise formalkravet uten omfattende fagliste."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Relevant erfaring med virksomhetsstyring og økonomiprosesser i større organisasjon er en fordel",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "OUS gir stororganisasjonskontekst, operativ klinikkøkonomi, budsjettprosess og styringsinformasjon. Ikke kommunal etats- eller konsernstyring."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Sentral tilrettelegging og oppfølging av virksomhetsplanlegging og rapportering i Framsikt",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Direkte erfaring med plan-, budsjett- og lederrapporteringsflyt samt styringsverktøy; Framsikt-erfaring er ikke dokumentert. Vis prosessforståelse i CV og konkret overføringsbro i søknad."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Reglementer, prosedyrer og opplæringsopplegg",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Controller-onboarding, dokumentasjon og felles metode er støttet; ikke påstå kommunalt reglementseierskap."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Konsernoppfølging av enkelte direktørområder",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "note": "Lederrettet klinikkrapportering og økonomi-/aktivitetsforståelse er overførbar. Ingen dokumentert formell konsernoppfølging av kommunale direktørområder."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Analyse og utredningsarbeid",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:EDU#019-2-5-selvstendig-arbeid-kommunikasjon-og"
+      ],
+      "note": "Økonomisk analyse, beslutningsstøtte og utredende modellarbeid er dokumentert. PRJ-06 er ferdigstilt og overlevert, ikke bekreftet innført."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "God økonomi- og virksomhetsforståelse",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ],
+      "note": "Kombinasjon av praktisk OUS-økonomi og fullført samfunnsøkonomi. Kommunal fagspesifikk forståelse er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "God muntlig og skriftlig fremstilling, samarbeid, selvstendighet og strukturert analytisk arbeid",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Lederdistribuert månedsrapportering, workshops, onboarding og selvstendig tildelt oppgjørsflyt er konkrete bevis. Ikke bruk generiske selvkarakteristikker alene."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Gode digitale verktøykunnskaper, gjerne Framsikt",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Sterk dokumentert verktøyutvikling og rapportering, men ingen dokumentert Framsikt-bruk. Den generelle delen er støttet; spesifikk preferanse gjenstår."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Initiativ, ansvar, høy kapasitet og helhetsblikk i team",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Rask overtakelse av tildelt oppgjørsflyt, egeninitiert verktøy og praktisk tverrfaglig struktur viser handling; humør er ikke et faktakrav som bør selvrangeres."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "role": "Bærende bevis for operativ økonomiflyt: overtok etter opplæring tildelt månedsoppgjør, kvalitetssikret, forklarte resultat og distribuerte rapport til klinikkledere. Svarer på behovet for raskt å bidra i plan- og rapporteringssyklusen.",
+      "claim_ceiling": "Gjelder egen tildelt BAR-flyt, ikke alt OUS eller kommunal virksomhetsstyring. Ingen årsoppgjørs- eller formell regnskapslederpåstand.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Vis praktisk forbedring av et sentralt budsjettverktøy under kontinuitetskrav, med kodet integrasjon, kontroller og controller-onboarding; relevant for Bærums system- og prosessoppfølging.",
+      "claim_ceiling": "Arvet verktøy; i praksis eneste koder for endringene innen bred interessentprosess, ikke eier av hele budsjettprosessen. Sykehusdekkende bruk i 2026/2027 er dokumentert, men ingen målt besparelse eller Framsikt-erfaring.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Felles metodikk og etterprøvbare antakelser viser analytisk skjønn som kan brukes i prosedyrer og utredning, uten å gjøre dem til en ekstra hovedfortelling.",
+      "claim_ceiling": "PRJ-04 er firepersoners medutvikling og innført standard. PRJ-06 er egen modellutforming, ferdigstilt og overlevert, mens organisatorisk bruk og effekt er uavklart. Ikke bland livsløpene.",
+      "lifecycle": "IMPLEMENTED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen dokumentert bruk av Framsikt eller kommunal konsernoppfølging.",
+      "reframe": "Konkret arbeid med store, kontrollkritiske økonomi- og rapporteringsprosesser viser overførbar system- og prosessforståelse; Framsikt og kommunal struktur må læres.",
+      "honesty_note": "Ikke list Framsikt som verktøykompetanse eller klinikkrapportering som kommunal konsernstyring."
+    },
+    {
+      "objection": "Ettårig vikariat med ønsket rask tiltredelse kan kreve kort innkjøring.",
+      "reframe": "Tidlig OUS-forløp dokumenterer at han etter opplæring overtok den tildelte månedsoppgjørsflyten innen omtrent tre måneder, og senere forbedret et styringsverktøy i bruk.",
+      "honesty_note": "Ikke lov om tilsvarende innkjøringstid i kommunen eller oppgi tilgjengelighetsdato."
+    }
+  ],
+  "motivation_bridge": "Å støtte en kommunes virksomhetsplan og rapportering gir samfunnsøkonomisk og operativ betydning: styringsgrunnlaget skal fungere for ledere som prioriterer tjenester til innbyggerne. Arbeidet ligner hans dokumenterte interesse for å koble økonomiflyt, kontroll og brukbar beslutningsstøtte, men kommunens prosesser må læres på egne premisser.",
+  "cv_direction": {
+    "headline_direction": "Samfunnsøkonom med økonomirapportering og styringsverktøy, uten spesialrådgiver- eller Framsikt-påstand.",
+    "emphasis": [
+      "Fullført master/bachelor i samfunnsøkonomi og formell OUS-tittel synlig umiddelbart.",
+      "BAR: konkret oppgjør, avstemming, analyse og lederrapportering.",
+      "Budsjettverktøy i sykehusdekkende bruk og controller-opplæring; relevante digitale verktøy presist.",
+      "Felles metode og utredning som bredde for sentral virksomhetsstyring."
+    ],
+    "deprioritize": [
+      "Prognosemodellfamilier, KI-arbeidsflyt og tekniske VBA-detaljer i toppen."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_BAR",
+      "BL:EMP_OUS_ANALYSE"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Fra løpende økonomirapportering til kontrollerte, brukbare plan- og styringsverktøy i en stor offentlig virksomhet.",
+    "top_employer_problems": [
+      "Holde virksomhetsplanlegging og rapportering pålitelig i et tidsavgrenset vikariat.",
+      "Koble sentrale prosedyrer og digitale verktøy til forståelig oppfølging av tjenesteområder."
+    ],
+    "structure_guidance": "Bruk BAR-flyten som første bevis for operativ leveranse og PRJ-03 som bevis for kontrollert verktøy-/prosessforbedring. La utdanning og felles metodikk dekke formalkrav og utredningsbredde; omtale Framsikt som noe som skal læres, ikke som eksisterende erfaring."
+  },
+  "avoid_guidance": [
+    "Ikke bygg strategi fra FINNs AI-genererte ferdighetsliste; Framsikt står også i arbeidsgiverens egen tekst og er en preferanse, ikke dokumentert kandidatkompetanse.",
+    "Ikke overfør sykehusdekkende budsjettverktøybruk til personlig eierskap til sykehusbudsjettet eller kommunens konsernprosesser."
+  ],
+  "personality_facets": [],
+  "writer_guidance": "Vikariatet gjør konkret, rask operativ orientering mer verdifull enn bred strategisk retorikk. Hold hver tidsangivelse knyttet til faktisk OUS-arbeid; ikke lov ansettelsesdato. Velg rådgiver fremfor å påstå etablert spesialrådgiverstatus i kommunal virksomhetsstyring.",
+  "requires_source_inspection_observed": false,
+  "risk_notes": [
+    "Framsikt og kommunal konsernoppfølging er reelle erfaringsgap, men annonsen krever ikke tidligere Framsikt-bruk."
+  ],
+  "binding": {
+    "run_id": "r20260923-193222-838ddd",
+    "job_id": "baerum_radgiver_virksomhetsstyring",
+    "employer": "Bærum kommune",
+    "title": "Rådgiver/spesialrådgiver",
+    "manifest_sha256": "9732ebd7f1737303a790702bf6c5f4c29b745f45d547372141d3bccb4a8e3b8e",
+    "vacancy_sha256": "c50c63f969238a085c66d51e94701d8680e024963dc1447138dbea3b8c7c81b3",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "6d85e3b1ac702e6d24df928844aed34f213e2206ff5f09bdc63e7a7f33866e62"
+  }
+}

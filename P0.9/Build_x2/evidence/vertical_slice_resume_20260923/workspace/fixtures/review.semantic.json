@@ -1,0 +1,20 @@
+{
+  "triage": "CHECK",
+  "reasons": [
+    {
+      "reason": "Utlysningen nevner prognosearbeid; pakken dekker det bare indirekte.",
+      "recommended_action": "Bekreft om prognoseerfaringen er sterk nok til å nevnes.",
+      "priority": 1
+    },
+    {
+      "reason": "Kontaktperson og frist er ikke omtalt i brevet.",
+      "recommended_action": "Vurder én setning om frist dersom det er ønskelig.",
+      "priority": 2
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert erfaring med prognosemodeller ut over budsjettarbeid."
+  ],
+  "material_strategy_change": "Overskriften ble spisset fra generisk til rollenær.",
+  "upstream_claim_repaired": null
+}

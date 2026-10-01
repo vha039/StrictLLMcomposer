@@ -1,0 +1,29 @@
+{
+  "artifact_role": "CV_LAYER",
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT",
+    "profile": "Rådgiver i økonomi og IKT ved Oslo universitetssykehus.",
+    "competencies": [
+      "Månedsoppgjør",
+      "Gevinstmetode",
+      "Datamodellering"
+    ],
+    "employment_overrides": [],
+    "tools_line": "Excel/VBA, Power BI, SQL"
+  },
+  "used_evidence_refs": [
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+  ],
+  "binding": {
+    "run_id": "r20260916-185207-a37938",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "059912cc1e5cf1873262090d1af819f14789c1d8d003495bc08f0570c2a6f250",
+    "policy_fingerprint": "fd1983375eeef6e089e266616f394d7b7f1fffe287aec654f88a0f063a9e2d67",
+    "inputs": {
+      "scout": "d7fccc0a3b9aebf19a503820ee73d30d790ae1c7c5a3ff8ef910ed4818c5f3fb",
+      "brief": "912712407de78d59afb1629728f27576e77b6020ef848e1a9089259fbda9ea2f"
+    }
+  }
+}

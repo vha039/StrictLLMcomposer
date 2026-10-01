@@ -1,0 +1,308 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "Huseierne oppgir at medlemsvekst, nye produkter og økt kompleksitet krever sterkere virksomhetsstyring. Rollen skal operasjonalisere strategi, videreutvikle OKR på tvers av avdelinger og produktområder, eie prognoseprosessen og gjennomføre månedlige styringsdialoger. Utvelgelseshypotesen er at de trenger en rådgiver som kan gjøre mål og styringsinformasjon anvendelige i ledernes prioriteringer og få arbeidsmåten til å fungere på tvers. Dette er en tolkning av oppgavene, ikke kunnskap om svikt i dagens organisasjon.",
+  "selection_logic": "Ranger først evnen til å bygge felles styringsmetode og begrunne prioriteringer, deretter operativ økonomi-/prognoseforståelse og oversettelse mellom ledere og datamiljø. PRJ-04 gir direkte metode- og standardiseringsevidens; PRJ-06 gir selvstendig økonomisk skjønn. BAR og PRJ-10 gjør prognose- og oppfølgingsbroen konkret, PRJ-01 viser teknisk forståelse bak styringsinformasjonen. PRJ-03 er sterkere på verktøyinnføring, men mindre direkte på mål- og prioriteringslogikken. Minimum fem års relevant erfaring er ikke oppfylt i dokumentert kronologi, og praktisk OKR-erfaring er ikke dokumentert; ingen av broene endrer disse forholdene.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver innen økonomi og IKT med erfaring i styringsinformasjon, gevinstmetodikk og økonomiske beslutningsgrunnlag.",
+  "headline_hypothesis": "Samfunnsøkonom | Virksomhetsstyring og beslutningsstøtte",
+  "shortlist_thesis": "Vegard kombinerer økonomifaglig skjønn med erfaring fra felles styringsmetodikk og praktisk lederstøtte. Han kan gjøre et relevant bidrag til Huseiernes arbeid med å omsette mål til begrunnede prioriteringer og anvendelig oppfølging; direkte OKR-praksis og fem års relevant erfaring skal ikke antydes.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Høyere utdanning innen økonomi, finans eller strategi",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ],
+      "note": "Fullført master i samfunnsøkonomi, NTNU 2020–2022."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Minimum fem års relevant erfaring fra konsulentvirksomhet, virksomhetsstyring, strategi eller tilsvarende roller",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "note": "Relevant OUS-arbeid fra mars 2023. Tidligere arbeid og studier kan ikke summeres til fem års relevant strategierfaring."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Dokumentert erfaring med å omsette strategi til mål, prioriteringer og oppfølging på avdelings- og teamnivå",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Felles gevinstmetode, arbeidsstruktur og økonomiske tiltak er dokumentert. Samlet ansvar for en strategisyklus er ikke etablert."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Praktisk OKR-metodikk og fasilitering av målprosesser på tvers av avdelinger og produktområder",
+      "importance": "IMPORTANT",
+      "relation": "UNKNOWN",
+      "evidence_refs": [],
+      "note": "Ingen direkte OKR-praksis i myndighetene. Workshops og gevinstmetodikk er overførbare erfaringer, ikke dokumentasjon på OKR."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Forståelse for forretningsutvikling, kommersielle drivere og prestasjonsmåling",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit"
+      ],
+      "note": "Investerings-/gevinstlogikk og økonomifaglig grunnlag er relevant; medlemsvekst, kommersiell produktøkonomi og forretningsutviklingsansvar er ikke dokumentert praksis."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Analyse, rapportering og presentasjon av komplekse problemstillinger; trender, avvik og forbedringsmuligheter",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Klinikkrapportering, resultatforklaring og beslutningsstøtte til ledere er direkte erfaring."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Eie prognoseprosessen og gjennomføre og følge opp månedlige styringsdialoger",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Leverte seksjonsvise prognoser brukt i budsjett/planlegging og gjennomførte tildelt månedsoppgjør med lederrapportering. Ikke dokumentert eier av samlet prognoseprosess eller leder av månedlige styringsdialoger."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Erfaring fra produktorganisasjoner og forståelse for moderne produktmetodikk",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Smidig oppgave-/arbeidsstruktur og behovsavklaring i analysemiljø; ingen formell produktrolle eller dokumentert produktorganisasjonserfaring."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Forstå moderne dataplattformer og BI-verktøy, gjerne Azure/Fabric; bindeledd mellom forretning og dataplattformteam",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "note": "Direkte Power BI-/modellarbeid og samarbeid med rapporteringsmiljø. Fabric er pilot/utforskning; Azure-produksjon eller plattformeierskap er ikke etablert."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Gode norske kommunikasjonsferdigheter, muntlig og skriftlig",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Norsk morsmål, lederrettet rapportering, presentasjoner og opplæring."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Strategisk sparring om mål, KPI og virksomhetsstyring; støtte prioriteringer i produktteam og forretningsområder",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Økonomisk/strategisk bidrag og beslutningsmodeller gir en konkret rådgiverbro. Fast sparringsansvar overfor generalsekretær eller produktledelse er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Se helhet, gjennomføre, bygge tillit på tvers og utfordre ledere konstruktivt; arbeide strukturert uten rigiditet og gjøre andre gode",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Belegg gjennom konkret omramming, kontrollert modernisering, onboarding og kompetanseoverføring; ikke universelle påstander om relasjonsevne."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Bærende metodeargument: bidrag til en felles standard som faktisk ble innført viser relevant erfaring for Huseiernes mål om å forankre styring som arbeidsmåte. Forklar eget metodisk og økonomisk/strategisk bidrag i firepersonersgruppen.",
+      "claim_ceiling": "Ikke OKR, metodeeier, metodeleder eller eneutvikler. Ikke tilskriv workshops, bestemte delkomponenter eller målt effekt uten kilde. Bruken om lag 2,5 år senere er ikke bekreftelse på bruk i dag.",
+      "lifecycle": "IMPLEMENTED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Økonomisk skjønn i prioriteringsargumentet: manglende direkte forbruksdata ble håndtert med synlige, justerbare proxyforutsetninger. Viser hvordan en rådgiver kan gjøre et beslutningsgrunnlag forståelig og drøftbart for ledere og fagmiljø fremfor å gi indirekte indikatorer falsk presisjon.",
+      "claim_ceiling": "Egen modellutforming, ferdigstillelse og overlevering tidlig 2026. Ikke direkte måling, klinikkenes endelige estimater, operativ adopsjon, realiserte gevinster eller ROI. Ingen årsakskobling til PRJ-04s innføring.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f"
+      ],
+      "role": "CV-bevis for at styringsgrunnlaget er operativt: tildelt månedsoppgjør, avstemming/resultatforklaring til ledere og seksjonsvise DRG-estimater brukt i budsjett og planlegging. Reduserer usikkerheten om prognose- og oppfølgingsforståelse.",
+      "claim_ceiling": "Tildelt BAR-flyt i 2023; ikke samlet prognoseeierskap, ledelse av styringsdialoger eller klinikkbudsjettansvar. DRG-estimatene viser levert analyse, ikke generell treffsikkerhet eller fast prognosekadens.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "role": "CV-bevis for bindeleddet mot datamiljø: personlig modell-/databidrag til styrings-BI og separat kompetanseoverføring til rapporteringsmiljøet viser at kandidaten kan forstå hva relevant styringsinformasjon krever teknisk.",
+      "claim_ceiling": "PRJ-01 bygget og driftet, avviklet februar 2026; kolleger ledet innhold/visualisering. PRJ-02 er eget samarbeid med uavklart rapport- og nåstatus; ingen påstand om felles prosjekthistorie, all rapportutvikling eller dagens støtteansvar.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "CV-bevis for gjennomføring og mottakerbruk: bemanningsintegrasjon og controller-onboarding i et virksomhetskritisk budsjettverktøy viser at økonomiske arbeidsmåter kan følges gjennom til anvendelse.",
+      "claim_ceiling": "Arvet verktøy; hovedansvar for kodeendringer innen bred interessentprosess. Sykehusdekkende bruk 2026/2027 er støttet, ikke budsjetteierskap, målt effektivisering eller ansvar for hele innføringen.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:OTHER#033-5-2-tillitsverv"
+      ],
+      "role": "CV-tillegg med separate funksjoner: fullført økonomimaster dokumenterer formalkrav; Fabric-utforskning presiserer plattformforståelsen; studentboligverv gir en avgrenset konkret forbindelse til beboerrepresentasjon i en medlemsorganisasjon.",
+      "claim_ceiling": "Utdanning er akademisk grunnlag, Fabric er utforskning, og tillitsverv er studentboligrepresentasjon. Ingen kommersiell boligbransjeerfaring eller profesjonelt ledelsesmandat utledes.",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:SEC_OTHER_TRUST"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Dokumentert relevant arbeidstid er kortere enn minimum fem år.",
+      "reframe": "La den faktiske OUS-kronologien og de konkrete leveransenes omfang gi arbeidsgiveren et korrekt grunnlag for å vurdere erfaringen.",
+      "honesty_note": "Kjent gap; ingen omregning av studier, studentverv eller eldre praktisk arbeid til relevant strategiansiennitet."
+    },
+    {
+      "objection": "Praktisk OKR-metodikk er ikke dokumentert.",
+      "reframe": "Vis felles gevinstmetodikk, prioriteringsarbeid og fasilitering med deres faktiske betegnelser som faglig overføringsgrunnlag.",
+      "honesty_note": "Ikke kall arbeidet OKR eller hev at kandidaten har fasilitert OKR-sykluser."
+    },
+    {
+      "objection": "Samlet prognoseeierskap, månedlig styringsdialogledelse og kommersiell produktstyring er ikke etablert.",
+      "reframe": "Dokumenter leverte prognoser, selvstendig lederrapportering og transparente økonomiske beslutningsmodeller. Dette viser relevante deler av oppgaven kandidaten kan ta med seg.",
+      "honesty_note": "Overførbarhet er en vurdering; den etablerer ikke historisk totalansvar eller erfaring med medlemsvekst."
+    }
+  ],
+  "motivation_bridge": "Det faglig meningsfulle steget er å bruke økonomi, metodeutvikling og lederrettet beslutningsstøtte nærmere Huseiernes mål- og prioriteringsarbeid. Vekst og nye produkter gjør sammenhengen mellom mål, tiltak og oppfølging konkret. OUS-erfaringene gir en troverdig grunn til å ville gjøre styringsinformasjon brukbar i dialogen mellom ledere, produktmiljøer og datateam. Studentboligvervene kan gi en nøktern personlig forbindelse til representasjon; ingen boligpolitisk lidenskap eller bransjeinnsikt er dokumentert.",
+  "cv_direction": {
+    "headline_direction": "Samfunnsøkonom med styrings- og beslutningsstøtteprofil; bevar Rådgiver Økonomi og IKT i kronologien.",
+    "emphasis": [
+      "Toppsignaler: fullført økonomimaster, felles gevinstmetodikk og konkrete økonomiske beslutningsgrunnlag.",
+      "Analyseavdelingen: PRJ-04, PRJ-06 og relevant styrings-BI, med personlig bidrag og riktig status.",
+      "BAR: lederrapportering og prognoseleveranser; behold faktisk operativ periode.",
+      "Budsjettverktøy, samarbeid med datamiljø og Fabric-pilot gir gjennomførings- og teknologibredde.",
+      "Full arbeidskronologi, høyere utdanning med pågående KI-status, språk og kort relevante studentboligverv."
+    ],
+    "deprioritize": [
+      "Detaljert VBA-/DAX-inventar og prognosemodellfamilier.",
+      "KI-superbruker som toppidentitet; KI-arbeidsmåten er vurdert, men tilfører mindre enn direkte styringsevidens her."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Styring blir anvendelig når felles metode og begrunnede forutsetninger kan brukes i faktiske prioriteringer; Vegards metodebidrag og økonomiske skjønn gir et konkret grunnlag for denne delen av Huseiernes oppgave.",
+    "top_employer_problems": [
+      "Forankre mål- og styringsarbeidet på tvers av avdelinger og produktområder.",
+      "Gjøre styringsinformasjon til et relevant grunnlag for valg og oppfølging under videre vekst."
+    ],
+    "structure_guidance": "Etabler økonom-/rådgiverankeret og den konkrete arbeidsmotivasjonen. La PRJ-04 bære felles-metodeargumentet og PRJ-06 konkretisere skjønn om prioriteringsgrunnlaget, med atskilte prosjekter og tilstander. Bruk CV-en til prognose-, rapporterings- og teknologibredden; hent dette inn i brevet bare når det løser en viktig usikkerhet som hovedargumentet ikke dekker."
+  },
+  "avoid_guidance": [
+    "Ikke la FINN-kortversjon, JobMatch eller søknadstips være arbeidsgiverkrav eller kandidatbevis.",
+    "Ikke omtale gevinstmetodikken som OKR eller overførbarhet som oppfyllelse av femårskravet.",
+    "Ikke gjøre PRJ-06s økonomiske skjønn til årsak til PRJ-04s innføring eller låne PRJ-04s bruksstatus til STE-modellen.",
+    "Ikke antyde at Huseiernes ledere i dag bruker dårlige mål eller at organisasjonen mangler fungerende styring.",
+    "Ikke la teknologibredde eller studentboligverv overskygge rådgiverens styringsoppgave."
+  ],
+  "counterfactual_route": {
+    "identity": "Økonomisk analyse- og prognoserådgiver for operativ virksomhetsoppfølging",
+    "rationale": "Hvis prognoseprosessen og månedlig lederoppfølging skal bære mer av argumentet, kan BAR og PRJ-10 lede sammen med styrings-BI. Dette gir mer direkte operativt bevis, men dekker felles målmetodikk og prioritering svakere enn hovedruten.",
+    "evidence_refs": [
+      "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+      "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+      "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+    ]
+  },
+  "risk_notes": [
+    "Originalen ble inspisert på alle seks gjengitte sider. Arbeidsgiverteksten på side 2–3 og 6 styrer; AI-sammendrag og JobMatch er utelatt. Dette var avgjørende fordi tekstuttrekket var tomt.",
+    "Bevar femårsgap og uavklart OKR-praksis synlig for videre vurdering, uten å gjenåpne den menneskelige søkebeslutningen."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-08",
+      "plain_language_label": "Gjør beslutningsgrunnlaget forståelig for dem som skal bruke det",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "intended_employer_interpretation": "En rådgiver som tar hensyn til controllernes og datamiljøets ulike forutsetninger.",
+      "vacancy_relevance": "Huseierne trenger et bindeledd mellom forretning og dataplattformteam, og samhandling i styringsarbeidet.",
+      "expression_ceiling": "Knyt arbeidsmåten til justerbare, synlige modellforutsetninger og dokumentert kompetanseoverføring.",
+      "expression_guardrail": "Bruk mottakerrettede handlinger, ikke en generell erklæring om å være god med alle mennesker.",
+      "misread_risk": "Teknisk modellbygger uten interesse for menneskene som skal gjøre prioriteringene."
+    }
+  ],
+  "writer_guidance": "Bevar styringsrådgiverens oppgave som hovedkategori. De sterkeste særtrekkene er felles metode i bruk og eget skjønn om hva data faktisk kan begrunne. Full styrke på dokumentert bidrag, og konkret mottakerrelevans fremfor metodesjargong. Prognoseansvar i annonsen må møtes med faktisk prognose-/rapporteringsarbeid i CV-en, uten å utvide den historiske rollen. Ikke sett likhetstegn mellom studentboligverv og boligbransje. Videre skribent kan endre bevisrekkefølgen dersom den operative prognoseruten gir et mer presist argument.",
+  "requires_source_inspection_observed": true,
+  "binding": {
+    "run_id": "r20260905-005939-3eeb10/branches/stage1_unknown_20260907T194452Z",
+    "job_id": "huseierne_strategi_maalstyring",
+    "employer": "Huseiernes Landsforbund",
+    "title": "Strategi- og målstyringsrådgiver",
+    "manifest_sha256": "e0b0a70538d6294f36dce733c2719ecfe1704cd4e44431d20b10064e016851fd",
+    "vacancy_sha256": "66a3e564484b987ecf94a25e019cf291b529e762281f605d8caeb056811c9748",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "7209a8707013f65f0f7f929269f87c159dac4c45c6ff59758ba447e809d00033"
+  }
+}

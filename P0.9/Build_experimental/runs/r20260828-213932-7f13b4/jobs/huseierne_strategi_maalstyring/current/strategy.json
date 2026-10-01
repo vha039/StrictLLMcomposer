@@ -1,0 +1,388 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "Huseierne må gjøre medlemsvekst, nye produkter og økt organisatorisk kompleksitet styrbar: strategi må bli til prioriteringer, mål, løpende styringsdialog og relevant informasjon som faktisk brukes på tvers av ledelse, avdelinger og produktteam.",
+  "selection_logic": "Arbeidsgiver vil trolig prioritere en rådgiver som både kan utfordre og støtte ledere, etablere en praktisk mål- og oppfølgingsrytme, analysere utvikling og avvik, og binde forretningsbehov sammen med tilgjengelig styringsinformasjon. Kandidatens sterkeste rute er dokumentert metode- og forbedringsarbeid kombinert med operativ analyse og implementering; direkte OKR-erfaring og fem års relevant ansiennitet må ikke antydes.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver i økonomi og IKT som omsetter komplekse styringsbehov til beslutningsgrunnlag, felles arbeidsmåter og gjennomførbare forbedringer.",
+  "headline_hypothesis": "Samfunnsøkonom og rådgiver | styringsinformasjon, forbedring og gjennomføring",
+  "shortlist_thesis": "Vegard kan være interessant fordi han kombinerer økonomisk og analytisk forståelse med dokumentert evne til å utvikle en varig felles metode, forbedre en virksomhetskritisk budsjettprosess og bygge styringsinformasjon rundt reelle leder- og brukerbehov. Det gir et troverdig grunnlag for å hjelpe Huseierne fra målformulering til praktisk oppfølging, uten å fremstille ham som en ferdig OKR-spesialist.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Høyere utdanning innen økonomi, finans eller strategi.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ],
+      "note": "Fullført mastergrad i samfunnsøkonomi fra NTNU."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Minimum fem års relevant erfaring fra konsulentvirksomhet, virksomhetsstyring, strategi eller tilsvarende roller.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "note": "Relevant OUS-erfaring er dokumentert fra mars 2023; den oppfyller ikke et bokstavelig femårskrav. Eldre arbeidsforhold skal ikke telles som direkte relevant erfaring."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Dokumentert erfaring med å omsette strategi til konkrete mål, prioriteringer og oppfølging på avdelings- og teamnivå.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Felles metode, prioriteringsstruktur og gjennomføring er dokumentert, men ikke formelt eierskap til en komplett virksomhetsstrategiprosess."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Praktisk erfaring med OKR-metodikk og fasilitering av målprosesser.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Workshop- og fasiliteringserfaring er dokumentert, men kandidatmyndighetene dokumenterer ikke OKR-praksis."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Være strategisk sparringspartner for ledere innen mål, KPI-er og virksomhetsstyring.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Lederrettet beslutningsstøtte og metodearbeid er støttet; fast sparringspartnerrolle for toppledelse er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Videreutvikle og forankre målprosesser som faktisk arbeidsmetode på tvers av avdelinger og produktområder.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Sykehusdekkende standardisering og praktiske arbeidsmodeller er dokumentert, men ikke OKR-forankring."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Bidra til at strategiske mål blir konkrete aktiviteter, prioriteringer og målbare resultater, og følge dem opp.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Krav, prioritering, akseptansekriterier og operativ implementering er støttet; målstyringens formelle eierskap er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Forstå forretningsutvikling, kommersielle drivere og prestasjonsmåling.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Økonomi, gevinstlogikk og prestasjonsinformasjon er støttet; privat kommersielt resultatansvar er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Analysere utvikling, trender og avvik og identifisere forbedringsmuligheter.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ]
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Utarbeide beslutningsgrunnlag, styringsinformasjon og presentasjoner for ledelsen.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ]
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Eie prognoseprosessen og gjennomføre månedlige styringsdialoger med ledere og fagmiljøer.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Prognose-, månedsoppgjørs- og lederrapporteringsarbeid er dokumentert, men ikke eierskap til en samlet virksomhetsprognose eller faste styringsdialoger."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Støtte produktteam og forretningsområder i prioriteringsprosesser.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Prioritering, arbeidsinntak og teamstruktur er støttet; formell produktrolle er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Være bindeledd mellom forretningen og dataplattformteamet for relevant og tilgjengelig styringsinformasjon.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te"
+      ],
+      "note": "Dokumentasjonen støtter oversettelse mellom domene, lederbehov, datamodell og teknisk leveranse, men ikke formelt dataplattformeierskap."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Forstå moderne dataplattformer og BI-verktøy.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ]
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Kjennskap til Azure/Fabric.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "note": "Utforskende Fabric- og plattformeksponering er støttet; produksjonsdybde og plattformeierskap er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R16",
+      "text": "Erfaring fra produktorganisasjon og forståelse for moderne produktmetodikk.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Smidige arbeidsformer, WIP, prioritering og arbeidsinntak er dokumentert; direkte erfaring fra en formell produktorganisasjon er ikke etablert."
+    },
+    {
+      "requirement_id": "R17",
+      "text": "Gode muntlige og skriftlige kommunikasjonsferdigheter på norsk.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "requirement_id": "R18",
+      "text": "Kombinere strategisk forståelse med sterk gjennomføringsevne og omsette helhet og planer til handling.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ]
+    },
+    {
+      "requirement_id": "R19",
+      "text": "Bygge tillit på tvers, forstå mennesker og kunne utfordre ledere konstruktivt.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Tverrfaglig fasilitering, interessenttilpasning og saklig utfordring er støttet; generell relasjonsstyrke mot toppledelse skal ikke påstås."
+    },
+    {
+      "requirement_id": "R20",
+      "text": "Arbeide strukturert og metodisk uten å bli rigid, og trives i skjæringspunktet mellom mennesker, data og forretning.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te"
+      ]
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Hovedbevis for å utvikle og forankre en felles styringsmetode: firepersonsteamet forbedret et gevinstrealiseringsrammeverk som ble innført som sykehusdekkende standard og var rapportert aktivt omtrent 2,5 år senere.",
+      "claim_ceiling": "Ikke kall Vegard eier, metodeleder eller eneutvikler, og ikke påstå målt effekt, OKR-erfaring eller hans individuelle delresultat utover dokumentert samutvikling.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Hovedbevis for gjennomføring og operasjonalisering: rekonstruerte og moderniserte en virksomhetskritisk budsjettflyt i en bred interessentprosess; den moderniserte versjonen ble brukt i sykehusets budsjettprosess for 2026.",
+      "claim_ceiling": "Ikke påstå at han skapte originalverktøyet, eide budsjettprosessen, leverte hele moderniseringen alene eller oppnådde kvantifiserte tids-, feil- eller økonomigevinster.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "role": "Støttebevis for styringsinformasjon og bindeleddsrollen: hovedbidrag i backend for et lederdashboard med økonomi, bemanning og aktivitet, samt brukerobservasjon og forbedringsrunder.",
+      "claim_ceiling": "Bevar firepersonsteamet og kollegenes ansvar for innhold og visuell front; ikke antyd nåværende eierskap, enterprise-arkitektur, alle visualiseringer eller kvantifisert brukseffekt.",
+      "lifecycle": "DECOMMISSIONED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "role": "Støttebevis for fasilitering, prioritering og praktiske arbeidsformer: workshops, oppgavenedbryting, WIP-struktur og avklaring av formål, brukere, risiko og akseptansekriterier.",
+      "claim_ceiling": "Ikke oppgrader til formell produkt-, prosjekt-, organisasjonsdesign- eller personallederrolle, og skill mellom implementert praksis og forslag/evaluering."
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "role": "Formell og aktuell grunnmur: fullført master i samfunnsøkonomi og nåværende rådgiverarbeid med økonomi, bemanning, aktivitet, kapasitet og styringsinformasjon.",
+      "claim_ceiling": "Ikke utled formell strategileder-, kommersiell leder-, controller- eller helseøkonomtittel, og ikke gjør OUS-skala til personlig myndighet."
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Det dokumenterte relevante erfaringsspennet er kortere enn annonsens minimum på fem år.",
+      "reframe": "La kompleksitet, ansvar, varig metodeinnføring og faktisk bruk vise modenhet per år, men behold korrekt kronologi og ikke hev at femårskravet er oppfylt.",
+      "honesty_note": "Dette er et reelt formelt gap som arbeidsgiver kan bruke i screening."
+    },
+    {
+      "objection": "Kandidatmyndighetene dokumenterer ikke praktisk OKR-erfaring.",
+      "reframe": "Vis nærliggende erfaring med felles metode, målbare styringsbehov, prioritering, fasilitering og oppfølging, og presenter OKR som en metodikk han må lære inn i rollen - ikke som tidligere praksis.",
+      "honesty_note": "Bruk aldri formuleringer som antyder at gevinstrealisering, Scrum/Kanban eller KPI-arbeid er det samme som OKR."
+    },
+    {
+      "objection": "Hovedtyngden av erfaringen er fra et offentlig sykehus, ikke privat medlems-, produkt- eller kommersiell virksomhet.",
+      "reframe": "Knytt overførbarheten til vekstkompleksitet, prioritering, styringsinformasjon, felles arbeidsmåter og implementering; bruk samfunnsøkonomisk forretningsforståelse som grunnlag, uten å påstå privat kommersielt resultatansvar."
+    },
+    {
+      "objection": "Azure/Fabric-erfaringen er utforskende og ikke produksjonsdybde.",
+      "reframe": "La dokumentert Power BI-, modell- og dataarbeid dekke BI-kravet; nevne Fabric bare som avgrenset eksponering dersom det styrker helheten.",
+      "honesty_note": "Ingen plattformeier-, data engineer- eller produksjonsclaim."
+    }
+  ],
+  "motivation_bridge": "Huseiernes vekst har skapt et konkret behov for styring som virker i praksis, ikke bare planer og rapporter. Rollen gir Vegard en troverdig neste anvendelse av erfaringen med å gjøre komplekse behov om til felles metode, styringsinformasjon og gjennomførbare forbedringer, i en medlemsorganisasjon der bedre prioriteringer kan gjøre det tryggere og enklere å være boligeier.",
+  "cv_direction": {
+    "headline_direction": "Samfunnsøkonom og rådgiver | styringsinformasjon, forbedring og digital gjennomføring",
+    "emphasis": [
+      "Fullført master i samfunnsøkonomi og nåværende rådgiverrolle innen økonomi og IKT.",
+      "Samarbeidet i firepersonsteam om et gevinstrealiseringsrammeverk som ble sykehusdekkende standard og hadde dokumentert varighet.",
+      "Modernisering av virksomhetskritisk budsjettverktøy med bred interessentprosess, controller-onboarding og faktisk bruk i budsjettprosessen.",
+      "Styrings-BI: semantisk modell, ETL, DAX, datakvalitet, månedlig drift og brukerorienterte forbedringer, med korrekt historisk lifecycle.",
+      "Fasilitering, prioritering, arbeidsinntak, workshops og kompetanseoverføring uten leder- eller produkteiertittel."
+    ],
+    "deprioritize": [
+      "Pågående KI-studium og KI-arbeidsmåte som hovedidentitet.",
+      "Detaljert BI-backend, kode- og verktøyliste før arbeidsgiverproblemet.",
+      "Prognosemodellfamilier og tekniske plattformpiloter utover kort screeningrelevans.",
+      "Eldre arbeidserfaring uten direkte relevans for styring, analyse eller gjennomføring."
+    ]
+  },
+  "application_direction": {
+    "backbone": "Huseierne trenger en som får styringsrammer til å leve i arbeidshverdagen; bygg søknaden rundt Vegards dokumenterte kombinasjon av felles metode, operativ implementering og relevant styringsinformasjon.",
+    "top_employer_problems": [
+      "Gjøre strategi og vekstambisjon om til prioriteringer, målbare resultater og en oppfølgingsrytme som brukes på tvers.",
+      "Gi ledere og produktmiljøer relevant beslutnings- og styringsinformasjon uten å miste forretningsbehovet i data- og plattformarbeidet.",
+      "Forankre nye arbeidsmåter gjennom fasilitering, tydelige strukturer og praktisk gjennomføring."
+    ],
+    "structure_guidance": "Åpne med arbeidsgiverproblemet og kandidatidentiteten. Bruk gevinstrealiseringsrammeverket som første hovedbevis og budsjettmoderniseringen som andre; la styrings-BI dokumentere data- og KPI-siden kort. Avslutt med konkret motivasjon og ønsket bidrag. Ikke bygg søknaden som en punktvis kravrespons."
+  },
+  "avoid_guidance": [
+    "Ikke påstå eller impliser fem års relevant erfaring, praktisk OKR-erfaring eller eierskap til en komplett strategiprosess.",
+    "Ikke bruke formelle titler som strategileder, virksomhetsstyringsleder, product owner, prosjektleder, personalleder eller dataplattformeier.",
+    "Ikke lede med BI-backend, KI, programmering eller en teknologistakk; teknologi skal støtte styring, gjennomføring og tilgjengelig informasjon.",
+    "Ikke gjøre firepersonsteamets rammeverk eller andre kollektive leveranser til soloarbeid, og bevar levert, i bruk, aktiv utvikling og avviklet som ulike tilstander.",
+    "Ikke fremstille offentlig sykehuserfaring som privat kommersielt resultatansvar eller Huseiernes vekst som et problem kandidaten allerede har eid.",
+    "Ikke bruke det KI-genererte JobMatch-panelet i original-PDF-en som kandidat- eller arbeidsgiverevidens."
+  ],
+  "counterfactual_route": {
+    "identity": "Samfunnsøkonom med styrings-BI og beslutningsstøtte som hovedprofil.",
+    "rationale": "Bruk denne ruten bare dersom arbeidsgiverens reelle screening viser seg å vekte dataplattformbindeledd, KPI-er og styringsinformasjon klart høyere enn OKR-forankring og virksomhetsstyringsmetodikk.",
+    "evidence_refs": [
+      "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+      "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+    ]
+  },
+  "risk_notes": [
+    "To eksplisitte screeningsrisikoer består: mindre enn fem års relevant erfaring og ingen dokumentert OKR-praksis.",
+    "Produktorganisasjon, kommersielle drivere, lederdialog og Azure/Fabric er overførings- eller nabosignaler, ikke direkte fulltreff.",
+    "Originalkilden er en seks siders skannet jobbside og ble visuelt inspisert; side 4-5 inneholder et personlig, KI-generert JobMatch-panel som må holdes utenfor evidensgrunnlaget."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-01",
+      "plain_language_label": "Systems mapping & causal decomposition",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "expression_ceiling": "Kan fremstilles som å strukturere komplekse styrings-, data- og prosessbehov i dokumenterte leveranser; ikke som generell strategisk overlegenhet eller virksomhetsarkitektmyndighet.",
+      "vacancy_relevance": "Rollen skal skape sammenheng mellom strategi, prioriteringer, styringsinformasjon og gjennomføring.",
+      "intended_employer_interpretation": "Skaper beslutningsstruktur i kompleksitet og følger den frem til en brukbar leveranse.",
+      "misread_risk": "Analyse uten fremdrift eller unødvendig kompleksitet.",
+      "expression_guardrail": "Koble alltid systemforståelsen til faktisk implementering, bruk eller forbedring."
+    },
+    {
+      "facet_id": "PF-11",
+      "plain_language_label": "Leverage, toolmaking & durable-improvement orientation",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "expression_ceiling": "Kan fremstilles som forbedringsorientert og opptatt av løsninger og metoder som blir brukt over tid, innenfor de dokumenterte team-, eierskaps- og effektgrensene.",
+      "vacancy_relevance": "Huseierne vil at målstyringen skal bli en faktisk arbeidsmetode, ikke bare et dokument.",
+      "intended_employer_interpretation": "Søker varig praktisk nytte fremfor rapportering for rapporteringens skyld.",
+      "misread_risk": "Overingeniør eller metodefokus uten mottakerverdi.",
+      "expression_guardrail": "Bruk bare med konkret mottaker, faktisk bruk eller dokumentert varighet."
+    },
+    {
+      "facet_id": "PF-08",
+      "plain_language_label": "Cognitive empathy / perspective taking",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "expression_ceiling": "Kan fremstilles som å undersøke bruker- og interessentbehov og tilpasse arbeidsform og løsning i dokumenterte prosjekter; ikke som en generell påstand om relasjonsstyrke eller topplederpåvirkning.",
+      "vacancy_relevance": "Rollen må forstå mennesker, skape samhandling og gjøre ledere og team bedre i stand til å prioritere.",
+      "intended_employer_interpretation": "Kobler analytisk presisjon med forståelse for hvordan andre faktisk skal bruke resultatet.",
+      "misread_risk": "For teknisk eller lite opptatt av mottakelighet og forankring.",
+      "expression_guardrail": "Vis brukerobservasjon, workshops og tilpasset overlevering; ikke bruk selvkarakteristikk om empati."
+    }
+  ],
+  "writer_guidance": "Skriv med rolig faglig tyngde og høy beslutningstetthet. La én setning etablere arbeidsgiverproblemet, og la hvert hovedcase bevise en annen del av løsningen: varig felles metode, deretter operativ gjennomføring. Bruk BI som støtte for styringsinformasjon, ikke som identitet. Vis hullene gjennom presis avgrensning, ikke defensiv svakhetsprosa, og behold kandidatens formelle tittel og teamgrenser.",
+  "requires_source_inspection_observed": true,
+  "binding": {
+    "run_id": "r20260828-213932-7f13b4",
+    "job_id": "huseierne_strategi_maalstyring",
+    "employer": "Huseiernes Landsforbund",
+    "title": "Strategi- og målstyringsrådgiver",
+    "manifest_sha256": "0f9195ce9b510d6c7e0a06f3a5fc79e37a7a6ec078296d8c9b1a7807047d12ce",
+    "vacancy_sha256": "66a3e564484b987ecf94a25e019cf291b529e762281f605d8caeb056811c9748",
+    "evidence_index_sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+    "stage_instruction_sha256": "ca3dea6f96a0383a47cebcdd5e3510aad4d8a02d1e0a84a6ed1ed70db1b92e34"
+  }
+}

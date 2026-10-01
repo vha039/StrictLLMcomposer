@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260923-193222-838ddd",
+  "job_id": "nav_seniorradgiver_researchops",
+  "employer": "Nav",
+  "title": "Seniorrådgiver",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "06fdb4451f34da714a72ed995e9f1eb31bb52738fc6107eeca0b705277a12ff8",
+  "upstream": {
+    "strategy_sha256": "8b71c27a6b2e01f4250a795da3045201ceaff88493ce9a1f3873b1d6ee315602"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

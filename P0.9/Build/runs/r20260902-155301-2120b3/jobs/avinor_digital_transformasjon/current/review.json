@@ -1,0 +1,37 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken består Tjuesekunderstesten: samfunnsøkonom/rådgiver, Avinors gjennomføringsproblem og bevisene fra kontrollert digital endring og varig gevinstmetodikk fremgår tidlig.",
+      "recommended_action": "Gjør normal menneskelig gjennomlesning og godkjenning av de ferdige dokumentene.",
+      "priority": 1
+    },
+    {
+      "reason": "Pakken består Arbeidsgiverbyttetesten: flyplasser, flysikring, driftskontinuitet, sikkerhet og oppbyggingen av Digital Transformasjon gjør CV-profil og søknad spesifikke for Avinor.",
+      "recommended_action": "Ingen lokal tekstendring er kjent nødvendig.",
+      "priority": 2
+    },
+    {
+      "reason": "Teamgrenser, faktisk bruk, dokumentert varighet og fravær av kvantifiserte gevinster er bevart i alle materielle påstander.",
+      "recommended_action": "Behold disse avgrensningene ved eventuell manuell redigering.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Formelt ansvar for konserntransformasjon, portefølje, program, produkt, linje eller personale er ikke dokumentert.",
+    "Dokumentasjonen støtter faktisk bruk og varighet, men ikke kvantifiserte gevinster, sikkerhetseffekt, tidsbesparelse eller realisert ROI.",
+    "Luftfart er et nytt domene, og aktuell sikkerhetsklareringsstatus er ikke dokumentert."
+  ],
+  "material_strategy_change": "Stage 3 rendyrket kontrollert digital endring som første bevis, gevinstmetodikk som andre og etablering av Analyseavdelingen som støtte for det nye transformasjonsmiljøet. Det uimplementerte proxy-designet og Stage-2-brevets defensive avsnitt om manglende formelt ansvar ble tatt ut av arbeidsgiverteksten.",
+  "upstream_claim_repaired": null,
+  "notes": [
+    "CV-en dokumenterer leveranser, bruk og rolle; søknaden syntetiserer dem mot Avinors behov for prioritering, verdi og gjennomføring i samfunnskritisk drift.",
+    "JobMatch-panelet i den skannede originalkilden er ikke brukt som evidens."
+  ],
+  "binding": {
+    "run_id": "r20260902-155301-2120b3",
+    "job_id": "avinor_digital_transformasjon",
+    "final_package_sha256": "475eb09dccace6b3084d2f4355cb9f7deaee6404f3a42e8e7773edc2ed77bcaa"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "artifact_role": "POLISH_LAYER",
+  "cv": {
+    "employment_overrides": []
+  },
+  "form_answers": [],
+  "changes": [
+    {
+      "field": "cv.employment_overrides",
+      "reason": "COMPLEMENTARITY"
+    },
+    {
+      "field": "form_answers",
+      "reason": "COMPLEMENTARITY"
+    }
+  ],
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "Fixture"
+    }
+  ],
+  "binding": {
+    "run_id": "r20260916-185207-a37938",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "50b22f9d7a21c51d3fa22eab3803a72db9ef034e62e711aad2ab0b30f7b2037e",
+    "policy_fingerprint": "26afb50695cc750cd34caa9a4d3aaf277d42d379f4f1f39ece12a38664257b51",
+    "inputs": {
+      "scout": "d7fccc0a3b9aebf19a503820ee73d30d790ae1c7c5a3ff8ef910ed4818c5f3fb",
+      "brief": "7a3f8ec3d546c7408e8ebd6e1ec32c47e5f504605d119f615690be82c8c0d57b",
+      "cv_draft": "8a97988561cc12e622bc2602652dacdcdd3389c61cb39094ecccb70747f61406",
+      "advocacy_draft": "93c36b9dec7720df5f7ba76d2aa454f146f399aa6c397f8afca54a6c1eb686a3"
+    }
+  }
+}

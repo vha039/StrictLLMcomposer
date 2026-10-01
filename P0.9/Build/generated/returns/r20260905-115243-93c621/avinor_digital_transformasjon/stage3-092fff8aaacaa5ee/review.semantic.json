@@ -1,0 +1,32 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken viser arbeid med gevinstrealisering, beslutningsgrunnlag og kontrollert endring, og holder tydelig avstand til uunderbygde effekt- og myndighetspåstander.",
+      "recommended_action": "Godkjenn eller avvis pakken på ordinær human lesning; ingen kjent lokal reparasjon gjenstår.",
+      "priority": 1
+    },
+    {
+      "reason": "Kandidaten har ikke dokumentert formelt program-, portefølje- eller konsernansvar, men har støttet og medutviklet komplekse initiativer på tvers av enheter.",
+      "recommended_action": "Vurder om Avinor ønsker den dokumenterte funksjonelle erfaringen som et tilstrekkelig seniorrådgivergrunnlag; ikke oppgrader ansvarsnivået i teksten.",
+      "priority": 2
+    },
+    {
+      "reason": "Avinor etterspør målbar verdi, mens kandidatens bevis gjelder metodikk, innføring og bruk, ikke målte gevinstresultater.",
+      "recommended_action": "Vurder om kandidatens dokumenterte verdidisiplin og innføringsbevis er ønsket profil. Ikke legg til målt effekt uten nytt faktagrunnlag.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Kandidaten har ikke dokumentert formelt program-, portefølje- eller konsernansvar, og heller ikke personal- eller linjeledelse.",
+    "Det foreligger ingen målte gevinster eller dokumentert økonomisk effekt av de beskrevne initiativene.",
+    "Relevant erfaring ved Oslo universitetssykehus er om lag tre og et halvt år; senioritet støttes av ansvar, omfang, faglig skjønn og lifecycle, ikke av lang ansiennitet.",
+    "Plattformarbeid utover Power BI er utforskende og vurderingsorientert, ikke produksjonsdrift eller plattformeierskap."
+  ],
+  "material_strategy_change": "Rekonstruerte pakken rundt Avinors verdisikringsoppdrag: gevinstmetodikk og den konkrete avvisningen av ubegrunnet fordeling bærer første bevisenhet, mens kontrollert modernisering i en kritisk budsjettprosess bærer den andre. Arbeidsmodell og dataarbeid støtter argumentet uten å bli egne case.",
+  "upstream_claim_repaired": "Endret CV-formuleringen fra at kandidaten ledet kodeendringene til at han tok hovedansvar for dem, slik at teksten følger dokumentert personlig bidrag uten å tilskrive formell lederrolle.",
+  "notes": [
+    "Fordelingsmodellen er avgrenset som utformet beslutningsstøtte, ikke innført løsning eller realisert gevinst.",
+    "Budsjettverktøyet er omtalt som brukt i 2026-prosessen, uten eierskap til budsjettprosessen, kvantifiserte gevinster eller påstander om den pågående 2027-versjonen."
+  ]
+}

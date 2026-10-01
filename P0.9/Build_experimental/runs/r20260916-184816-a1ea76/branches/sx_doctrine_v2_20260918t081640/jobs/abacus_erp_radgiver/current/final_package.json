@@ -1,0 +1,80 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "ASSEMBLED",
+  "cv": {
+    "headline": "Rådgiver: økonomiprosesser og systemimplementering",
+    "profile": "Rådgiver økonomi og IKT ved Oslo universitetssykehus, med mastergrad i samfunnsøkonomi. Har stått i regnskapsflyten selv: overtok hele den tildelte månedsoppgjørsflyten med periodisering, avstemming, bilagsflyt og resultatforklaring, og bygget på eget initiativ verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot REGERP-format. Omsetter uavklarte behov til avgrensede løsninger med kontroller, akseptansekriterier og overlevering, og gjennomførte kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy innenfor en interessentprosess på om lag 50 personer.",
+    "competencies": [
+      "Virksomhetsprosesser i økonomi: månedsoppgjør, periodisering, avstemming, bilagsflyt og resultatforklaring",
+      "Behovsanalyse og løsningsdesign: fra uavklart behov til avgrenset løsning med akseptansekriterier",
+      "Systemimplementering og kontrollert endring i løsninger som er i daglig bruk",
+      "Budsjett, årsverk, bemanningsgrunnlag og prosjektøkonomi",
+      "Kvalitetssikring: differansekontroll, validering, endringskontroll og risikoregister",
+      "Onboarding, opplæring og overlevering til controllere og fagmiljøer",
+      "Rådgivning og kompetanseoverføring på tvers av organisasjoner",
+      "Kundedialog og behovsavklaring"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Omsetter uavklarte behov til avgrensede løsningsarkitekturer, arbeidspakker, kontroller og akseptansekriterier, og etablerer definisjoner, kildepresedens, validering og endringskontroll i prosjektene.",
+          "Gjennomførte kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy innenfor en interessentprosess på om lag 50 personer, med differansekontroll, akseptansekriterier og risikoregister; verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Utformet en vektet proxy-modell for gevinstfordeling i steril logistikk da direkte fordeling ikke var faglig forsvarlig, med synlige og konfigurerbare forutsetninger; modellen ble ferdigstilt tidlig i 2026 og overlevert til controllere.",
+          "Laget onboarding- og presentasjonsmateriell for controllere, og underviste tekniske kolleger i Power BI og semantisk modellering på tvers av organisasjoner."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med prosjektnulling, periodisering, reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot REGERP-format, og lærte VBA fra grunnen gjennom arbeidet; verktøyene ble i perioden kort etter overgangen brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Bidro i budsjettprosessen for 2024 med årsverksregistrering og kvalitetssikring av bemanningsgrunnlag, arbeidet med prosjektøkonomi, fakturering og prosjektavslutning, og koblet data fra blant annet JIT, ADI, REGERP og GAT."
+        ]
+      }
+    ],
+    "tools_line": "Excel/VBA, Power Query, DAX, Power BI og SQL; Microsoft 365; Git/GitLab; prosjektavhengig Stata, R og Python. Metode: akseptansekriterier, differanse- og skjemakontroll, endringskontroll og risikoregister."
+  },
+  "letter": {
+    "opening": "BNXT er produktet jeg skal lære, og det er nettopp derfor jeg søker rådgiversporet og ikke seniorsporet: prosess- og implementeringsarbeidet tar jeg med meg, og produktdybden bygges raskest i reelle kundeprosjekter sammen med erfarne kolleger. Veien fra et økonomifaglig behov til en løsning andre kan overta, kjenner jeg både fra den løpende regnskapsflyten og fra utviklingsarbeidet rundt den.",
+    "body_paragraphs": [
+      "I klinikkstaben ved Oslo universitetssykehus overtok jeg innen om lag tre måneder hele den tildelte månedsoppgjørsflyten. Ved overgangen til REGERP tok jeg initiativ til verktøy som konverterte og validerte gamle bilagslinjer mot det nye formatet. Her møttes to konkrete oppgaver: å forstå hva opplysningene betydde i regnskapet, og å få dem riktig over i en ny struktur. Jeg lærte VBA fra grunnen gjennom dette arbeidet. I et senere oppdrag om gevinstfordeling i steril logistikk avviste jeg direkte fordeling fordi bruksdataene ikke ga et forsvarlig grunnlag. Alternativet ble en modell med indirekte indikatorer og forutsetninger som var synlige og lot seg justere av dem som skulle bruke den. Å gjøre usikkerheten synlig er en del av rådet, særlig når tallene skal brukes til å sammenligne alternativer.",
+      "Abacus er ISO-sertifisert innen kvalitet, miljø og informasjonssikkerhet. Jeg leser det som en forventning om at arbeidet skal kunne dokumenteres og etterprøves gjennom leveransen. Ved modernisering av sykehusets budsjetteringsverktøy gjennomførte jeg kodeendringene i en prosess med om lag 50 involverte. Jeg sammenlignet endret og opprinnelig funksjon, brukte avtalte akseptansekriterier og et uttrykt krav om ingen regresjon, og kunne dermed undersøke om endringene holdt seg innenfor forutsetningene. Jeg laget også onboarding- og presentasjonsmateriell for controllerne. I et separat samarbeid med en annen organisasjons rapporteringsmiljø underviste jeg tekniske kolleger i Power BI og modellering, og bidro vesentlig til den første komponenten i en driftsrapport. Opplæring og dokumentasjon hører til gjennomføringen: mottakeren skal kunne bruke løsningen og se hva den bygger på."
+    ],
+    "closing": "Hos Abacus kan jeg utvikle produktkunnskapen mens jeg bruker erfaringen fra økonomiprosesser, kontrollert endring og overlevering i kundeprosjekter. Rådgiveroppgaven trekker meg hit nettopp fordi den henger sammen: forstå arbeidet som skal forbedres, gjennomføre løsningen og følge den frem til dem som skal bruke den."
+  },
+  "used_evidence_refs": [
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+    "EV:WORK#039-6-4-programmering-automatisering-og-impl"
+  ],
+  "writer_note": "Ingen evidens utenfor briefen er hentet inn. Sporvalget som åpning og motivet som avslutning er beholdt, så klyngens TRACK_CHOICE- og MOTIVE_ECHO-grep er intakt. Tre av fire keystones er uendret; K4 er bare av-kløyvd. Briefen ber om menneskelig konvergenskontroll på gevinstfordelingsmodellen, som også er skjønnsatom i norwegian-jobben; de to brevene bruker den til ulike poeng og med ulik ordlyd, og det er notert i review.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-18",
+    "finalized_at": "2026-09-18T08:59:41Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "53e6f64195ca683986f39a725c7e454bd1bdcbc3b54948e4d43891d6a38b8935",
+    "policy_fingerprint": "778d968544107da89d0199041d7dfd3a90cef53fc7d98fbe87a9af775ce5cd73",
+    "inputs": {
+      "scout": "a9b5113b059ab8afdf22e02d691f401157178f01b33443341bb35f8653dee631",
+      "brief": "8e7bd647821bf6aa46accade314b251d249ce34aedee6fdaab91ce38ed3a8aef",
+      "cv_draft": "106512af4f3f9d18a08390d145b50338004f29fb7fd1ef68ce129094fc79290a",
+      "advocacy_draft": "0c08c4fa0b5dce7b34e275d4395fd174d0d6cf1b24008a63c3354dd95562b985",
+      "polish": "7343ceb5c09fa77ec4a918b17dd968bc14dd809c324490b652914b0c17c33ab2"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+# Jobbsøk_26 P0.9 run settings (control plane).
+#
+# These values are snapshotted into the manifest at freeze and become
+# immutable for that run (DEC-40). Tuning applies to a new or child run
+# only; it never edits a frozen run in place.
+#
+# Nothing here may branch the product. There is no language, portal,
+# channel, output-mode or letter_required switch, and there never will be
+# (DEC-01, DEC-02, DEC-04, Contract 22).
+
+[spec]
+revision = "0.10.0-exp"
+schema_revision = "0.10.0-exp"
+status = "FROZEN_NORMATIVE"
+
+[product]
+# Stated once, here. A per-job language field would be a core language
+# branch (DEC-04). Non-Bokmål vacancies are EXCEPTION in the manifest.
+language = "nb-NO"
+
+[personality]
+# DEC-35: personality is ON in the baseline and is not a dormant stub.
+# There is no OFF switch; the valid null outcome is Stage 1 selecting zero
+# facets, which the strategy schema already permits. Adding a toggle with
+# no consumer would be an optionality-only hook (Contract 21).
+profile = "context/PERSONALITY_PROFILE.md"
+facet_index = "policy/personality_facets.json"
+max_selected_facets = 3
+
+[voice]
+# Operator setting for the last, content-locked pass in Stage 3 only.
+# Integer levels 0..3 are defined in FORFATTERSTEMME.md.
+# It does not govern evidence selection, drafting, claim strength or triage.
+social_register_calibration = 2
+
+[stages.role_mapping]
+# Which model and surface actually runs each stage role. Stage roles
+# themselves live in runtime/jobbsok/pipeline.py (SCOUT, ARCHITECT,
+# ADVOCATE, EDITOR); this table is expected to change between runs and is
+# snapshotted into the manifest at freeze.
+SCOUT = "Claude Code / Sonnet 5 (High)"
+ARCHITECT = "Claude Code / Opus 5 (xhigh)"
+ADVOCATE = "Codex / GPT-6 Astra (Medium)"
+EDITOR = "Claude Code / Opus 5 (Medium) + Fable 5.1 advisor"
+
+[capacity]
+# Editorial capacity signals printed by `preview`, not limits. Calibrated
+# against the current masters: dynamic CV words are headline + profile +
+# competencies + override bullets + tools line.
+cv_dynamic_words = 600
+letter_words = 400
+
+[render]
+# GATE-03: LibreOffice is not installed on the target machine; Microsoft
+# 365 Word 16 is, with the Word.Application COM ProgID registered.
+# Adapters: "word_com" | "libreoffice" | "none" | "auto".
+converter = "word_com"
+
+# GATE-04 default posture: one isolated invocation per document. Word COM
+# is inherently per-document, so combined per-job invocation is not
+# applicable to this adapter.
+invocation_granularity = "per_document"
+
+converter_timeout_seconds = 180
+
+# DEC-41: both DOCX outputs are the minimum conforming employer-document
+# result. A failed or missing PDF is render DEGRADED, never a semantic
+# failure, and never a DOCX_ONLY product mode.
+pdf_required = false
+
+[render.soft_warnings]
+# DEC-24 / DEC-33: editorial signals only. These emit WARNING and never
+# fail a command. A document fails mechanically only when unusable,
+# corrupted, clipped, or in breach of a verified technical limit.
+cv_expected_max_pages = 2
+letter_expected_max_pages = 1
+competencies_expected_min = 4
+competencies_expected_max = 8
+
+[paths]
+# runs/ lives inside the build tree. The enclosing OneDrive-named directory
+# is an unsynced leftover on this machine (GATE-08 evidence), so there is
+# no sync layer between the atomic rename and the filesystem.
+runs_root = "runs"
+generated_root = "generated"
+pilot_log = "pilot/PILOT_LOG.csv"

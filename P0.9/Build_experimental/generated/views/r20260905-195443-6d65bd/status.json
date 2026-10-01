@@ -1,0 +1,93 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260905-195443-6d65bd",
+  "derived_at": "2026-09-05T20:12:16Z",
+  "manifest_sha256": "f2b0a8e6832a57980fbecde3e6adfa4e1e9f4f2c21d592d621ba9ff12f0ae863",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 2,
+    "core": 2,
+    "exception": 0,
+    "semantic_final_available": 2,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 2,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 0,
+      "DEGRADED": 2,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "huseierne_strategi_maalstyring",
+      "employer": "Huseiernes Landsforbund",
+      "title": "Strategi- og målstyringsrådgiver",
+      "cluster": "runb",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "DEGRADED",
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "OK",
+        "letter_pdf": "DEGRADED",
+        "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+        "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken viser økonomifaglig grunnlag, felles metodikk, lederrapportering og gjennomføring med avgrenset eierskap. Ingen kjent materiell tekstreparasjon gjenstår. Action: Les CV og søknad og ta ordinær menneskelig stilling til godkjenning. | Fem års relevant erfaring og praktisk OKR-metodikk er ikke oppfylt eller dokumentert. Kronologien er korrekt, og gevinstarbeidet fremstilles ikke som OKR. Action: Behold de faktiske grensene ved godkjenning; ikke tell eldre, irrelevante arbeidsforhold som styringserfaring. | Konseptet for gevinstfordeling og den avviklede BI-løsningen har eksplisitt status. Innføring og varighet tilskrives bare de prosjektene som har slik dekning. Action: Bevar statusskillene og teamrammene i eventuell menneskelig redigering. | Known limitation: Relevant erfaring ved OUS fra mars 2023 er om lag tre og et halvt år, mot annonsens femårskrav; ingen konsulentbakgrunn er dokumentert. | Known limitation: Praktisk OKR-erfaring og gjennomført nedbrytning av virksomhetsstrategi til avdelings- og teammål er ikke dokumentert. | Known limitation: Formelt eierskap til forretningsmessig prognoseprosess eller månedlige styringsdialoger er ikke dokumentert. Prognosebeviset gjelder klinisk aktivitet til budsjett og planlegging. | Known limitation: Ingen direkte erfaring fra produktorganisasjon eller med medlemsvekst og produktinntekter. Ingen målte gevinst-, tids- eller feilreduksjonsresultater er påstått.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-195443-6d65bd\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-195443-6d65bd\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx"
+      ]
+    },
+    {
+      "job_id": "avinor_digital_transformasjon",
+      "employer": "Avinor AS",
+      "title": "Seniorrådgiver Digital Transformasjon",
+      "cluster": "runb",
+      "sequence": 2,
+      "priority": "NORMAL",
+      "deadline": "2026-09-13",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "DEGRADED",
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "OK",
+        "letter_pdf": "DEGRADED",
+        "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+        "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken kobler gjennomført modernisering til gevinstmetodikk og økonomisk beslutningsstøtte, med konkrete bidrag og teamgrenser. Ingen kjent materiell omskriving gjenstår. Action: Vurder de ferdige dokumentene for ordinær menneskelig godkjenning. | Avinors ønske om målbar verdi møtes med dokumentert metode og vurdering av anslag; teksten hevder ikke målte gevinstresultater. Action: Bevar skillet mellom innført metode, modelldesign og realisert effekt. | Erfaring med komplekse initiativer vises som hovedansvar for avgrensede kodeendringer, medutvikling og samarbeid. Det er ikke gjort om til konsern-, portefølje- eller programledelse. Action: Vurder seniorrådgivergrunnlaget ut fra det beskrevne arbeidet og omfanget; behold mandatgrensene. | Known limitation: Ingen dokumentert porteføljestyring, formelt programansvar, konsernmandat, personalansvar eller linjeledelse. | Known limitation: Ingen målte gevinster, dokumentert ROI eller kvantifisert tids- eller feilreduksjon fra eksemplene. | Known limitation: Om lag tre og et halvt års relevant erfaring ved OUS. Erfaringen gjelder sykehus og prosjekt-/avdelingsarbeid, ikke luftfart eller Avinors drift. | Known limitation: Arbeidsmodellarbeidet har blandet innført og foreslått status. Plattformvurdering er utforskende, og gevinstfordelingsmodellen dokumenterer design uten bekreftet innføring. | Known limitation: Bakgrunnssjekk og eventuell sikkerhetsklarering er arbeidsgiverens senere prosess; ingen klarering eller utfall er påstått.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-195443-6d65bd\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-195443-6d65bd\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx"
+      ]
+    }
+  ]
+}

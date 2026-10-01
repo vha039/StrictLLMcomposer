@@ -1,0 +1,72 @@
+{
+  "artifact_role": "CV_LAYER",
+  "cv": {
+    "headline": "Rådgiver – økonomiprosesser og systemimplementering",
+    "profile": "Rådgiver økonomi og IKT ved Oslo universitetssykehus, med mastergrad i samfunnsøkonomi. Har stått i regnskapsflyten selv: overtok den tildelte månedsoppgjørsflyten med periodisering, avstemming, bilagsflyt og resultatforklaring, og bygget på eget initiativ verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot REGERP-format. Omsetter uavklarte behov til avgrensede løsninger med kontroller, akseptansekriterier og overlevering, og gjennomførte kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy innenfor en interessentprosess på om lag 50 personer.",
+    "competencies": [
+      "Virksomhetsprosesser i økonomi: månedsoppgjør, periodisering, avstemming, bilagsflyt og resultatforklaring",
+      "Behovsanalyse og løsningsdesign: fra uavklart behov til avgrenset løsning med akseptansekriterier",
+      "Systemimplementering og kontrollert endring i løsninger som er i daglig bruk",
+      "Budsjett, årsverk, bemanningsgrunnlag og prosjektøkonomi",
+      "Kvalitetssikring: differansekontroll, validering, endringskontroll og risikoregister",
+      "Onboarding, opplæring og overlevering til controllere og fagmiljøer",
+      "Rådgivning og kompetanseoverføring på tvers av organisasjoner",
+      "Kundedialog og behovsavklaring"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Omsetter uavklarte behov til avgrensede løsningsarkitekturer, arbeidspakker, kontroller og akseptansekriterier, og etablerer definisjoner, kildepresedens, validering og endringskontroll i prosjektene.",
+          "Gjennomførte kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy innenfor en interessentprosess på om lag 50 personer, med differansekontroll, akseptansekriterier og risikoregister; verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Utformet en vektet proxy-modell for gevinstfordeling i steril logistikk da direkte fordeling ikke var faglig forsvarlig, med synlige og konfigurerbare forutsetninger; modellen ble ferdigstilt tidlig i 2026 og overlevert til controllere.",
+          "Laget onboarding- og presentasjonsmateriell for controllere, og underviste tekniske kolleger i Power BI og semantisk modellering på tvers av organisasjoner."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med prosjektnulling, periodisering, reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot REGERP-format, og lærte VBA fra grunnen gjennom arbeidet; verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Bidro i budsjettprosessen for 2024 med årsverksregistrering og kvalitetssikring av bemanningsgrunnlag, arbeidet med prosjektøkonomi, fakturering og prosjektavslutning, og koblet data fra blant annet JIT, ADI, REGERP og GAT."
+        ]
+      }
+    ],
+    "tools_line": "Excel/VBA, Power Query, DAX, Power BI og SQL; Microsoft 365; Git/GitLab; prosjektavhengig Stata, R og Python. Metode: akseptansekriterier, differanse- og skjemakontroll, endringskontroll og risikoregister."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+    "EV:WORK#039-6-4-programmering-automatisering-og-impl",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "outside_brief_refs": [
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "notes": [
+    "BNXT by Visma forekommer ikke i CV-en. Den ene tillatte omtalen av produktet ligger i brevets NAME_ONCE-setning, der den begrunner sporvalget.",
+    "REGERP-punktene beskriver konvertering og validering mot det nye formatet, ikke utvikling eller eierskap av den sentrale REGERP-løsningen eller ERP-overgangsprogrammet.",
+    "Gevinstfordelingspunktet står med ferdigstilt og overlevert status; ingen realisert gevinst, ROI eller organisatorisk bruk er påstått.",
+    "Verktøylinjen nevner SQL og Git/GitLab uten dybdepåstand, siden avansert optimalisering, produksjonseierskap og modent CI/CD krever bekreftelse.",
+    "Eldre roller beholdes fra baseline uten overstyring; Sector Alarm- og Ahlsell-punktene dekker kundedialog og varelogistikk der de står.",
+    "Mastergraden er brukt i profilen og er ikke navngitt i briefen, derfor ført i outside_brief_refs."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "90d26f179835daeb7384a61336d296f6c055534a8ff7b12edeeb33ab6156d1c7",
+    "policy_fingerprint": "fd1983375eeef6e089e266616f394d7b7f1fffe287aec654f88a0f063a9e2d67",
+    "inputs": {
+      "scout": "9fe9b1a9afc451710f350033d9b09f2cdef2bbda2459672662fd79b41619f7bf",
+      "brief": "0cc55253e6b590e5d2874863e07a12a13088d393c6233c66ff8b710e7d916db7"
+    }
+  }
+}

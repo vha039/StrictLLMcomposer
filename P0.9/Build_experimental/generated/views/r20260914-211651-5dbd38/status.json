@@ -1,0 +1,152 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260914-211651-5dbd38",
+  "derived_at": "2026-09-14T21:51:06Z",
+  "manifest_sha256": "b755e5aa292f4ccc4c5ab42e27e51e889495ca56a7e85faf6a31d1755ffbf588",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 4,
+    "core": 4,
+    "exception": 0,
+    "semantic_final_available": 4,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 4,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 3,
+      "DEGRADED": 0,
+      "FAILED": 1
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "stortinget_virksomhetsstyring_lederstotte",
+      "employer": "Stortinget",
+      "title": "seniorrådgiver/rådgiver",
+      "cluster": "rung",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-14",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "FAILED",
+        "limitation": "Render receipt is not current: [ERROR  ] DEC-21 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\CV_Stortinget_seniorradgiver_radgiver.pdf:-\n          expected: current output present\n          observed: missing",
+        "human_action": "Rerender from the current eligible semantic final."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken svarer på stabsarbeid, lederrapportering, strukturering av oppfølging, notater og digitale arbeidsformer med kildestøttede case. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår. Action: Vanlig gjennomlesning og godkjenning. Søknadsfristen er 14.9.2026, samme dag som pakken ble laget. | Administrativ ledergruppestøtte (møte- og saksflyt, Decisions/Planner, årshjul, samlingslogistikk) er ikke dokumentert. Pakken viser stabsarbeid med lederrapportering og arbeidsstruktur, og omtaler Decisions/Planner bare som fremtidig bidrag. Action: Ingen redigering. Forbered et intervjusvar om overgangen fra økonomisk lederstøtte til administrativ stabsstøtte. | Autorisasjon for HEMMELIG er et ansettelsesvilkår uten kildegrunnlag og er bevisst ikke omtalt i dokumentene. Action: Ingen endring i pakken. Håndteres i arbeidsgiverens klareringsprosess. | Known limitation: Seniorrådgivernivå: annonsen ønsker fortrinnsvis fem års relevant erfaring; OUS-erfaringen er fra mars 2023, om lag tre og et halvt år. | Known limitation: Autorisasjon for nivå HEMMELIG og sikkerhetsmessig egnethet er ukjent. | Known limitation: Erfaring med Decisions, Planner, ledergruppesekretariat, årshjul og praktisk ansvar for samlinger er ikke dokumentert. | Known limitation: Kontinuitetsplanlegging og beredskap (fordel) er ikke dokumentert utover tidligere vakt- og sikringstjeneste i CV-kronologien.",
+      "output_paths": []
+    },
+    {
+      "job_id": "norwegian_senior_manager_digital_governance",
+      "employer": "Norwegian Air Shuttle ASA",
+      "title": "Senior Manager Digital Governance Operations",
+      "cluster": "rung",
+      "sequence": 2,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken bruker annonsens alternative erfaringsinngang (rådgivning, transformasjon og operativ gjennomføring i en regulert virksomhet) med kildestøttede case for løst definerte saker, kontrollert implementering, ledelsesrapportering og strukturert arbeidsinntak. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår. Action: Vanlig gjennomlesning og godkjenning. Søknadsfristen er «Snarest», og søknaden må sendes via Norwegians rekrutteringssystem. | Regulatorisk hendelseshåndtering, dokumentasjon og oppfølging mot myndigheter og erfaring med GDPR, NIS2/Digitalsikkerhetsloven, EU AI Act, tredjepartsstyring og EASA Part-IS er ikke dokumentert. Pakken antyder ikke slik erfaring og posisjonerer kandidaten som operativ bro til spesialistene. Action: Ingen redigering. Forbered et intervjusvar om hvordan regelverksfaglig forståelse vil bygges opp i rollen. | Stillingen er på Senior Manager-nivå og ber om solid erfaring; relevant erfaring er fra mars 2023 og uten formell ledelses- eller eskaleringsrolle. Action: Ingen redigering. Vurder nivåspranget i godkjenningen. | Known limitation: Ingen dokumentert erfaring med navngitte digitale regelverk, compliance eller KI-styring; KI-erfaringen er praktisk og menneskestyrt arbeidsbruk, ikke styringsansvar. | Known limitation: Ingen dokumentert regulatorisk hendelseshåndtering, myndighetskontakt eller konsernomfattende eskaleringsrolle. | Known limitation: Relevant erfaring er om lag tre og et halvt år (OUS fra mars 2023) mot en Senior Manager-rolle; ingen internasjonal konsernerfaring. | Known limitation: Pakken er på bokmål etter fryst kjernedoktrine; arbeidsspråk er engelsk og norsk, og en engelsk versjon er ikke produsert.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\norwegian_senior_manager_digital_governance\\out\\CV_Norwegian_Air_Shuttle_ASA_Senior_Manager_Digital_Governance_Operations.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\norwegian_senior_manager_digital_governance\\out\\CV_Norwegian_Air_Shuttle_ASA_Senior_Manager_Digital_Governance_Operations.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\norwegian_senior_manager_digital_governance\\out\\Soknad_Norwegian_Air_Shuttle_ASA_Senior_Manager_Digital_Governance_Operations.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\norwegian_senior_manager_digital_governance\\out\\Soknad_Norwegian_Air_Shuttle_ASA_Senior_Manager_Digital_Governance_Operations.pdf"
+      ]
+    },
+    {
+      "job_id": "eie_systemkoordinator",
+      "employer": "EIE eiendomsmegling",
+      "title": "Systemkoordinator",
+      "cluster": "rung",
+      "sequence": 3,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken svarer på brukerhenvendelser, opplæring, utprøving av verktøy og praktisk KI med kildestøttede case og bruker annonsens økonomi-/IT-inngang. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår. Action: Vanlig gjennomlesning og godkjenning. Søknadsfristen er «Snarest», og prosessen ledes av branchy rekruttering. | Systemoppsett og leverandørkoordinering ved nye kontorer, Core/EIE 365, eiendomsmegling og brukerstøtte i en fast sakskø er ikke dokumentert. Pakken antyder ikke slik erfaring og formulerer kontoroppstart bare som fremtidig bidrag. Action: Ingen redigering. Forbered et intervjusvar om hvordan fagsystemene og meglerprosessen læres. | Stillingen er et toårig vikariat med fortløpende tiltredelse; tilgjengelig startdato og ønske om vikariat er ikke omtalt. Action: Ingen endring i pakken. Avklares av kandidaten før eller i samtale. | Known limitation: Ingen eiendomsmeglerutdanning eller -erfaring; kvalifikasjonen bygger på økonomi- og IT-inngangen. | Known limitation: Ingen dokumentert erfaring med Core, EIE 365, kontoretablering eller leverandørkoordinert systemoppsett. | Known limitation: KI-superbrukerrollen dokumenterer tekniske svar i en Teams-kanal, ikke et formelt supportansvar; antall brukere og henvendelser er ukjent. | Known limitation: Ingen dokumentert fysisk brukeropplæring utover intern workshop og onboardingmateriell.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\CV_EIE_eiendomsmegling_Systemkoordinator.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\CV_EIE_eiendomsmegling_Systemkoordinator.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\Soknad_EIE_eiendomsmegling_Systemkoordinator.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\Soknad_EIE_eiendomsmegling_Systemkoordinator.pdf"
+      ]
+    },
+    {
+      "job_id": "abacus_erp_radgiver",
+      "employer": "Abacus IT AS",
+      "title": "Senior ERP-rådgivere og ERP-rådgivere",
+      "cluster": "rung",
+      "sequence": 4,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken søker uttrykkelig ERP-rådgiversporet innen finans og dokumenterer økonomiprosessarbeid, datakonvertering ved ERP-overgang og kontrollert systemendring med kildestøttede case. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår. Action: Vanlig gjennomlesning og godkjenning. Søknader behandles fortløpende. | BNXT/Visma-erfaring, konsulentarbeid i kundeprosjekter og full ERP-implementering er ikke dokumentert; REGERP-verktøyene var egne hjelpeverktøy, ikke del av den sentrale innføringen. Action: Ingen redigering. Forbered et intervjusvar om hvordan økonomiprosessforståelsen overføres til kundeimplementeringer. | Seniorsporets minstekrav om solid ERP-leverandør- og rådgivningserfaring er ikke oppfylt, og pakken posisjonerer ikke mot det. Action: Ingen endring. Bekreft ved innsending at søknaden gjelder ERP-rådgiverrollen. | Known limitation: Ingen dokumentert erfaring med BNXT, Visma eller ERP-konsulentarbeid mot kunder. | Known limitation: Logistikk og lagerprosesser i ERP er ikke dokumentert utover kortvarig butikk- og lagerarbeid i Ahlsell. | Known limitation: Ingen dokumentert erfaring med lønnsproduksjon, årsoppgjør eller kommersielt ansvar for lønnsomme leveranser. | Known limitation: Arbeidssted (Son eller annet Abacus-kontor) og tiltredelse er ikke omtalt.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\abacus_erp_radgiver\\out\\CV_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\abacus_erp_radgiver\\out\\CV_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\abacus_erp_radgiver\\out\\Soknad_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\abacus_erp_radgiver\\out\\Soknad_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.pdf"
+      ]
+    }
+  ]
+}

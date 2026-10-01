@@ -1,0 +1,79 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT | økonomidata, validering og systemforbedring",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver i økonomi og IKT ved Oslo universitetssykehus, med bakgrunn fra operativ klinikkøkonomi. Utviklet på eget initiativ konverterings- og valideringsverktøy for overgangen til REGERP som økonomirådgivere i flere klinikker tok i bruk, og var i praksis eneste kodende utvikler da sykehusets budsjetteringsverktøy fikk integrert bemanningsgrunnlag og ble tatt i bruk i hele sykehuset. Arbeider med nøkler, regler og kontroller i grunnlagsdata, og dokumenterer logikken slik at andre kan forvalte den.",
+    "competencies": [
+      "Konvertering, innlesing og validering av økonomidata",
+      "Nøkler, mapping og regellogikk i grunnlagsdata",
+      "Månedsoppgjør, avstemming og feilsøk",
+      "Kontrollert modernisering av økonomiverktøy",
+      "Automatisering av manuelle ledd med Excel/VBA og Power Query",
+      "Dokumentasjon av regler, prosesser og kontroller",
+      "Opplæring og overlevering til controllere og fagmiljøer",
+      "SQL, Power BI og R/Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "I praksis eneste kodende utvikler i moderniseringen av sykehusets arvede, om lag 20 år gamle budsjetteringsverktøy i Excel/VBA, i en prosess med om lag 50 deltakere. Rekonstruerte logikken fra VBA-kode, formler og navngitte områder, bygget inn ansatt-, ansettelses- og bemanningsdata som tidligere ble kopiert manuelt fra en annen arbeidsbok, og forbedret periodiseringsnøkler, avrundings- og valideringslogikk, logging og beskyttelse. Ryddet skjulte og inkonsistente formler, samlet konstanter og skrev tydelige norske kommentarer. Brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Sikret moderniseringen med funksjon-for-funksjon-refaktorering (om lag 80 prosent atferdsbevarende), sammenligning av originale og refaktorerte funksjoner, akseptansekriterier og risikoregister, og laget opplærings- og presentasjonsmateriell for controllere.",
+          "Utformet en vektet proxy-modell for fordeling av gevinster fra steril logistikk i fem arbeidsbøker, med skjemakontrollert overføring i Power Query fra fire grenmodeller til én konsolideringsmodell, kontroller for umappede rader og skjema- og kontrollavvik, og synlige vekter controllere skal kunne justere uten utviklerhjelp. Ferdigstilt og overlevert controllere tidlig i 2026.",
+          "Hovedutvikler for backend i et nytt styrings-BI for økonomi, bemanning og aktivitet/DRG i en firepersoners analyseavdeling: utformet nesten hele den semantiske modellen med organisasjonshierarkier, periode- og organisasjonsnøkler og datakvalitetskontroller, og fjernet overflødige beskrivende felt fra faktatabellene. Kolleger ledet innhold og visuell utforming. Løsningen ble driftet til den ble avviklet rundt februar 2026.",
+          "Utformet strukturerte skjemaer for nye bestillinger som fanger formål, brukere, input, output, avhengigheter, risiko og akseptansekriterier før løsninger bygges, og har lært opp tekniske medarbeidere i en annen rapporteringsorganisasjon i Power BI og datamodellering."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot REGERP-formatet, og lærte VBA fra grunnen gjennom arbeidet. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen.",
+          "Koblet data fra blant annet JIT, ADI, REGERP, GAT, personell- og lønnsgrunnlag og DRG-/aktivitetsrapporter, dokumenterte arbeidssteg og utviklet kontroll- og valideringslogikk i arvede regnskaps- og rapporteringsarbeidsbøker.",
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avsetninger, avstemming, feilsøk og resultatforklaring, og gjennomførte etter hvert oppgjøret og månedsrapporteringen til klinikkens ledere selvstendig.",
+          "Bidro i budsjettprosessen for 2024 med årsverk og kvalitetssikring av bemannings-, UTA- og vaktgrunnlag, og arbeidet etter behov med prosjektøkonomi, blant annet fakturering, ekstern finansiering og prosjektavslutning."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Da Oslo universitetssykehus gikk over til REGERP, arbeidet jeg i økonomistaben på Barne- og ungdomsklinikken, der jeg etter hvert gjennomførte månedsoppgjøret med avstemming og feilsøk selvstendig. På eget initiativ laget jeg Excel/VBA-verktøy som konverterte, standardiserte og validerte gamle konterings- og bilagslinjer mot det nye formatet, og lærte meg VBA underveis. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen.",
+    "body_paragraphs": [
+      "I analyseavdelingen var jeg i praksis eneste kodende utvikler da sykehusets om lag 20 år gamle budsjetteringsverktøy skulle moderniseres, i en prosess med om lag 50 deltakere. Jeg rekonstruerte logikken fra kode, formler og navngitte områder, fant logikkavvik mellom originale og nye funksjoner, og bygget inn bemanningsdata som tidligere ble kopiert manuelt fra en annen arbeidsbok. Jeg forbedret periodiseringsnøkler og avrundings- og valideringslogikk, samlet konstantene og kommenterte koden tydelig på norsk. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026 og brukes igjen for 2027.",
+      "Da jeg skulle fordele gevinster fra steril logistikk på klinikkene, bar ikke bruksdataene en direkte fordeling. Jeg utformet i stedet en vektet proxy-modell der data går fra fire grenmodeller til én konsolideringsmodell gjennom skjemakontrollert innlesing i Power Query, med egne kontroller for umappede rader og for avvik i skjema og kontroller. Vektene står synlige, slik at controllerne skal kunne justere dem uten en utvikler.",
+      "Arbeidet mitt har vært i REGERP og Excel-baserte økonomiverktøy, ikke i SAP. Det Nortura beskriver, er likevel kjent: grunnlagsdata som avgjør om prising og fakturering blir riktig, og innlesing, rekalkulering og validering som skal kreve mindre manuelt arbeid."
+    ],
+    "closing": "Jeg vil gjerne bidra til at pris-, kunde- og leverandørdata får tydelige regler, automatiserte kontroller og dokumentasjon som salg, økonomi og IT kan stole på."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+    "EV:WORK#041-6-6-digitalisering-og-prosessforbedring",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Rute: REGERP-konverteringen først (nærmeste ERP-/grunnlagsdataparallell med egen initiativ og bruk), deretter PRJ-03 som nøkkel-, regel- og dokumentasjonsbevis og PRJ-06 som mappingkontroll. SAP-gapet er nevnt én gang etter bevisene fordi et SAP-minstekrav ellers kunne virke underforstått dekket.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-27",
+    "finalized_at": "2026-09-27T21:26:13Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260927-205220-984088",
+    "job_id": "nortura_fagleder_masterdata",
+    "employer": "Nortura",
+    "title": "Fagleder Masterdata",
+    "manifest_sha256": "54bb9727cb0c930dfbaa7607edba818bc4e965582ec746e39173cb9cab27bd8b",
+    "vacancy_sha256": "107350e438b9afecae3d73dc17f7728997110fef0ece2b1326bdda04fae936a1",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "6c577e3204ba670f95fa56642d3b86df371edcbd6b193c32da98efa5b498842d",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "c22e8e27fcf161ca93930b24be11bb4d582e0736e23a6ca14615064547794a7f"
+  }
+}

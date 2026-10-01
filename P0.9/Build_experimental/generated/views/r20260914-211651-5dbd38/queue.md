@@ -1,0 +1,39 @@
+# Queue — run r20260914-211651-5dbd38
+
+Derived 2026-09-14T21:51:06Z. This view is disposable and regenerable; it is never authoritative.
+
+## Counts
+
+- approved opportunities: 4  (core 4, exception 0)
+- semantic final available: 4
+- triage: READY 4, CHECK 0, RERUN 0
+- render: OK 3, DEGRADED 0, FAILED 1, not rendered 0
+- blocked 0, failed 0, stale 0, not started 0
+
+## Ready - skim and approve
+
+- **stortinget_virksomhetsstyring_lederstotte** — Stortinget, seniorrådgiver/rådgiver [HIGH · frist 2026-09-14]
+  - production: VALID · stage: FINAL · triage: READY · render: FAILED
+  - action: Pakken svarer på stabsarbeid, lederrapportering, strukturering av oppfølging, notater og digitale arbeidsformer med kildestøttede case. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår. Action: Vanlig gjennomlesning og godkjenning. Søknadsfristen er 14.9.2026, samme dag som pakken ble laget. | Administrativ ledergruppestøtte (møte- og saksflyt, Decisions/Planner, årshjul, samlingslogistikk) er ikke dokumentert. Pakken viser stabsarbeid med lederrapportering og arbeidsstruktur, og omtaler Decisions/Planner bare som fremtidig bidrag. Action: Ingen redigering. Forbered et intervjusvar om overgangen fra økonomisk lederstøtte til administrativ stabsstøtte. | Autorisasjon for HEMMELIG er et ansettelsesvilkår uten kildegrunnlag og er bevisst ikke omtalt i dokumentene. Action: Ingen endring i pakken. Håndteres i arbeidsgiverens klareringsprosess. | Known limitation: Seniorrådgivernivå: annonsen ønsker fortrinnsvis fem års relevant erfaring; OUS-erfaringen er fra mars 2023, om lag tre og et halvt år. | Known limitation: Autorisasjon for nivå HEMMELIG og sikkerhetsmessig egnethet er ukjent. | Known limitation: Erfaring med Decisions, Planner, ledergruppesekretariat, årshjul og praktisk ansvar for samlinger er ikke dokumentert. | Known limitation: Kontinuitetsplanlegging og beredskap (fordel) er ikke dokumentert utover tidligere vakt- og sikringstjeneste i CV-kronologien.
+  - render: Rerender from the current eligible semantic final.
+- **norwegian_senior_manager_digital_governance** — Norwegian Air Shuttle ASA, Senior Manager Digital Governance Operations [HIGH]
+  - production: VALID · stage: FINAL · triage: READY · render: OK
+  - action: Pakken bruker annonsens alternative erfaringsinngang (rådgivning, transformasjon og operativ gjennomføring i en regulert virksomhet) med kildestøttede case for løst definerte saker, kontrollert implementering, ledelsesrapportering og strukturert arbeidsinntak. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår. Action: Vanlig gjennomlesning og godkjenning. Søknadsfristen er «Snarest», og søknaden må sendes via Norwegians rekrutteringssystem. | Regulatorisk hendelseshåndtering, dokumentasjon og oppfølging mot myndigheter og erfaring med GDPR, NIS2/Digitalsikkerhetsloven, EU AI Act, tredjepartsstyring og EASA Part-IS er ikke dokumentert. Pakken antyder ikke slik erfaring og posisjonerer kandidaten som operativ bro til spesialistene. Action: Ingen redigering. Forbered et intervjusvar om hvordan regelverksfaglig forståelse vil bygges opp i rollen. | Stillingen er på Senior Manager-nivå og ber om solid erfaring; relevant erfaring er fra mars 2023 og uten formell ledelses- eller eskaleringsrolle. Action: Ingen redigering. Vurder nivåspranget i godkjenningen. | Known limitation: Ingen dokumentert erfaring med navngitte digitale regelverk, compliance eller KI-styring; KI-erfaringen er praktisk og menneskestyrt arbeidsbruk, ikke styringsansvar. | Known limitation: Ingen dokumentert regulatorisk hendelseshåndtering, myndighetskontakt eller konsernomfattende eskaleringsrolle. | Known limitation: Relevant erfaring er om lag tre og et halvt år (OUS fra mars 2023) mot en Senior Manager-rolle; ingen internasjonal konsernerfaring. | Known limitation: Pakken er på bokmål etter fryst kjernedoktrine; arbeidsspråk er engelsk og norsk, og en engelsk versjon er ikke produsert.
+  - output: `CV_Norwegian_Air_Shuttle_ASA_Senior_Manager_Digital_Governance_Operations.docx`
+  - output: `CV_Norwegian_Air_Shuttle_ASA_Senior_Manager_Digital_Governance_Operations.pdf`
+  - output: `Soknad_Norwegian_Air_Shuttle_ASA_Senior_Manager_Digital_Governance_Operations.docx`
+  - output: `Soknad_Norwegian_Air_Shuttle_ASA_Senior_Manager_Digital_Governance_Operations.pdf`
+- **eie_systemkoordinator** — EIE eiendomsmegling, Systemkoordinator [HIGH]
+  - production: VALID · stage: FINAL · triage: READY · render: OK
+  - action: Pakken svarer på brukerhenvendelser, opplæring, utprøving av verktøy og praktisk KI med kildestøttede case og bruker annonsens økonomi-/IT-inngang. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår. Action: Vanlig gjennomlesning og godkjenning. Søknadsfristen er «Snarest», og prosessen ledes av branchy rekruttering. | Systemoppsett og leverandørkoordinering ved nye kontorer, Core/EIE 365, eiendomsmegling og brukerstøtte i en fast sakskø er ikke dokumentert. Pakken antyder ikke slik erfaring og formulerer kontoroppstart bare som fremtidig bidrag. Action: Ingen redigering. Forbered et intervjusvar om hvordan fagsystemene og meglerprosessen læres. | Stillingen er et toårig vikariat med fortløpende tiltredelse; tilgjengelig startdato og ønske om vikariat er ikke omtalt. Action: Ingen endring i pakken. Avklares av kandidaten før eller i samtale. | Known limitation: Ingen eiendomsmeglerutdanning eller -erfaring; kvalifikasjonen bygger på økonomi- og IT-inngangen. | Known limitation: Ingen dokumentert erfaring med Core, EIE 365, kontoretablering eller leverandørkoordinert systemoppsett. | Known limitation: KI-superbrukerrollen dokumenterer tekniske svar i en Teams-kanal, ikke et formelt supportansvar; antall brukere og henvendelser er ukjent. | Known limitation: Ingen dokumentert fysisk brukeropplæring utover intern workshop og onboardingmateriell.
+  - output: `CV_EIE_eiendomsmegling_Systemkoordinator.docx`
+  - output: `CV_EIE_eiendomsmegling_Systemkoordinator.pdf`
+  - output: `Soknad_EIE_eiendomsmegling_Systemkoordinator.docx`
+  - output: `Soknad_EIE_eiendomsmegling_Systemkoordinator.pdf`
+- **abacus_erp_radgiver** — Abacus IT AS, Senior ERP-rådgivere og ERP-rådgivere [HIGH]
+  - production: VALID · stage: FINAL · triage: READY · render: OK
+  - action: Pakken søker uttrykkelig ERP-rådgiversporet innen finans og dokumenterer økonomiprosessarbeid, datakonvertering ved ERP-overgang og kontrollert systemendring med kildestøttede case. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår. Action: Vanlig gjennomlesning og godkjenning. Søknader behandles fortløpende. | BNXT/Visma-erfaring, konsulentarbeid i kundeprosjekter og full ERP-implementering er ikke dokumentert; REGERP-verktøyene var egne hjelpeverktøy, ikke del av den sentrale innføringen. Action: Ingen redigering. Forbered et intervjusvar om hvordan økonomiprosessforståelsen overføres til kundeimplementeringer. | Seniorsporets minstekrav om solid ERP-leverandør- og rådgivningserfaring er ikke oppfylt, og pakken posisjonerer ikke mot det. Action: Ingen endring. Bekreft ved innsending at søknaden gjelder ERP-rådgiverrollen. | Known limitation: Ingen dokumentert erfaring med BNXT, Visma eller ERP-konsulentarbeid mot kunder. | Known limitation: Logistikk og lagerprosesser i ERP er ikke dokumentert utover kortvarig butikk- og lagerarbeid i Ahlsell. | Known limitation: Ingen dokumentert erfaring med lønnsproduksjon, årsoppgjør eller kommersielt ansvar for lønnsomme leveranser. | Known limitation: Arbeidssted (Son eller annet Abacus-kontor) og tiltredelse er ikke omtalt.
+  - output: `CV_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.docx`
+  - output: `CV_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.pdf`
+  - output: `Soknad_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.docx`
+  - output: `Soknad_Abacus_IT_AS_Senior_ERP_radgivere_og_ERP_radgivere.pdf`

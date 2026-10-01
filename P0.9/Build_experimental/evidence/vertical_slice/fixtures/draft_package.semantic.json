@@ -1,0 +1,46 @@
+{
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#004-0-2-ous-kjerne",
+    "EV:EDU#003-0-1-gradskronologi"
+  ],
+  "cv": {
+    "headline": "Økonomi · Beslutningsstøtte · IKT",
+    "profile": "Rådgiver i Analyseavdelingen ved Oslo universitetssykehus, der jeg utvikler beslutningsstøtte for økonomi, bemanning og aktivitet. Jeg arbeider like mye med tallgrunnlaget som med rapporten: definisjoner, avstemming og dokumentasjon er det som gjør at ledere faktisk kan bruke tallene.",
+    "competencies": [
+      "Beslutningsstøtte og styringsinformasjon",
+      "Power BI, DAX og Power Query",
+      "SQL og datakvalitet",
+      "Økonomistyring og månedsoppgjør",
+      "Dokumentasjon og kompetanseoverføring"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utvikler og forbedrer beslutningsstøtte for økonomi, bemanning, aktivitet/DRG og pasientflyt i Power BI, DAX, Power Query, Excel/VBA og SQL.",
+          "Omsetter brede og uklare behov til avgrensede løsninger med kontroller, dokumentasjon og leveranser ledere og controllere kan bruke.",
+          "Bidrar til strukturering av leveranser, workshops og kompetanseoverføring i tverrfaglige oppdrag."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring den tildelte månedsoppgjørsflyten med periodisering, avstemming, kvalitetssikring og resultatforklaring.",
+          "Utviklet Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP, og bidro i budsjett og aktivitetsrapportering."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Testetaten HF skriver at dere har store datamengder, men for lite anvendbar beslutningsstøtte. Det er den oppgaven jeg har arbeidet med de siste årene.",
+    "body_paragraphs": [
+      "I Analyseavdelingen ved Oslo universitetssykehus utvikler jeg beslutningsstøtte for økonomi, bemanning og aktivitet. Arbeidet starter sjelden med et ferdig krav: det starter med en leder som har et spørsmål, og min oppgave er å finne ut hvilket tallgrunnlag som faktisk svarer på det, og deretter bygge noe som kan brukes hver måned.",
+      "Før dette hadde jeg månedsoppgjørsflyten i Barne- og ungdomsklinikken, med periodisering, avstemming og resultatforklaring. Den erfaringen er grunnen til at jeg kvalitetssikrer datagrunnlaget før jeg bygger rapporten. Et tall som ikke lar seg avstemme, blir ikke brukt av noen.",
+      "Utlysningen nevner både forvaltning av rapporter og kompetanseoverføring til brukerne. Jeg har dokumentert løsninger og holdt workshops i tverrfaglige oppdrag, og jeg regner overlevering som en del av leveransen, ikke som noe som kommer etterpå."
+    ],
+    "closing": "Jeg stiller gjerne til intervju for å gå nærmere gjennom hvordan jeg har løst tilsvarende oppgaver."
+  },
+  "writer_note": "Fulgte strategiens to hovedbevis."
+}

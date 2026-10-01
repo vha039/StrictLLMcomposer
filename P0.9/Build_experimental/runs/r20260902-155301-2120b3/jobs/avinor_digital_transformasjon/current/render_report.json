@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260902-155301-2120b3",
+    "job_id": "avinor_digital_transformasjon",
+    "final_package_sha256": "475eb09dccace6b3084d2f4355cb9f7deaee6404f3a42e8e7773edc2ed77bcaa",
+    "document_date": "2026-09-02",
+    "baseline_map_sha256": "3f7353e62164f402e2c5edfd1ef4ea5ab24bf4031975fa8e88e8d1ca2776aaff",
+    "cv_master_sha256": "4eab17783800974c516cc4780aa33a3ef7c361af372774436cf95665479f963f",
+    "letter_master_sha256": "3e41cf9667518b3fb37966e581358f538f69be0e6e8f1dd320da9f3509da112c",
+    "template_map_sha256": "a6d6297eb2cd49e924e8edeeccb33259e1ce434775c1bec0cbf27a84ecbbb7eb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+      "output_sha256": "05d6f5cf963988aa7cb3dc62d33fd5958ecefe06247b728258af394be43f17be",
+      "bytes": 40056,
+      "promotion": "REPLACED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf",
+      "output_sha256": "a540842ec126a241eff203cab33efaed2a090a859d4b0d5421982d5782809336",
+      "bytes": 288597,
+      "promotion": "REPLACED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_koy9kh3n\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\.rnd.5b534d09\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\.rnd.5b534d09\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+      "output_sha256": "4c7eeeb2041e7aff9dcc8ff71e69e08964b393a585b21fac8e0499ae26364fe8",
+      "bytes": 38558,
+      "promotion": "REPLACED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf",
+      "output_sha256": "836b18daa42dd5a38ff0fe6aa86b68772d24dcbad48b26c304772431cae70293",
+      "bytes": 196151,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_bhlsl464\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\.rnd.5b534d09\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-155301-2120b3\\jobs\\avinor_digital_transformasjon\\out\\.rnd.5b534d09\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-02T16:03:18Z"
+}

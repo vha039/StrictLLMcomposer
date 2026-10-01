@@ -1,0 +1,511 @@
+{
+  "employer_decision_problem": "Oppgitt i annonsen: Joulia (sammenslåingen av Aneo Mobility og Elaway, 70 000 aktive ladepunkter i fire land) søker en Product Manager Growth som skal omsette kundebehov og kommersielle muligheter til produkter, tjenester og forretningsmodeller med lønnsom vekst. Rollen dekker hele livssyklusen: kunde- og markedsforståelse, business case, eierskap til go-to-market, lansering og kontinuerlig forbedring. Den skal bruke kundeinnsikt, kommersielle data og finansiell analyse til muligheter innen prising, pakketering, kundetilbud og forretningsmodeller, utforske nye energitjenester og bidra til internasjonal vekst. Den skal også samarbeide tett med salg, marked, finans, digital produktutvikling, drift og kundeservice, og ofte samle de riktige menneskene og skape fremdrift. Annonsen åpner uttrykkelig for flere inngangsveier, blant annet «en annen analytisk og kommersielt orientert rolle», og sier at gjennomføring verdsettes over ideer og analyser. Slutning: Når bakgrunn ikke er et filter, må arbeidsgiveren stole på tre ting hos en kandidat uten produkttittel. (1) Kandidaten kan gjøre den økonomiske vurderingen bak et tilbud eller en investering selv, med synlige forutsetninger og uten falsk presisjon. (2) Kandidaten har tidligere tatt en idé eller et behov helt frem til en løsning som andre faktisk bruker, på tvers av fagmiljøer. (3) Kandidaten kan jobbe tett på teknologi og lære et nytt domene raskt i en organisasjon i endring. Den sterkeste konkurrerende søkeren har produkt-, go-to-market- eller prisingserfaring fra en kommersiell digital eller abonnementsbasert virksomhet. Vegard kan ikke slå den søkeren på dokumentert kommersiell lansering. Han kan vise at økonomisk analyse hos ham blir til konkrete verktøy og modeller i reell bruk, og at han gjør det på eget initiativ.",
+  "selection_logic": "Oppgitte krav og ønsker er skilt fra slutninger. Oppgitt: livssyklusansvar, business case, go-to-market, prising og lønnsomhet, samarbeid på tvers, eierskap fra idé til resultat og rask læring. Digitale produkter, prising, abonnementsmodeller eller produktutvikling er uttrykkelig en fordel, ikke et krav. FINN-feltene «Ferdigheter», «Nøkkelord», «Bransje», «Stillingsfunksjon» og «78% match» er plattformtekst og behandles ikke som krav. Slutning: Det avgjørende spørsmålet for en analytisk kandidat er om analysen blir til gjennomføring. Utvalget rangeres derfor etter hvilken ubesvart arbeidsgiverusikkerhet hvert bevis svarer på, ikke etter teknisk nyhet eller prosjektstørrelse. Første bærende enhet er økonomisk skjønn bak investerings- og gevinstbeslutninger. PRJ-06 viser at Vegard avviste en direkte fordeling som datagrunnlaget ikke bar, og utformet en vektet proxymodell med synlige, justerbare forutsetninger for investeringsvalg. Den er ferdigstilt og overlevert til controllere. PRJ-04 viser at han som én av fire medutviklet sykehusets gevinstrealiseringsmetode, som ble innført som standard og fortsatt var i bruk om lag 2,5 år senere. Samfunnsøkonomisk master med næringsøkonomi og bedriftsøkonomi gir faglig forankring for prising og lønnsomhet, men bare som akademisk grunnlag. Andre bærende enhet er eierskap og gjennomføring til bruk. Den ledes av de egeninitierte REGERP-verktøyene i BAR, som økonomirådgivere i flere klinikker brukte, og av den raske overtakelsen av den tildelte månedsoppgjørsflyten. PRJ-03 legger til bred, varig bruk: Vegard var i praksis eneste kodende utvikler i en interessentprosess med om lag 50 personer, og verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027. Tilbakemeldingssløyfer og kundeinnsikt dekkes av brukertestene og forbedringssprintene i PRJ-01. Samling av mennesker og funksjonell pådriverrolle dekkes av workshops i PRJ-01 og PRJ-08 og tverrorganisatorisk opplæring i PRJ-02, ikke av PRJ-03, der en annen person ledet implementeringen. Nærhet til teknologi dekkes av PRJ-07, KI-støttet arbeid og den tekniske bredden, men teknologien er et virkemiddel og ikke identitet, fordi annonsen sier at kandidaten ikke trenger å være teknolog. Sector Alarm er det eneste direkte kommersielle kundearbeidet (behovsavklaring, pristilbud, direkte salg). Det er kort og gammelt, og gir derfor CV-bredde, ikke et bærende argument.",
+  "primary_candidate_identity": "Samfunnsøkonom og analytisk rådgiver (formell tittel Rådgiver Økonomi og IKT ved OUS), som går inn i produktrollen via annonsens «annen analytisk og kommersielt orientert rolle»: økonomisk vurdering av gevinster og investeringer, og gjennomføring av løsninger helt frem til bruk sammen med mange fagmiljøer.",
+  "headline_hypothesis": "Samfunnsøkonom | Forretningsanalyse, gevinstvurdering og gjennomføring",
+  "shortlist_thesis": "Vegard er en samfunnsøkonom som ikke stopper ved analysen. Han har utformet en transparent investerings- og gevinstfordelingsmodell der datagrunnlaget var mangelfullt, og medutviklet sykehusets standard for gevinstrealisering. Han har også flere ganger tatt et behov helt frem til verktøy andre bruker: på eget initiativ i en ERP-overgang, og som eneste kodende utvikler bak et budsjettverktøy i bruk i hele sykehuset. Det gjør ham til en troverdig analytisk inngang til en produktrolle der økonomisk vurdering og gjennomføring skal henge sammen.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Utvikle og forbedre produkter, tjenester og forretningsmodeller som løser reelle kundebehov og skaper lønnsom vekst, gjennom hele livssyklusen fra kunde- og markedsforståelse til kontinuerlig forbedring.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Støttet del: utvikling og forbedring av interne verktøy og beslutningsløsninger for kjente brukere, fra behov og krav (PRJ-09) via bygging og kontroll til bruk (PRJ-03, REGERP-verktøyene) og brukerdrevet forbedring (PRJ-01). Grense: dette er interne verktøy i et offentlig sykehus, ikke kommersielle produkter med kunder, inntekter eller lønnsom vekst. Ikke kall dem produkter i markedsforstand. Bruk i CV-bredde og som overføringsbro i brevet."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Ta eierskap til go-to-market for nye og videreutviklede produkter: lage planen, samle de riktige teamene og få kundene til å velge og bruke løsningen.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Kommersielt go-to-market-eierskap er ikke dokumentert. Nærliggende og faktisk: det modernisert budsjettverktøyet er i sykehusdekkende bruk i to budsjettprosesser, med controller-onboarding og presentasjonsmateriell laget av Vegard. De egeninitierte REGERP-verktøyene ble brukt av økonomirådgivere i flere klinikker. Dette er intern adopsjon, ikke markedslansering, og en annen person ledet PRJ-03-implementeringen. Brevet kan si at han har fått løsninger tatt i bruk av mange brukere, ikke at han har eid en lansering."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Bruke finansielle analyser og data til å identifisere muligheter (del av: kundeinnsikt, kommersielle data og finansielle analyser).",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael"
+      ],
+      "note": "Finansiell analyse er støttet: resultatforklaring, budsjett og prosjektøkonomi i BAR, DRG-prognoser brukt i budsjett og planlegging, gevinstestimering (PRJ-04) og en investerings- og gevinstfordelingsmodell (PRJ-06). Kommersielle data i betydningen salgs-, kunde- og inntektsdata er ikke dokumentert; kundeinnsikt dekkes bare nærliggende av R07/PRJ-01. Dette er første bærende enhet i brevet."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Identifisere muligheter innen prising, pakketering, kundetilbud og forretningsmodeller.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Profesjonell prising, pakketering eller forretningsmodellarbeid er ikke dokumentert. Faglig grunnlag: ECON260 (markedsmakt, prisdiskriminering, konkurranse), ECON263 (bedriftsøkonomi, budsjett, økonomisk styring) og ECON261 (investering). Praktisk nærhet: pristilbud og behovsavklaring hos kunder i Sector Alarm (2013 til 2014), og modellering av vekter og forutsetninger i PRJ-06. Fag er grunnlag, ikke mestring. Ikke bruk ordet prising som erfaring."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Være komfortabel med business case, prising og lønnsomhet.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit"
+      ],
+      "note": "Tre deler. Business case: nærliggende gjennom gevinstrealisering og gevinstestimering (PRJ-04, teamarbeid) og en investerings- og gevinstfordelingsmodell for lager-, utstyrs-, automatiserings- og investeringsvalg (PRJ-06). Beløp og ROI er kontekst og skal ikke brukes. Lønnsomhet: nærliggende gjennom resultatforklaring, budsjett og prosjektøkonomi i en klinikk, men ikke kommersiell lønnsomhet. Prising: se R04, akademisk. Brevet kan bruke «business case» om arbeidsgiverens oppgave og vise hvilken vurdering Vegard faktisk har gjort, men ikke hevde kommersielle business case."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Sette seg raskt inn i komplekse problemstillinger, se kommersielle muligheter og omsette analyse til handling.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell"
+      ],
+      "note": "Analyse til handling er godt støttet: omformulering av en ubegrunnet fordeling til en brukbar modell (PRJ-06) og egeninitierte verktøy i en ERP-overgang (BAR). Kommersielle muligheter er ikke støttet som erfaring; formuler som muligheter og behov, ikke som kommersielle."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Være nysgjerrig på kunder, teknologi og nye forretningsmodeller; forstå hvordan tekniske muligheter kan bli gode kundeopplevelser og lønnsom business, uten å måtte være teknolog.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#028-4-4-trygge-ki-pastander",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "note": "Teknologidelen er støttet: vurderte nye plattformer mot konkrete begrensninger i sykehuset i stedet for teknologi som mål (PRJ-07), KI-støttet utvikling med menneskelig kontroll, registrert KI-superbruker, pågående masterprogram i KI. Brukerdelen er nærliggende: veiledede tester med faktiske brukere, observerte uklarheter og forbedringssprinter (PRJ-01). Eksterne kunder og nye forretningsmodeller er ikke dokumentert. Hold teknologi som virkemiddel, ikke som identitet."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Ta eierskap og drive ting fra idé til gjennomføring og resultater.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Støttet som dokumentert leveranse og bruk: REGERP-verktøy på eget initiativ til bruk i flere klinikker, overtakelse av den tildelte månedsoppgjørsflyten, budsjettverktøy i sykehusdekkende bruk, formelt eierskap til dashbordet om lag august 2025 til februar 2026, PRJ-06 ferdigstilt og overlevert. «Resultater» betyr her leveranse og bruk; målt tids-, feil- eller økonomisk effekt finnes ikke. Andre bærende enhet i brevet, ledet av REGERP-verktøyene."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Samarbeide godt på tvers av team og fagområder (salg, marked, finans, digital produktutvikling, drift, kundeservice), og ofte ta en ledende rolle i å samle de riktige menneskene og skape fremdrift.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "note": "Samarbeid på tvers er støttet: om lag 50 interessenter i PRJ-03, leveranser for ledere, controllere, fagmiljøer og tekniske samarbeidspartnere, tverrorganisatorisk opplæring (PRJ-02). Den ledende samlerollen er funksjonell og nærliggende: planla og fasiliterte workshops (PRJ-08, BI-workshop i PRJ-01), opplæring på tvers av organisasjoner. Ikke bruk PRJ-03 som bevis for at han samlet folk eller ledet prosessen; der var han i praksis eneste kodende utvikler, og en annen ledet implementeringen. Ingen formell prosjekt- eller produktlederrolle."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Lære raskt og trives i et selskap som vokser og er i endring (to selskaper har blitt til ett).",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "note": "Rask læring er støttet: etter om lag halvannen måneds opplæring overtok han innen om lag tre måneder hele den tildelte månedsoppgjørsflyten, og lærte VBA fra grunnen gjennom et konkret behov. Endring: deltok i firepersoners etableringsgruppe for en ny avdeling og utformet arbeidsmodell, dels innført og dels foreslått. Dette er ikke erfaring med integrasjon etter fusjon; bruk det som arbeidsform, ikke som påstand om sammenslåingserfaring."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Inngangsvei: bakgrunn fra produktledelse, go-to-market, forretningsutvikling eller konsulentvirksomhet, eller fra en annen analytisk og kommersielt orientert rolle (alternativer).",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "note": "De fire første alternativene er ikke oppfylt. Det femte alternativet har to kumulative ledd: analytisk (støttet, nåværende rolle og samfunnsøkonomisk master) og kommersielt orientert (bare nærliggende: økonomi- og gevinstarbeid i offentlig sektor og kortvarig salg i Sector Alarm). Annonsen sier at hvordan kandidaten tenker og får ting gjort er viktigst, men ikke skriv at kandidaten har kommersiell bakgrunn."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Erfaring med digitale produkter, prising, abonnementsmodeller eller produktutvikling (fordel, ikke krav; alternativer).",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Digitale løsninger og utvikling av dem er nærliggende gjennom interne digitale verktøy (dashbord med brukertester og livsløpseierskap, budsjettverktøy i bruk). Prising og abonnementsmodeller: ingen erfaring. Ikke gjør dette til et minstekrav eller et avsnitt om mangler."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Utforske nye energitjenester og utvikle lovende muligheter til skalerbare, kommersielle produkter.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit"
+      ],
+      "note": "Ingen erfaring fra energi, elbillading eller mobilitet. Faglig eksponering bare gjennom ECON116 (miljø- og ressursøkonomi). Ikke hevd bransjekunnskap; vis rask domenelæring i stedet (R10)."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Bidra til internasjonal vekst på tvers av markeder, kundesegmenter og partnerskap (Norge, Sverige, Danmark, Tyskland).",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:EDU#013-1-4-ernest-manning-high-school-calgary"
+      ],
+      "note": "Ingen erfaring med internasjonal markedsutvikling eller partnerskap. Engelsk flytende skriftlig og muntlig, med videregående fra Calgary. Språket kan stå i CV-en; ikke løft det til et argument for internasjonal vekst."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Arbeidsspråk norsk.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak"
+      ],
+      "note": "Norsk morsmål."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Bærer økonomisk skjønn bak investerings- og gevinstbeslutninger, som svarer på om Vegard selv kan gjøre vurderingen bak en business case: han avviste en direkte fordeling som bruksdata ikke bar, og utformet en vektet proxymodell med synlige og justerbare forutsetninger, slik at controllere kunne endre antakelsene uten å være avhengige av en utvikler.",
+      "claim_ceiling": "Vegard omformet en ubegrunnet direkte fordeling av gevinster fra steril logistikk til en transparent, vektet proxymodell med flere indikatorer (drift, økonomi, kvalitet og robusthet, unngåtte kostnader, overført belastning). Han utformet fem arbeidsbøker (fire grenmodeller og én konsolidering) med synlige, konfigurerbare forutsetninger og vekter, Power Query-overføring med skjemakontroll og revisjoner for umappede rader og kontrollavvik. Han unngikk bevisst VBA i kjernen for å gjøre modellen inspiserbar for controllere. Tiltenkt bruk: beslutningsstøtte for lager-, utstyrs-, automatiserings- og investeringsvalg. Modellen ble ferdigstilt tidlig i 2026 og overlevert til controllere. Grense: organisatorisk bruk, implementering per gren, endelige vekter og realiserte gevinster er uavklart. Ingen business case-beløp, ROI eller realisert gevinst; han eier ikke klinikkestimatene. Låner aldri innføring eller varighet fra PRJ-04.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Bærer gevinst- og business case-nær metode med dokumentert varig bruk: viser at han har vært med på å gjøre gevinstvurdering til en felles standard andre bruker, som svarer på om arbeidsgiveren kan stole på hans vurdering av verdi og effekt.",
+      "claim_ceiling": "Vegard medutviklet som én av fire i Analyseavdelingen en videreutviklet metode for gevinstrealisering og gevinstestimering, med bidrag i forskningssyntese, metodeforbedring, økonomisk og strategisk analyse, styring og standardisering. Metoden ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere. Grense: ikke eier, eneforfatter eller metodeleder; individuelt bidrag, navn, godkjenningsvei, omfang av brukere og prosjekter og målt effekt er uavklart. Innføringen tilhører teamets metode, ikke PRJ-06.",
+      "lifecycle": "IMPLEMENTED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "role": "Leder andre bærende enhet om eierskap og gjennomføring: de egeninitierte REGERP-verktøyene svarer direkte på annonsens «ser du en mulighet, får du eierskapet», fordi Vegard så et behov, bygget løsningen og fikk den i bruk hos andre. Den raske overtakelsen av månedsoppgjøret svarer på rask læring, og klinikkøkonomien gir praktisk bredde i resultat, budsjett og prosjektøkonomi.",
+      "claim_ceiling": "Vegard utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konteringslinjer mot REGERP-formatet, og lærte VBA fra grunnen gjennom arbeidet. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker i perioden kort etter overgangen. Etter om lag halvannen måneds opplæring overtok han innen om lag tre måneder hele den tildelte månedsoppgjørsflyten (periodisering, reversering, avsetninger, avstemming, feilsøk og resultatforklaring), gikk fra kvalitetssikring av andre til selvstendig gjennomføring og kvalitetssikret, rapporterte og sendte månedsrapporter til ledere i klinikken. Han bidro i budsjettprosessen for 2024, bygget hele budsjetthjelpearket og arbeidet etter behov med prosjektøkonomi og fakturering. Grense: gjelder den tildelte klinikkflyten, ikke hele OUS eller formelt regnskapsansvar; ikke den sentrale REGERP-løsningen; antall klinikker, brukere og tidsbesparelse er uavklart; ingen målt effekt; ikke eier av klinikkbudsjettet eller arvede modeller.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Bærer gjennomføring til bred, varig bruk i en stor interessentprosess: svarer på om en analytiker kan levere noe mange faktisk tar i bruk, og viser kontrollert endring av en forretningskritisk løsning uten å bryte driften.",
+      "claim_ceiling": "Vegard var i praksis eneste kodende utvikler da sykehusets om lag 20 år gamle, forretningskritiske Excel/VBA-budsjetteringsverktøy ble modernisert i 2025, innenfor en interessentprosess med om lag 50 personer. Han rekonstruerte arkitekturen, integrerte ansatt-, ansettelses- og bemanningsdata som tidligere måtte kopieres fra en annen arbeidsbok med betydelig manuelt arbeid, brukte funksjon-for-funksjon-refaktorering (om lag 80 prosent atferdsbevarende), differansekontroll, akseptansekriterier og risikoregister, og laget onboarding og presentasjonsmateriell for controllere. Den moderniserte versjonen ble brukt sykehusdekkende i budsjettprosessen for 2026; 2027-moderniseringen er ferdigstilt, med vesentlig større frihet for Vegard, og verktøyet er i sykehusdekkende bruk i budsjettprosessen for 2027. Grense: ikke opphavsperson eller budsjetteier; en annen person ledet implementeringen og bestemte den smale refaktoreringen; ingen målt tidsbesparelse, feilreduksjon eller økonomisk effekt; sykehusets budsjettbeløp brukes ikke.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "role": "Svarer på kundeinnsikt og kontinuerlig forbedring gjennom en brukersløyfe: veiledede tester med faktiske brukere, observerte uklarheter, innsamlet tilbakemelding og fokuserte forbedringssprinter. Viser også livsløpseierskap til en digital løsning og at han ledet en intern workshop.",
+      "claim_ceiling": "Vegard var hovedutvikler av backend i et nytt styringsdashbord for økonomi, bemanning, sykefravær og aktivitet/DRG i en firepersoners avdeling: nesten hele den semantiske modellen, det meste av Power Query og om lag 80 til 90 prosent av DAX. Han var formell eier om lag august 2025 til februar 2026, holdt månedlige oppdateringer, gjennomførte veiledede tester med faktiske brukere, observerte forvirrende interaksjoner, samlet tilbakemeldinger og kjørte fokuserte forbedringssprinter. Han ledet en separat intern BI-workshop for økonom- og helseøkonomkolleger. Grense: kolleger ledet innhold og visuell utforming; dashbordet ble avviklet rundt februar 2026; ingen kvantifisert adopsjon eller effekt; brukertestene dokumenterer ikke hvilke endringer som betydde mest.",
+      "lifecycle": "DECOMMISSIONED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver"
+      ],
+      "role": "Etablerer yrkesanker og nåværende rolle: økonomi, bemanning, aktivitet og beslutningsstøtte ved OUS, leveranser for ledere, controllere, fagmiljøer og tekniske samarbeidspartnere, og nærhet til teknologi gjennom KI-superbrukerrollen.",
+      "claim_ceiling": "Rådgiver Økonomi og IKT ved OUS fra mars 2023; BAR-staben mars til november 2023 og Analyseavdelingen i direktørens stab fra desember 2023. Arbeider med sykehusøkonomi, bemanning, aktivitet/DRG, pasientflyt og kapasitet; omsetter brede behov til avgrensede løsninger, arbeidspakker, kontroller og brukbare leveranser; leverer dashbord, modeller, rapporter, workshops, onboarding og dokumentasjon for ledere, controllere, fagpersoner og teknikere. Deltok i firepersoners etableringsgruppe for Analyseavdelingen. Registrert «SuperBruker – Kunstig intelligens» i om lag tre år og svarer på tekniske henvendelser i en Teams-kanal. Grense: prosjektomfang, ikke myndighet over OUS-data; ingen personal- eller programmyndighet; antall KI-brukere og formelt støtteansvar er ikke oppgitt."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "role": "Gir den funksjonelle pådriverrollen i å samle folk og skape fremdrift, og en arbeidsbetingelse for et selskap som bygger felles arbeidsform: workshops, prioritering, oppgavestruktur og arbeidsmodell i en nyetablert avdeling.",
+      "claim_ceiling": "Vegard deltok i firepersoners etableringsgruppe for Analyseavdelingen og bidro med teamstrukturalternativer, ansvar og avhengigheter, forslag til beslutningsrettigheter, praktiske Scrum/Kanban-, oppgavehierarki- og WIP-strukturer og Loop-arbeidsflater. Han planla og fasiliterte workshops og laget internt samarbeidsmateriell. Grense: dels innført og dels foreslått, og skillet skal bevares; ingen eneetablering, formelt organisasjonsdesignmandat, programeierskap eller personalansvar; ikke erfaring med fusjon eller integrasjon av selskaper."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "role": "Alternativt bevis for samarbeid og påvirkning utenfor egen enhet: opplæring og rådgivning for en annen organisasjon gjennom flere arbeidsmøter.",
+      "claim_ceiling": "Vegard lærte opp teknisk personale i en annen rapporterings- og dataorganisasjon i Power BI, semantisk modellering og modelloptimalisering gjennom flere møter, og bidro vesentlig til en første komponent i en driftsrapport. Grense: eksakt enhet, rapportnavn, datoer, deltakerantall og nåstatus er uavklart; ingen eneutvikling, rapporteierskap, formelt opplæringsprogram eller løpende støtte."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "role": "Alternativt bevis for produktnær behovsavklaring: strukturerer formål, brukere, beslutningsbehov, avhengigheter, prioritet og akseptansekriterier før noe bygges.",
+      "claim_ceiling": "Vegard utformet strukturerte skjemaer for prosjekt- og arbeidsinntak som fanger formål, brukere, beslutningsbehov, input, output, avhengigheter, risiko, prioritet og akseptansekriterier, og utformet og evaluerte alternativer i Forms, Loop, Power BI, Pega og lavkode. Grense: utforming, evaluering og bruk på prosjektnivå; ingen virksomhetsutrulling, formelt produkteierskap eller organisasjonsdekkende adopsjon."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#028-4-4-trygge-ki-pastander"
+      ],
+      "role": "Svarer på «du må like å jobbe tett på teknologi»: han vurderer tekniske muligheter mot faktiske begrensninger og bruker KI og kodeagenter med menneskelig kontroll. Gir troverdighet i samarbeidet med digital produktutvikling uten å gjøre ham til teknolog.",
+      "claim_ceiling": "Vegard har deltatt i tidlig tilgang, piloter og utforskning rundt Fabric, Power Platform, dbt, Pega og Python, og vurdert muligheter mot konkrete sykehusbegrensninger. Han bruker generativ KI og kodeagenter i analyse, repositoriearbeid, dokumentasjon og implementering med vedvarende instrukser, tester, evidenskontroll og menneskelig ansvar. Grense: PRJ-07 er utforskende; ingen plattformeierskap eller adopsjonsledelse; ingen produksjons-LLM, RAG, enterprise-KI-styring eller målt produktivitetsgevinst; implementeringen i prognosearbeidet er fordelt mellom Vegard, kollega og kodeagenter.",
+      "lifecycle": "PILOT"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f"
+      ],
+      "role": "Alternativt bevis for at analyse av etterspørsel og aktivitet har gått rett inn i planlegging: nyttig hvis sluttskriveren vil vise analyse av fremtidig volum som grunnlag for beslutninger.",
+      "claim_ceiling": "I BAR leverte Vegard seksjonsvise, prognosebaserte DRG-estimater med Stata, R og Power Query, brukt i budsjett og planlegging; arbeidet omfattet klargjøring av flerårige aktivitetsdata og ARIMA/SARIMA-utforskning. Ett månedsestimat traff faktisk DRG nøyaktig når begge ble avrundet til hele poeng. Grense: én observasjon, ingen generell treffsikkerhet, ingen produksjonsprognosemotor, ingen fast kadens og ikke eneforfatter av koden.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "role": "Reserve for teknisk dybde i dataprodukter hvis sluttskriveren trenger et eksempel på arkitektur og validering i et større analyseprodukt; skal ikke lede i denne kommersielle rollen.",
+      "claim_ceiling": "Vegard eier samlet teknisk arkitektur, orkestrering, automatisering og integrasjon i aktiv utvikling av 14-, 90- og 365-dagers prognoser for pasientvolum og kapasitet, la til GAM og evaluerer SARIMAX, og utfordret måldefinisjon og valideringsvalg. Grense: aktiv utvikling, ikke produksjon; kollega laget opprinnelig XGBoost og mye av dataklargjøringen; ingen verifisert modellytelse; om lag 40 000 linjer med fordelt forfatterskap.",
+      "lifecycle": "IN_DEVELOPMENT"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "role": "Eneste direkte kommersielle kundearbeid (Sector Alarm): gir CV-en et konkret kommersielt signal om behovsavklaring, pristilbud og salg. Kort og gammelt, så det gir bredde og ikke et bærende argument.",
+      "claim_ceiling": "Sikkerhetskonsulent i Sector Alarm, Stavanger, oktober 2013 til mars 2014: behovsavklaring, pristilbud, direkte salg og kundedialog, overførbart som behovsanalyse, kommersiell kommunikasjon og selvstendig feltarbeid. Grense: kort periode; ingen prisstrategi, produktansvar eller salgsledelse. Øvrige tidligere roller (TKS Heis, Ahlsell, Luftforsvaret) brukes kort.",
+      "baseline_refs": [
+        "BL:EMP_SECTOR_ALARM",
+        "BL:EMP_TKS_HEIS",
+        "BL:EMP_AHLSELL",
+        "BL:EMP_LUFTFORSVARET"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+        "EV:EDU#024-3-3-okonomi-og-driftsroller",
+        "EV:EDU#028-4-1-claim-atomer-for-utdanning"
+      ],
+      "role": "Formelt økonomisk grunnlag for prising, lønnsomhet og forretningsmodeller: gir arbeidsgiveren et fagspråk for hvorfor Vegard kan resonnere om markedsmakt, prisdiskriminering, investering og økonomisk styring.",
+      "claim_ceiling": "Fullført master i samfunnsøkonomi fra NTNU (2020 til 2022) og fullført bachelor i samfunnsøkonomi fra UiB (2017 til 2020). Bachelorfag: ECON260 næringsøkonomi og konkurransepolitikk (markedsmakt, prisdiskriminering, oligopol), ECON263 bedriftsøkonomi (regnskap, budsjett, likviditet, verdsettelse, strategi og økonomisk styring; historisk tittelavvik), ECON261 investering og finansiering, ECON116 miljø- og ressursøkonomi. Grense: fag er akademisk grunnlag, ikke profesjonell erfaring med prising, abonnementsmodeller eller energi; oppgavetema og karakterer er uavklart.",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIB_ECON"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "role": "Kvantitativt og teknisk faglig supplement: økonometri og tidsserier støtter analyse av kommersielle data; pågående KI-master støtter nærhet til teknologi.",
+      "claim_ceiling": "Masternivåfag i videregående og anvendt økonometri, tidsserieøkonometri og videregående matematisk analyse (NTNU). Pågående femårig masterprogram i kunstig intelligens ved UiA fra 2024. Grense: pågående, uten oppgitt studietakt, progresjon eller fullføring; ikke KI-ingeniørstatus; fag beviser ikke produksjonsdybde.",
+      "baseline_refs": [
+        "BL:EDU_UIA_AI"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+        "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse",
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "role": "Granulære alternativer for kompetanseord i CV-en og for en eventuell setning om arbeidsmåte: gevinstlogikk, kontrafaktisk resonnering, investeringsstøtte og usikkerhet; problemavgrensning, prioritering, akseptansekriterier; oversettelse for ulike mottakere.",
+      "claim_ceiling": "Arbeidsavledet kompetanse i gevinstrealisering og estimering, driftsmessige kontra økonomiske effekter, unngåtte kostnader, proxyfordeling, investeringsstøtte og usikkerhet; KPI- og ledelsesrapportering; problemavgrensning, backlog, prioritering, akseptansekriterier, risikoregistre og stopp/gå-kriterier; workshops, onboarding og overlevering; tilpasning av kommunikasjon til ledere, controllere, fagfolk og teknikere. Grense: kompetanseprofil, ikke nye prosjekter; bruk konkrete prosjekter som bevis; ingen formell produkt- eller prosjekteierrolle; ikke oppfinn beslutninger ledelsen tok eller opplæringseffekt."
+    },
+    {
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:EDU#013-1-4-ernest-manning-high-school-calgary"
+      ],
+      "role": "Språk: norsk arbeidsspråk, og engelsk for et selskap i fire europeiske markeder.",
+      "claim_ceiling": "Norsk morsmål; engelsk flytende skriftlig og muntlig, støttet av videregående skolegang i Calgary (English 30-1). Grense: ingen standardisert testscore eller CEFR-nivå; ingen internasjonal forretningserfaring."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+        "EV:WORK#053-10-1-eksplisitt-forbudt",
+        "EV:OTHER#029-4-5-ki-grenser"
+      ],
+      "role": "Globale tall- og påstandsgrenser for tallene som brukes i CV og brev (om lag 50 interessenter, om lag 20 år gammelt verktøy, om lag 2,5 år, om lag tre måneder, fem arbeidsbøker, 80 til 90 prosent DAX).",
+      "claim_ceiling": "Tallene er godkjent med sine kvalifikatorer: omtrentlig der kilden sier omtrentlig, og aldri som personlig effekt. Hospitalets budsjettverdier, business case-beløp i PRJ-06 og tilbakekalt ROI skal ikke brukes. Ingen KI-produksjon, enterprise-KI-styring eller målt KI-produktivitet."
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen erfaring med produktledelse, go-to-market eller kommersiell lansering; hele den faglige karrieren er i et offentlig sykehus.",
+      "reframe": "Annonsen åpner uttrykkelig for en analytisk inngangsvei og sier at gjennomføring teller mest. Vis først at Vegards analyser gjentatte ganger har blitt til løsninger andre bruker: REGERP-verktøyene på eget initiativ, budsjettverktøyet i sykehusdekkende bruk og en investeringsmodell overlevert til controllere. Da blir overgangen til kommersiell produktutvikling en utvidelse av et dokumentert mønster, ikke et sprang.",
+      "honesty_note": "Interne verktøy og intern innføring skal ikke kalles produkter i markedsforstand eller go-to-market. Ikke skriv at han har lansert noe for kunder."
+    },
+    {
+      "objection": "Ingen profesjonell erfaring med prising, pakketering eller abonnementsmodeller.",
+      "reframe": "Vis det han faktisk har gjort med økonomiske forutsetninger: en modell der vekter og antakelser er synlige og justerbare, og gevinstestimering som ble standard. Den formelle næringsøkonomiske bakgrunnen (prisdiskriminering, markedsmakt) kan nevnes som faglig grunnlag i CV-en.",
+      "honesty_note": "Akademisk fag er ikke prisingserfaring. Ikke bruk «prising» eller «lønnsomhet» som praktisk kompetanse i overskrift eller kompetanseliste."
+    },
+    {
+      "objection": "Ukjent med energi, elbillading og mobilitet.",
+      "reframe": "Rask og dokumentert domenelæring: fra opplæring til selvstendig ansvar for den tildelte månedsoppgjørsflyten innen om lag tre måneder, og VBA lært fra grunnen gjennom et konkret behov. Motivasjonen kan knytte seg til det økonomiske problemet i rollen, ikke til påstått bransjekunnskap.",
+      "honesty_note": "Ikke hevd kjennskap til Joulias kunder, prismodeller eller marked."
+    },
+    {
+      "objection": "Risiko for at profilen leses som BI- eller Excel-teknolog, mens annonsen sier at kandidaten ikke trenger å være teknolog.",
+      "reframe": "La økonomisk vurdering og gjennomføring til bruk være identiteten. Teknisk dybde står som grunnlag for å samarbeide med digital produktutvikling og for å forstå hva som er mulig, ikke som hovedargument.",
+      "honesty_note": "Ingen skjult svakhet; dette er en utvalgsrisiko, ikke et gap."
+    }
+  ],
+  "motivation_bridge": "Rollen skal koble kundebehov og økonomisk vurdering (business case, prising, lønnsomhet) med operativ gjennomføring helt frem til noe kundene velger og bruker. Det er samme kobling som går igjen i Vegards arbeid, bare i en kommersiell setting. Der han har laget en investerings- og gevinstmodell med synlige forutsetninger, eller tatt et verktøy frem til bruk i hele sykehuset, har verdien vært vurdert i gevinst og bruk, ikke i inntekter. Et produkt- og vekstansvar gir ham et marked å teste den vurderingen mot. Joulia er i tillegg et selskap som bygger felles arbeidsmåter etter en sammenslåing, som gjør evnen til å strukturere uklare problemer og få ting i bruk mer verdt. Motivasjonen må knyttes til oppgaven, ikke til bransjeentusiasme eller Joulias verdier.",
+  "cv_draft": {
+    "headline": "Samfunnsøkonom | Forretningsanalyse, gevinstvurdering og gjennomføring",
+    "profile": "Samfunnsøkonom (master, NTNU) og rådgiver ved Oslo universitetssykehus som gjør økonomiske problemstillinger om til beslutningsgrunnlag og løsninger andre tar i bruk. Har utformet en transparent modell for gevinstfordeling og investeringsvalg der datagrunnlaget var mangelfullt, og medutviklet sykehusets standard for gevinstrealisering. Får løsninger i bruk: utviklet på eget initiativ verktøy som økonomirådgivere i flere klinikker brukte etter en ERP-overgang, og var i praksis eneste kodende utvikler bak et budsjettverktøy i sykehusdekkende bruk. Arbeider tett på teknologi og lærer nye fagområder raskt.",
+    "competencies": [
+      "Gevinst- og investeringsanalyse med synlige, justerbare forutsetninger",
+      "Økonomistyring: budsjett, resultatforklaring og prosjektøkonomi",
+      "Fra behov til løsning i bruk: krav, akseptansekriterier, innføring og onboarding",
+      "Brukertesting og tilbakemeldingsdrevet forbedring",
+      "Tverrfaglig samarbeid med ledere, controllere, fagmiljøer og teknologer",
+      "Dataanalyse og beslutningsstøtte: Power BI, Excel/VBA, SQL, R og Python",
+      "KI-støttet analyse og utvikling med menneskelig kontroll",
+      "Faglig grunnlag i næringsøkonomi, prisdiskriminering og bedriftsøkonomi"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utformet en transparent modell for gevinstfordeling og investeringsvalg i steril logistikk etter å ha avvist en direkte fordeling som bruksdataene ikke bar: vektede indikatorer, synlige og justerbare forutsetninger og kontroller i fem arbeidsbøker. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Medutviklet i et team på fire en metode for gevinstrealisering og gevinstestimering, med bidrag i forskningssyntese, metode og økonomisk analyse. Innført som sykehusdekkende standard og fortsatt i bruk om lag 2,5 år senere.",
+          "Var i praksis eneste kodende utvikler ved moderniseringen av sykehusets om lag 20 år gamle budsjetteringsverktøy (Excel/VBA), i en interessentprosess med om lag 50 personer. Integrerte bemanningsdata som tidligere ble kopiert manuelt, brukte akseptansekriterier og differansekontroll og laget onboarding for controllere. I sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Hovedutvikler av backend i et nytt styringsdashbord for økonomi, bemanning og aktivitet (nesten hele den semantiske modellen og om lag 80 til 90 prosent av DAX). Testet løsningen med faktiske brukere, observerte hvor den var uklar og gjennomførte forbedringssprinter; eier av løsningen fra om lag august 2025 til den ble avviklet i februar 2026.",
+          "Deltok i etableringsgruppen på fire for Analyseavdelingen; utformet forslag og praksis for arbeidsmodell, prioritering og oppgavestruktur, og planla og fasiliterte workshops.",
+          "Lærte opp teknisk personale i en annen rapporteringsorganisasjon i Power BI og semantisk modellering, og bidro vesentlig til en første komponent i en driftsrapport.",
+          "Bruker KI og kodeagenter i analyse og utvikling med tydelige instrukser, tester og menneskelig kontroll; registrert KI-superbruker ved OUS med tekniske svar i en Teams-kanal."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til REGERP, og lærte VBA gjennom arbeidet. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker i perioden etter overgangen.",
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten (periodisering, reversering, avstemming og resultatforklaring), og kvalitetssikret og sendte månedsrapporter til ledere i klinikken.",
+          "Leverte seksjonsvise DRG-prognoser (Stata, R og Power Query) som ble brukt i budsjett og planlegging, og bidro i budsjettprosessen for 2024, prosjektøkonomi og fakturering."
+        ]
+      },
+      {
+        "employment_id": "EMP_SECTOR_ALARM",
+        "bullets": [
+          "Kartla kundebehov, utarbeidet pristilbud og gjennomførte direkte salg og kundedialog i selvstendig feltarbeid."
+        ]
+      }
+    ]
+  },
+  "application_direction": {
+    "backbone": "Samfunnsøkonom som gjør økonomisk vurdering om til løsninger andre tar i bruk. Brevet bygges på to bærende enheter. (1) Økonomisk skjønn bak investerings- og gevinstbeslutninger: PRJ-06, der han avviste en direkte fordeling og bygget en modell med synlige, justerbare forutsetninger, og eventuelt PRJ-04 som medutviklet standard med varig bruk. Hver post beholder sin egen status. (2) Eierskap og gjennomføring til bruk: ledes av REGERP-verktøyene på eget initiativ, gjerne med den raske overtakelsen av månedsoppgjøret som tegn på læringstakt. PRJ-03 kan gi skala og varighet (sykehusdekkende bruk i to budsjettprosesser). CV-en bærer bredden: dashbord med brukertester, arbeidsmodell og workshops, opplæring på tvers, KI, DRG-prognoser, Sector Alarm og faglig grunnlag i næringsøkonomi.",
+    "top_employer_problems": [
+      "Kan en kandidat uten produkttittel gjøre den økonomiske vurderingen bak et tilbud, en investering eller en business case, med synlige forutsetninger?",
+      "Blir analysen til gjennomføring: har kandidaten tatt noe fra idé eller behov til faktisk bruk på tvers av fagmiljøer, og tatt eierskap uten å bli bedt om det?",
+      "Kan kandidaten jobbe tett på teknologi og lære et nytt domene raskt i et selskap i endring?"
+    ],
+    "structure_guidance": "Etabler yrkesankeret (samfunnsøkonom og analytisk rådgiver ved OUS) og hvorfor produkt- og vekstrollen er en naturlig bruk av det, uten å gjenta annonsen. Bruk mest plass på de to bærende enhetene; den ene handler om vurdering, den andre om gjennomføring, og de skal ikke smelte sammen til én prosjekthistorie. Brukertesting (PRJ-01) kan bli en kort kobling til kundeinnsikt hvis det gir mer enn det fortrenger. Nærhet til teknologi dekkes best av CV-en og eventuelt én setning. Gapene i prising, go-to-market og energi skal ikke få eget avsnitt; la bevisene vise hvorfor de er håndterbare, og nevn eventuelt bare prisingsgrunnlaget som faglig forankring. Motivasjonen knyttes til koblingen mellom økonomisk vurdering og gjennomføring i en kommersiell setting. Åpningen er fri."
+  },
+  "avoid_guidance": [
+    "Ikke overfør PRJ-04s sykehusdekkende innføring eller varighet på om lag 2,5 år til PRJ-06. PRJ-06 er bare ferdigstilt og overlevert til controllere; organisatorisk bruk og realiserte gevinster er uavklart. Ingen av postene har brukt den andre.",
+    "Ikke bruk PRJ-03 som bevis på at Vegard samlet folk eller ledet prosessen; en annen person ledet implementeringen og bestemte den smale refaktoreringen. Bruk «i praksis eneste kodende utvikler» og «brukte akseptansekriterier og differansekontroll».",
+    "Ikke kall interne verktøy produkter i markedsforstand, og ikke kall intern innføring go-to-market eller lansering.",
+    "Ikke bruk «prising», «lønnsomhet» eller «business case» som praktisk erfaring i overskrift eller kompetanser; næringsøkonomi og bedriftsøkonomi er faglig grunnlag.",
+    "Skriv «den tildelte månedsoppgjørsflyten», ikke klinikkens eller sykehusets månedsoppgjør.",
+    "Ikke gjør etableringsgruppen eller arbeidsmodellen i Analyseavdelingen til erfaring med fusjon eller integrasjon av selskaper, selv om Joulia er to selskaper som er blitt ett.",
+    "Ikke åpne med BI-backend, VBA-detaljer eller prognosearkitektur; annonsen sier at kandidaten ikke trenger å være teknolog. PRJ-05 er reserve, ikke hovedsak.",
+    "Ikke bruk FINN-feltene «78% match», «Ferdigheter» eller «Nøkkelord» som arbeidsgiverens krav.",
+    "Ikke gi Sector Alarm argumentvekt i brevet; det er fem måneder i 2013 til 2014.",
+    "Ikke gjenta Joulias verdier (Drivers first, Raise the bar, Win together) eller vekstretorikk som motivasjon."
+  ],
+  "counterfactual_route": {
+    "identity": "Teknisk nær produkt- og dataproduktansvarlig: analytiker som har eid og forbedret digitale løsninger for brukere og kan være bindeleddet mellom kommersielle fagmiljøer og digital produktutvikling.",
+    "rationale": "Hvis sluttskriveren vurderer at Joulias viktigste usikkerhet er samarbeidet med digital produktutvikling heller enn den kommersielle vurderingen, kan PRJ-01 (livsløpseierskap, brukertester og forbedringssprinter), PRJ-09 (behovsavklaring og akseptansekriterier), PRJ-07 og KI-støttet leveranse lede. Ruten gir et tydeligere produktspråk, men svekker det økonomiske argumentet som annonsen legger størst vekt på, og risikerer å lese som teknolog. Beholdes som alternativ fordi den faktisk endrer hvilket spørsmål pakken besvarer.",
+    "evidence_refs": [
+      "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+      "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+      "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+      "EV:OTHER#028-4-4-trygge-ki-pastander",
+      "EV:OTHER#015-2-2-selektive-spor"
+    ]
+  },
+  "risk_notes": [
+    "Den sterkeste konkurrerende søkeren har kommersiell produkt- eller go-to-market-erfaring. Pakken vinner bare hvis den gjør gjennomføring til bruk og økonomisk skjønn konkret; generell analyseevne er ikke nok.",
+    "Bredden i CV-en kan gi GENERALIST_BLUR. Toppsonen skal lese som samfunnsøkonom med gevinstvurdering og gjennomføring, ikke som BI-utvikler eller prognosespesialist."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-10",
+      "plain_language_label": "Lærer nye fagområder raskt og blir praktisk dyktig",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "expression_ceiling": "Kan vises gjennom overtakelsen av den tildelte månedsoppgjørsflyten innen om lag tre måneder og VBA lært fra grunnen gjennom et konkret behov. Ikke påstå ekspertise i energi, prising eller produktledelse.",
+      "vacancy_relevance": "Annonsen ber om en som raskt setter seg inn i komplekse problemstillinger og lærer raskt i et selskap som vokser og er i endring, og Vegard kommer fra et annet domene.",
+      "intended_employer_interpretation": "Han vil bli praktisk nyttig i et nytt domene raskt, fordi han har gjort det før i en kontrollkritisk prosess.",
+      "misread_risk": "Kan leses som at han overvurderer egen dybde i et nytt felt.",
+      "expression_guardrail": "Vis læringstakten gjennom handling og tidsramme, og skill rask læring fra eksisterende bransjekunnskap."
+    },
+    {
+      "facet_id": "PF-11",
+      "plain_language_label": "Bygger verktøy og løsninger som gir varig forbedring",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "expression_ceiling": "Kan sies gjennom REGERP-verktøyene på eget initiativ som ble brukt i flere klinikker, og budsjettverktøyet i sykehusdekkende bruk i to budsjettprosesser. Ingen målt tids- eller kostnadsbesparelse.",
+      "vacancy_relevance": "Annonsen verdsetter gjennomføring over ideer og gir eierskap til den som ser en mulighet.",
+      "intended_employer_interpretation": "Han ser et behov, tar eierskap og leverer noe andre faktisk bruker.",
+      "misread_risk": "Overengineering, eller en verktøybygger uten kommersiell sans.",
+      "expression_guardrail": "Knytt alltid verktøyet til brukeren og behovet det løste, og la økonomisk vurdering (PRJ-06, PRJ-04) balansere verktøybildet."
+    },
+    {
+      "facet_id": "PF-08",
+      "plain_language_label": "Setter seg inn i hvordan brukere og mottakere tenker",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "expression_ceiling": "Kan vises gjennom veiledede brukertester og forbedringssprinter i PRJ-01, og gjennom at PRJ-06 ble utformet uten kjerne-VBA slik at controllere kunne inspisere og justere forutsetningene. Ikke påstå ekstern kundeinnsikt eller markedsundersøkelser.",
+      "vacancy_relevance": "Rollen skal forstå kundebehov og gjøre tekniske muligheter til gode kundeopplevelser.",
+      "intended_employer_interpretation": "Han designer ut fra hvordan mottakeren faktisk bruker løsningen, ikke bare ut fra hva som er teknisk riktig.",
+      "misread_risk": "En analytisk og teknisk profil kan leses som lite kundenær.",
+      "expression_guardrail": "Bruk konkrete handlinger mot brukere og mottakere; ingen selvkarakteristikk om empati eller kundefokus."
+    }
+  ],
+  "writer_guidance": "Arbeidsgiveren har åpnet døren for en analytisk kandidat, men vil se at analysen blir til noe. Gjør begge halvdelene konkrete: én dokumentert økonomisk vurdering med synlige forutsetninger (PRJ-06, eventuelt med PRJ-04 som separat post med egen status) og ett dokumentert eksempel på å se et behov og få en løsning i bruk (REGERP-verktøyene, eventuelt PRJ-03 for skala og varighet). Den faglige skjønnsbeslutningen i PRJ-06, å avvise en fordeling som dataene ikke bar, er det mest diagnostiske signalet for business case-arbeid og bør ikke glattes ut til «laget en modell». Hold kommersielle begreper på arbeidsgiverens side av koblingen: det er Joulias oppgave som handler om prising og lønnsomhet, mens Vegards bidrag er økonomisk vurdering og gjennomføring. Brevet bør være på norsk og uten engelsk produktsjargong der norsk fungerer. Fordi Joulia er en privat, teknologinær virksomhet kan én kort setning om KI-støttet arbeidsmåte gi verdi, men bare som arbeidsmåte og under de økonomiske argumentene.",
+  "requires_source_inspection_observed": false
+}

@@ -1,0 +1,62 @@
+{
+  "contract_version": "0.7",
+  "source_stage": "STAGE4_FINAL",
+  "job": {
+    "job_id": "B99_J001_eksempel_prosessradgiver",
+    "batch_id": "B99",
+    "macro_cluster_id": "B99_C01_process_digitalization",
+    "mini_cluster_id": "B99_C01A_process_digitalization",
+    "employer": "Eksempelvirksomheten AS",
+    "title": "Seniorrådgiver prosess og analyse",
+    "unit": "Eksempelavdeling",
+    "reference": "12345",
+    "language": "nb-NO",
+    "letter_required": true
+  },
+  "cv_overrides": {
+    "baseline_version": "0.7.0",
+    "profile": "Samfunnsøkonom og rådgiver økonomi og IKT med erfaring fra driftsnære økonomiprosesser, beslutningsstøtte og kontrollert digitalisering i et komplekst sykehusmiljø. Kombinerer prosessforståelse med praktisk gjennomføring i Excel/VBA, Power BI og analyseverktøy, og legger vekt på løsninger som kan kontrolleres, tas i bruk og vedlikeholdes.",
+    "key_competencies": [
+      "Prosessforbedring og behovsavklaring",
+      "Økonomi, budsjett og styringsinformasjon",
+      "Excel/VBA og kontrollert automatisering",
+      "Power BI, DAX og Power Query",
+      "Kvalitetssikring og sporbarhet"
+    ],
+    "experience_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Moderniserer et driftskritisk Excel/VBA-verktøy for sykehusets budsjettprosess med vekt på kompatibilitet, kontroll og brukbar overlevering.",
+          "Omsetter underdefinerte behov til avgrensede løsningsarkitekturer, valideringskrav og beslutningsstøtte for ledere, controllere og fagmiljøer.",
+          "Bidrar i tverrfaglige leveranser med teknisk implementering, workshops, dokumentasjon og kompetanseoverføring."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder den tildelte månedsoppgjørsflyten og gjennomførte periodisering, avstemming, kvalitetssikring og rapportering til ledere.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP; verktøyene ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "application": {
+    "opening": "Jeg søker stillingen som seniorrådgiver fordi den kombinerer prosessforbedring, økonomiforståelse og praktisk gjennomføring på en måte som ligger tett på arbeidet mitt.",
+    "body_paragraphs": [
+      "I min første periode ved Oslo universitetssykehus overtok jeg etter opplæring den tildelte månedsoppgjørsflyten for en klinikkstab. Jeg arbeidet med periodisering, avstemming, kvalitetssikring og lederrapportering, og utviklet samtidig Excel/VBA-verktøy som gjorde konvertering og validering ved ERP-overgangen mer håndterbar.",
+      "I Analyseavdelingen har jeg senere brukt den samme kombinasjonen av prosessforståelse og teknisk gjennomføring i modernisering av et driftskritisk budsjetteringsverktøy. Arbeidet krever at eksisterende logikk og operativ kontinuitet bevares, samtidig som datagrunnlag, kontroller og vedlikeholdbarhet forbedres.",
+      "Det som motiverer meg ved rollen, er muligheten til å gjøre komplekse arbeidsprosesser mer forståelige og robuste sammen med dem som skal bruke løsningene. Jeg kan bidra med strukturert behovsavklaring, kontrollert implementering og beslutningsstøtte som fungerer i praksis."
+    ],
+    "closing": "Jeg utdyper gjerne hvordan denne erfaringen kan brukes i virksomhetens videre forbedringsarbeid."
+  },
+  "portal_answers": [
+    {
+      "question_id": "motivation",
+      "question": "Hvorfor søker du denne stillingen?",
+      "answer": "Rollen kombinerer prosessforbedring, økonomi og praktisk digitalisering. Jeg ønsker å bruke erfaringen min fra kontrollkritiske økonomiprosesser og teknisk implementering til å utvikle løsninger som er forståelige, etterprøvbare og nyttige i drift.",
+      "max_words": 80,
+      "max_chars": 500
+    }
+  ]
+}

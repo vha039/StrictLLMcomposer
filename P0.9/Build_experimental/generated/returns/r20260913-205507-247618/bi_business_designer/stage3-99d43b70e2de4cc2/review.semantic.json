@@ -1,0 +1,28 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken svarer på de konkrete oppgavene med dokumentert arbeid: vurdering av kostnader, gevinster og løsningsform i investeringsmodellen for steril logistikk, kartlegging og kontrollert endring av et arvet system med om lag 50 involverte, og fasilitering, behovsstruktur og brukertester. Status og eierskap er holdt per case. Ingen kjent ustøttet påstand gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Annonsen ber om en svært erfaren strategisk rådgiver med erfaring fra business design, tjenestedesign, virksomhetsarkitektur eller prosessanalyse. Kandidaten har tilgrensende, implementeringsnær erfaring fra sykehus og ingen slik tittel; avslutningen sier dette nøkternt.",
+      "recommended_action": "Ingen endring nødvendig. Vurder i intervju hvordan senioritetsforventningen treffer.",
+      "priority": 2
+    },
+    {
+      "reason": "Innledningen og første avsnitt beskriver hvordan oppdraget ble gjort om. Kilden dokumenterer at kandidaten gjorde om oppdraget og utformet modellen, men ikke hvem som bestilte eller hvordan omleggingen ble mottatt; teksten påstår ikke dette.",
+      "recommended_action": "Behold formuleringen uten å legge til bestiller eller mottak.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert erfaring med lean canvas, forretningsmodellering, Dual Track, Continuous Discovery eller lean UX.",
+    "Spørreskjemaene og verktøyvurderingene for oppdragsinntak er design og evaluering, ikke dokumentert utrulling; forslag til teamstruktur har blandet innført og foreslått status.",
+    "Ingen formell virksomhetsarkitektur-, produkt- eller tjenestedesignrolle, og ingen erfaring fra utdanningssektoren."
+  ],
+  "material_strategy_change": "Beholdt brobyggerruten, men byttet bærende bevis: strategien la krav- og inntaksdesign og arbeidsmodell (design- og forslagsstatus) som hovedbevis og hadde investeringsmodellen for steril logistikk bare som alternativ rute. Finalen lar investeringsmodellen bære forretningsdesignoppgaven (kostnader, gevinster, om og hvordan noe skal bygges, brukbar for fageiere), budsjetteringsverktøyet bære kartlegging av systemlandskap og gjennomføring under rammer, og flytter inntaksdesign, workshops og brukertester til et støttende avsnitt.",
+  "upstream_claim_repaired": "Understatement: strategien la bevisvekten på design- og evalueringsarbeid og behandlet gevinst- og investeringsarbeidet som en svakere rute, selv om annonsen uttrykkelig ber om vurdering av kostnader, gevinster og om en løsning bør bygges, og den ferdigstilte og overleverte modellen dokumenterer nettopp dette. Dessuten var brukertester med faktiske brukere bare nevnt som CV-reserve; de er nå brukt kort i søknaden uten å kalles discovery-praksis.",
+  "notes": []
+}

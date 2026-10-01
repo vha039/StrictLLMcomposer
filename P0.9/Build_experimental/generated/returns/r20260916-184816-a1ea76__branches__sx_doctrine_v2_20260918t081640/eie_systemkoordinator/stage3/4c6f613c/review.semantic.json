@@ -1,0 +1,20 @@
+{
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [],
+  "known_limitations": [
+    "Det finnes ingen dokumentert erfaring fra eiendomsmegling og ingen bruk av Core eller EIE 365. Kravet nevnes én gang, i NAME_ONCE-setningen i brevet, som argument og ikke som mangel, og står ikke i CV-en. Leseren vil se at bransjeruten ikke er kandidatens.",
+    "Superbrukerrollen for kunstig intelligens er en registrert betegnelse med tekniske svar i en Teams-kanal, i om lag tre år. Antall brukere, formelt organisasjonsomfattende støtteansvar, KI-styringsmandat og målt produktivitetsgevinst er ikke oppgitt, og pakken hevder ingen av delene.",
+    "Den tverrorganisatoriske Power BI-overføringen har uavklart enhet, rapportnavn, datoer, deltakerantall, release- og nåstatus. Brevet sier «bidro vesentlig til den første komponenten» og går ikke til eneutvikling, rapporteierskap eller pågående støtte.",
+    "Styrings-BI-løsningen er avviklet, og eierskapet varte fra om lag august 2025 til februar 2026. Begge deler står i CV-punktet; brukertestene er historisk, levert arbeid, ikke nåværende ansvar.",
+    "Fabric, Power Platform, dbt, Pega og Python er tidlig tilgang, pilot og utforskning. Ingen plattformeierskap, adopsjonsledelse eller produksjonsdataengineering er hevdet.",
+    "Annonsen oppgir ikke hva som skal sendes inn. Brevet er produsert fordi prosessen ledes av en rekrutterer og brev da er normalt; det er ikke bekreftet at portalen har et felt for det."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": "To understatements er rettet. Brevet sa «bidro til en første rapportkomponent» der kortet for PRJ-02 bærer «vesentlig bidrag til en første komponent i en driftsrapport». CV-toppen oppga superbrukerrollen uten varighet, selv om om lag tre år er en godkjent opplysning, og dette er den ene jobben i klyngen der KI er ruten.",
+  "notes": [
+    "De to brevavsnittene hadde identisk indre rytme: en maksime med kolon, så bevis, så to generaliserende sluttsetninger. Symmetrien er brutt ved å fjerne signpostene, ikke ved å flytte bevis.",
+    "Klyngeobservasjon: tankestreken i CV-overskriften er rettet her som i de andre jobbene i rung. Overskriften renderer på én linje, slik briefens headline_intent ba om etter tidligere tolinjers overskrift på denne jobben.",
+    "Brevet er 331 ord mot et plantall på 350."
+  ]
+}

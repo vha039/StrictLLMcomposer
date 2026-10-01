@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260923-193222-838ddd",
+    "job_id": "baerum_radgiver_virksomhetsstyring",
+    "final_package_sha256": "d5b0b5151bf5a70f474ac3d973e125b986e951589c0fe7a164cdac16275d05a6",
+    "document_date": "2026-09-23",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "688732a32369e2e8718fbb556f0512509fc308d0a0fb43533e09c990c7934c4d",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "9591d19e76a03f767d8fd772090bef99c983d720d49454c12f3d6b3a64db4a48",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\baerum_radgiver_virksomhetsstyring\\out\\CV_Baerum_kommune_Radgiver_spesialradgiver.docx",
+      "output_sha256": "b27b179f9f214f91e86b4445871f85d03ac7e3bba9f39ed832d3badc0967ff08",
+      "bytes": 40620,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\baerum_radgiver_virksomhetsstyring\\out\\CV_Baerum_kommune_Radgiver_spesialradgiver.pdf",
+      "output_sha256": "e1bf8feadd8046d79aa832da9cbc81817eb994e1f7b4794fb6bef661ba1b34b8",
+      "bytes": 290037,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_6kyr52s6\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\baerum_radgiver_virksomhetsstyring\\out\\.rnd.58211272\\CV_Baerum_kommune_Radgiver_spesialradgiver.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\baerum_radgiver_virksomhetsstyring\\out\\.rnd.58211272\\CV_Baerum_kommune_Radgiver_spesialradgiver.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\baerum_radgiver_virksomhetsstyring\\out\\Soknad_Baerum_kommune_Radgiver_spesialradgiver.docx",
+      "output_sha256": "361535888edc86820f0fa22a99f8401174fca53445cfad0a423241a21af41743",
+      "bytes": 38631,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\baerum_radgiver_virksomhetsstyring\\out\\Soknad_Baerum_kommune_Radgiver_spesialradgiver.pdf",
+      "output_sha256": "a26db514eeb2db5e58502ab81cc0550ab9caf804e984916febff9cef7edcede9",
+      "bytes": 194374,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_k71gvefc\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\baerum_radgiver_virksomhetsstyring\\out\\.rnd.58211272\\Soknad_Baerum_kommune_Radgiver_spesialradgiver.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\baerum_radgiver_virksomhetsstyring\\out\\.rnd.58211272\\Soknad_Baerum_kommune_Radgiver_spesialradgiver.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-23T21:50:23Z"
+}

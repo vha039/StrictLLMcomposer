@@ -1,0 +1,235 @@
+{
+  "artifact_role": "TEMPLATE_MAP",
+  "map_version": "0.9.0",
+  "note": "The ONE canonical package-to-template map (Contract 13.3). Code, documentation and tests consume this file and no other. Duplicate, missing or unknown controls fail preflight rather than being ignored (Spec 16.3). CV_MASTER.docx carries 17 non-data-bound SDTs and APPLICATION_MASTER.docx carries 6, one per tag. Neither master uses w:dataBinding or docPartObj.",
+  "fill_sources": {
+    "note": "Vocabulary the renderer resolves. 'block' controls take a list of (template_paragraph_index, text) pairs; 'inline' controls take one string. An empty resolved list clears the control's placeholder content entirely. Verification and static-assertion strings use {path} substitution and are compared casefolded, because the CV master renders the candidate name through w:caps (GATE-02 note).",
+    "grammar": [
+      "literal:TEXT                              a fixed heading owned by the template",
+      "package.cv.headline|profile|competencies  model-authored dynamic CV zones",
+      "package.letter.*                          model-authored letter content",
+      "job.employer|title|unit|reference         manifest job identity",
+      "document_date                             canonical date from final.finalization",
+      "effective.employment[ID].bullets          baseline defaults or a full override",
+      "effective.previous_employments            baseline employments outside the fixed zones",
+      "baseline.education[ID].details            baseline-owned education detail lines",
+      "baseline.sections[ID]                     baseline-owned supporting section",
+      "baseline.languages                        baseline-owned language list",
+      "baseline.references_text                  baseline-owned references line",
+      "none                                      intentionally empty in this layout",
+      "{path|transform}   substitution used by static_baseline_assertions and verification"
+    ]
+  },
+  "documents": {
+    "cv": {
+      "master": "templates/CV_MASTER.docx",
+      "output_stem": "CV",
+      "controls": {
+        "CV_FUNCTIONAL_IDENTITY": {
+          "kind": "block",
+          "count": 1,
+          "source": "package.cv.headline",
+          "transform": "upper",
+          "required": true,
+          "note": "Top zone. P0.7 derived this from the first three competencies; P0.9 has an explicit model-authored headline (CTR-05), which is what belongs here."
+        },
+        "CV_VALUE_PROPOSITION": {
+          "kind": "block",
+          "count": 1,
+          "source": "none",
+          "required": false
+        },
+        "CV_PROFILE": {
+          "kind": "block",
+          "count": 1,
+          "source": "package.cv.profile",
+          "required": true
+        },
+        "CV_CORE_COMPETENCE": {
+          "kind": "block",
+          "count": 1,
+          "source": "package.cv.competencies",
+          "transform": "join_middot",
+          "prefix": "KJERNEOMRÅDER  ",
+          "required": true
+        },
+        "CV_TOOLS_METHODS": {
+          "kind": "block",
+          "count": 1,
+          "source": "package.cv.tools_line",
+          "prefix": "VERKTØY  ",
+          "required": false
+        },
+        "CV_CURRENT_ROLE_TOP_EVIDENCE": {
+          "kind": "block",
+          "count": 1,
+          "source": "effective.employment[EMP_OUS_ANALYSE].bullets",
+          "required": true
+        },
+        "CV_SELECTED_EVIDENCE_HEADING": {
+          "kind": "block",
+          "count": 1,
+          "source": "none",
+          "required": false
+        },
+        "CV_SELECTED_EVIDENCE": {
+          "kind": "block",
+          "count": 1,
+          "source": "none",
+          "required": false
+        },
+        "CV_EARLY_ROLE_EVIDENCE": {
+          "kind": "block",
+          "count": 1,
+          "source": "effective.employment[EMP_OUS_BAR].bullets",
+          "required": true
+        },
+        "CV_RELEVANT_MASTER_SUBJECTS": {
+          "kind": "block",
+          "count": 1,
+          "source": "baseline.education[EDU_NTNU_ECON].details",
+          "required": false
+        },
+        "CV_RELEVANT_BACHELOR_SUBJECTS": {
+          "kind": "block",
+          "count": 1,
+          "source": "baseline.education[EDU_UIB_ECON].details",
+          "required": false
+        },
+        "CV_SUPPORT_SECTION_1": {
+          "kind": "block",
+          "count": 1,
+          "source": "none",
+          "required": false
+        },
+        "CV_SUPPORT_SECTION_2": {
+          "kind": "block",
+          "count": 1,
+          "source": "none",
+          "required": false
+        },
+        "CV_SUPPORT_SECTION_3": {
+          "kind": "block",
+          "count": 1,
+          "source": "none",
+          "required": false
+        },
+        "CV_OPTIONAL_PREVIOUS_EXPERIENCE": {
+          "kind": "block",
+          "count": 1,
+          "source": "effective.previous_employments",
+          "heading": "TIDLIGERE ERFARING",
+          "required": false
+        },
+        "CV_OPTIONAL_TRUST": {
+          "kind": "block",
+          "count": 1,
+          "source": "baseline.sections[OTHER_TRUST]",
+          "required": false
+        },
+        "CV_OPTIONAL_LANGUAGES": {
+          "kind": "block",
+          "count": 1,
+          "source": "baseline.languages_and_courses",
+          "heading": "SPRÅK OG KURS",
+          "required": false
+        }
+      },
+      "fixed_employment_zones": {
+        "note": "The master hard-codes these employers, titles, units and periods as static furniture. Preflight asserts the baseline still agrees with what the document says, so a model stage can never silently correct a baseline-owned static fact through a dynamic field (Spec 4.2).",
+        "current": "EMP_OUS_ANALYSE",
+        "early": "EMP_OUS_BAR"
+      },
+      "static_baseline_assertions": [
+        "{candidate.full_name|upper}",
+        "{candidate.location}  |  {candidate.phone}  |  {candidate.email}",
+        "{employment[EMP_OUS_ANALYSE].formal_title}  |  {employment[EMP_OUS_ANALYSE].employer}",
+        "{employment[EMP_OUS_ANALYSE].employment_group_period}",
+        "{employment[EMP_OUS_ANALYSE].unit}",
+        "{employment[EMP_OUS_ANALYSE].period}",
+        "{employment[EMP_OUS_BAR].unit}",
+        "{employment[EMP_OUS_BAR].period}",
+        "{education[EDU_UIA_AI].qualification}  |  {education[EDU_UIA_AI].institution}",
+        "{education[EDU_UIA_AI].period}",
+        "{education[EDU_NTNU_ECON].qualification}  |  {education[EDU_NTNU_ECON].institution}",
+        "{education[EDU_NTNU_ECON].period}",
+        "{education[EDU_UIB_ECON].qualification}  |  {education[EDU_UIB_ECON].institution}",
+        "{education[EDU_UIB_ECON].period}"
+      ],
+      "verification": {
+        "note": "Document-specific, not a universal string list (Spec 16.7, Contract 14.3).",
+        "identity": [
+          "{candidate.full_name}",
+          "{candidate.phone}",
+          "{candidate.email}"
+        ],
+        "chronology_anchors": [
+          "{employment[EMP_OUS_ANALYSE].employer}",
+          "{employment[EMP_OUS_ANALYSE].formal_title}",
+          "{education[EDU_NTNU_ECON].qualification}",
+          "{education[EDU_UIB_ECON].qualification}"
+        ],
+        "headline_from": "package.cv.headline",
+        "require_override_bullets_visible": true
+      }
+    },
+    "letter": {
+      "master": "templates/APPLICATION_MASTER.docx",
+      "output_stem": "Soknad",
+      "controls": {
+        "APP_EMPLOYER": {
+          "kind": "inline",
+          "count": 1,
+          "source": "job.employer",
+          "required": true
+        },
+        "APP_UNIT_OPTIONAL": {
+          "kind": "block",
+          "count": 1,
+          "source": "job.unit",
+          "required": false
+        },
+        "APP_DATE": {
+          "kind": "inline",
+          "count": 1,
+          "source": "document_date",
+          "transform": "norwegian_long_date",
+          "required": true,
+          "note": "Reads the canonical date stored with the final package at semantic finalization. Never date.today() at render time (DEC-38)."
+        },
+        "APP_JOB_TITLE": {
+          "kind": "inline",
+          "count": 1,
+          "source": "job.title",
+          "required": true,
+          "note": "Filled once in the subject line. The optional reference remains a separate control below the address/date table."
+        },
+        "APP_REFERENCE_OPTIONAL": {
+          "kind": "block",
+          "count": 1,
+          "source": "job.reference",
+          "prefix": "Referanse: ",
+          "required": false
+        },
+        "APPLICATION_BODY": {
+          "kind": "block",
+          "count": 1,
+          "source": "package.letter.paragraphs",
+          "required": true,
+          "note": "opening + body_paragraphs + closing, in order. The letter is unconditional: there is no null branch and no letter_required (DEC-01)."
+        }
+      },
+      "static_baseline_assertions": [],
+      "verification": {
+        "identity": [
+          "{candidate.full_name}"
+        ],
+        "employer_addressing": [
+          "{job.employer}",
+          "{job.title}"
+        ],
+        "require_override_bullets_visible": false
+      }
+    }
+  }
+}

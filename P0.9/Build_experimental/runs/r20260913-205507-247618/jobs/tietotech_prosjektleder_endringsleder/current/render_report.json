@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "tietotech_prosjektleder_endringsleder",
+    "final_package_sha256": "cfc9050d66baa91ea8ae69e29092b26345fb59f7b949b5ab43363b83f3062480",
+    "document_date": "2026-09-13",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "84a069c32995b61353e3edcee53d2c5fab5d289148f0358c3b461338108a2acb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\CV_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.docx",
+      "output_sha256": "9828189361a017b4c71379df7b8d8eefac38c563fd6add7220b9eff26984ac9c",
+      "bytes": 40579,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\CV_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.pdf",
+      "output_sha256": "1d3b9f6489ebd2f4b153389fee6beddc14ddeadc8ff64134c474240d28fa266f",
+      "bytes": 292564,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_lfvlr9x4\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\.rnd.f361a711\\CV_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\.rnd.f361a711\\CV_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\Soknad_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.docx",
+      "output_sha256": "92aae547443aecf5cb88c962a04df0bad4d2a36528e6018e0c3d25510a1b6d68",
+      "bytes": 38555,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\Soknad_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.pdf",
+      "output_sha256": "4845a6baeadce45fa11042e3f66d784dd4ee02ec9f513087928a3fba94e3dc0a",
+      "bytes": 194579,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_qqqeb_61\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\.rnd.f361a711\\Soknad_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\tietotech_prosjektleder_endringsleder\\out\\.rnd.f361a711\\Soknad_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-13T21:51:43Z"
+}

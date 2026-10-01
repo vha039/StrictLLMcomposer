@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260927-205220-984088",
+    "job_id": "nortura_fagleder_masterdata",
+    "final_package_sha256": "9ee07813dd32e98d3e7e546f9ebfe602b1404d864300c94d580a61c90d11d9af",
+    "document_date": "2026-09-27",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "688732a32369e2e8718fbb556f0512509fc308d0a0fb43533e09c990c7934c4d",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "9591d19e76a03f767d8fd772090bef99c983d720d49454c12f3d6b3a64db4a48",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\nortura_fagleder_masterdata\\out\\CV_Nortura_Fagleder_Masterdata.docx",
+      "output_sha256": "625ba2a46833a26effddfcadbba6575918ef578d2ed24b644b806c6dce739c47",
+      "bytes": 40869,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\nortura_fagleder_masterdata\\out\\CV_Nortura_Fagleder_Masterdata.pdf",
+      "output_sha256": "6846c58196e187b247b38b93b8df88698e97a57e6173b9ebac6307df6f4ec899",
+      "bytes": 291659,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_6d_bjslx\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\nortura_fagleder_masterdata\\out\\.rnd.7c3179fc\\CV_Nortura_Fagleder_Masterdata.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\nortura_fagleder_masterdata\\out\\.rnd.7c3179fc\\CV_Nortura_Fagleder_Masterdata.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\nortura_fagleder_masterdata\\out\\Soknad_Nortura_Fagleder_Masterdata.docx",
+      "output_sha256": "67d2b10f72b197c89c174226bf2dd821a6d320bae5d3450735e1f611eeb9b615",
+      "bytes": 38299,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\nortura_fagleder_masterdata\\out\\Soknad_Nortura_Fagleder_Masterdata.pdf",
+      "output_sha256": "fbf2b9782fc0bf2fdbc067e5f3a48f63ab9539e4f90ddc7982d360ab27cc8509",
+      "bytes": 191506,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_d78auiaj\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\nortura_fagleder_masterdata\\out\\.rnd.7c3179fc\\Soknad_Nortura_Fagleder_Masterdata.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\nortura_fagleder_masterdata\\out\\.rnd.7c3179fc\\Soknad_Nortura_Fagleder_Masterdata.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-27T21:26:20Z"
+}

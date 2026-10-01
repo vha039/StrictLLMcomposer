@@ -1,0 +1,50 @@
+{
+  "artifact_role": "CURRENT_FAILURE",
+  "run_id": "r20260923-152510-4571ea",
+  "job_id": "testetaten_radgiver",
+  "operation": "STAGE1",
+  "classification": "FAILED",
+  "applies_to_hashes": {},
+  "violations": [
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/personality_facets",
+      "expected": "maxItems: 3",
+      "observed": "4 item(s)",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "evidence_plan[0].evidence_refs[0]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#999-finnes-ikke' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "DEC-34",
+      "file": "strategy.json",
+      "location": "cv_direction.employment_focus[0]",
+      "expected": "a baseline reference present in the mechanical baseline map",
+      "observed": "'BL:EMP_FINNES_IKKE' does not resolve",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "DEC-35",
+      "file": "strategy.json",
+      "location": "personality_facets[3].facet_id",
+      "expected": "a facet ID present in policy/personality_facets.json",
+      "observed": "'PF-99' is not in the closed facet set",
+      "severity": "ERROR"
+    }
+  ],
+  "diagnostic_summary": "Semantic stage return failed mechanical validation.",
+  "attempts_used": 0,
+  "retry_position": null,
+  "mechanical_corrections_used": 0,
+  "semantic_attempt": null,
+  "last_successful_stage": null,
+  "recommended_next_action": "Correct the reported mechanical defects once in the same session and resubmit with the same handoff.",
+  "recorded_at": "2026-09-23T15:25:12Z"
+}

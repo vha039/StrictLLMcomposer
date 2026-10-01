@@ -1,0 +1,107 @@
+{
+  "artifact_role": "POLISH_LAYER",
+  "cv": {
+    "headline": "Rådgiver i stab: beslutningsstøtte og arbeidsprosesser",
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avsetninger, avstemming, feilsøk og resultatforklaring, og kvalitetssikret, rapporterte og distribuerte månedsrapporteringen til klinikkledere selv.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konterings- og bilagslinjer mot REGERP-format; verktøyene ble i perioden kort etter overgangen brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Bidro i budsjettprosessen for 2024 med registrering av årsverk og kvalitetssikring av bemanningsgrunnlag, og arbeidet løpende med prosjektøkonomi og økonomiske avklaringer."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Stortingets administrasjon skal både ivareta og fornye institusjonen. For meg setter det en konkret ramme for forbedringsarbeidet: nye arbeidsformer må kunne etterprøves, samtidig som den løpende driften holdes i gang. Jeg velger rådgiversporet, med erfaring fra å overta faste stabsoppgaver og utforme strukturene rundt nye. Håndverket er det samme som i sykehusstab: planlegging, beslutningsgrunnlag og oppfølging, men med institusjonell kontinuitet som ramme i stedet for pasientdrift.",
+    "body_paragraphs": [
+      "I Barne- og ungdomsklinikkens stab overtok jeg hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, og gikk fra å få eget arbeid kvalitetssikret til selv å kvalitetssikre og rapportere til klinikklederne. Overtakelsen krevde at jeg forsto sammenhengen mellom det som ble registrert, kontrollene underveis og forklaringen mottakeren trengte. Jeg sammenstilte økonomi-, bemannings- og aktivitetsgrunnlag til lederrapportering og dokumenterte arbeidssteg i flyten. Løpende økonomiske avklaringer håndterte jeg etter behov, innenfor økonomilederens kapasitet og den tildelte oppgaven.",
+      "I analyseavdelingens firepersoners miljø har jeg utformet arbeidsmodell og arbeidsinntak med et spørsmål foran verktøyvalget: Hvilken beslutning skal dette arbeidet gjøre mulig? Formål, avhengigheter og kriterier for ferdig arbeid er derfor med i inntaket. Med sykehusets budsjetteringsverktøy var rammen derimot gitt på forhånd: jeg anbefalte en bredere omstrukturering, men gjennomførte kodeendringene funksjon for funksjon innenfor den rammen innføringslederen satte. I en prosess med om lag 50 involverte kontrollerte jeg endringene mot opprinnelig funksjon med eksplisitte akseptansekriterier. En annen foretrukket løsning fritar ikke for å gjøre den valgte løsningen etterprøvbar. Jeg skriver også korte beslutningssammendrag og mer detaljert referansemateriell, slik at mottakeren får riktig dybde. Decisions og Planner lærer jeg raskt. Med meg tar jeg arbeidet med å få saker, møter og beslutninger til å henge sammen i de samhandlingsflatene en avdeling faktisk jobber i."
+    ]
+  },
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "Konverteringen av arbeidsgiverfaktumet bærer hele brevet: etterprøvbar fornyelse uten driftsstans. Ingen sannhets- eller stemmegrunn til å røre den."
+    },
+    {
+      "id": "K2",
+      "disposition": "KEPT",
+      "reason": "Sporvalget er annonsens reelle tvetydighet og står som et valg, ikke som en unnskyldning. Ordlyden er allerede konkret."
+    },
+    {
+      "id": "K3",
+      "disposition": "KEPT",
+      "reason": "Dommen om at en tapt anbefaling ikke fritar for etterprøvbarhet er selve skjønnsatomet. Den upersonlige formen er her den sosialt tryggeste: en personlig variant ville gjort saken til en rangering av personer. Konfliktpreget er i stedet tatt ned i setningen foran."
+    },
+    {
+      "id": "K4",
+      "disposition": "REWORDED",
+      "reason": "Funksjonen GAP_TURN og hele innholdet er uendret. Kløyvingen «det jeg tar med, er …» er byttet mot briefens egen NAME_ONCE-ordlyd «Med meg tar jeg …». Dette var setningen preview flagget som cleft motive."
+    }
+  ],
+  "changes": [
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TIC",
+      "note": "Avsnitt 2, K4: kløyvingen «det jeg tar med, er …» ført tilbake til briefens NAME_ONCE-ordlyd «Med meg tar jeg …». Dette var preview-signalet cleft motive, og kløyvd motivsetning står på FORFATTERSTEMMEs liste over vendinger som har slitt seg ut i denne klyngen. Semikolonet er samtidig delt til punktum."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TRUTH",
+      "note": "Avsnitt 1, understatement repareres. Brevet ga bort to dokumenterte fakta som U1 og fasett PF-10 hviler på: at han overtok HELE den tildelte månedsoppgjørsflyten, og at det skjedde innen om lag tre måneder. Begge står i CLM-BAR-001 og i den godkjente måltallstabellen, og begge sto allerede i CV-en. Tempoet leses nå som handling, ikke som egenskap."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Avsnitt 1: to tolkende setninger på rad fjernet. «Å følge en sak helt frem betyr for meg …» er avsluttende lærdom rett etter at avsnittet har vist poenget; «Den erfaringen er relevant for en stab der …» er en overflødig relevansbro, og K4 bærer den ene overføringen brevet trenger. Signalskanneren fant ingen gjentatt bro, så dette er stemmepuss, ikke skjerm-ut."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "SOCIAL_RISK",
+      "note": "Avsnitt 2: «slik innføringslederen krevde» til «innenfor den rammen innføringslederen satte». Kilden sier required, så ramme, begrunnelse og attribusjon er bevart, men saken leses ikke lenger som at kandidaten ble overkjørt av en navngitt kollega."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Avsnitt 2: «Et separat arbeid … viser hvordan jeg håndterer en fastsatt ramme» erstattet av «Med sykehusets budsjetteringsverktøy var rammen derimot gitt på forhånd» — vekk med selvrangeringen som annonserte hva beviset skulle vise. «Brukte jeg sammenligning … for å kontrollere endringene» til «kontrollerte jeg endringene mot opprinnelig funksjon med …», så handlingen ligger i verbet."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Avsnitt 1: «ga dessuten trening i å håndtere saker etter behov» er gjort til handling: «håndterte jeg etter behov»."
+    },
+    {
+      "field": "letter.opening",
+      "reason": "DIFFERENTIATION",
+      "note": "Sluttsetningen «Det er kombinasjonen … som gjør denne rollen interessant for meg» var en kløyvd motivsetning som ville overlevd et bytte av arbeidsgivernavn. Erstattet av briefens faktiske motiv: samme stabshåndverk som i sykehusstab, men med institusjonell kontinuitet som den harde rammen i stedet for pasientdrift."
+    },
+    {
+      "field": "cv.headline",
+      "reason": "TIC",
+      "note": "Tankestrek byttet mot kolon. WRITING_DOCTRINE, Tegnsetting: tankestrek skal ikke forekomme i arbeidsgivertekst, og kolon står på listen over foretrukne tegn. Overskriften renderer fortsatt på én linje."
+    },
+    {
+      "field": "cv.employment_overrides",
+      "reason": "TRUTH",
+      "note": "EMP_OUS_BAR, punkt 2: periodeavgrensningen «i perioden kort etter overgangen» lagt tilbake på bruken av konverteringsverktøyene. Den er del av den godkjente bruken i måltallstabellen, og uten den leses bruken som varig. Presiserte samtidig hva som ble konvertert, i tråd med CLM-BAR-002. De to andre punktene er uendret og gjentas bare fordi en override erstatter hele punktlisten."
+    }
+  ],
+  "writer_note": "Ingen evidens utenfor briefen er hentet inn. Alle fire keystones beholder sin funksjon; bare K4 er omformulert, og da til briefens egen NAME_ONCE-ordlyd. Brevet falt fra 332 til 292 ord mot et plantall på 380. Det er ikke fylt opp igjen: alt som gikk ut var selvtolkning og relevansforklaring, ikke bevis, og doktrinen ber om å ikke løse lengde med mer tekst når ingen konkret evidens mangler. Klyngenotat: alle fire CV-overskriftene i rung bruker tankestrek og samme form; tankestreken er rettet her, men mønsteret stammer fra Stage 1.",
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "stortinget_virksomhetsstyring_lederstotte",
+    "employer": "Stortinget",
+    "title": "seniorrådgiver/rådgiver",
+    "evidence_fingerprint": "9a8cb795f65bf3557a9e70ef66dac4048aea3d835d193d2e00817b6825c9c0f4",
+    "policy_fingerprint": "778d968544107da89d0199041d7dfd3a90cef53fc7d98fbe87a9af775ce5cd73",
+    "inputs": {
+      "scout": "c6daa72125a313583505cbf46aacdce9970e7b82bd8199f29b24284daeb4c019",
+      "brief": "196437b7c8555c62fa02ceda4d03d67569fe267a9fdd03d1806a914af9db984f",
+      "cv_draft": "606554330525529f7415e6404447f63fb5a11bdf8b20ec078f4960c5715b4477",
+      "advocacy_draft": "d65f8ec67d9254c530258a94c927fc5b3498c21d80a0c6a86500e3f228f38495"
+    }
+  }
+}

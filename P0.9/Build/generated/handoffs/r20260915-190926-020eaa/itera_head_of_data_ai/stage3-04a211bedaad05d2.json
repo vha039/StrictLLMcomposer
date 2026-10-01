@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260915-190926-020eaa",
+  "job_id": "itera_head_of_data_ai",
+  "employer": "Itera Norway",
+  "title": "Head of Data & AI",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "27a1fc9d61dc13ae7270a472dd3789282ba7943ecd72197dc652b69e4d3ad8c8",
+  "upstream": {
+    "strategy_sha256": "ab66f83007c53400fcf9cd6b1838a58de3e118b85731a1bd5dbddba95bb1f46b"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

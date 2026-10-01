@@ -1,0 +1,54 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | virksomhetsstyring, analyse og gjennomføring",
+    "profile": "Samfunnsøkonom og rådgiver som gjør styringsbehov om til beslutningsgrunnlag, felles metoder og løsninger som kan brukes i praksis. Ved Oslo universitetssykehus arbeider jeg i skjæringspunktet mellom økonomi, ledelsesinformasjon og teknisk gjennomføring. Jeg har blant annet vært med på å utvikle en sykehusdekkende standard for gevinstrealisering og hatt hovedansvaret for kodeendringene i et virksomhetskritisk budsjetteringsverktøy som ble brukt i budsjettprosessen.",
+    "competencies": [
+      "Virksomhetsstyring, beslutningsgrunnlag og styringsinformasjon",
+      "Økonomisk analyse, KPI-er og avviksforståelse",
+      "Felles metode, gevinstrealisering og varig bruk",
+      "Prioritering, kravstrukturering og workshopfasilitering",
+      "Kontrollert modernisering og innføring",
+      "Oversettelse mellom ledelse, fagmiljøer og teknologi"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utvikler og forbedrer beslutningsstøtte for økonomi, bemanning, aktivitet/DRG og pasientflyt, og omsetter brede behov til avgrensede leveranser, kontroller og dokumentasjon.",
+          "Var en av fire som videreutviklet et rammeverk for gevinstrealisering. Det ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et halvt år senere.",
+          "Hadde hovedansvaret for kodeendringene da et virksomhetskritisk Excel/VBA-verktøy for budsjettering ble modernisert. Integrerte bemanningsdata og utviklet kontroller, dokumentasjon og onboardingmateriell. Versjonen ble brukt i sykehusets budsjettprosess for 2026.",
+          "Har bygget og driftet lederrettet styrings-BI for økonomi, bemanning og aktivitet, med semantisk modellering, månedlige oppdateringer og forbedringer basert på observasjon av brukere.",
+          "Planlegger og fasiliterer workshops og bidrar til prioritering, kompetanseoverføring og samarbeid mellom ledere, controllere, fagmiljøer og tekniske kolleger."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring den tildelte månedsoppgjørsflyten med periodisering, reversering, avstemming, kvalitetssikring, resultatforklaring og rapportering til ledere.",
+          "Bidro i budsjett, prosjektøkonomi og klinikkens økonomi- og aktivitetsrapportering, og utviklet Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker stillingen som strategi- og målstyringsrådgiver fordi den samler to oppgaver jeg kjenner godt: å utvikle felles styringsmetoder og å gjøre dem anvendelige gjennom prioriteringer, beslutningsinformasjon og verktøy som tas i bruk. Huseiernes vekst, flere produkter og tydelige krav til forretningsmessig verdi gjør nettopp denne kombinasjonen viktig.",
+    "body_paragraphs": [
+      "Ved Oslo universitetssykehus var jeg en av fire som videreutviklet et rammeverk for gevinstrealisering. Jeg arbeidet med forskningssyntese, metodeforbedring og økonomiske, strategiske og styringsmessige vurderinger. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et halvt år senere. Det er et konkret eksempel på at en felles metode må være forståelig, relevant for faktiske prioriteringer og mulig å bruke over tid.",
+      "Gjennomføring under reelle driftskrav har jeg erfart gjennom moderniseringen av et virksomhetskritisk budsjetteringsverktøy. I en bred interessentprosess hadde jeg hovedansvaret for kodeendringene, integrerte bemanningsdata og utviklet kontroller, dokumentasjon og onboardingmateriell for controllere. Den moderniserte versjonen ble brukt i sykehusets budsjettprosess for 2026. Oppgaven krevde at forbedringer, kompatibilitet og operativ kontinuitet ble vurdert samlet.",
+      "I dagens rolle utvikler jeg også styringsinformasjon for økonomi, bemanning og aktivitet. Et lederrettet Power BI-verktøy ble driftet månedlig og forbedret etter observasjon av faktiske brukere. Sammen med erfaring fra workshops, kravstrukturering og kompetanseoverføring har dette lært meg å finne ut hvilken informasjon ulike mottakere trenger, og å gjøre uklare behov om til gjennomførbare oppgaver.",
+      "Hos Huseierne vil jeg bruke denne erfaringen til å knytte mål, KPI-er og prioriteringer tettere til arbeidshverdagen i ledelsen, produktmiljøene og forretningen. Det er meningsfullt fordi bedre virksomhetsstyring her ikke bare handler om intern orden, men om å skape mer verdi for en medlemsorganisasjon som skal gjøre det tryggere og enklere å være boligeier."
+    ],
+    "closing": "Jeg vil gjerne utdype hvordan jeg arbeider med felles metode, styringsinformasjon og gjennomføring i komplekse organisasjoner."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "writer_note": "Finalen er rekonstruert rundt varig felles metode, faktisk budsjettbruk og lederrettet styringsinformasjon. Det defensive gapavsnittet i utkastet er fjernet."
+}

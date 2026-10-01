@@ -1,0 +1,25 @@
+{
+  "artifact_role": "ADVOCACY_LAYER",
+  "letter": null,
+  "keystones": [],
+  "used_evidence_refs": [],
+  "form_answers": [
+    {
+      "question": "Kildespørsmål?",
+      "answer": "Mekanisk prøvesvar."
+    }
+  ],
+  "binding": {
+    "run_id": "r20260916-185207-a37938",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "575757d6bcd7d995b0f6624c362f893cfb7586f2bbaf0b737038d52b35cbbf97",
+    "policy_fingerprint": "eb46b36b2107b4a07e787b4ffa867e3a1ec66e13191088c1e2752982eaafed21",
+    "inputs": {
+      "scout": "ae2684df383823ec6e6c2711b1d385339edd6e5d23b79a47cf10e7b8ded8efdf",
+      "brief": "8e3c826f3364c1a46d2121f35d6ad1fb763ac97bef8d47e6a769a56f28f61431",
+      "cv_draft": "ce4732e3bbf321bce797ed3b47d643138ecd79ee730cf256a1a88e9e6ded6a06"
+    }
+  }
+}

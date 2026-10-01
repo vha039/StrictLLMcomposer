@@ -1,0 +1,49 @@
+{
+  "letter": {
+    "opening": "En veiledning hjelper lite hvis brukeren ikke finner svaret når arbeidet stopper opp. EIE kombinerer boligmegling med næringsmegling, nybygg og advokattjenester. Det gjør det viktig å undersøke hvilken oppgave brukeren skal løse, fremfor å anta at samme forklaring passer alle. Min vei inn i dette arbeidet er økonomi og IT: å forstå fagpersonens behov, finne feilen og gjøre løsningen mulig å bruke videre.",
+    "body_paragraphs": [
+      "I arbeidet med en styrings-BI-løsning undersøkte jeg brukeropplevelsen gjennom veiledede tester. Jeg så hvor faktiske brukere ble forvirret, samlet tilbakemeldinger og fulgte opp med målrettede forbedringsrunder. Det ga konkrete observasjoner å arbeide ut fra, fremfor å ta min egen forståelse av systemet som mål på hvor forståelig det var. Opplæringen må også treffe den som skal overta: I en intern workshop for økonomikolleger koblet jeg prosesskartlegging til datamodellering og datakvalitet. I samarbeid med en annen organisasjons rapporteringsmiljø underviste jeg tekniske kolleger i modellering og optimalisering, og bidro til en første rapportkomponent. Jeg tilpasser detaljnivået i materiell til mottakeren. En som skal vedlikeholde en modell, trenger noe annet enn en som skal bruke svaret i sitt daglige arbeid.",
+      "Den samme vurderingen av bruk og ansvar ligger bak KI-arbeidsformen min. I superbrukerrollen svarer jeg på tekniske spørsmål i en Teams-kanal. I eget arbeid avgrenser jeg oppgaven, angir hvilke kilder som skal veie tyngst og kontrollerer resultatet før det går videre. Konsekvensrike handlinger beholder et menneskelig beslutningspunkt. Også ved vurdering av nye verktøy må driften være med: I arbeidet med sykehusets budsjettverktøy vurderte jeg teknologialternativer opp mot kompatibilitet, risiko og vedlikehold, og laget materiell for controllerne som skulle bruke verktøyet. For meg hører derfor utprøving og forklaring sammen. En ny mulighet må kunne beskrives som en konkret oppgave brukeren kan utføre og kontrollere. Core og EIE 365 er systemene jeg skal inn i, og selve systemkunnskapen er den delen som går raskest å tilegne seg; det som tar tid, er å finne ut hvor en bruker faktisk står fast, og det er den delen jeg kommer fra."
+    ],
+    "closing": "Et første steg hos dere ville være å følge noen konkrete meglerhenvendelser fra spørsmål til løsning og bruke dem til å velge hva som bør forklares bedre, testes med brukerne eller tas videre med Brokio."
+  },
+  "keystones": [
+    {
+      "id": "K1",
+      "text": "Det gjør det viktig å undersøke hvilken oppgave brukeren skal løse, fremfor å anta at samme forklaring passer alle.",
+      "document": "LETTER",
+      "function": "EMPLOYER_FACT"
+    },
+    {
+      "id": "K2",
+      "text": "Det ga konkrete observasjoner å arbeide ut fra, fremfor å ta min egen forståelse av systemet som mål på hvor forståelig det var.",
+      "document": "LETTER",
+      "function": "JUDGMENT"
+    },
+    {
+      "id": "K3",
+      "text": "Core og EIE 365 er systemene jeg skal inn i, og selve systemkunnskapen er den delen som går raskest å tilegne seg; det som tar tid, er å finne ut hvor en bruker faktisk står fast, og det er den delen jeg kommer fra.",
+      "document": "LETTER",
+      "function": "GAP_TURN"
+    },
+    {
+      "id": "K4",
+      "text": "Et første steg hos dere ville være å følge noen konkrete meglerhenvendelser fra spørsmål til løsning og bruke dem til å velge hva som bør forklares bedre, testes med brukerne eller tas videre med Brokio.",
+      "document": "LETTER",
+      "function": "CLOSE"
+    }
+  ],
+  "used_evidence_refs": [
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+  ],
+  "outside_brief_refs": [],
+  "notes": [
+    "CV arvet uten erstatningsfelt; historisk BI-status beholdes der. Briefens generalisering om hvorfor veiledninger ikke leses er ikke ført som faktum. Teknologivurderingen beskrives uten å tillegge kandidaten et dokumentert valg av den linjen brukerne kunne leve med; kilden støtter vurderingskriteriene. NAME_ONCE er beholdt verbatim etter briefen; vurderingen av hva som vil læres raskest er kandidatens forventning, ikke målt læringstid. CV-overskriftens tankestrek overlates til Editor."
+  ]
+}

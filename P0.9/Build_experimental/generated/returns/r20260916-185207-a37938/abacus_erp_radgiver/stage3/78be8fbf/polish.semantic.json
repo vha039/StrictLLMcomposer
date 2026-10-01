@@ -1,0 +1,18 @@
+{
+  "cv": {
+    "tools_line": "Excel"
+  },
+  "changes": [
+    {
+      "field": "cv.tools_line",
+      "reason": "COMPLEMENTARITY"
+    }
+  ],
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "Fixture"
+    }
+  ]
+}

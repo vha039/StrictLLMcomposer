@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260923-193222-838ddd",
+    "job_id": "kpmg_cfo_advisory_prosjektleder",
+    "final_package_sha256": "b6f69d76d9ded6bea870506495b397e0850c3547be070398bbafe0ebe020b822",
+    "document_date": "2026-09-24",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "688732a32369e2e8718fbb556f0512509fc308d0a0fb43533e09c990c7934c4d",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "9591d19e76a03f767d8fd772090bef99c983d720d49454c12f3d6b3a64db4a48",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\kpmg_cfo_advisory_prosjektleder\\out\\CV_KPMG_Norge_Prosjektleder_til_CFO_Advisory.docx",
+      "output_sha256": "b83a3ba84dc08ae18474b60762daca293f744b6a8dc26e76758ec2f4a5eebd87",
+      "bytes": 40674,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\kpmg_cfo_advisory_prosjektleder\\out\\CV_KPMG_Norge_Prosjektleder_til_CFO_Advisory.pdf",
+      "output_sha256": "2205a109b21867ab8211fb135e0218b1e73c9cbd4602ce04359152a283d2e3a4",
+      "bytes": 289958,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom__0supa2h\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\kpmg_cfo_advisory_prosjektleder\\out\\.rnd.bc0b58c5\\CV_KPMG_Norge_Prosjektleder_til_CFO_Advisory.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\kpmg_cfo_advisory_prosjektleder\\out\\.rnd.bc0b58c5\\CV_KPMG_Norge_Prosjektleder_til_CFO_Advisory.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\kpmg_cfo_advisory_prosjektleder\\out\\Soknad_KPMG_Norge_Prosjektleder_til_CFO_Advisory.docx",
+      "output_sha256": "a971a1f3a58efb519789f0fc04cadfc23e185b260dab45c818a898990d9a8cd8",
+      "bytes": 38695,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\kpmg_cfo_advisory_prosjektleder\\out\\Soknad_KPMG_Norge_Prosjektleder_til_CFO_Advisory.pdf",
+      "output_sha256": "8ea1522fe3a978f7a8c9da6cee67c3073be257c1f1bb588a4272d72a78ccf105",
+      "bytes": 196361,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_qbbmch55\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\kpmg_cfo_advisory_prosjektleder\\out\\.rnd.bc0b58c5\\Soknad_KPMG_Norge_Prosjektleder_til_CFO_Advisory.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\kpmg_cfo_advisory_prosjektleder\\out\\.rnd.bc0b58c5\\Soknad_KPMG_Norge_Prosjektleder_til_CFO_Advisory.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-23T22:28:22Z"
+}

@@ -1,0 +1,17 @@
+{
+  "job_id": "abacus_erp_radgiver",
+  "stage": 3,
+  "cv_dynamic_words": 22,
+  "letter_words": 13,
+  "signals": [],
+  "artifact_hash": "e6ef4cbf75449da40e4a974c7cc4a28e5a0889aedef0551a9ab1edef746a0412",
+  "sources": {
+    "cv_draft": "current artifact",
+    "advocacy_draft": "current artifact",
+    "polish": "current artifact"
+  },
+  "state": "current submitted layers",
+  "documents": {},
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\abacus_erp_radgiver\\0918\\23698",
+  "render_state": "DEGRADED"
+}

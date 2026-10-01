@@ -1,0 +1,97 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260905-005939-3eeb10",
+  "derived_at": "2026-09-05T01:24:30Z",
+  "manifest_sha256": "8afaf0a1ed05c16341a378d3ac4d56ea5a1a363c04cc68697e079d7ad034c843",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 2,
+    "core": 2,
+    "exception": 0,
+    "semantic_final_available": 2,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 1,
+      "CHECK": 1,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 2,
+      "DEGRADED": 0,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "avinor_digital_transformasjon",
+      "employer": "Avinor AS",
+      "title": "Seniorrådgiver Digital Transformasjon",
+      "cluster": "runb",
+      "sequence": 2,
+      "priority": "NORMAL",
+      "deadline": "2026-09-13",
+      "semantic_triage": "CHECK",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Formuleringen «i praksis eneste kodende utvikler» står nå i brevets bærende avsnitt, ikke bare i CV-en. Kildematerialet støtter formuleringen, men ber eksplisitt om ny bekreftelse dersom den blir framtredende. Den er framtredende her. Teamrammen er bevart ved at interessentprosessen med om lag 50 involverte står i samme setning. Action: Bekreft at «i praksis eneste kodende utvikler» er riktig for kodeendringene i 2025-moderniseringen, eller si fra så endres den til en svakere formulering som «hovedansvarlig for kodeendringene». Dette er den ene avgrensede bekreftelsen som gjenstår. | Fordelings- og investeringsmodellen i tredje avsnitt er konseptarbeid. Den er brukt som dokumentert beslutning om hvordan du håndterer gevinstmåling uten direkte måling, og statusen «utformet, ikke innført» står eksplisitt. Den er bevisst ikke koblet til at gevinstrammeverket varte eller til at moderniseringen lyktes. Action: Bekreft at du er komfortabel med å bruke modellen som eksempel på faglig vurdering når den ikke er innført. Den er intervjuforsvarlig som designbeslutning, ikke som resultat. | Annonsen nevner operasjonelt lederansvar tre ganger, som ett av flere alternative bakgrunnsspor. Pakken påstår ikke lederansvar noe sted og har ikke et eget avsnitt om at det mangler; den svarer i stedet på annonsens uttalte hovedkriterium, at kandidaten forstår hvordan endring faktisk skjer. Action: Les avsnitt 1 og vurder om du vil at fraværet av formelt lederansvar skal adresseres eksplisitt. Slik det står nå, håndteres det ved at teksten viser gjennomføring i stedet for å diskutere tittel. | Known limitation: Formelt personal-, linje- eller programansvar er ikke dokumentert og er ikke påstått. Ledelse er beskrevet gjennom konkrete handlinger. | Known limitation: Porteføljestyring er ikke dokumentert og ordet er ikke brukt. Annonsens to punkter der det inngår er eller-krav der gevinstrealisering og virksomhetsstyring dekker kravet. | Known limitation: Erfaringen er fra offentlig sykehusdrift, ikke luftfart. Broen i teksten er driftsrisiko og kontinuitetskrav, ikke bransjekjennskap. Ingen påstand om kjennskap til Avinors systemer eller flysikkerhet. | Known limitation: Styringsløsningen som er nevnt i CV-en ble avviklet rundt februar 2026, og eierskapsperioden var om lag august 2025 til februar 2026. Teksten påstår ikke nåværende eierskap eller drift. | Known limitation: Planlagt levering av 2027-versjonen av budsjetteringsverktøyet er uverifisert og er ikke nevnt i pakken. | Known limitation: Ingen kvantifisert tids-, feil- eller kostnadseffekt er påstått for moderniseringen; kilden støtter ikke slike tall.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf"
+      ]
+    },
+    {
+      "job_id": "huseierne_strategi_maalstyring",
+      "employer": "Huseiernes Landsforbund",
+      "title": "Strategi- og målstyringsrådgiver",
+      "cluster": "runb",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "To eksplisitte minstekrav er ikke oppfylt og er bevisst ikke påstått: minimum fem års relevant erfaring (dokumentert direkte relevant erfaring er om lag tre og et halvt år fra mars 2023) og praktisk OKR-metodikk (ikke dokumentert noe sted). Pakken nevner ikke OKR og teller ikke eldre roller inn i femårskravet. Action: Les avsnitt 1 og avslutningen med dette i bakhodet og bekreft at avgrensningen er slik du vil ha den. Vurder om du selv vil si noe om OKR i et eventuelt intervju eller i portalens fritekstfelt. | Fordelings- og investeringsmodellen for steril logistikk står i brevets tredje avsnitt som en dokumentert beslutning, ikke som en levert løsning. Statusen «utformet, ikke innført» er skrevet eksplisitt fordi implementering, endelige vekter, overlevering og realisert gevinst er uavklart. Action: Bekreft at du er komfortabel med å bruke modellen som eksempel på arbeidsmåte når den ikke er innført. Den er intervjuforsvarlig som designbeslutning, ikke som resultat. | Styringsløsningen omtales i brevet uten tidsangivelse. Den ble avviklet rundt februar 2026, og du eide den om lag august 2025 til februar 2026. Teksten påstår ikke nåværende eierskap eller drift, men sier heller ikke at løsningen er avviklet. Action: Vurder om du vil nevne avviklingen selv i intervju. Det er ikke en feil i teksten, men det er den opplysningen en oppfølgingssamtale mest sannsynlig lander på. | Known limitation: Minimum fem års relevant erfaring er ikke oppfylt. Dokumentert direkte relevant erfaring starter mars 2023. | Known limitation: Praktisk OKR-erfaring er ikke dokumentert og er ikke påstått. Fasilitering av målprosesser og felles metodeutvikling er dekket, men under andre begreper. | Known limitation: Erfaring fra produktorganisasjon er ikke dokumentert. Annonsen oppgir dette som en fordel, ikke et krav. | Known limitation: Kommersiell forretningsutvikling i en medlems- eller markedsorganisasjon er ikke dokumentert; grunnlaget er offentlig sykehusdrift og økonomiutdanning. | Known limitation: Formuleringen «i praksis eneste kodende utvikler» i CV-punktet om budsjetteringsverktøyet er hentet fra kildematerialet og står sammen med den brede interessentprosessen. Kilden anbefaler ny bekreftelse dersom formuleringen blir framtredende; her står den i ett CV-punkt. | Known limitation: Den ene månedens DRG-estimat som traff avrundet faktisk verdi er ikke brukt i pakken, fordi den ikke tåler å bli lest som treffsikkerhet.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.pdf"
+      ]
+    }
+  ]
+}

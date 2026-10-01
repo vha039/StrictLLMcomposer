@@ -1,0 +1,63 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE2_DRAFT",
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver | digitalisering, gevinst og kontrollert gjennomføring",
+    "profile": "Samfunnsøkonom og rådgiver i økonomi og IKT med erfaring fra digitalisering i et komplekst, regulert miljø. Kombinerer økonomisk vurdering, teknisk implementering og strukturerte arbeidsformer for å gjøre forbedringsbehov til konkrete leveranser, kontroller og beslutningsgrunnlag. Relevant for Avinor er særlig erfaring med virksomhetskritisk modernisering, felles gevinstmetodikk og samarbeid mellom fag, økonomi og teknologi.",
+    "competencies": [
+      "Digitalisering og kontrollert implementering",
+      "Gevinstrealisering og transparente beslutningsmodeller",
+      "Styring, prioritering og forbedringsarbeid",
+      "Analyse og beslutningsgrunnlag",
+      "Behovs- og kravavklaring",
+      "Workshop, onboarding og kompetanseoverføring",
+      "Økonomi, BI og data som virksomhetsstøtte",
+      "Endring med kvalitet, kontroll og risikobevissthet"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Gjennomførte en kontrollert modernisering av et arvet, virksomhetskritisk budsjetteringsverktøy i en bred interessentprosess, med arkitekturgjennomgang, integrasjon av bemanningsdata, dokumentasjon og controller-onboarding; en modernisert versjon ble brukt i sykehusets budsjettprosess for 2026.",
+          "Deltok i et firepersonsteam som videreutviklet et gevinstrealiseringsrammeverk. Teamets rammeverk ble innført som sykehusdekkende standard og var fortsatt rapportert aktivt om lag 2,5 år senere.",
+          "Utvikler beslutningsstøtte og styringsinformasjon for økonomi, bemanning, aktivitet og kapasitet, med avklarte definisjoner, datakvalitet og brukbar dokumentasjon for ledere, controllere og fagmiljøer.",
+          "Bidrar til å strukturere arbeidsinnsats gjennom oppgavenedbryting, prioritering, workshops og dokumentasjon i tverrfaglige leveranser."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker stillingen som seniorrådgiver digital transformasjon fordi Avinor beskriver et mandat som handler om mer enn å starte digitale initiativer: investeringer må prioriteres, forankres og gi verdi i en virksomhet der drift, sikkerhet og bærekraft utvikles samtidig. Dette er en type endringsarbeid jeg ønsker å bidra til fra skjæringspunktet mellom økonomi, teknologi og praktisk gjennomføring.",
+    "body_paragraphs": [
+      "I et OUS-prosjekt rekonstruerte og moderniserte jeg et arvet, virksomhetskritisk budsjettverktøy. Endringen krevde samarbeid med en bred interessentgruppe, integrasjon av bemanningsdata og en smal, kontrollert tilnærming til refaktorering for å bevare drift. Jeg utarbeidet også dokumentasjon og onboarding for controllere, og en modernisert versjon ble brukt i sykehusets budsjettprosess for 2026. Dette er erfaring med å gjøre endring trygg og brukbar i en avgrenset, virksomhetskritisk leveranse.",
+      "Jeg har også arbeidet med verdiperspektivet bak endring. I et firepersonsteam bidro jeg med forskningssyntese og økonomisk, strategisk og styringsmessig analyse i videreutviklingen av et gevinstrealiseringsrammeverk. Teamets rammeverk ble innført som sykehusdekkende standard og var fortsatt rapportert aktivt om lag 2,5 år senere. Når et annet prosjekt manglet tilstrekkelig datagrunnlag for en direkte gevinstfordeling, utformet jeg i stedet en transparent vektet proxymodell med synlige antakelser og kontrollpunkter. Den var et beslutningsdesign, ikke dokumentasjon på realisert gevinst, men illustrerer hvordan jeg arbeider nøkternt med verdi under usikkerhet.",
+      "I nåværende rolle utvikler jeg beslutningsstøtte knyttet til økonomi, bemanning, aktivitet og kapasitet og samarbeider med ledere, controllere, fagmiljøer og tekniske kolleger. Jeg er opptatt av at teknologiske valg skal springe ut av et tydelig behov og kunne forklares, kontrolleres og brukes av mottakeren. Det gir meg et godt grunnlag for å bidra i broen Avinor vil bygge mellom teknologi, forretning og organisasjon.",
+      "Jeg har ikke hatt ansvar for en konsernportefølje, et formelt transformasjonsprogram eller linjeledelse. Jeg vil derfor møte Avinor som en rådgiver som kan styrke den praktiske kjernen i endringsarbeidet: strukturere komplekse behov, sette kontroll rundt leveranser, fasilitere samarbeid og koble teknologiske valg til virksomhetsverdi. Luftfart er et nytt domene for meg, men Avinors samfunnskritiske rolle, krav til sikker drift og ambisjon om bærekraft gjør overføringen både relevant og meningsfull."
+    ],
+    "closing": "Jeg vil gjerne bidra til at Digital Transformasjon får et solid analyse- og gjennomføringsgrunnlag når nye initiativer skal prioriteres, konkretiseres og følges opp. Jeg ser frem til å utdype hvordan erfaringen min kan brukes i et transformasjonsmiljø som skal skape varig verdi for Avinor."
+  },
+  "used_evidence_refs": [
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te"
+  ],
+  "writer_note": "Pakke avgrenser erfaringen til prosjekt- og metodebasert digitalisering, gevinstlogikk og funksjonell gjennomføring. Den påstår ikke konsernportefølje, formelt transformasjonsprogram, linjeledelse, sikkerhetsklarering eller kvantifiserte gevinster.",
+  "binding": {
+    "run_id": "r20260828-213932-7f13b4",
+    "job_id": "avinor_digital_transformasjon",
+    "employer": "Avinor AS",
+    "title": "Seniorrådgiver Digital Transformasjon",
+    "manifest_sha256": "0f9195ce9b510d6c7e0a06f3a5fc79e37a7a6ec078296d8c9b1a7807047d12ce",
+    "vacancy_sha256": "76302ba6295fd1d6193b7b409d320de9288f6a9b64c432a05435fab4b1229cf9",
+    "evidence_index_sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+    "stage_instruction_sha256": "af745af5bef6b523a61632eaf79c0cff35e75fb9e204a323c2a648793d87b241",
+    "baseline_map_sha256": "3e5e8bdfe53f2e01b5399afe22930ab37d57eab8e6840b0958a40a6b0e1e04bf",
+    "strategy_sha256": "edfc07b085dd33ace7075192ab45fa1c38b080cdc7ec4b50f22507e17b2066d5"
+  }
+}

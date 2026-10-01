@@ -1,0 +1,36 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken bærer controller-ruten med dokumentert månedsoppgjør, resultatforklaring, prosjektøkonomi og budsjett fra klinikkstaben, og kontrollert videreutvikling av budsjetteringsverktøyet i sykehusdekkende bruk. Ingen kjent ustøttet påstand eller lokal reparasjon gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Oppfølging av kontraktsrammer for IT-løsninger og konsulentbruk, og økonomioppfølging av en samlet digitaliseringsportefølje, er ikke dokumentert og er ikke antydet i teksten.",
+      "recommended_action": "Vær forberedt på å svare på dette i intervju; ingen endring i pakken er nødvendig.",
+      "priority": 2
+    },
+    {
+      "reason": "Tredje avsnitt bruker modellen for steril logistikk som eksempel på kvalitetssikring av økonomiske analyser. Den er beskrevet som ferdigstilt og overlevert, uten påstand om organisatorisk bruk eller realiserte gevinster.",
+      "recommended_action": "Behold avgrensningen hvis avsnittet kortes ned.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert erfaring med kontraktsøkonomi, IT-anskaffelser eller konsulentoppfølging.",
+    "Ingen dokumentert kostnadsestimering for IT- eller teknologiprosjekter; budsjett- og prognosearbeidet er fra sykehusøkonomi.",
+    "Ingen formell prosjektcontroller- eller porteføljeansvarlig rolle; prosjektøkonomien i klinikkstaben var etterspørselsstyrte saker, ikke fast porteføljeansvar."
+  ],
+  "material_strategy_change": "Beholdt controller-ruten, men gjorde månedsoppgjøret og prosjektøkonomien fra klinikkstaben til første bærende enhet i stedet for budsjetteringsverktøyet, fordi den svarer mest direkte på minstekravet om økonomistyring og regnskapsforståelse. La til seksjonsvise DRG-prognoser brukt i budsjett (ikke i strategien) som direkte prognosebevis, og modellen for steril logistikk som kort skjønnsenhet for kvalitetssikring av økonomiske analyser. Gevinstrealiseringsrammeverket ligger kun i CV-en.",
+  "upstream_claim_repaired": "Understatement: strategien vurderte budsjett- og prognosekravet som tilgrensende og viste ikke til de leverte DRG-prognosene som ble brukt i klinikkens budsjett og planlegging. Prognosearbeidet er dokumentert og er nå sagt direkte, avgrenset til leverte estimater uten påstand om nøyaktighet.",
+  "notes": [
+    "Kostnadsestimering er fortsatt ikke dokumentert og er holdt utenfor teksten."
+  ],
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "statnett_prosjektcontroller_digitalisering",
+    "final_package_sha256": "69389043e206ae068058098f2e69fb110bedbf97342102c45720bd9eb817f0bb"
+  }
+}

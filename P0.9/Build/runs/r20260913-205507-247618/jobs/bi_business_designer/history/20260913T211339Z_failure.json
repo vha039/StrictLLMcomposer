@@ -1,0 +1,34 @@
+{
+  "artifact_role": "CURRENT_FAILURE",
+  "run_id": "r20260913-205507-247618",
+  "job_id": "bi_business_designer",
+  "operation": "STAGE1",
+  "classification": "FAILED",
+  "applies_to_hashes": {},
+  "violations": [
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "material_requirements[3].evidence_refs[1]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#021-4-2-tverrorganisatorisk-power-bi' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "ACC-08",
+      "file": "strategy.json",
+      "location": "personality_facets[1].evidence_refs[1]",
+      "expected": "an evidence ID present in the frozen evidence index",
+      "observed": "'EV:WORK#021-4-2-tverrorganisatorisk-power-bi' does not resolve. Reference existence proves resolvability only, never semantic support.",
+      "severity": "ERROR"
+    }
+  ],
+  "diagnostic_summary": "Semantic stage return failed mechanical validation.",
+  "attempts_used": 0,
+  "retry_position": null,
+  "mechanical_corrections_used": 0,
+  "semantic_attempt": null,
+  "last_successful_stage": null,
+  "recommended_next_action": "Correct the reported mechanical defects once in the same session and resubmit with the same handoff.",
+  "recorded_at": "2026-09-13T21:13:11Z"
+}

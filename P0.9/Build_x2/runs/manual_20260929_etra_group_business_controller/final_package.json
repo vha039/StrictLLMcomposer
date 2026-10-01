@@ -1,0 +1,70 @@
+{
+  "job": {
+    "employer": "Etra Gruppen",
+    "title": "Group Business Controller",
+    "candidate": "Vegard Håland",
+    "finn_id": "473733693",
+    "reference": "FINN-kode 473733693"
+  },
+  "cv": {
+    "headline": "Samfunnsøkonom | Økonomistyring og ledelsesrapportering",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og erfaring fra økonomi og styringsinformasjon ved Oslo universitetssykehus siden 2023. Har gjennomført månedsoppgjør og månedlig rapportering til klinikkledere, bidratt i budsjett og prosjektøkonomi og levert DRG-estimater til budsjett og planlegging. Utvikler styringsverktøy i Excel/VBA, Power Query og Power BI for økonomer og controllere, blant annet sykehusets budsjetteringsverktøy, som er i sykehusdekkende bruk.",
+    "competencies": [
+      "Månedsoppgjør, avstemming og resultatforklaring",
+      "Ledelsesrapportering og styringsinformasjon",
+      "Budsjett, prognoser og prosjektøkonomi",
+      "Investerings- og gevinstvurdering",
+      "Excel/VBA og Power Query",
+      "Power BI og datamodellering",
+      "ERP-nær økonomiflyt (REGERP)"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Arbeider med økonomi, bemanning og aktivitet/DRG og utvikler beslutningsstøtte for ledere og controllere i Excel/VBA, Power Query, Power BI og SQL, med R og Python etter prosjektbehov.",
+          "Gjennomførte som i praksis eneste kodende utvikler kodeendringene i 2025-moderniseringen av sykehusets om lag 20 år gamle budsjetteringsverktøy i Excel/VBA, i en interessentprosess med om lag 50 deltakere. Integrerte ansatt-, ansettelses- og bemanningsdata som tidligere måtte kopieres manuelt fra en annen arbeidsbok, med differansekontroll, akseptansekriterier og risikoregister, og laget opplæringsmateriell for controllere.",
+          "Det moderniserte verktøyet ble brukt sykehusdekkende i budsjettprosessen for 2026. Moderniseringen for 2027 er ferdigstilt, og verktøyet er i sykehusdekkende bruk i budsjettprosessen for 2027.",
+          "Utformet en modell for fordeling av gevinster og vurdering av investeringer i steril logistikk da direkte bruksdata ikke ga et holdbart grunnlag for fordeling per klinikk. Fem arbeidsbøker med synlige forutsetninger og justerbare vekter, bygget uten sentral VBA slik at controllere kan etterprøve og justere modellen. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Hovedutvikler for backend i avdelingens styrings-BI for økonomi, bemanning og aktivitet/DRG: semantisk modell, det meste av Power Query-logikken og 80 til 90 prosent av DAX. Kolleger ledet innhold og visualisering. Hadde eierskap og månedlig drift fra om lag august 2025 til løsningen ble avviklet rundt februar 2026.",
+          "Medutviklet i et firepersoners team en forbedret metode for gevinstrealisering. Metoden ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Deltok i etableringsgruppen på fire personer for Analyseavdelingen, med ansvarsfordeling, arbeidsformer og workshops."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring. Gjennomførte og kvalitetssikret oppgjøret selvstendig mot slutten av perioden.",
+          "Sammenstilte økonomi-, bemannings- og aktivitetsgrunnlag som DRG og plantall, kurdøgn, gjestepasientoppgjør og estimert innleie til månedlig lederrapportering, og kvalitetssikret og sendte rapportene til ledere i klinikken.",
+          "Bidro i budsjettet for 2024 med registrering av årsverk og kvalitetssikring av bemannings- og vaktgrunnlag, og bygget et eget budsjetthjelpeark. Håndterte prosjektøkonomi etter behov: opprettelse, oppfølging, ekstern finansiering, fakturering og avslutning.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av bilagslinjer ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker.",
+          "Brukte Stata, R og Power Query til seksjonsvise DRG-estimater som ble brukt i klinikkens budsjett og planlegging."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Ved Oslo universitetssykehus har jeg siden 2023 arbeidet med månedsoppgjør, lederrapportering og styringsverktøy for økonomer og controllere.",
+    "body_paragraphs": [
+      "I Barne- og ungdomsklinikken overtok jeg etter om lag tre måneder hele den tildelte oppgjørsflyten, fra periodisering til avstemming og resultatforklaring, og sendte månedsrapportene til klinikkens ledere. Ved overgangen til REGERP laget jeg på eget initiativ Excel/VBA-verktøy for konvertering og validering, som ble brukt av økonomirådgivere i flere klinikker.",
+      "I Analyseavdelingen var jeg i praksis eneste kodende utvikler i 2025-moderniseringen av sykehusets budsjetteringsverktøy. Jeg bygget inn bemanningsdata og kontrollerte ny logikk mot den gamle, funksjon for funksjon. Verktøyet ble brukt i hele sykehuset i budsjettet for 2026 og brukes nå for 2027. Da data ikke bar en direkte fordeling av gevinster mellom klinikker, utformet jeg en modell med synlige forutsetninger og justerbare vekter som controllerne kan etterprøve selv.",
+      "Hos Etra vil jeg bidra både til den løpende rapporteringen til CFO og til å gjøre tallene fra selskapene sammenlignbare, slik at rapporteringspakker og KPI-er kan brukes måned etter måned."
+    ],
+    "closing": "Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "OUS_EMPLOYMENT",
+    "BAR_FINANCE",
+    "BUDGET_TOOL",
+    "INVESTMENT_MODEL",
+    "MANAGEMENT_BI",
+    "BENEFITS_METHOD",
+    "BAR_FORECAST",
+    "TEAM_MODEL",
+    "WORK_TOOLS",
+    "EDU_DEGREES",
+    "LANGUAGES",
+    "TRUST",
+    "EARLIER_EMPLOYMENT"
+  ]
+}

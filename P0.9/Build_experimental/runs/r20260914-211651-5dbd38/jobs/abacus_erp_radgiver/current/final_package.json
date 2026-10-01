@@ -1,0 +1,81 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver økonomi og IKT med erfaring fra økonomiprosesser og systemendring",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus. Har selv gjennomført månedsoppgjør med periodisering, avstemming og prosjektøkonomi, og laget egne Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP som ble brukt av økonomirådgivere i flere klinikker. Var i praksis eneste kodende utvikler da sykehusets budsjetteringsverktøy ble modernisert, med integrasjon av bemanningsdata, kontroller og opplæring av controllere.",
+    "competencies": [
+      "Månedsoppgjør, periodisering og avstemming",
+      "Prosjektøkonomi, fakturering og budsjett",
+      "Behovsanalyse og kravstruktur",
+      "Datakonvertering og validering ved ERP-overgang",
+      "Kontrollert implementering med akseptansekriterier",
+      "Brukeropplæring og onboarding",
+      "Excel/VBA, Power Query, Power BI og SQL",
+      "Brukererfaring og dataflyt i REGERP, ADI og GAT"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Var i praksis eneste kodende utvikler da sykehusets om lag 20 år gamle budsjetteringsverktøy i Excel/VBA ble modernisert, i en prosess med om lag 50 involverte i arbeidsgrupper og kravdiskusjoner. Integrerte ansatt-, ansettelses- og bemanningsdata, sammenlignet gamle og nye funksjoner for å fange logikkfeil, arbeidet etter akseptansekriterier og risikoregister og laget opplæringsmateriell for controllere. Brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Utformet strukturerte skjemaer for behovsinnhenting med formål, brukere, beslutningsbehov, inn- og utdata, avhengigheter, risiko og akseptansekriterier, og vurderte løsninger i Forms, Loop, Power BI og lavkodeverktøy.",
+          "Utformet en modell i fem arbeidsbøker for fordeling av gevinster fra steril logistikk mellom klinikker, med synlige og justerbare vekter, kontrollert overføring i Power Query og kontroller for umappede rader. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Utviklet backend i et styringsdashbord for økonomi, bemanning og aktivitet i Power BI (nesten hele den semantiske modellen, det meste av ETL og DAX), med ansvar for løsningen fra om lag august 2025 til den ble avviklet rundt februar 2026.",
+          "Veiledet tekniske medarbeidere utenfor egen avdeling i Power BI, datamodellering og modelloptimalisering gjennom flere arbeidsmøter, og bidro vesentlig til en første komponent i en driftsrapport."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter om lag halvannen måneds opplæring gradvis oppgaver i månedsavslutningen og hadde innen om lag tre måneder hele den tildelte flyten: prosjektnulling, periodisering, reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring. Gjennomførte og kvalitetssikret oppgjøret selvstendig mot slutten av perioden.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot REGERP-format, og lærte VBA fra grunnen gjennom arbeidet. Verktøyene ble brukt relativt ofte av økonomirådgivere i flere klinikker kort etter overgangen.",
+          "Håndterte prosjektøkonomiske saker etter behov: prosjektopprettelse og oppfølging, ekstern finansiering, fakturering, frikjøp, revisjonskostnader, overhead og prosjektavslutning.",
+          "Bidro i budsjettprosessen for 2024 med årsverksregistrering, kvalitetssikring av bemannings-, UTA- og vaktgrunnlag og forbedrede formler, og bygget et eget budsjetthjelpeark.",
+          "Koblet data fra blant annet JIT, ADI, REGERP, GAT og aktivitetsrapporter, og forbedret arvede regnskaps- og rapporteringsarbeidsbøker med dokumentasjon og kontroll- og valideringslogikk.",
+          "Sammenstilte økonomi-, bemannings- og aktivitetsgrunnlag til månedlig lederrapportering og sendte rapportene til ledere i klinikken."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg har opplevd et ERP-skifte fra brukersiden. Ved overgangen til REGERP arbeidet jeg med månedsoppgjøret i klinikkstaben i Barne- og ungdomsklinikken ved Oslo universitetssykehus, og gamle konteringslinjer måtte over i ny struktur. I dag er jeg rådgiver økonomi og IKT i Analyseavdelingen, med master i samfunnsøkonomi fra NTNU. Jeg søker stillingen som ERP-rådgiver innen finans.",
+    "body_paragraphs": [
+      "Etter om lag halvannen måneds opplæring begynte jeg å overta oppgaver i månedsavslutningen, og innen omtrent tre måneder hadde jeg hele den tildelte flyten: prosjektnulling, periodisering, reversering, avsetninger, bilagsflyt, avstemming og resultatforklaring. Mot slutten gjennomførte og kvalitetssikret jeg oppgjøret selvstendig. Ved siden av tok jeg saker i prosjektøkonomi, som prosjektopprettelse, ekstern finansiering, fakturering og prosjektavslutning. Det har gitt meg et konkret bilde av hva økonomibrukerne trenger at et system gjør riktig hver måned, og det bildet vil jeg ta med inn i behovsanalysene hos kundene.",
+      "Til selve overgangen laget jeg på eget initiativ Excel/VBA-verktøy som gjorde gamle konterings- og bilagslinjer om til REGERP-format, standardiserte dem og kontrollerte prosjekt og konto. VBA lærte jeg fra grunnen gjennom dette arbeidet. Kort etter overgangen ble hjelpeverktøyene brukt relativt ofte av økonomirådgivere i flere klinikker.",
+      "I Analyseavdelingen har jeg arbeidet med sykehusets budsjetteringsverktøy, en om lag 20 år gammel Excel/VBA-løsning der ansatt- og bemanningsdata måtte kopieres inn fra en annen arbeidsbok med mye manuelt arbeid. I moderniseringen i 2025 deltok om lag 50 personer i arbeidsgrupper og kravdiskusjoner, og jeg var i praksis den eneste som endret koden. Jeg bygget bemanningsdataene inn i verktøyet, sammenlignet gamle og nye funksjoner for å fange logikkfeil, jobbet etter akseptansekriterier og et risikoregister, og laget opplæringsmateriell for controllerne. Verktøyet ble brukt i hele sykehusets budsjettprosess for 2026 og er i bruk i prosessen for 2027."
+    ],
+    "closing": "Hos Abacus vil jeg gjerne jobbe der økonomiprosessene og systemet møtes: forstå hvordan kunden gjør oppgjør, fakturering og prosjektoppfølging, og være med på å få det riktig inn i BNXT. Selve produktet skal jeg lære, og rådgiversporet med erfarne kolleger gir en god ramme for det. Jeg tar gjerne en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#045-7-teknologi-og-metodeinventar",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Finansrute mot ERP-rådgiversporet: åpner med REGERP-overgangen sett fra brukersiden; BAR-oppgjøret bærer prosessforståelse og læring; hjelpeverktøyene bærer datakonvertering og validering; budsjettverktøyet bærer behov til kontrollert løsning og opplæring. Seniorsporet, BNXT/Visma-erfaring og logistikk er ikke antydet. Kundedialog fra Sector Alarm står i CV-kronologien.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-14",
+    "finalized_at": "2026-09-14T21:50:49Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260914-211651-5dbd38",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "manifest_sha256": "b755e5aa292f4ccc4c5ab42e27e51e889495ca56a7e85faf6a31d1755ffbf588",
+    "vacancy_sha256": "a8d89ed3dba07d31d1ccfcf48643893dccd185bb9758210aad50770e4ade7c3a",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "3b29e4540213373d6c7020e0d26818cd01da612755379dbf320727452fefe9d3",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "5e0671a87a1437614b66d89d2ec2f8959a166c0d7fb738cfd59cc2b0d2ea01b2"
+  }
+}

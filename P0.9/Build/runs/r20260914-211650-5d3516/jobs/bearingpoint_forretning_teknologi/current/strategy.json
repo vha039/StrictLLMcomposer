@@ -1,0 +1,436 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "BearingPoint Norway ansetter konsulenter med 2–4 års erfaring til Technology-teamet (25 konsulenter), som gir forretnings- og teknologiråd til ledelsen i større private og offentlige virksomheter. Uttalt: konsulenten skal hjelpe kunder å forstå egen situasjon, risiko og muligheter, gi råd om hvordan teknologi, AI og nye arbeidsformer kan skape resultater, og realisere strategi gjennom programmer og prosjekter; oppgavene omfatter AI og annen teknologi med forretningsverdi, digitale transformasjoner, nye styringsmodeller og arbeidsformer, endringsledelse og AI-adopsjon, anskaffelse og innføring av systemer og vurdering av strategiske IT-partnere. Teamet kombinerer strategisk teknologirådgivning med praktisk gjennomføringskraft. Uttalte krav: mastergrad og 2–4 års erfaring, fortrinnsvis fra konsulentrollen; nysgjerrighet på teknologi, AI og nye arbeidsformer; læring av nye fagområder; samarbeid; strukturert, analytisk og strategisk arbeid; komfort med å jobbe tett på ledelsen og utfordre etablerte sannheter; norsk og engelsk. Slutning (ikke uttalt): beslutningen er om kandidaten raskt kan bli fakturerbar som rådgiver som både ser forretningsspørsmålet bak et teknologivalg og kan få noe gjennomført, og som tåler å stå foran kundens ledelse med et selvstendig standpunkt.",
+  "selection_logic": "Uttalt formalfilter: mastergrad og 2–4 års arbeidserfaring; konsulentbakgrunn er ønsket, ikke påkrevd. Kandidaten passer formalfilteret (fullført master, om lag 3,5 år ved OUS) og mangler konsulentbakgrunn. Slutning om vurderingen: en Senior Consultant eller manager i teamet vil lete etter tegn på selvstendig analytisk og strategisk skjønn i møte med ledere, på evne til å bruke teknologi riktig i en forretningskontekst, og på reell AI-interesse, ikke bare teknisk dybde. Utvalget avgjøres derfor av om CV-toppen og brevet viser at kandidaten har omformet uklare forespørsler til beslutningsgrunnlag og tatt teknologivalg ut fra driftsrisiko og nytte, med dokumentert gjennomføring. En ren BI- eller utviklerprofil vil treffe feil kategori; en overdrevet senior- eller lederprofil vil ikke passe et 2–4-årsnivå.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver i økonomi og IKT ved Oslo universitetssykehus (om lag 3,5 år) som arbeider der forretningsspørsmål møter teknologivalg: gjør uklare forespørsler til etterprøvbare beslutningsgrunnlag og gjennomfører løsningene selv, med praktisk og menneskestyrt bruk av KI.",
+  "headline_hypothesis": "Samfunnsøkonom | Rådgiver i skjæringspunktet mellom virksomhet, teknologi og KI",
+  "shortlist_thesis": "Kandidaten har formalfilteret (master i samfunnsøkonomi og om lag 3,5 års relevant erfaring) og har i en stor, kompleks virksomhet allerede gjort den kombinasjonen BearingPoint beskriver: strategisk vurdering og praktisk gjennomføring. Da direkte bruksdata ikke bar en forsvarlig fordeling av gevinster fra steril logistikk, avviste han falsk presisjon og utformet en transparent beslutningsmodell for investeringsvalg som ble ferdigstilt og overlevert til controllere. I moderniseringen av sykehusets forretningskritiske budsjetteringsverktøy vurderte han teknologialternativer mot driftsrisiko og vedlikehold, var i praksis eneste kodende utvikler, og verktøyet ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027. Registrert KI-superbrukerrolle, menneskestyrt KI-støttet arbeidsflyt og pågående masterprogram i KI gjør AI-interessen konkret.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Mastergrad og 2–4 års arbeidserfaring.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver"
+      ],
+      "note": "Fullført master i samfunnsøkonomi fra NTNU (2020–2022). Relevant arbeidserfaring ved OUS fra mars 2023, om lag 3,5 år. Studiejobber 2013–2021 teller ikke som relevant erfaring og skal ikke brukes til å strekke antallet. Ikke skriv «fire år». Pågående KI-master er ikke en fullført grad. Dokumenteres i CV-toppen og kort i brevets åpning."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Arbeidserfaring fortrinnsvis fra konsulentrollen.",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Ingen konsulenterfaring. Nærliggende: intern rådgivning og leveranser til mange ulike mottakere (ledere, controllere, fagmiljøer, økonomirådgivere i flere klinikker og en annen rapporteringsorganisasjon). Ønsket, ikke påkrevd; håndteres gjennom bevisvalg og motivasjon, ikke mangelprosa. Interne mottakere skal ikke kalles kunder."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Nysgjerrig på bruk av teknologi, AI og nye måter å jobbe på.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Vises gjennom handling: registrert KI-superbruker i om lag tre år, menneskestyrt arbeidsflyt for kodeagenter i prognoseprosjektet, deltakelse i tidlig tilgang og piloter rundt Fabric, Power Platform, dbt, Pega og Python, pågående masterprogram i KI ved UiA, og utforming av nye arbeidsstrukturer i Analyseavdelingen. Skal vises, ikke påstås som egenskap."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Trives med å sette seg inn i nye fagområder, jobbe variert og for ulike kunder.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "note": "Nye fagområder og variasjon er støttet: overtok hele den tildelte månedsoppgjørsflyten i klinikken innen om lag tre måneder, lærte VBA fra grunnen gjennom et egeninitiert verktøybehov, og arbeider på tvers av økonomi, bemanning, aktivitet/DRG, pasientflyt, gevinstmetode og prognoser. «Ulike kunder» er ikke etablert; mottakerne har vært interne i én arbeidsgiver. Rask læring skal ikke leses som eksisterende ekspertise i nye bransjer."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Samarbeider godt med andre og bidrar til at både kunder og kolleger lykkes.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Støttet gjennom konkrete handlinger: lærte opp teknisk personell i en annen rapporteringsorganisasjon, laget controller-onboarding, ledet intern BI-workshop for økonomkolleger, medutviklet metode i firepersonersteam. Ingen målt effekt av opplæring. «Kunder» er interne mottakere."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Jobber strukturert, analytisk og med et strategisk blikk.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "note": "Støttet: transparent beslutningsmodell for investeringsvalg under manglende data (PRJ-06), økonomisk/strategisk bidrag til sykehusdekkende gevinstmetode (PRJ-04), avgrensning av brede behov til arkitekturer og arbeidspakker (EMP-OUS-003), og master i samfunnsøkonomi med økonometri. Bæres i brevet av PRJ-06."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Komfortabel med å jobbe tett på ledelsen og utfordre etablerte sannheter.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver"
+      ],
+      "note": "Kumulativt. Utfordre etablerte sannheter er støttet med dokumenterte beslutninger: avviste en ustøttet direktefordeling (PRJ-06), anbefalte bredere restrukturering enn gjennomføringslederen valgte og gjennomførte deretter den smale løsningen med kontroll (PRJ-03), og utfordret mål- og valideringsvalg i prognosearbeidet (PRJ-05). Tett på ledelsen er nærliggende: plassering i Direktørens stab, beslutningsstøtte for ledere og selvstendig lederrapportering i klinikken; direkte rådgivning for toppledelse er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Kommuniserer godt på norsk og engelsk, både muntlig og skriftlig.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:EDU#013-1-4-ernest-manning-high-school-calgary"
+      ],
+      "note": "Norsk morsmål; engelsk flytende skriftlig og muntlig, med skolegang i Calgary. CV."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Hjelpe kunder å forstå egen situasjon, risiko og muligheter, og bidra i diskusjoner som påvirker investeringer, organisering og strategiske veivalg.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "note": "Analysedelen er støttet: beslutningsstøtte utformet for valg om lager, utstyr, automatisering og investeringer med synlige forutsetninger og usikkerhet (PRJ-06), gevinst- og estimeringsmetode (PRJ-04), organisasjonsalternativer og beslutningsrettsforslag (PRJ-08), vurdering av plattformmuligheter mot konkrete begrensninger (PRJ-07). Deltakelse i lederdiskusjoner der beslutningene ble tatt, og faktisk bruk av PRJ-06 i investeringsbeslutninger, er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Ta i bruk AI og annen teknologi på en måte som skaper forretningsverdi.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#028-4-4-trygge-ki-pastander",
+        "EV:OTHER#029-4-5-ki-grenser",
+        "EV:WORK#054-10-2-uavklart-utelat-eller-behold-smal-k"
+      ],
+      "note": "Annen teknologi med forretningsnytte er støttet: modernisert verktøy som erstattet manuell kopiering av bemanningsdata og er i sykehusdekkende bruk (PRJ-03), med vurdering av VBA, Office Scripts, Python og KI-støttede tilnærminger mot driftsrisiko. AI er støttet i egen leveranse gjennom menneskestyrt KI-støttet analyse og utvikling. Ikke etablert: AI-løsning tatt i bruk av en virksomhet, kvantifisert AI-gevinst, produksjons-LLM eller enterprise-AI."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Gjennomføre digitale transformasjoner og strategisk viktige prosjekter; planlegge og gjennomføre programmer og prosjekter knyttet til bruk av teknologi.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#053-10-1-eksplisitt-forbudt"
+      ],
+      "note": "Gjennomføring er støttet på prosjektnivå: modernisering av forretningskritisk verktøy (hovedimplementør i bred prosess) og greenfield styrings-BI (hovedutvikler backend, drift og brukertester). Ikke etablert: prosjekt- eller programlederrolle, eller en digital transformasjon kandidaten eide. Bruk funksjonell ledelse gjennom konkrete handlinger."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Etablere nye styringsmodeller og arbeidsformer.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Støttet på bidragsnivå, i to atskilte poster: medutviklet (én av fire) rammeverk for gevinstrealisering som ble innført som sykehusdekkende standard og fortsatt var i bruk om lag 2,5 år senere (PRJ-04); deltok i etableringsgruppen for Analyseavdelingen og utformet teamstruktur, oppgavehierarki, Scrum/Kanban og WIP (PRJ-08, blanding av innført og foreslått). Ikke eier, metodeleder eller formelt organisasjonsdesignmandat. CV-bevis, og eventuelt én setning i brevet."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Bidra til endringsledelse og AI-adopsjon.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Nærliggende bidrag: controller-onboarding og sykehusdekkende bruk av modernisert verktøy (PRJ-03), egeninitierte verktøy brukt av økonomirådgivere i flere klinikker ved REGERP-overgangen, tekniske KI-svar i Teams-kanal som registrert superbruker. Ikke etablert: endringsledelse som fag eller rolle, organisasjonsomfattende AI-adopsjon, brukertall eller formelt støttemandat."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Anskaffe og ta i bruk nye systemer/teknologi.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Vurdering og ibruktaking er nærliggende: vurdert plattformmuligheter mot sykehusets begrensninger (PRJ-07, utforskende), designet og evaluert Forms-, Loop-, Power BI-, Pega- og lavkodealternativer (PRJ-09), og laget praktiske konverteringsverktøy ved overgangen til REGERP. Anskaffelse, kravspesifikasjon for anbud og eierskap til systeminnføring er ikke etablert."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Bidra i vurdering og utvelgelse av strategiske IT-partnere (outsourcing).",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:EDU#017-2-3-ntnu-okonomi-insentiver-makro-og-fin",
+        "EV:EDU#029-4-2-forbudte-oppgraderinger"
+      ],
+      "note": "Ingen erfaring med leverandør- eller partnervalg. Masterfag om insentiver, informasjon og kontrakter gir bare akademisk grunnlag og skal ikke presenteres som praksis. Ikke nevn i brevet; kan være intervjutema."
+    },
+    {
+      "requirement_id": "R16",
+      "text": "Tar ansvar og ønsker å være med på å videreutvikle teamet og satsningsområdene.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Støttet: deltok i firepersoners etableringsgruppe for Analyseavdelingen og utviklet arbeidsmodellen, var offisiell eier av styrings-BI-løsningen om lag august 2025–februar 2026, og tok egeninitiativ til konverteringsverktøy i klinikken. Ikke eneetablering eller avdelingsledelse; ikke nåværende eierskap av dashbordet."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Første bærende bevisenhet for strategisk og analytisk skjønn og for å utfordre en etablert forespørsel: oppdraget var å fordele gevinster fra steril logistikk per klinikk, men direkte bruksdata var ikke tilstrekkelig. Kandidaten avviste falsk presisjon og omformet oppdraget til en transparent, vektet proxy-modell basert på indirekte indikatorer, med synlige og konfigurerbare forutsetninger og vekter, fem arbeidsbøker, Power Query-overføring med skjemakontroll og revisjoner for avvik, bevisst uten kjerne-VBA slik at controllere og fagfolk kunne inspisere og justere uten varig utvikleravhengighet. Modellen er utformet som beslutningsstøtte for valg om lager, utstyr, automatisering og investeringer, og ble ferdigstilt og overlevert til controllere tidlig i 2026. Svarer på BearingPoints oppgave om å hjelpe virksomheter forstå situasjon, risiko og muligheter før investeringsvalg.",
+      "claim_ceiling": "Tiltenkt bruk, ikke dokumentert bruk i faktiske investeringsbeslutninger. Ingen realisert gevinst, ROI eller business case-beløp. Implementering per gren, endelige vekter og organisatorisk bruk er uavklart. Kandidaten eier rammeverks- og systemdesignet, ikke klinikkestimater eller endelige fagvurderinger. Ikke påstå at modellen ble presentert for eller brukt av toppledelse.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser"
+      ],
+      "role": "Andre bærende bevisenhet for riktig bruk av teknologi kombinert med praktisk gjennomføring: et forretningskritisk, om lag 20 år gammelt budsjetteringsverktøy med teknisk gjeld skulle få innebygde ansatt-, ansettelses- og bemanningsdata i stedet for manuell kopiering. Kandidaten rekonstruerte arkitekturen, vurderte VBA, Office Scripts, Python og KI-støttede tilnærminger mot kompatibilitet, driftsrisiko og vedlikehold, og var i praksis eneste kodende utvikler i en bred interessentprosess på om lag 50 personer. Endringen ble styrt med differansekontroll, akseptansekriterier og risikoregister; verktøyet ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027. Svarer på «strategisk teknologirådgivning med praktisk gjennomføringskraft» og på evnen til å veie teknologimuligheter mot risiko i en virksomhet som ikke kan stoppe driften.",
+      "claim_ceiling": "Ikke opphavsperson eller budsjetteier, ikke prosjekt- eller gjennomføringsleder. Vurderingen av teknologialternativer er dokumentert, men kilden sier ikke at den avgjorde løsningsvalget; gjennomføringslederen krevde en smal funksjon-for-funksjon-refaktorering mot kandidatens anbefaling om bredere restrukturering. Om lag 50 er interessentskala, ikke personlig ledelse. Ingen kvantifisert tids-, feil- eller kostnadsgevinst.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#028-4-4-trygge-ki-pastander",
+        "EV:OTHER#029-4-5-ki-grenser",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+        "EV:EDU#030-4-3-uavklarte-punkter"
+      ],
+      "role": "Separat, kort bevis for AI-dimensjonen, som annonsen gjentar flere ganger og de to bærende enhetene ikke besvarer: registrert KI-superbruker ved OUS i om lag tre år med tekniske svar i en Teams-kanal; i det aktive prognoseprosjektet har kandidaten bygget en menneskestyrt arbeidsflyt for kodeagenter med prosjektinstruksjoner, kildepresedens, avgrenset delegering, tester, bevisforpliktelser og overleveringslogger, der han beholder arkitektur, gjennomgang og ansvar; pågående masterprogram i kunstig intelligens ved UiA siden 2024. Viser både nysgjerrighet og realistisk forståelse av hvor KI skaper nytte og hvor mennesket må kontrollere, som er grunnlaget for å gi kunder troverdige AI-råd.",
+      "claim_ceiling": "Ingen organisasjonsomfattende AI-adopsjon, AI-styringsmandat, brukertall eller formelt støtteansvar. Ingen produksjons-LLM, RAG, finjustering, modellservering, kvantifisert produktivitetsgevinst eller enterprise-AI. Prognoseprosjektet er i aktiv utvikling med fordelt forfatterskap mellom kandidaten, en kollega og kodeagenter. UiA: pågående, uten studietakt, progresjon eller forventet fullføring."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "role": "CV-bevis (og eventuelt én setning i brevet) for «etablere nye styringsmodeller og arbeidsformer», med to atskilte poster: som én av fire i Analyseavdelingen videreutviklet kandidaten en metodikk for gevinstrealisering og estimering som ble innført som sykehusdekkende standard og fortsatt var i bruk om lag 2,5 år senere; i etableringen av avdelingen utformet han teamstrukturalternativer, ansvar og avhengigheter, oppgavehierarki, Scrum/Kanban og WIP.",
+      "claim_ceiling": "PRJ-04: medutvikler, ikke eier, eneforfatter eller metodeleder; individuell andel og målt effekt uavklart; «fortsatt i bruk om lag 2,5 år senere», ikke «i dag». PRJ-08: skill innførte praksiser fra forslag; ingen formelt organisasjonsdesignmandat, personalansvar eller eneetablering. Ikke overfør PRJ-04s innføring og varighet til PRJ-08.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser"
+      ],
+      "role": "CV-bevis for rask læring i et nytt fagområde og praktisk forståelse av hvordan en systemendring treffer brukerne: i klinikkstaben overtok kandidaten hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, og ved overgangen til REGERP utviklet han på eget initiativ Excel/VBA-verktøy for konvertering og validering som ble brukt relativt hyppig av økonomirådgivere i flere klinikker. Svarer på «sette deg inn i nye fagområder» og gir forretningsforståelse bak teknologirådene.",
+      "claim_ceiling": "Egen tildelt klinikkflyt, ikke hele OUS eller formelt regnskapsansvar. Ikke den sentrale REGERP-/Oracle-løsningen eller ERP-programmet. Ingen tall for klinikker, brukere eller tidsbesparelse. Rask læring er ikke eksisterende ekspertise.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "role": "CV- og intervjubevis for teknologivurdering før valg: deltakelse i tidlig tilgang, piloter og utforskning rundt Fabric, Power Platform, dbt, Pega og Python, med vurdering av muligheter mot konkrete sykehusbegrensninger; design og evaluering av Forms-, Loop-, Power BI-, Pega- og lavkodealternativer for strukturert arbeidsinntak. Svarer delvis på «anskaffe og ta i bruk nye systemer/teknologi» på vurderingsnivå.",
+      "claim_ceiling": "PRJ-07 er utforskning og pilot: ingen plattformeierskap, adopsjonsledelse, produksjonsdataengineering, modenhetsveikart eller formelt leverandørengasjement. PRJ-09 er design og evaluering, med prosjektnivåbruk der støttet; ingen virksomhetsutrulling eller produkteierskap. Ingen anskaffelseserfaring."
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#025-3-4-digitaliserings-og-teknologiroller"
+      ],
+      "role": "Formalkrav og analytisk ryggrad: fullført master i samfunnsøkonomi (NTNU) med økonometri og bachelor (UiB), supplert av pågående KI-master. Plasseres synlig i CV-toppen fordi mastergrad er et uttalt filter.",
+      "claim_ceiling": "Ingen oppgavetema, karakter eller spesialisering. Emner beviser ikke praktisk mestring. KI-programmet er pågående og gir ikke AI-ingeniørstatus.",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIB_ECON",
+        "BL:EDU_UIA_AI"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen erfaring fra konsulentrollen, som er foretrukket.",
+      "reframe": "Om lag 3,5 år som intern rådgiver i en stor, kompleks virksomhet med mange ulike mottakere og problemtyper, fra klinikkøkonomi og ERP-overgang til gevinstmetode, beslutningsmodeller og KI-støttet utvikling. Dokumentert evne til å sette seg raskt inn i et nytt fagområde.",
+      "honesty_note": "Ønsket, ikke påkrevd: ikke skriv mangelprosa, men ikke kall interne mottakere kunder eller arbeidet konsulentoppdrag."
+    },
+    {
+      "objection": "Profilen kan leses som teknisk spesialist (Excel/VBA, BI, prognoser) snarere enn forretnings- og teknologirådgiver.",
+      "reframe": "Led med beslutningen og forretningsspørsmålet i hvert bevis (avviste falsk presisjon; veide teknologialternativer mot driftsrisiko), og la egen gjennomføring dokumentere at rådene er praktisk forankret.",
+      "honesty_note": "Behold det tekniske bidraget som faktum, men ikke som identitet."
+    },
+    {
+      "objection": "Erfaringen er fra én virksomhet i helsesektoren; teamet jobber på tvers av bransjer.",
+      "reframe": "Arbeidet gjelder generelle problemtyper (investeringsvalg under usikkerhet, modernisering av forretningskritiske verktøy, styringsmetode, KI i arbeidsprosesser) forankret i samfunnsøkonomisk utdanning, og BearingPoint oppgir selv oppdrag i helse og offentlig sektor.",
+      "honesty_note": "Arbeidsgiverens bransjeliste er annonseinnhold. Ikke påstå erfaring fra andre bransjer eller privat sektor ut over tidligere studiejobber."
+    },
+    {
+      "objection": "Tett arbeid med ledelse er ikke tydelig dokumentert.",
+      "reframe": "Plassering i Direktørens stab, beslutningsstøtte for ledere og controllere, og selvstendig kvalitetssikring og distribusjon av månedsrapporter til ledere i klinikken.",
+      "honesty_note": "Ikke påstå toppledermøter, styrepresentasjoner eller rådgivning for ledergrupper."
+    },
+    {
+      "objection": "Ingen erfaring med anskaffelser eller vurdering av strategiske IT-partnere.",
+      "reframe": "Vurdering av plattform- og verktøyalternativer mot konkrete begrensninger (PRJ-07, PRJ-09, PRJ-03) er nærmeste relevante erfaring; hører hjemme i CV eller intervju.",
+      "honesty_note": "Ikke gjør piloter eller verktøyevaluering til anskaffelses- eller leverandørvalgserfaring."
+    }
+  ],
+  "motivation_bridge": "BearingPoint beskriver arbeid der teknologi og AI skal gi forretningsverdi, og der strategiske råd må kombineres med gjennomføring. Kandidatens dokumenterte arbeid ligger i samme skjæringspunkt, men inne i én virksomhet: han har gjort en uklar fordelingsforespørsel til en beslutningsmodell for investeringsvalg, og veid teknologialternativer mot driftsrisiko før han gjennomførte en modernisering som ble tatt i bruk i hele sykehuset. Motivasjonen kan forankres i å bruke dette på flere og ulike problemstillinger, nærmere beslutningene om teknologi og organisering, og i et miljø der data og AI er et hovedfag, som forlengelse av KI-arbeidet han allerede gjør og studerer. Unngå prestisjemotivasjon, generell ros av teamkulturen og gjengivelse av tilbudslisten.",
+  "cv_direction": {
+    "headline_direction": "Yrkesoverskrift som plasserer kandidaten som samfunnsøkonom og rådgiver der virksomhet, teknologi og KI møtes. Ikke «Konsulent», «Seniorrådgiver» eller lederbetegnelse; formell tittel Rådgiver Økonomi og IKT står uendret i kronologien.",
+    "emphasis": [
+      "Profil som først etablerer master i samfunnsøkonomi og om lag 3,5 år ved OUS, deretter kombinasjonen analytisk-strategisk skjønn og praktisk gjennomføring.",
+      "Beslutningsmodell for investeringsvalg under manglende data (PRJ-06) og modernisering med teknologivurdering og sykehusdekkende bruk (PRJ-03) som de to første analysebulletene.",
+      "KI synlig i toppsonen: registrert superbrukerrolle, menneskestyrt KI-støttet arbeidsflyt og pågående KI-master.",
+      "Styringsmodell og arbeidsformer: gevinstrealiseringsstandard (PRJ-04) og arbeidsmodell i ny avdeling (PRJ-08).",
+      "Nøkkelkompetanser ledet av forretnings- og teknologirådgivning, beslutningsgrunnlag og risikovurdering, KI i arbeidsprosesser, styringsmodeller og gjennomføring; verktøy som støtte.",
+      "BAR-bullets som viser rask læring og forståelse av systemendring i praksis."
+    ],
+    "deprioritize": [
+      "Detaljert regnskapsordforråd fra månedsoppgjøret.",
+      "DAX- og semantisk modell-detaljer ut over én linje.",
+      "Prognosemodellfamilier og repositoriestørrelse.",
+      "Lange verktøy- og plattformlister.",
+      "Eldre roller 2013–2021 kompakt; tillitsverv kort eller utelatt."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Samfunnsøkonom med om lag 3,5 år i skjæringspunktet mellom forretningsspørsmål og teknologivalg i en stor virksomhet, som både utfordrer premissene i en forespørsel og gjennomfører løsningen. Bæres av PRJ-06 (avviste falsk presisjon, transparent beslutningsmodell for investeringsvalg) og PRJ-03 (teknologivalg veid mot driftsrisiko, gjennomført og i sykehusdekkende bruk), med KI som separat kort bevis.",
+    "top_employer_problems": [
+      "Gi ledere troverdige råd om teknologi og AI som faktisk skaper forretningsverdi.",
+      "Hjelpe virksomheter å forstå situasjon, risiko og muligheter før investeringer og veivalg.",
+      "Kombinere strategisk rådgivning med praktisk gjennomføring av teknologiprosjekter.",
+      "Rekruttere konsulenter på 2–4-årsnivå som raskt setter seg inn i nye kunders fagområder."
+    ],
+    "structure_guidance": "Åpne med yrkesanker (samfunnsøkonom, rådgiver i økonomi og IKT ved OUS siden 2023) og hvorfor forretnings- og teknologirådgivning er neste steg, uten å gjenta annonsens oppgaveliste. Første hovedavsnitt: PRJ-06 som eksempel på å utfordre en forespørsel og lage beslutningsgrunnlag under usikkerhet, med tiltenkt bruk og overlevering presist. Andre hovedavsnitt: PRJ-03 som teknologivurdering mot risiko og egen gjennomføring med sykehusdekkende bruk; den dokumenterte avveiningen med gjennomføringslederen kan vise samarbeid etter faglig uenighet. Kort KI-avsnitt med superbrukerrolle og menneskestyrt arbeidsflyt, vekt på nytte og kontroll. Avslutt med konkret bidrag i Technology-teamet og invitasjon til samtale. Hold tonen på konsulentnivå, ikke senior eller leder. Endre åpningsvinkel og rekkefølge fra andre søknader i klyngen; ikke bruk innførings- og forankringsvinkelen som hovedgrep her."
+  },
+  "avoid_guidance": [
+    "Ikke skriv at teknologivurderingen i PRJ-03 bestemte løsningen; gjennomføringslederen krevde den smale refaktoreringen.",
+    "Ikke skriv at PRJ-06-modellen er brukt i investeringsbeslutninger, har gitt gevinst eller ble lagt frem for ledelsen; den er ferdigstilt og overlevert til controllere.",
+    "Ikke gjør PRJ-07-piloter eller PRJ-09-evalueringer til anskaffelse, leverandørvalg eller outsourcingerfaring.",
+    "Ikke kall interne mottakere kunder, og ikke beskriv arbeidet som konsulentoppdrag.",
+    "Ikke gjør «utfordre etablerte sannheter» til selvbeskrivelse; vis det gjennom PRJ-06 og PRJ-03, og par det med samarbeid.",
+    "Ikke posisjoner kandidaten som senior, leder eller prosjektleder; stillingen gjelder 2–4 års erfaring.",
+    "Ikke skriv organisasjonsomfattende AI-adopsjon, AI-strategi eller AI-løsninger i produksjon.",
+    "Ikke skriv «fire års erfaring»; bruk om lag 3,5 år eller la kronologien vise det."
+  ],
+  "counterfactual_route": {
+    "identity": "Samfunnsøkonom og rådgiver for menneskestyrt KI-støttet analyse og utvikling i en kompleks virksomhet.",
+    "rationale": "BearingPoint fremhever AI, AI-adopsjon og et stort data- og AI-miljø. En skribent kan la KI-arbeidet bære brevet: menneskestyrt arbeidsflyt for kodeagenter med kontrollpunkter i prognoseprosjektet, registrert KI-superbrukerrolle og pågående KI-master, forankret i domeneforståelse fra økonomi og sykehusdrift. Ruten er mer særegen for AI-sporet, men svakere på forretningsverdi, lederdialog og dokumentert virksomhetsbruk, og har høyere risiko for AI_NOVELTY_BIAS; PRJ-06 eller PRJ-03 bør da bære forretningsforankringen i CV-en.",
+    "evidence_refs": [
+      "EV:OTHER#027-4-3-konkret-evidens",
+      "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+      "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+      "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+      "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+    ]
+  },
+  "risk_notes": [
+    "Konsulentbakgrunn mangler; utvalget avhenger av at teamet vekter dokumentert skjønn og gjennomføring.",
+    "BI_DEFAULTING og TECH_STACK_DUMP: profilen er teknisk bred, og en verktøytung topp vil plassere kandidaten som analytiker eller utvikler.",
+    "Senioritetsfeil: bredden kan trekke mot seniorrådgiverformulering som ikke passer 2–4-årsnivået.",
+    "Samme faktagrunnlag brukes i andre søknader i klyngen; PRJ-03 har her funksjonen teknologivalg og gjennomføring, ikke forankring."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-06",
+      "plain_language_label": "Selvstendig faglig standpunkt, uten å bli motstander",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "expression_ceiling": "Kan uttrykkes gjennom dokumenterte beslutninger: avviste en ustøttet direktefordeling, anbefalte bredere restrukturering og gjennomførte deretter den smale løsningen gjennomføringslederen valgte, og utfordret mål- og valideringsvalg i prognosearbeid. Ikke som egenskapsord om å være modig, direkte eller utfordrende.",
+      "vacancy_relevance": "Annonsen ber om å utfordre etablerte sannheter og jobbe tett på ledelsen.",
+      "intended_employer_interpretation": "Tør å si at premisset i en forespørsel ikke holder, og samarbeider videre når beslutningen er tatt.",
+      "misread_risk": "Vanskelig å samarbeide med eller motvillig til kundens rammer.",
+      "expression_guardrail": "Par alltid utfordringen med samarbeid eller gjennomføring innenfor rammen (PRJ-03s smale refaktorering; PRJ-06 overlevert til controllere)."
+    },
+    {
+      "facet_id": "PF-10",
+      "plain_language_label": "Setter seg raskt inn i nye fagområder",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "expression_ceiling": "Kan vises gjennom overtakelse av hele den tildelte månedsoppgjørsflyten innen om lag tre måneder og VBA lært fra grunnen gjennom et egeninitiert verktøybehov. Ikke påstå ekspertise i bransjer eller fagområder kandidaten ikke har arbeidet i.",
+      "vacancy_relevance": "Annonsen ber om at kandidaten trives med å sette seg inn i nye fagområder og jobbe for ulike kunder.",
+      "intended_employer_interpretation": "Kan bli produktiv hos nye kunder i ukjente domener uten lang innkjøring.",
+      "misread_risk": "Overdrivelse av dybde, eller at kandidaten ser seg som generalist uten kjerne.",
+      "expression_guardrail": "Skill rask læring fra eksisterende ekspertise, og hold yrkesankeret (samfunnsøkonom, økonomi og IKT) tydelig."
+    },
+    {
+      "facet_id": "PF-02",
+      "plain_language_label": "Vurderer alternativer før valget",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "expression_ceiling": "Kan uttrykkes gjennom dokumentert vurdering av VBA, Office Scripts, Python og KI-støttede tilnærminger mot driftsrisiko, evaluering av Forms-, Loop-, Power BI-, Pega- og lavkodealternativer, og utforskning av plattformmuligheter mot begrensninger. Ikke påstå at vurderingene avgjorde valg eller førte til innføring.",
+      "vacancy_relevance": "Teknologirådgivning handler om riktig bruk av teknologi, og annonsen nevner anskaffelse og ibruktaking av nye systemer.",
+      "intended_employer_interpretation": "Gir teknologiråd basert på sammenligning av alternativer mot virksomhetens faktiske rammer, ikke preferanse for et verktøy.",
+      "misread_risk": "Ubesluttsom eller uten evne til å lande.",
+      "expression_guardrail": "Par vurderingen med levert og brukt resultat (PRJ-03 i sykehusdekkende bruk)."
+    }
+  ],
+  "writer_guidance": "Skriv for en konsulent eller manager i et teknologiteam som vurderer om kandidaten kan stå foran kundens ledelse med et selvstendig og praktisk forankret råd. Formalfilteret (master og om lag 3,5 år) må være lesbart straks. Vinkelen i denne søknaden er skjønn og teknologivalg, ikke innføring og forankring: PRJ-06 viser at kandidaten stopper en forespørsel som ikke bærer og lager et beslutningsgrunnlag med synlige forutsetninger; PRJ-03 viser at teknologi vurderes mot driftsrisiko og deretter faktisk gjennomføres. Hold PRJ-06s status presist (ferdigstilt og overlevert, tiltenkt for investeringsvalg). KI skal fremstå som konkret praksis med kontrollpunkter, ikke som interesse alene. Konsulentmangelen håndteres positivt i motivasjonen, med vekt på variasjon og nærhet til beslutninger. Tonen skal passe en konsulent med 2–4 års erfaring: faglig trygg, ikke senior.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260914-211650-5d3516",
+    "job_id": "bearingpoint_forretning_teknologi",
+    "employer": "BearingPoint Norway AS",
+    "title": "Konsulent forretning- og teknologirådgivning",
+    "manifest_sha256": "ee29c2c8f729ec0cd72833a8024fa6300299d4e07792a5f5783e47e77dcd1616",
+    "vacancy_sha256": "00d8cbdab2d6d2713679fa149b698e16c33704c9861944eb0d4b5b51256508c6",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

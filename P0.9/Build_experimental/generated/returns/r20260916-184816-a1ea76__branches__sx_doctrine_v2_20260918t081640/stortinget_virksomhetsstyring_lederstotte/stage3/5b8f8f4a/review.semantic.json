@@ -1,0 +1,18 @@
+{
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [],
+  "known_limitations": [
+    "Søknadsfristen i annonsen var 14. september 2026 og er passert. Det er ingen redaksjonell mangel ved pakken, men det avgjør om den skal sendes i det hele tatt.",
+    "Annonsen gjør autorisasjon for nivå HEMMELIG til en ansettelsesbetingelse. Pakken sier med vilje ingenting om den: autoriserbarhet er uavklart og kan verken loves eller skrives om til kjent fravær. Arbeidsgiver vil ta opp klarering tidlig.",
+    "Budsjetteringsverktøyet står på dokumentert bruk, ikke på målt effekt. Det foreligger ingen godkjente målinger av tidsbesparelse eller feilreduksjon, og brevet hevder ingen.",
+    "Arbeidsmodellen og arbeidsinntaket i analyseavdelingen er utformet og evaluert med prosjektnivåbruk. Brevet sier «utformet» og går ikke lenger; det finnes ikke belegg for virksomhetsutrulling eller formelt produkteierskap.",
+    "Erfaringskravet på fortrinnsvis fem år gjelder seniorsporet, som ikke søkes. Brevet velger rådgiversporet eksplisitt og nevner ikke årskravet."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": "Brevets avsnitt 1 underdrev U1: det utelot at hele den tildelte månedsoppgjørsflyten ble overtatt, og at det skjedde innen om lag tre måneder. Begge fakta står i CLM-BAR-001 og i den godkjente måltallstabellen, og begge sto allerede i CV-en. De er lagt tilbake i brevet.",
+  "notes": [
+    "Klyngeobservasjon til operatøren, ikke et funn i denne pakken: alle fire CV-overskriftene i rung bruker tankestrek og formen «Rådgiver + felt og felt». Tankestreken bryter WRITING_DOCTRINE § Tegnsetting og er rettet i denne pakken; selve formlikheten er et Stage 1-mønster.",
+    "Brevet er kortere enn plantallet (292 mot 380 ord). Det som gikk ut var selvtolkning og relevansforklaring, ikke evidens, og teksten er ikke fylt opp igjen for å treffe tallet."
+  ]
+}

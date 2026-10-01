@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260914-211651-5dbd38",
+    "job_id": "eie_systemkoordinator",
+    "final_package_sha256": "caac5e729430a63f3dba034b04f39230a38698b301febefbd3a3a3a43b54e94e",
+    "document_date": "2026-09-14",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "84a069c32995b61353e3edcee53d2c5fab5d289148f0358c3b461338108a2acb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\CV_EIE_eiendomsmegling_Systemkoordinator.docx",
+      "output_sha256": "5159583261008c6c52b9b3f0a3a40f37882f6cf26c94f7cf90acaed508b70555",
+      "bytes": 40561,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\CV_EIE_eiendomsmegling_Systemkoordinator.pdf",
+      "output_sha256": "a011f3724ec155cb1d6888262fe162febc4e56275af6bc9f116abbf22ae9cf84",
+      "bytes": 293905,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_kf3b9jse\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\.rnd.269cf3b8\\CV_EIE_eiendomsmegling_Systemkoordinator.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\.rnd.269cf3b8\\CV_EIE_eiendomsmegling_Systemkoordinator.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\Soknad_EIE_eiendomsmegling_Systemkoordinator.docx",
+      "output_sha256": "af7cfa7120f433ccc09425b01e1108bf1376f1bb7d6f5990e7abf73e5ef1e521",
+      "bytes": 38480,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\Soknad_EIE_eiendomsmegling_Systemkoordinator.pdf",
+      "output_sha256": "c741c5139f7ff26f7cdf927dfa0fd5424cb10b411f1f1ca0dbebb5129c5c4aa6",
+      "bytes": 192307,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_sujredv0\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\.rnd.269cf3b8\\Soknad_EIE_eiendomsmegling_Systemkoordinator.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211651-5dbd38\\jobs\\eie_systemkoordinator\\out\\.rnd.269cf3b8\\Soknad_EIE_eiendomsmegling_Systemkoordinator.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-14T21:48:15Z"
+}

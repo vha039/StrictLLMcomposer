@@ -1,0 +1,201 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "Stortingets forvaltningsavdeling trenger at lederstøtte og stabsprosesser faktisk fungerer i hverdagen: planlegging, møter, oppfølging, notater og tverrgående tiltak må ha struktur, fremdrift og god digital arbeidsflyt. Kandidaten må være trygg nok til å støtte en ledergruppe, men arbeidsgiver trenger ikke en ubegrunnet påstand om formelt stabsansvar, sikkerhetsklarering eller fem års lederstøtteerfaring.",
+  "selection_logic": "Velg driftsnær virksomhetsstyring og funksjonell gjennomføring: rådgiver økonomi og IKT som omsetter uklare behov til prioritering, kontroll, dokumentasjon, workshop og brukbar overlevering. PRJ-08/09 svarer mest direkte på arbeidsstruktur og samhandling; BAR og PRJ-03 viser pålitelig økonomi-/rapporteringsprosess og kontrollert digital forbedring. KI skal være en metodisk differensiator, ikke et påstått stabs- eller sikkerhetsmandat.",
+  "primary_candidate_identity": "Rådgiver økonomi og IKT med strukturering av arbeidsprosesser, beslutningsstøtte og kontrollert digital forbedring.",
+  "headline_hypothesis": "Rådgiver økonomi og IKT | virksomhetsstyring, arbeidsprosesser og beslutningsstøtte",
+  "shortlist_thesis": "Vegard kan bidra til at komplekse, tverrfaglige prosesser blir konkrete arbeidsplaner, tydelige avklaringer og oppfølgbare leveranser. Han har dokumentert funksjonell koordinering, rapportering, workshop og digitale samhandlings-/strukturgrep, men ikke en formell administrativ stabsrolle tett på ledergruppe eller autorisasjon for HEMMELIG.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Relevant høyere utdanning, minimum bachelor og gjerne master.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ],
+      "note": "Fullført master i samfunnsøkonomi."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Erfaring fra administrativ lederstøtte og stabsarbeid, gjerne i offentlig sektor.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Støtter rapportering til ledere, arbeidsstruktur, workshop og koordinering i offentlig sykehusmiljø, men ikke formell stabs- eller administrativ lederstøtterolle."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Organisasjonsforståelse og evne til å se sammenhenger på tvers av fagområder.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Dokumenterer roller, avhengigheter, prioritering og behovsstruktur på prosjektnivå; ikke virksomhetsstyringsansvar."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Norsk og engelsk skriftlig/muntlig, notater, saksgrunnlag og beslutningsstøtte.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:OTHER#032-5-1-sprak"
+      ],
+      "note": "Bruk lederrapportering, dokumentasjon og språkgrunnlag; ikke påstå parlamentarisk saksbehandling."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Digital kompetanse og relevante samhandlings-, planleggings- og oppfølgingsverktøy, inkludert fordel med M365.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Loop, Forms, Scrum/Kanban og samhandlingsdesign er dokumentert; Decisions og Planner er ikke dokumentert og skal ikke påstås."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Planlegging, koordinering, gjennomføring av samlinger og oppfølging av beslutninger/tiltak.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Dokumenterer workshopplanlegging, oppgavenedbryting, prioritering, risiko og onboarding; ikke formelt ansvar for en ledergruppes årshjul eller arrangementer."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Kompetanse for kontinuitetsplanlegging, sikkerhet og beredskap er en fordel; stillingen krever at kandidaten kan autoriseres for HEMMELIG.",
+      "importance": "IMPORTANT",
+      "relation": "UNKNOWN",
+      "evidence_refs": [
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "note": "Tidligere vakt- og sikringssoldat dokumenterer prosedyre- og sikkerhetsarbeid, men ikke nåværende autorisasjon, sikkerhetsklarering eller beredskapsfaglig kompetanse. Autoriserbarhet avgjøres av arbeidsgivers prosess."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Evne til å veilede medarbeidere og ledere og drive kontinuerlig forbedring.",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Kompetanseoverføring og controller-onboarding er dokumentert; ikke formelt personalansvar eller virksomhetsdekkende opplæringsansvar."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "role": "Bærende bevis for å skape arbeidsstruktur: teamansvar, avhengigheter, WIP/prioritering, samhandlingsflater, workshop og krav-/informasjonsarkitektur.",
+      "claim_ceiling": "Ingen formell organisasjonsdesign-, prosjektleder- eller stabsmandat; PRJ-08 skiller mellom forslag og innført praksis, PRJ-09 er design/evaluering.",
+      "lifecycle": "CONCEPT",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Bærende bevis for driftsnær kontroll og gjennomføring: tildelt månedsoppgjør og lederrapportering, deretter modernisering med dokumentasjon, akseptansekriterier, risiko og controller-onboarding.",
+      "claim_ceiling": "Ikke samlet lederstøtte, stabsfunksjon, budsjetteierskap eller målt forbedringseffekt.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE",
+        "BL:EMP_OUS_BAR"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Formell administrativ lederstøtte og stabsarbeid er ikke dokumentert.",
+      "reframe": "Bruk de faktiske, nærliggende signalene om struktur, rapportering, koordinering, workshop og oppfølging, uten å omskrive dem til ledergrupperolle.",
+      "honesty_note": "Ingen årshjul-, møteadministrasjons- eller saksbehandlingsansvar."
+    },
+    {
+      "objection": "Kravet om autorisasjon for HEMMELIG kan ikke dokumenteres av kandidatmyndighetene.",
+      "reframe": "Ikke argumenter for utfallet. Tidligere sikkerhetstjeneste kan bare gi kontekst for prosedyrebevissthet; arbeidsgiver avgjør skikkethet og autorisasjon.",
+      "honesty_note": "Ingen sikkerhetsklarering eller autoriserbarhet påstås."
+    },
+    {
+      "objection": "Fem års relevant erfaring for seniorrådgiver er ikke dokumentert som stabs-/lederstøtteerfaring.",
+      "reframe": "La erfaringens kvalitet og den aktuelle rådgiverrollen bære posisjoneringen, uten å erklære at seniornivået er oppfylt.",
+      "honesty_note": "Ikke bruk senioritetstittel som faktum."
+    }
+  ],
+  "motivation_bridge": "Rollen er meningsfull fordi god virksomhetsstyring ofte avgjøres i de små, men kritiske overgangene mellom sak, beslutning, ansvar og oppfølging. Vegards erfaring med å gjøre slike arbeidsprosesser tydelige, kontrollerbare og digitale på en ansvarlig måte er den relevante broen til en stabsfunksjon tett på Stortingets samfunnsoppdrag.",
+  "cv_direction": {
+    "headline_direction": "Rådgiver økonomi og IKT for virksomhetsstyring, arbeidsprosesser og beslutningsstøtte.",
+    "emphasis": [
+      "Arbeidsmodell, prioritering, workshop og kravstruktur.",
+      "Lederrettet rapportering, dokumentasjon, kontrollert modernisering og onboarding.",
+      "M365-nære samhandlingsverktøy bare der de er dokumentert."
+    ],
+    "deprioritize": [
+      "KI som generelt lederstøtteprodukt, eller påstått Decisions/Planner-erfaring.",
+      "Formell stabsrolle, sikkerhetsklarering og ledergruppeansvar."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "application_direction": {
+    "backbone": "God lederstøtte som konkret arbeidsstruktur: rett sak, avklaring, prioritet, dokumentasjon og oppfølging på riktig sted.",
+    "top_employer_problems": [
+      "Tverrgående prosesser som må få fremdrift uten formell makt.",
+      "Digitale arbeidsformer som må gjøre staben enklere å følge opp, ikke bare mer teknisk.",
+      "Sikker og nøktern avgrensning mot formelt stabs- og autorisasjonsansvar."
+    ],
+    "structure_guidance": "Start med arbeidsprosess- og beslutningsstøtteruten. Integrer PRJ-08/09 med et kort praktisk bevis fra BAR/PRJ-03, heller enn å lage en generisk KI- eller lederfortelling."
+  },
+  "avoid_guidance": [
+    "Ikke påstå administrativ lederstøtte, stabsansvar, saksbehandling for Stortinget eller ansvar for ledergruppens årshjul.",
+    "Ikke påstå Decisions-, Planner- eller autorisasjonserfaring som ikke finnes i kildene.",
+    "Ikke gjør sikkerhetstjeneste til klarering, beredskapskompetanse eller nåværende sikkerhetsmyndighet.",
+    "Ikke bruk KI til å dekke manglende stabspraksis."
+  ],
+  "counterfactual_route": {
+    "identity": "Rådgiver for kontrollert digital arbeidsflyt og KI-støttet saks-/beslutningsforberedelse.",
+    "rationale": "Kan være en sekundær vinkel dersom arbeidsgiver vektlegger nye digitale muligheter, men er svakere enn arbeidsstruktur-ruten og må beholde alle KI- og mandatgrenser.",
+    "evidence_refs": [
+      "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+      "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+    ]
+  },
+  "risk_notes": [
+    "Derived view was readable; AI-generated skill labels were excluded.",
+    "Authorisation and formal staff-support experience are separate, material uncertainties; neither can be inferred from tool fluency or former service."
+  ],
+  "personality_facets": [],
+  "writer_guidance": "Aim for a calm operational adviser identity. The useful distinction is that Vegard can strengthen the mechanics of planning and follow-up through documented process design, controls and handover; do not ask prose to prove privileged access, administrative title history or security eligibility.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "stortinget_virksomhetsstyring_lederstotte",
+    "employer": "Stortinget",
+    "title": "seniorrådgiver/rådgiver",
+    "manifest_sha256": "d68a8bf0c96a0df58fcded9772503c06957c162c9f4762a03f049228eb60dc77",
+    "vacancy_sha256": "f8a151e2d5024461f4967e7d859c7ee4085f7d67480d8cb928ffd0c46aa8aa7e",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

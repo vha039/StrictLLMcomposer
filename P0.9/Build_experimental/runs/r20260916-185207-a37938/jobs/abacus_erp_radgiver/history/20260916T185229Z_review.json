@@ -1,0 +1,29 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Fixture content.",
+      "recommended_action": "None."
+    }
+  ],
+  "known_limitations": [
+    "Mechanical fixture, not a real package."
+  ],
+  "binding": {
+    "run_id": "r20260916-185207-a37938",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "0d37cb5ab1af2196f4b81afa53c2bb81b85b848bccbd211fe3baf158dd06311e",
+    "policy_fingerprint": "26afb50695cc750cd34caa9a4d3aaf277d42d379f4f1f39ece12a38664257b51",
+    "inputs": {
+      "scout": "d7fccc0a3b9aebf19a503820ee73d30d790ae1c7c5a3ff8ef910ed4818c5f3fb",
+      "brief": "912712407de78d59afb1629728f27576e77b6020ef848e1a9089259fbda9ea2f",
+      "cv_draft": "135722c24c92bcbd5c7951781835fa3e0d4dc771469a2a4bedbc4ab9cccd0351",
+      "advocacy_draft": "7d437d1d932a4e67057fbd07c4fb75ad3f85134ae5b022a4ef51adf0af0a2614",
+      "polish": "008631361ce6382020fce71901ac21e3fe9b0fb575a48d9ea64ad6503c2ceb0c",
+      "final_package": "1e317fa5a370077a8b7b84a441e4d0ca08591eeb37af85829188794e5041a7e0"
+    }
+  }
+}

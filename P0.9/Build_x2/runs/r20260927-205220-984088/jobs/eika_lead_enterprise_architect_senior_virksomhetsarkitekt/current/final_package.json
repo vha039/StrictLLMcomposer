@@ -1,0 +1,84 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT | styringsinformasjon og beslutningsstøtte",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver i økonomi og IKT ved Oslo universitetssykehus, i skjæringen mellom styringsbehov, data og systemer. Har rekonstruert og modernisert et forretningskritisk budsjetteringsverktøy som brukes i hele sykehuset, utformet den semantiske modellen i et styrings-BI på tvers av økonomi, bemanning og aktivitet, og medutviklet gevinstmetodikken som ble sykehusets standard. Gjør forutsetninger, eierskap og avhengigheter synlige, slik at ledere og controllere kan bruke og etterprøve beslutningsgrunnlaget.",
+    "competencies": [
+      "Beslutningsunderlag og styringsinformasjon",
+      "Informasjonsmodellering og semantiske modeller",
+      "Kartlegging av systemer og avhengigheter",
+      "Kontrollert modernisering av kritiske verktøy",
+      "Beslutningsbehov, krav og akseptansekriterier",
+      "Etterprøvbare modeller med synlige forutsetninger",
+      "Formidling til ledere, controllere og fagmiljøer",
+      "Power BI, DAX, Power Query, SQL og Excel/VBA"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Rekonstruerte arkitekturen i et arvet, om lag 20 år gammelt og forretningskritisk Excel/VBA-budsjetteringsverktøy fra kildekode, metadata og formler. I praksis eneste kodende utvikler for 2025-moderniseringen, i en interessentprosess med om lag 50 deltakere: integrerte ansatt-, ansettelses- og bemanningsdata med differansekontroll, akseptansekriterier og risikoregister. Verktøyet ble brukt sykehusdekkende i budsjettprosessen for 2026, og den avsluttende moderniseringen er i bruk i budsjettprosessen for 2027.",
+          "Hovedutvikler for backend i et nytt styrings-BI for økonomi, bemanning, sykefravær og aktivitet/DRG i en firepersoners analyseavdeling: utformet nesten hele den semantiske modellen, mesteparten av Power Query-logikken og om lag 80-90 prosent av DAX. Kolleger ledet innhold og visuell utforming. Forvaltet løsningen fra om lag august 2025 til februar 2026 med månedlig drift, brukertester og forbedringsrunder; løsningen er senere avviklet.",
+          "Avviste en direkte fordeling av gevinster fra steril logistikk som datagrunnlaget ikke bar, og utformet i stedet en vektet proxy-modell i fem arbeidsbøker med synlige vekter, skjemakontroll og avvikskontroller, bevisst uten kjerne-VBA slik at controllere skal kunne etterprøve og justere forutsetningene selv. Ferdigstilt og overlevert controllere tidlig i 2026.",
+          "Medutviklet i et firepersoners team en videreutviklet metodikk for gevinstrealisering, med forskningssyntese og metodisk og styringsmessig bidrag. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Utformet strukturerte skjemaer for arbeidsinntak som fanger formål, brukere, beslutningsbehov, avhengigheter, risiko og akseptansekriterier, og bidro i etableringsgruppen for analyseavdelingens arbeidsmodell med ansvar, avhengigheter og oppgavestruktur.",
+          "Lærte opp tekniske medarbeidere i en annen rapporteringsorganisasjon i Power BI og semantisk modellering gjennom flere arbeidsmøter, og holdt intern workshop for økonomkolleger om datamodellering, datakvalitet og styring.",
+          "Arbeider med Power BI, DAX, Power Query M, SQL, Excel/VBA og prosjektavhengig R/Python; har deltatt i utforskende piloter med Microsoft Fabric, Power Platform og dbt."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, avstemming, resultatforklaring og månedsrapportering til klinikkledere.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Som rådgiver i økonomi og IKT i direktørens analyseavdeling ved Oslo universitetssykehus gjør jeg spredt informasjon og tekniske avhengigheter om til beslutningsgrunnlag som ledere og controllere kan bruke og etterprøve. Derfor kjenner jeg meg igjen i Eikas beskrivelse av en virksomhetsarkitekt som ikke skal eie alle detaljene, men definere hva som må henge sammen, hvem som eier informasjonen og hvordan innsikten brukes i prioriteringer.",
+    "body_paragraphs": [
+      "Sykehusets budsjetteringsverktøy er et arvet, om lag 20 år gammelt og forretningskritisk Excel/VBA-system. Jeg rekonstruerte først arkitekturen fra kildekode og formler. Jeg vurderte VBA, Office Scripts, Python og KI-assistert utvikling opp mot kompatibilitet, driftsrisiko og vedlikehold, og anbefalte en bredere omstrukturering. Implementeringsansvarlig valgte en smal refaktorering funksjon for funksjon, og da ble min jobb å gjøre den trygg: om lag 80 prosent av endringene var atferdsbevarende, og jeg sammenlignet originale og refaktorerte funksjoner mot eksplisitte krav om paritet. Jeg var i praksis eneste kodende utvikler i en prosess med om lag 50 deltakere. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026, og i den avsluttende moderniseringen for 2027 fikk jeg vesentlig større frihet.",
+      "Felles struktur, begreper og riktig abstraksjonsnivå var også kjernen i styrings-BI-et analyseavdelingen bygget fra bunnen. Der utformet jeg nesten hele den semantiske modellen: hva som var fakta og hva som var dimensjoner, og hvilke organisasjons- og periodenøkler som bandt økonomi, bemanning og aktivitet sammen. Kollegene mine ledet innhold og visuell utforming. Da modellens grenser begynte å skape leveranserisiko, skilte jeg en større ombygging fra de løpende utvidelsene. I perioden jeg forvaltet løsningen, testet jeg den med faktiske brukere, så hvor de stoppet opp, og tok det inn i korte forbedringsrunder.",
+      "Et beslutningsgrunnlag må også tåle at andre enn den som bygget det, går det etter i sømmene. Da jeg ble bedt om å fordele gevinster fra steril logistikk direkte på klinikkene, fantes det ikke data som bar en slik fordeling. Jeg utformet i stedet en vektet proxy-modell med synlige forutsetninger, og unngikk bevisst kjerne-VBA slik at controllerne skulle kunne justere vektene uten å være avhengige av en utvikler. Modellen ble ferdigstilt og overlevert tidlig i 2026. Jeg var også én av fire som videreutviklet sykehusets metodikk for gevinstrealisering. Den ble innført som felles standard og var fortsatt i bruk om lag 2,5 år senere.",
+      "Arbeidet mitt har vært på prosjekt- og løsningsnivå i et regulert sykehusmiljø, ikke som virksomhetsarkitekt for en hel organisasjon. Stillingen er interessant for meg fordi målet er bedre beslutninger og lavere friksjon, ikke mer dokumentasjon, i infrastrukturen Eika leverer til lokalbankene."
+    ],
+    "closing": "Jeg vil gjerne bidra der Eika skal avklare hvilke styringsdata ledelse og styringsfora trenger, og hvem som eier dem, med informasjonsmodeller og beslutningsgrunnlag som fagmiljøene kan etterprøve selv."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#045-7-teknologi-og-metodeinventar",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+  ],
+  "writer_note": "Rute flyttet fra BI-først til kontrollert endring først: budsjettverktøyet (i bruk, dokumentert faglig anbefaling underordnet implementeringsansvarliges valg) svarer best på Eikas 'uten å overta operativt ansvar' og 'ikke metode for metodens skyld'. PRJ-06-skjønnet og PRJ-01 modellsplitt hentet inn som dokumenterte beslutninger. EA-mandat, bank og rammeverk er ikke påstått.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-27",
+    "finalized_at": "2026-09-27T21:17:25Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260927-205220-984088",
+    "job_id": "eika_lead_enterprise_architect_senior_virksomhetsarkitekt",
+    "employer": "Eika",
+    "title": "Lead Enterprise Architect slash Senior Virksomhetsarkitekt",
+    "manifest_sha256": "54bb9727cb0c930dfbaa7607edba818bc4e965582ec746e39173cb9cab27bd8b",
+    "vacancy_sha256": "4ac2f851a60af6f0eca11b77093e344da806140141cc5aee80f67f2db12101b2",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "6c577e3204ba670f95fa56642d3b86df371edcbd6b193c32da98efa5b498842d",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "a45e9a76cfaedea5e4a7aad6d76b17c6db30459e7dd8367dbca6c93855771f9b"
+  }
+}

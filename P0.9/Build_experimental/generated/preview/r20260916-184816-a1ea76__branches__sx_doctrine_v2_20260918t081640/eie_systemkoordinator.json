@@ -1,0 +1,36 @@
+{
+  "job_id": "eie_systemkoordinator",
+  "stage": 3,
+  "cv_dynamic_words": 386,
+  "letter_words": 331,
+  "signals": [],
+  "artifact_hash": "ba2c9796f68117b5c6a519434c369bb90d1dbbed8d53b09135ef728c306d9743",
+  "sources": {
+    "cv_draft": "current artifact",
+    "advocacy_draft": "current artifact",
+    "polish": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\generated\\returns\\r20260916-184816-a1ea76__branches__sx_doctrine_v2_20260918t081640\\eie_systemkoordinator\\stage3\\4c6f613c\\polish.semantic.json"
+  },
+  "state": "current submitted layers",
+  "documents": {
+    "cv": {
+      "pages": 2,
+      "tail_sections": {
+        "VERKTØY": 1,
+        "TIDLIGERE ERFARING": 2,
+        "TILLITSVERV": 2,
+        "SPRÅK": 2,
+        "SPRÅK OG KURS": 2,
+        "KURS": 2
+      },
+      "headline_lines": 1,
+      "warnings": []
+    },
+    "letter": {
+      "pages": 1,
+      "tail_sections": {},
+      "warnings": []
+    }
+  },
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\eie_systemkoordinato\\0918\\83282",
+  "render_state": "OK"
+}

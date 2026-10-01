@@ -1,0 +1,30 @@
+{
+  "known_limitations": [
+    "Formelt ansvar for konserntransformasjon, program, digital portefølje, produkt eller personell er ikke dokumentert.",
+    "Direkte erfaring fra luftfart, flyplassdrift og sikkerhetskritisk luftfartsteknologi er ikke dokumentert.",
+    "Den relevante transformasjons- og digitaliseringserfaringen starter i 2023, og individuelt realiserte eller kvantifiserte gevinster er ikke dokumentert."
+  ],
+  "material_strategy_change": "Finalen bytter til en gjennomføringsførst rute. Budsjettmoderniseringen med faktisk bruk leder argumentet, gevinstrealiseringsrammeverket følger som styringsbevis, og det konseptuelle proxy-designet er tatt ut av søknaden fordi innføringsstatusen er svakere.",
+  "notes": [
+    "JobMatch-sidene i den skannede FINN-kilden ble behandlet som KI-generert innhold og ikke brukt som arbeidsgiverkrav eller kandidatbevis."
+  ],
+  "reasons": [
+    {
+      "reason": "Pakken gir et Avinor-spesifikt argument om digital gjennomføring i samfunnskritisk drift, med faktisk bruk som første bevis.",
+      "recommended_action": "Gjennomfør normal menneskelig skim og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Gevinststyring, tverrfaglig strukturering og trygg endring er fremstilt med riktige bidrags-, livsløps- og effektgrenser.",
+      "recommended_action": "Behold den nøkterne avgrensningen mot formelt konsern- og porteføljemandat.",
+      "priority": 2
+    },
+    {
+      "reason": "Luftfartsgapet og fraværet av formelt transformasjonsmandat er reelle utvalgsforhold, men det gjenstår ingen navngitt lokal tekstlig reparasjon.",
+      "recommended_action": "Vurder disse forholdene som del av ordinær søknadsbeslutning, ikke som grunnlag for CHECK.",
+      "priority": 3
+    }
+  ],
+  "triage": "READY",
+  "upstream_claim_repaired": "Utkastets 'rapportert i bruk' undersolgte varighetssignalet. Finalen sier at gevinstrealiseringsrammeverket var i bruk om lag to og et halvt år senere, uten å hevde dagens status eller individuell effekt."
+}

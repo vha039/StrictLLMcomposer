@@ -1,0 +1,39 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Pakken kobler gjennomført modernisering til gevinstmetodikk og økonomisk beslutningsstøtte, med konkrete bidrag og teamgrenser. Ingen kjent materiell omskriving gjenstår.",
+      "recommended_action": "Vurder de ferdige dokumentene for ordinær menneskelig godkjenning."
+    },
+    {
+      "priority": 2,
+      "reason": "Avinors ønske om målbar verdi møtes med dokumentert metode og vurdering av anslag; teksten hevder ikke målte gevinstresultater.",
+      "recommended_action": "Bevar skillet mellom innført metode, modelldesign og realisert effekt."
+    },
+    {
+      "priority": 3,
+      "reason": "Erfaring med komplekse initiativer vises som hovedansvar for avgrensede kodeendringer, medutvikling og samarbeid. Det er ikke gjort om til konsern-, portefølje- eller programledelse.",
+      "recommended_action": "Vurder seniorrådgivergrunnlaget ut fra det beskrevne arbeidet og omfanget; behold mandatgrensene."
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert porteføljestyring, formelt programansvar, konsernmandat, personalansvar eller linjeledelse.",
+    "Ingen målte gevinster, dokumentert ROI eller kvantifisert tids- eller feilreduksjon fra eksemplene.",
+    "Om lag tre og et halvt års relevant erfaring ved OUS. Erfaringen gjelder sykehus og prosjekt-/avdelingsarbeid, ikke luftfart eller Avinors drift.",
+    "Arbeidsmodellarbeidet har blandet innført og foreslått status. Plattformvurdering er utforskende, og gevinstfordelingsmodellen dokumenterer design uten bekreftet innføring.",
+    "Bakgrunnssjekk og eventuell sikkerhetsklarering er arbeidsgiverens senere prosess; ingen klarering eller utfall er påstått."
+  ],
+  "material_strategy_change": "Valgt en gjennomføringsorientert åpning fra strategiens alternative rute: budsjettmoderniseringen kommer først og viser hva kandidaten selv gjennomførte. Felles gevinstmetode og faglig avvisning følger som ett argument om beslutningsgrunnlag, med separate lifecycle-grenser. Plattformbredden er lagt til CV-en. Motivasjonen er knyttet til investeringsbeslutning, driftsendring og oppbygging av en ny enhet fremfor en udokumentert likestilling av Avinormodellen og sykehusfinansiering.",
+  "upstream_claim_repaired": "Rettet «manuelt avstemmingsledd falt bort» til kildebelagt erstatning av kopiering, og «50 controllere og ledere» til rundt 50 involverte. Gjort konseptstatus og blandet innført/foreslått arbeidsmodell eksplisitt. Oppjustert «deltok i utviklingen» til medutviklet med eget forsknings-, metode- og økonomibidrag. Gjenvunnet utelatt skille mellom driftsmessige/økonomiske virkninger, unngåtte kostnader og overført belastning fra fordelingsmodellen, fordi dette styrker Avinors vurdering av gevinster på tvers. Utelatt strategiens udokumenterte påstander om Avinors interne svikt og manglende linjemyndighet.",
+  "notes": [
+    "READY/CHECK ble vurdert mot senioritet, porteføljeerfaring og fravær av målte gevinster. Dette er avgrensede kvalifikasjons- og evidensgrenser som teksten allerede ivaretar, ikke lokale reparasjoner som gjenstår. READY er derfor riktig etter tabellen.",
+    "Tjuesekunderstesten, dyplesningen, begge byttetestene, kravhåndtering og CV/brev-komplementaritet anvendt. Siste innholdslåste uttrykkspass fjernet generelle læresetninger uten å svekke eierskap, kontroll eller faglig skjønn."
+  ],
+  "binding": {
+    "run_id": "r20260905-195443-6d65bd",
+    "job_id": "avinor_digital_transformasjon",
+    "final_package_sha256": "a083945c67bfc2b6475e49b836e714b9ab990f348d79bdee80568e5bf9cbcfb1"
+  }
+}

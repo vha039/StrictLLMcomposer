@@ -1,0 +1,445 @@
+{
+  "employer_decision_problem": "Avinor har opprettet en egen enhet for Digital Transformasjon fordi to ting ikke sitter i konsernet i dag: gjennomføringskraften i digitaliseringsarbeidet, og sikkerheten for at teknologiinvesteringer faktisk gir verdi. Det er en verdisikringsbestilling formulert av noen som har sett gevinstanslag som ingen etterprøvde, og prioritering som skjer hver for seg i produkter, prosjekter og porteføljer på tvers av 43 lufthavner, flysikringstjenesten og separate fagmiljøer. Enheten er dessuten ny og har ingen linjemyndighet: den må vinne innflytelse gjennom beslutningsgrunnlag, fasilitering og arbeidsformer som faktisk blir tatt i bruk, i en virksomhet der sikkerhet og drift alltid har forkjørsrett. Usikkerheten arbeidsgiveren betaler for å bli kvitt er derfor ikke om en kandidat kan tegne en styringsmodell, men om vedkommende kan holde en verdipåstand ærlig når den ikke lar seg måle direkte, og likevel få organisasjonen til å bevege seg. En feilansettelse gir enten en ny rapporteringsbyrde eller en enhet som produserer beslutningsunderlag ingen handler på.",
+  "selection_logic": "Annonsen er bevisst åpen: «du kan ha bakgrunn fra», «kjenner deg gjerne igjen i mye av det følgende», «vi tror du har», ingen årstall, ingen navngitt metodikk, og en uttrykt invitasjon til søkere med ulik bakgrunn. Det betyr at første kutt ikke tas mot en avkrysningsliste, men mot et inntrykk av organisatorisk tyngde — tåler denne personen å sitte i et beslutningsforum med ledere fra en samfunnskritisk driftsorganisasjon. Formalkravene er lave nok til at kandidaten passerer dem (økonomiutdanning, flere år, kommunikasjon på norsk og engelsk), så pakken vinner eller taper på om hvert bevis ender på organisasjonsnivå eller på artefaktnivå. Det avgjørende skillet i bunken går mellom kandidater som har laget styringsmateriell og kandidater som har fått en organisasjon til å bruke det. Andre kutt er sannsynligvis et intervju om senioritet: om lag tre og et halvt år i nåværende yrke mot en seniorrådgiverstilling i et konsern med rundt 3000 ansatte, der forsvaret må være omfang, skjønn og livsløpsansvar, ikke ansiennitet.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver økonomi og IKT som arbeider med gevinstrealisering, styringsmodeller og digitalisering i en samfunnskritisk, regulert virksomhet. Den formelle tittelen `Rådgiver Økonomi og IKT` er selve broen annonsen etterspør mellom teknologi, forretning og organisasjon, og skal derfor stå synlig i stedet for å byttes ut med en funksjonell etikett. Ikke BI-utvikler, ikke dataanalytiker, ikke KI-profil, og ikke endringsleder i formell forstand.",
+  "headline_hypothesis": "Kandidaten er økonomen som holder verdipåstanden ærlig og likevel får den innført: han var med på å utvikle en metode for gevinstrealisering og estimering som ble innført som sykehusets felles standard og fortsatt var i bruk om lag 2,5 år senere, og han har som gjennomgående faglig regel at måling andre skal eie må ha synlige antakelser framfor falsk presisjon. Overskriften er verdisikring som faktisk tas i bruk, ikke transformasjonsvokabular.",
+  "shortlist_thesis": "Han bør inn til samtale fordi han har gjort den minst overførbare delen av denne stillingen i en virksomhet med samme grunnbetingelser som Avinor — samfunnskritisk, regulert, fordelt på mange enheter med felles finansiering og hardt krav om at beslutningsgrunnlag skal tåle etterprøving: han har vært med på å gjøre en gevinstmetode til hele organisasjonens standard, og han har endret en virksomhetskritisk prosess uten at den røk. Det han mangler er porteføljestyring og år på telleverket, ikke forståelsen av hvordan endring faktisk fester seg.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Høyere utdanning innen teknologi, ledelse, økonomi, organisasjonsutvikling eller tilsvarende.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#028-4-1-claim-atomer-for-utdanning"
+      ],
+      "note": "Fullført mastergrad i samfunnsøkonomi (NTNU, 2020–2022) og fullført bachelorgrad i samfunnsøkonomi (UiB, 2017–2020) treffer økonomialternativet direkte. Ingen karakter-, oppgave- eller spesialiseringspåstand, og ingen teknologi- eller ledelsesgrad."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Flere års erfaring fra strategisk utviklingsarbeid, digital transformasjon eller større endringsprosesser, herunder erfaring fra større transformasjons-, endrings- eller digitaliseringsinitiativer.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#041-6-6-digitalisering-og-prosessforbedring"
+      ],
+      "note": "Kravet er formulert uten tallfesting, og «flere år» er innfridd i bokstavelig forstand: ansatt ved Oslo universitetssykehus fra mars 2023. Innholdet er reelt endrings- og digitaliseringsarbeid — medutvikling av en metode som ble innført som sykehusdekkende standard, modernisering av et virksomhetskritisk budsjetteringsverktøy i en prosess med om lag 50 involverte, og egeninitiert konverterings- og valideringsverktøy under en ERP-overgang som ble brukt av økonomirådgivere i flere klinikker. Det som ikke finnes er programnivå: ingen transformasjonsprogramrolle, ingen konsulentbakgrunn, ingen initiativer på konsernnivå. Skill mellom bevist endringsarbeid og ubevist programansvar."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Erfaring med å lede eller støtte komplekse initiativer på tvers av organisasjoner.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Kravet har en lav terskel — «lede eller støtte» — og støtten er godt dokumentert: medutvikling i firepersonersteam av en metode som ble innført på tvers av hele sykehuset, arbeid over organisasjonsgrensen mot den ansvarlige rapporterings- og dataorganisasjonen, og en moderniseringsprosess med om lag 50 involverte på tvers av arbeidsgrupper og kravdiskusjoner. Grensen: funksjonell koordinering og medutvikling, ikke formelt initiativ- eller programlederskap."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Erfaring med porteføljestyring, gevinstrealisering eller virksomhetsstyring.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael"
+      ],
+      "note": "Kravet er formulert med «eller», og to av tre alternativer er dekket. Gevinstrealisering er kandidatens sterkeste enkeltbro: medutvikling av rammeverk for gevinstrealisering og estimering, design av en vektet fordelings- og investeringsmodell, og et arbeidet skille mellom operasjonell effekt, økonomisk realisering, unngåtte kostnader, kontrafaktisk resonnement og usikkerhet. Virksomhetsstyring er dekket gjennom budsjett, prognose, KPI- og lederrapportering. Porteføljestyring som fag er derimot et gap og skal ikke brukes som kandidatens eget ord."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Erfaring med utvikling av styringsmodeller, beslutningsprosesser eller porteføljestyring (oppgitt som en fordel).",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Styringsmodell- og beslutningsprosessarbeid er dokumentert på prosjekt- og avdelingsnivå: felles metodikk innført som standard, ansvars-, avhengighets- og beslutningsrettsforslag, oppgavehierarki og WIP-strukturer i et fagmiljø under etablering, og strukturert arbeidsinntak som fanger formål, brukere, beslutningsbehov, avhengigheter, risiko, prioritet og akseptansekriterier før arbeid startes. Skalaen er en fireperson avdeling og et sykehus, ikke et konsern, og deler av arbeidsmodellevidensen er forslag snarere enn innført — skillet skal være eksplisitt. Porteføljestyring er ikke dekket."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Bakgrunn fra strategi, virksomhetsutvikling, teknologi, endringsledelse eller operasjonelt lederansvar i områder som har vært gjennom større endringer.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#041-6-6-digitalisering-og-prosessforbedring",
+        "EV:OTHER#018-2-5-rute-for-funksjonell-endringsledelse"
+      ],
+      "note": "Teknologi og virksomhetsutvikling er dekket gjennom rollen som rådgiver økonomi og IKT: omsetting av brede behov til avgrensede arkitekturer, kontroller og brukbare leveranser, og digitalisering av analyse-, regnskaps-, rapporterings- og styringsprosesser. Endringsledelse er dekket funksjonelt — workshops, onboarding, brukerobservasjon, kompetanseoverføring og felles standard — men ikke som formell rolle eller mandat. Operasjonelt lederansvar finnes ikke og skal ikke antydes."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "God forståelse for hvordan teknologi kan skape forretningsverdi.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te"
+      ],
+      "note": "Det som er dokumentert er nettopp verdivurderingen og ikke teknologibegeistringen: han sammenliknet nye plattformmuligheter med faktiske virksomhetsbegrensninger i et regulert miljø, vurderte VBA, Office Scripts, Python og KI-støttede tilnærminger opp mot kompatibilitet, driftsrisiko og vedlikeholdbarhet, og beveger seg mellom ledelsesspørsmål, driftsvirkelighet, økonomisk logikk, datamodeller og kode. Grensen: plattformarbeidet er tidlig tilgang, pilot og utforsking uten produksjonsdybde eller plattformeierskap."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Sterke kommunikasjons- og fasiliteringsferdigheter.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid"
+      ],
+      "note": "Beslutningsnotater, ledelsesoppsummeringer, teknisk dokumentasjon og onboarding tilpasset ledere, controllere, fagmiljøer og tekniske team; planlegging og fasilitering av workshops, inkludert en intern fagworkshop for økonom- og helseøkonomkolleger. Ingen påstand om målt effekt av kommunikasjon eller opplæring."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Evne til å bygge relasjoner og skape samarbeid på tvers av fagområder og organisasjonsnivåer.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "note": "Dokumentert som handling og ikke som egenskap: kompetanseoverføring over organisasjonsgrensen til en annen rapporterings- og dataorganisasjon, en moderniseringsprosess med om lag 50 involverte på tvers av arbeidsgrupper, onboarding av controllere, og tilpasning av faglig dybde og kommunikasjon til den enkelte interessenten. Ingen linjemyndighet bak samarbeidet."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Strukturert og analytisk tilnærming kombinert med høy gjennomføringsevne.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse"
+      ],
+      "note": "Den dokumenterte arbeidsmodellen går hele veien fra å avklare det faktiske beslutningsproblemet, kartlegge systemet og definere sannhetskilde, til prioritering og nedbryting, implementering, validering, oversettelse for mottaker og overlevering. Gjennomføringssiden er belagt av leveranser som ble tatt i bruk, ikke av selvkarakteristikk."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Meget gode skriftlige og muntlige kommunikasjonsevner på norsk og engelsk.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:EDU#013-1-4-ernest-manning-high-school-calgary"
+      ],
+      "note": "Norsk er morsmål og bokmål er standard. Engelsk er flytende skriftlig og muntlig, støttet av videregående skolegang i Calgary. Ingen formell språktest eller nivåsertifisering — ikke oppgi en skala. Engelsk skal stå eksplisitt i CV-en fordi annonsen krever begge språk."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Sikre at digitale initiativer gir målbar verdi og gevinst for virksomheten.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "note": "Metodesiden er sterkt dekket: rammeverk for gevinstrealisering og estimering innført som felles standard, en vektet flerindikatormodell for gevinstfordeling og investeringsstøtte der antakelser og vekter er synlige, og et arbeidet skille mellom faktum, slutning, anbefaling, estimat, forventet gevinst og realisert resultat. Det som ikke finnes er dokumentert realisert eller målt gevinst noe sted i porteføljen. Dette skal håndteres som en metodeposisjon — han vet hva som kan påstås om verdi og når — og aldri som en antydning om leverte gevinsttall."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Omsette strategiske ambisjoner til konkrete tiltak og leveranser.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell"
+      ],
+      "note": "Dokumentert både som leveranse og som oversettelse: en modernisert versjon av budsjetteringsverktøyet ble brukt til sykehusets budsjett for 2026, og han har fulgt opp og analysert økonomiske tiltak og oversatt tiltakslogikk til budsjett- og styringsspråk. Oppfølgingen av tiltak er støttet som bidrag, ikke som prosesseierskap."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Styrke prioritering og styring på tvers av produkter, prosjekter og porteføljer.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Prioriteringsarbeidet er dokumentert som praktisk struktur i et fagmiljø: oppgavenedbryting, avhengighetsoversikt, WIP-begrensning, beslutningsrettsforslag og strukturert arbeidsinntak med akseptansekriterier som stanser uklare bestillinger før de blir leveranser. Porteføljenivået og et prioriteringsmandat på konsernnivå er ikke dekket, og skalaforskjellen skal ikke skjules."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Videreutvikle arbeidsformer, styringsmodeller og prosesser som øker gjennomføringskraften.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Tre lag med dekning: en felles metode som ble innført som organisasjonens standard, en arbeidsmodell utformet mens et nytt fagmiljø ble etablert, og kontrollert endring av en virksomhetskritisk prosess med akseptansekriterier og paritetskontroller. Blandet innført/foreslått status i arbeidsmodellevidensen skal holdes eksplisitt."
+    },
+    {
+      "requirement_id": "R16",
+      "text": "Drive og fasilitere strategiske prosesser, workshops og beslutningsfora.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Workshopplanlegging og -fasilitering, forbedringsdiskusjoner, intern fagworkshop og internt samarbeids- og presentasjonsmateriell er dekket. Beslutningsfora og styringsgrupper som format er ikke dokumentert; bruk «workshops og forbedringsprosesser», ikke «beslutningsfora», som kandidatens egne ord."
+    },
+    {
+      "requirement_id": "R17",
+      "text": "Utarbeide analyser, beslutningsgrunnlag og presentasjoner for ledelse og styringsgrupper.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Analyser, beslutningsnotater, ledelsesoppsummeringer og lederrapportering er dokumentert, inkludert selvstendig kvalitetssikring og distribusjon av månedsrapportering til klinikkledere. Styringsgrupper som mottakerformat er ikke dokumentert, og det skal ikke antydes at materialet utløste bestemte beslutninger."
+    },
+    {
+      "requirement_id": "R18",
+      "text": "Bygge bro mellom teknologi, forretning og organisasjon for å sikre helhetlig utvikling og verdiskaping.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Dette er kandidatens mest direkte treff, og det ligger allerede i den formelle tittelen `Rådgiver Økonomi og IKT`: han beveger seg mellom ledelsesspørsmål, driftsvirkelighet, økonomisk logikk, datamodeller og kode, og har overført teknisk kompetanse over en organisasjonsgrense. La tittelen stå som den er i stedet for å erstatte den med en funksjonell etikett."
+    },
+    {
+      "requirement_id": "R19",
+      "text": "Bakgrunnssjekk må kunne godkjennes, og enkelte arbeidsoppgaver kan kreve sikkerhetsklarering.",
+      "importance": "MINIMUM",
+      "relation": "UNKNOWN",
+      "evidence_refs": [
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+        "EV:OTHER#033-5-2-tillitsverv"
+      ],
+      "note": "Ingen kilde fastslår at kandidaten har eller har hatt sikkerhetsklarering, og det skal ikke antydes. Det som er dokumentert og relevant som kontekst er tjeneste som vakt- og sikringssoldat i Luftforsvaret på Sola med vakthold, adgangskontroll, alarmrespons og prosedyreansvar, samt tillitsverv med økonomiansvar. Dette hører hjemme som én linje i CV-ens kronologi, ikke som en kvalifikasjonspåstand og ikke i søknadsbrevet."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Bærende bevisenhet 1 og pakkens tyngste organisasjonsnivåbevis. Ledelsen ba om forbedring av en eksisterende metodikk for gevinstrealisering og estimering; et firepersonersteam gjorde research, drøftet, samutviklet og leverte et revidert rammeverk, og Vegards bidrag lå i forskningssyntese, metodisk forbedring, økonomisk og strategisk analyse, styring og standardisering. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere. Poenget for Avinor er ikke at han kan gevinstmetodikk, men at metoden ble tatt i bruk av en stor, kompleks organisasjon og ble stående — som er nøyaktig det den nye enheten skal få til. Teamrammen skal stå i samme setning som den sterke påstanden.",
+      "claim_ceiling": "Ikke eier, hovedforfatter eller metodeleder. Ingen målt effekt, ingen bruker- eller prosjektantall, ingen godkjenningsvei, intet rammeverksnavn og ingen individuell andel — alt dette er uavklart. Varigheten gjelder observasjonen om lag 2,5 år etter innføring; skriv ikke «fortsatt i bruk i dag». Rammeverket var metodikk for gevinstrealisering, ikke en digital investeringsportefølje, og skal ikke omdøpes til porteføljestyring.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Skjønnsatomet som skal skrives inn i bærende enhet 1, ikke fortelles ved siden av den, og som svarer direkte på annonsens ord om «målbar verdi». Innholdet er en dokumentert faglig avvisning: direkte måling av tjenestebruk kunne ikke bære en forsvarlig fordeling av gevinster mellom klinikker, og i stedet for å levere en presisjon som ikke fantes, rammet han inn oppgaven som en vektet flerindikatormodell med eksplisitte antakelser og synlig usikkerhet, strukturerte operasjonelle, økonomiske, kvalitets- og robusthetsmekanismer samt unngåtte kostnader og overført byrde, og unngikk bevisst kjerne-VBA slik at controllere og fagansvarlige kunne inspisere og justere uten varig utviklerbinding. Formuleres som kandidatens gjeldende faglige regel for hvordan verdipåstander bygges når direkte måling ikke finnes, og som en separat observert beslutning. Aldri som årsaken til at gevinstrammeverket varte. Begge poster siteres, hver med sin egen lifecycle og sitt eget tak.",
+      "claim_ceiling": "Rammeverks- og systemdesign, ikke implementering, innføring, controlleroverlevering, endelige vekter, organisatorisk bruk, realisert gevinst eller ROI — alt dette er uavklart. Business case-beløp og husket ROI er kontekst, ikke kandidatens resultat. Ingen implementerings-, adopsjons- eller varighetsstatus kan lånes fra gevinstrammeverket eller noen annen post.",
+      "lifecycle": "CONCEPT"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Bærende bevisenhet 2, og svaret på annonsens egen setning om at det viktigste er å forstå hvordan endring faktisk skjer i en organisasjon. Fortelles på prosess- og organisasjonsnivå: han overtok et om lag 20 år gammelt, virksomhetskritisk budsjetteringsverktøy med teknisk gjeld og spredte kopier, rekonstruerte arkitekturen fra kilden, og fjernet et manuelt ledd der ansatt-, ansettelses- og bemanningsdata måtte kopieres fra en annen arbeidsbok — i en prosess med om lag 50 involverte på tvers av arbeidsgrupper og kravdiskusjoner, med onboarding og presentasjonsmateriell for controllere, og med den moderniserte versjonen brukt til sykehusets budsjett for 2026. Skjønnet ligger i samme post og skrives inn i caset: innføringsansvarlig krevde en smal funksjon-for-funksjon-refaktorering selv om han anbefalte bredere restrukturering, om lag 80 % av endringene ble atferdsbevarende én-til-én, og han bygde differanse- og paritetssammenligning, akseptansekriterier og risiko- og gap-register slik at en årlig, virksomhetskritisk prosess kunne endres uten å ryke. Dette er gjennomføringskraft under driftsrisiko, ikke verktøyutvikling.",
+      "claim_ceiling": "Han er ikke opphavsmann til verktøyet, ikke eier av budsjettprosessen og har ikke kontroll over sykehusets budsjetter. Ingen tall for spart tid, reduserte feil, besparelser eller null feil, og ingen budsjettbeløp som kontekst. Den bredere 2027-versjonen er aktiv utvikling; planlagt levering rundt august 2026 og endelig bruk i 2027-prosessen er ikke verifisert. «Effektivt eneste koder» gjelder endringene i arbeidsboken og VBA innenfor en bred interessentprosess, og skal ikke brukes som overskrift uten ny bekreftelse. Formel-, VBA- og navneområdeinternaler hører ikke hjemme i denne søknaden.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "role": "Arbeidsforms- og prioriteringsbeviset, og den konkrete grunnen til at «bygge opp et nytt transformasjonsmiljø» ikke er en ambisjon men noe han har gjort i liten skala: han deltok i firepersonersgruppen som etablerte Analyseavdelingen, utformet organisatoriske alternativer, ansvar, avhengigheter og beslutningsrettsforslag, praktiske Scrum-, Kanban-, oppgavehierarki- og WIP-strukturer og felles samarbeidsflater, planla og fasiliterte workshops, og designet strukturert arbeidsinntak som fanger formål, brukere, beslutningsbehov, inn- og utdata, avhengigheter, risiko, prioritet og akseptansekriterier før arbeid settes i gang. Bruk dette som CV-tyngde og som én komprimert passasje i søknaden knyttet til arbeidsformer og prioritering; det skal ikke utvikles til et tredje fortalt case.",
+      "claim_ceiling": "Blandet status mellom innført praksis og forslag — skillet skal være eksplisitt i formuleringen. Ingen eneetablering av avdelingen, ingen formell organisasjonsdesignmyndighet, intet programeierskap, ingen personal- eller linjeledelse, og ingen utrullet virksomhetsomfattende arbeidsflyt. Skalaen er en fireperson avdeling; den skal ikke skrives som konsernarbeid."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "role": "Teknologi-til-verdi-broen, formulert som vurderingsevne og ikke som stackdybde: han deltok i eller fikk tidlig tilgang til sykehuskontekster med Microsoft Fabric, Power Platform, dbt, Pega og Python, sammenliknet mulighetene med konkrete virksomhetsbegrensninger i et regulert miljø, identifiserte moderniseringsmuligheter og argumenterte for teknisk troverdige forbedringer i stedet for å behandle teknologi som et mål. Det er dette som gjør «god forståelse for hvordan teknologi kan skape forretningsverdi» troverdig for en driftsorganisasjon der sikkerhet har forkjørsrett. Én setning i søknaden, eventuelt én linje i CV-en.",
+      "claim_ceiling": "Utforskende status, ikke produksjonsdybde: ingen ledelse av Fabric-innføring, intet plattformeierskap eller -forvaltning, ingen produksjonsdataingeniørrolle, ingen levert modenhetsplan, ingen formell kompetansegruppeledelse og intet formelt leverandørforhold. Power BI er ikke en pilot og skal ikke telles her.",
+      "lifecycle": "PILOT"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "role": "Det lille, konkrete digitaliseringsbeviset med faktisk adopsjon, og en påminnelse om at endring også skjer nedenfra: under overgangen til nytt ERP-system utviklet han på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot det nye formatet, og verktøyene ble i perioden etter overgangen brukt relativt hyppig av økonomirådgivere i flere klinikker. Bruk dette i CV-en som adopsjonsbevis under en større systemendring. Månedsoppgjørs- og periodiseringsdetaljene fra samme post er controllerarbeid og har lav verdi for denne stillingen — de skal nedprioriteres her, i motsetning til i økonomistyringsroller.",
+      "claim_ceiling": "Ikke den sentrale ERP-løsningen, ikke eierskap til ERP-programmet eller overgangen, og ingen dokumentert tids- eller feilreduksjon. Antall klinikker, brukere, konverteringer og varighet er uavklart og skal ikke tallfestes. Gjelder egen tildelt klinikkflyt, ikke hele sykehuset.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "role": "Beviset for samarbeid over organisasjonsgrenser uten myndighet: da rapportene fra den ansvarlige rapporterings- og dataorganisasjonen ikke dekket egen avdelings behov, arbeidet han sømmen gjennom flere arbeidsmøter, lærte opp teknisk personell i Power BI, semantisk modellering og modelloptimalisering, og bidro materielt til en del av den første rapporten. Det er den mest direkte parallellen til å skape fremdrift på tvers av fagmiljøer og organisasjonsnivåer i et konsern. CV-punkt, eventuelt én setning i søknaden.",
+      "claim_ceiling": "Ingen formell rolle eller mandat, intet rapporteierskap, ingen soloutvikling, ingen formell opplæringsordning og ingen pågående støtte. Eksakt enhet, rapportnavn, datoer, deltakerantall, komponenter og nåværende status er uavklart og skal ikke tallfestes eller navngis."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "role": "CV-bevis for at han har bygget selve beslutningsstøtten og ikke bare skrevet om den: hovedutvikler på backend i en greenfield styringsløsning på tvers av økonomi, bemanning, sykefravær og aktivitet/DRG, med veiledede tester der han observerte hvor brukerne faktisk ble forvirret og gjorde funnene om til avgrensede forbedringssprinter. I denne søknaden er brukerobservasjonen mer interessant enn modellarbeidet, fordi den viser at han måler om noe faktisk blir brukt. Hold det til CV-en; det skal ikke åpne teksten og ikke bli et eget case.",
+      "claim_ceiling": "Kollegene ledet innholdsvalg og visuell utforming. Eierskapet gjaldt om lag august 2025 til februar 2026, og løsningen ble avviklet rundt februar 2026 — aldri nåværende eierskap. Ingen kvantifisert adopsjon eller effektivitet, ingen eksakt side-, tabell-, måltalls- eller brukerskala, ingen virksomhetsarkitekturmyndighet. Tekniske andelstall som DAX-prosenter hører ikke hjemme i denne pakken.",
+      "lifecycle": "DECOMMISSIONED"
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#013-1-4-ernest-manning-high-school-calgary"
+      ],
+      "role": "Formalkravet innfris direkte gjennom fullført mastergrad og bachelorgrad i samfunnsøkonomi, og skal stå tidlig i CV-en. Samme grunnlag bærer den økonomiske vurderingsevnen stillingen forutsetter — insentiver, offentlig økonomi, konkurranse og regulering, investering og finansiering — og videregående skolegang i Calgary underbygger arbeidsspråket engelsk, som annonsen krever ved siden av norsk.",
+      "claim_ceiling": "Ingen teknologi-, ledelses- eller organisasjonsutviklingsgrad, ingen strategi- eller konsulentkvalifikasjon, ingen karakter-, oppgave- eller spesialiseringspåstand, og ingen påstand om norsk formell ekvivalens for den kanadiske videregående utdanningen. Det pågående masterprogrammet i kunstig intelligens ved UiA er `pågående` og et teknisk supplement; det skal ikke tilbys som transformasjonskvalifikasjon.",
+      "lifecycle": "COMPLETED"
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Stillingen er en seniorrådgiverrolle i et konsern med rundt 3000 ansatte, og kandidaten har om lag tre og et halvt år i nåværende yrke, ingen konsulentbakgrunn og ingen formell transformasjonsprogramrolle.",
+      "reframe": "Senioriteten ligger i hva han har fått ansvar for innenfor de årene: medutvikling av en metode som ble innført som hele sykehusets standard og var i bruk om lag 2,5 år senere, hovedansvaret for endringene i det verktøyet den årlige budsjettprosessen kjører på, og deltakelse i firepersonersgruppen som etablerte et nytt fagmiljø og dets arbeidsmodell.",
+      "honesty_note": "Antall år skal ikke pyntes på eller strekkes ved å telle med tidligere, irrelevante arbeidsforhold. Ingen påstand om programansvar, linjemyndighet, personalansvar eller konsulenterfaring. Senioritet argumenteres gjennom omfang, faglig skjønn og livsløpsansvar, aldri gjennom ansiennitet."
+    },
+    {
+      "objection": "Porteføljestyring er nevnt både blant ønsket erfaring og som fordel, og kandidaten har ingen porteføljestyringserfaring.",
+      "reframe": "Kravet er formulert med «eller», og gevinstrealisering og virksomhetsstyring er begge dekket. På prioriteringssiden har han utformet det som faktisk styrer rekkefølge i praksis: avhengighetsoversikt, WIP-begrensning, beslutningsrettsforslag og strukturert arbeidsinntak med akseptansekriterier som stanser uklare bestillinger før de blir leveranser.",
+      "honesty_note": "Ordet «porteføljestyring» skal ikke brukes som kandidatens eget. Ingen erfaring med porteføljeverktøy, investeringsråd eller prioritering på konsernnivå, og skalaforskjellen mellom en fireperson avdeling og et konsern skal ikke skjules."
+    },
+    {
+      "objection": "Annonsen ber om å sikre «målbar verdi», og kandidaten kan ikke vise til realisert eller målt gevinst noe sted.",
+      "reframe": "Det han kan vise er noe en verdisikringsenhet trenger mer: en metode for gevinstrealisering og estimering som en hel organisasjon tok i bruk, en dokumentert avvisning av en fordeling som ikke lot seg belegge, og et arbeidet skille mellom faktum, slutning, anbefaling, estimat, forventet gevinst og realisert resultat.",
+      "honesty_note": "Ingen realisert gevinst, ingen ROI, ingen målt effekt, ingen besparelser og ingen kvantifisert adopsjon — verken fra gevinstrammeverket, fordelingsmodellen, budsjettverktøyet eller styringsløsningen. Posisjonen er metodisk, og den skal ikke formuleres slik at leseren kan tro at tall er levert."
+    },
+    {
+      "objection": "Bakgrunnen er sykehus, ikke luftfart eller samfunnskritisk infrastruktur, og kandidaten kjenner ikke Avinors drift.",
+      "reframe": "Grunnbetingelsene er de samme og er det som overføres: en samfunnskritisk, regulert virksomhet der sikkerhet og drift har forkjørsrett, med mange enheter av svært ulik størrelse under en felles finansieringsmodell, der en endring i en virksomhetskritisk prosess ikke kan prøves ut på måfå og der beslutningsgrunnlag må tåle å bli sett etter i sømmene av andre enn den som laget det.",
+      "honesty_note": "Ingen luftfartskunnskap, ingen kjennskap til flysikring, lufthavndrift eller Avinors systemer, og ingen simulert domenefortrolighet. Sykehuskonteksten brukes som kompleksitets- og styringsanalogi, ikke som bransjenærhet, og analogien skal være kort — den er en premiss, ikke et argument."
+    }
+  ],
+  "motivation_bridge": "Motivasjonen skal hentes fra to konkrete forhold, ikke fra samfunnsoppdraget som honnørord. Det første er Avinormodellen: at de store lufthavnene finansierer de små er den samme strukturelle logikken kandidaten har arbeidet under i offentlig sykehusøkonomi, der en felles pott finansierer enheter med svært ulik økonomi, og der det vanskelige spørsmålet ikke er om et tiltak er godt, men om verdien kan vises og om organisasjonen faktisk tar det i bruk. Det er den problemtypen han har søkt seg mot, og den er sjelden løst av bedre verktøy alene. Det andre er at enheten er ny og skal bygges opp: han har vært med i firepersonersgruppen som etablerte et nytt fagmiljø og utformet arbeidsmodellen der, og vet derfor hva det koster å skaffe seg innflytelse uten myndighet i starten. Bidraget han skal love er avgrenset og etterprøvbart: å styrke hvordan verdipåstander bygges og prøves før og etter investering, og å gjøre strategiske ambisjoner om til leveranser organisasjonen faktisk kan drifte. Ikke lov transformasjon av Avinor, økt sikkerhet, bærekraftseffekter eller gevinsttall.",
+  "cv_direction": {
+    "headline_direction": "Samfunnsøkonom og rådgiver økonomi og IKT — gevinstrealisering, styringsmodeller og digitalisering i samfunnskritisk, regulert virksomhet. Behold den formelle tittelen `Rådgiver Økonomi og IKT` synlig; den er selve broen mellom teknologi og forretning som annonsen etterspør. Toppsonen skal lese som verdi, styring og gjennomføring, ikke som analyse eller BI.",
+    "emphasis": [
+      "Medutvikling i firepersonersteam av et rammeverk for gevinstrealisering og estimering som ble innført som sykehusdekkende standard og fortsatt var i bruk om lag 2,5 år senere.",
+      "Design av en vektet flerindikatormodell for gevinstfordeling og investeringsstøtte med synlige, justerbare antakelser, laget for at controllere og fagansvarlige skulle kunne eie den.",
+      "Kontrollert modernisering av et virksomhetskritisk budsjetteringsverktøy i en prosess med om lag 50 involverte, levert til budsjettprosessen for 2026, med paritetskontroller, akseptansekriterier og onboarding av controllere.",
+      "Deltakelse i firepersonersgruppen som etablerte Analyseavdelingen, med arbeidsmodell, ansvars- og avhengighetsstruktur, WIP-begrensning, beslutningsrettsforslag og workshopfasilitering.",
+      "Strukturert arbeidsinntak med formål, brukere, beslutningsbehov, avhengigheter, risiko, prioritet og akseptansekriterier.",
+      "Egeninitiert konverterings- og valideringsverktøy under ERP-overgangen, brukt av økonomirådgivere i flere klinikker.",
+      "Kompetanseoverføring over organisasjonsgrensen til den ansvarlige rapporterings- og dataorganisasjonen.",
+      "Beslutningsstøtte og styringsinformasjon på tvers av økonomi, bemanning, sykefravær og aktivitet/DRG, med veiledet brukertesting som ga avgrensede forbedringer.",
+      "Vurdering av Fabric, Power Platform, dbt, Pega og Python opp mot faktiske virksomhetsbegrensninger i et regulert miljø.",
+      "Fullført mastergrad og bachelorgrad i samfunnsøkonomi; norsk morsmål og flytende engelsk, med videregående skolegang i Calgary.",
+      "Vakt- og sikringssoldat i Luftforsvaret på Sola — én linje i kronologien, relevant kontekst for en arbeidsgiver med adgangskontroll og bakgrunnssjekk."
+    ],
+    "deprioritize": [
+      "Månedsoppgjør, periodisering, reversering og avstemming — controllerdetaljer med lav verdi for en transformasjonsenhet; behold ERP-verktøysporet fra samme periode.",
+      "DAX-andeler, semantiske modelldetaljer, VBA-, formel- og navneområdeinternaler.",
+      "Modellfamilier og repositoriedetaljer fra det pågående prognosearbeidet.",
+      "KI- og kodeagentarbeid, og det pågående masterprogrammet i kunstig intelligens, som holdes som kort utdanningslinje uten plass i profilen.",
+      "TKS Heis, Ahlsell og Sector Alarm — komprimeres til én linje hver eller utelates.",
+      "Tillitsverv fra studenttiden, med mindre det blir plass til overs."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR",
+      "BL:EMP_LUFTFORSVARET"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Digitale investeringer gir bare verdi hvis noen holder verdipåstanden ærlig og samtidig får organisasjonen til å bruke det som leveres — og kandidatens arbeid ligger nettopp på den grensen: en gevinstmetode som ble hele organisasjonens standard og ble stående, og en virksomhetskritisk prosess som ble endret uten å ryke.",
+    "top_employer_problems": [
+      "Teknologiinvesteringer må vise faktisk verdi i et konsern der gevinstanslag lett blir tall ingen etterprøver etter at beslutningen er tatt.",
+      "Gjennomføringskraften er spredt: produkter, prosjekter og porteføljer prioriteres hver for seg på tvers av 43 lufthavner, flysikringstjenesten og separate fagmiljøer.",
+      "Enheten er ny og har ingen linjemyndighet, og må derfor vinne innflytelse gjennom beslutningsgrunnlag, fasilitering og arbeidsformer som faktisk blir tatt i bruk i en driftsorganisasjon der sikkerhet har forkjørsrett."
+    ],
+    "structure_guidance": "Argumentet denne stillingen trenger er et verdisikringsargument med gjennomføring som motvekt, ikke en presentasjon av transformasjonserfaring. Åpne på arbeidsgiverens eget problem — at investeringer skal gi faktisk verdi og at enheten er opprettet for gjennomføringskraft — og la begge bærende enheter ende på organisasjonsnivå, ikke på artefaktnivå. Enhet 1 er gevinstmetoden som ble innført som sykehusdekkende standard og fortsatt var i bruk om lag 2,5 år senere; skjønnsatomet om avvist direktefordeling og synlige, justerbare vekter skrives inn i den enheten som kandidatens gjeldende faglige regel for hvordan verdipåstander bygges når direkte måling ikke finnes, med begge poster sitert, med hver sin lifecycle, og uten at innføring eller varighet overføres mellom dem. Enhet 2 er budsjetteringsverktøyet, fortalt som kontrollert endring av en virksomhetskritisk prosess, med sitt eget skjønn fra samme post: han anbefalte bredere restrukturering, fikk en smalere ramme av innføringsansvarlig og bygde paritetskontroller og akseptansekriterier som gjorde endringen forsvarlig i en årlig prosess. Bind deretter de to til stillingen i én kort passasje som dekker arbeidsformer og prioritering i et nyetablert fagmiljø og teknologivurdering mot reelle driftsbegrensninger — komprimert, ikke utviklet til et tredje case. Avslutt med motivasjonen forankret i Avinormodellen og i at enheten skal bygges opp. Ikke åpne med Power BI, dataplattformer eller det pågående KI-studiet, ikke bruk et eget avsnitt på det som mangler, og hold sykehusanalogien til én setning som premiss."
+  },
+  "avoid_guidance": [
+    "Ingen simulert luftfartskompetanse: ikke skriv om flysikring, lufthavndrift, passasjerflyt, bærekraftig drivstoff eller elektriske fly som om kandidaten kjenner feltet.",
+    "«Porteføljestyring» og «endringsledelse» skal ikke brukes som kandidatens egne ord; skriv prioritering, avhengigheter og arbeidsinntak, og funksjonelt endringsarbeid.",
+    "Ingen realisert gevinst, ROI, besparelse, målt effekt eller kvantifisert adopsjon — heller ikke antydningsvis, og heller ikke ved å la «målbar verdi» stå ubesvart slik at leseren fyller inn tall selv.",
+    "Gevinstrammeverket: firepersonersteamet skal stå i samme setning som den sterke påstanden, uten eierskap, hovedforfatterskap eller metodelederrolle, og varigheten formuleres som «fortsatt i bruk om lag 2,5 år senere», ikke som «fortsatt i bruk i dag».",
+    "Fordelingsmodellen for gevinster er designet, ikke innført: ingen implementering, adopsjon, controlleroverlevering, endelige vekter eller ROI, og den skal aldri fremstilles som årsaken til at gevinstrammeverket varte.",
+    "Ingen påstand om programansvar, prosjektleder- eller produkteiertittel, personal- eller linjeledelse; «seniorrådgiver» er stillingen det søkes på, ikke en tittel han har hatt.",
+    "Fabric, Power Platform, dbt og Pega er tidlig tilgang, pilot og vurdering — ingen produksjonsbruk, plattformforvaltning eller innføringsledelse. Power BI er ikke en pilot.",
+    "Det pågående masterprogrammet i kunstig intelligens og arbeidet med kodeagenter skal ikke tilbys som transformasjons- eller teknologikvalifikasjon i denne søknaden.",
+    "Budsjetteringsverktøyet: han er ikke opphavsmann, eier ikke budsjettprosessen, og det skal ikke oppgis tall for spart tid, reduserte feil eller besparelser. 2027-versjonen er aktiv utvikling.",
+    "Sikkerhetsklarering skal ikke påstås eller antydes; militærtjenesten er kronologi i CV-en, ikke en kvalifikasjon, og hører ikke hjemme i søknadsbrevet.",
+    "Ikke speil annonsens formuleringer tilbake som kandidatens stemme, særlig «forme fremtidens Avinor», «nøkkelrolle», «gjennomføringskraft» som selvbeskrivelse og «i skjæringspunktet mellom»."
+  ],
+  "counterfactual_route": {
+    "identity": "Funksjonell endrings- og digitaliseringsrådgiver: kandidaten som kan si hvordan endring faktisk fester seg i en driftsorganisasjon, med budsjettverktøymoderniseringen, ERP-overgangsverktøyene og arbeidsmodellarbeidet som hovedbevis, og gevinstmetodikken som støtte.",
+    "rationale": "Ruten velges hvis ansettende leder vekter gjennomføring tyngre enn verdisikring. Annonsen sier selv at det viktigste er å forstå hvordan endring faktisk skjer i en organisasjon, inviterer eksplisitt operasjonelle bakgrunner, og lister arbeidsformer, fasilitering og prioritering som egne oppgaver — på den ruten leder man med en virksomhetskritisk prosess som ble endret uten å ryke, med egeninitierte verktøy som faktisk ble tatt i bruk av andre under en ERP-overgang, og med etableringen av et nytt fagmiljøs arbeidsmodell. Ruten er valgt bort fordi enhetens uttrykte eksistensgrunnlag setter verdisikring først, og fordi den ville plassere en arbeidsbok og en fireperson avdeling fremst i en søknad til et konsern med rundt 3000 ansatte, mens gevinstrammeverket er kandidatens eneste bevis på noe som ble innført i hele organisasjonen og ble stående.",
+    "evidence_refs": [
+      "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+      "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+      "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+    ]
+  },
+  "risk_notes": [
+    "Annonsen er en bred invitasjon med myke krav, og det reelle kuttet går mellom kandidater som har laget styringsmateriell og kandidater som har fått en organisasjon til å bruke det. Den største risikoen i denne pakken er at hvert bevis stopper på artefaktnivå — en arbeidsbok, en modell, et rammeverk — i stedet for å ende på hva organisasjonen gjorde annerledes etterpå.",
+    "Skalaforskjellen er reell: et sykehus og en fireperson avdeling mot et konsern med rundt 3000 ansatte, 43 lufthavner og flysikringstjenesten. Ingen formulering skal skjule den, men hver bevisenhet bør nevne bredden i interessentbildet der den finnes.",
+    "«Målbar verdi» er arbeidsgiverens egne ord, og kandidaten har ingen målt effekt noe sted. Hvis dette ikke håndteres eksplisitt som en metodeposisjon, vil enten leseren anta at tall finnes, eller pakken vil virke unnvikende på sitt viktigste punkt.",
+    "Avinor oppgir bakgrunnssjekk og mulig sikkerhetsklarering. Ingen kilde fastslår at kandidaten har klarering, og enhver formulering som kan leses som en klareringspåstand vil bli prøvd."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-12",
+      "plain_language_label": "Skiller mellom hva som er målt og hva som er antatt",
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "expression_ceiling": "Uttrykkes bare der en verdipåstand faktisk står på spill: skillet mellom faktum, slutning, anbefaling, estimat, forventet gevinst og realisert resultat, de synlige antakelsene og vektene i fordelingsmodellen, og paritets- og akseptansekontrollene som gjorde en endring i en årlig prosess forsvarlig. Aldri som generell påstand om grundighet, kvalitetsbevissthet eller sporbarhet, og aldri som en frittstående setning om arbeidsstil.",
+      "expression_guardrail": "Kontrollene skal alltid knyttes til den konkrete risikoen de fantes for — feil i en budsjettprosess, en fordeling som ikke lot seg belegge — aldri til prosess for prosessens skyld. Ingen påstand om formell styrings-, revisjons- eller sikkerhetsmyndighet, og ingen antydning om at kontrollene ga målbare resultater.",
+      "vacancy_relevance": "Enheten er opprettet for å sikre at investeringer i teknologi gir faktisk verdi. Da er evnen til å si hva som er målt og hva som er anslått selve arbeidsoppgaven, ikke en personlig egenskap ved siden av den.",
+      "intended_employer_interpretation": "Denne personen vil kunne si nei til et gevinstanslag uten å stanse investeringen, og vil gi ledelsen et beslutningsgrunnlag der usikkerheten er synlig i stedet for bortdefinert.",
+      "misread_risk": "At han leses som en kontrollfunksjon eller en ny rapporteringsbyrde i en enhet som skal øke gjennomføringskraften. Motvirkes ved at hver kontroll står i et case som endte i noe som ble levert og tatt i bruk, og ved at fordelingsmodellen presenteres som det som gjorde en fastlåst beslutning mulig."
+    },
+    {
+      "facet_id": "PF-01",
+      "plain_language_label": "Ser sammenhengene og bryter dem ned til noe som kan besluttes",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "expression_ceiling": "Uttrykkes gjennom rekkefølgen i et konkret arbeid: at han skilte det underliggende behovet fra den bestilte rapporten eller det bestilte verktøyet, kartla systemet slik det faktisk var, rekonstruerte arkitekturen i et arvet verktøy fra kilden, og utformet arbeidsinntak som tvinger frem formål, brukere, beslutningsbehov, avhengigheter og akseptansekriterier før arbeid settes i gang. Aldri som påstand om helhetsforståelse, systemtenkning eller evne til å se det store bildet.",
+      "expression_guardrail": "Hver gang trekket kommer til uttrykk må det ende i en beslutning, en avgrensning eller en leveranse i samme setning eller den neste. Analysen skal aldri stå alene, og abstraksjonsnivået skal ikke annonseres.",
+      "vacancy_relevance": "Annonsen ber to ganger om helhetsforståelse og evne til å se sammenhenger, i en enhet som skal virke på tvers av produkter, prosjekter og porteføljer i et konsern der ingen enkelt fagmiljø ser hele bildet.",
+      "intended_employer_interpretation": "Han vil komme inn i et uklart initiativ og gjøre det om til noe ledelsen kan prioritere mellom, i stedet for å levere en ny problembeskrivelse.",
+      "misread_risk": "Analyse uten leveranse — den klassiske innvendingen mot en transformasjonsenhet. Motvirkes ved at begge bærende enheter ender i noe organisasjonen tok i bruk, og ved at ingen setning beskriver tenkemåte uten at et resultat følger."
+    },
+    {
+      "facet_id": "PF-19",
+      "plain_language_label": "For endring, med kontroll der driften ikke tåler feil",
+      "evidence_refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#041-6-6-digitalisering-og-prosessforbedring"
+      ],
+      "expression_ceiling": "Uttrykkes bare gjennom de dokumenterte valgene: at han oppsøkte og vurderte nye plattformmuligheter opp mot faktiske virksomhetsbegrensninger og argumenterte for teknisk troverdig modernisering, at han vurderte flere tilnærminger mot kompatibilitet, driftsrisiko og vedlikeholdbarhet, og at han selv anbefalte en bredere restrukturering enn den han fikk lov til å gjennomføre. Aldri som påstand om endringsvilje, nysgjerrighet eller å være teknologioptimist.",
+      "expression_guardrail": "Kontrollene skal fremstilles som betingelsen for å tørre å endre noe, ikke som en reservasjon mot endring. Samtidig skal ingen formulering gjøre kandidaten til den som ville gått lenger enn organisasjonen tålte — han gjennomførte den smalere varianten og gjorde den forsvarlig.",
+      "vacancy_relevance": "Avinor er en driftsorganisasjon der sikkerhet har forkjørsrett, og etterspør samtidig nye arbeidsformer og åpenhet for nye måter å løse oppgaver på. Trekket hindrer at kandidatens kontroll- og valideringsdisiplin leses som konservatisme i en stilling som skal drive endring.",
+      "intended_employer_interpretation": "Han er en pådriver for å endre måten ting gjøres på, og vet hvilke ledd som må sikres først i en virksomhet der feil er dyre.",
+      "misread_risk": "Enten at han fremstår endringsvegrende fordi kontrollene fyller teksten, eller at han fremstår som en som vil rive og bygge nytt i en sikkerhetskritisk drift. Balansen ligger i budsjettcaset, der begge deler er sanne samtidig, og det skal derfor bære trekket alene."
+    }
+  ],
+  "writer_guidance": "Mottakeren er en nyopprettet intern enhet som skal virke gjennom innflytelse og ikke gjennom myndighet, og annonsen er bevisst åpen om bakgrunn. Bruk derfor ikke plass på å bevise formell passform; bruk plassen på organisatorisk skjønn. Den harde regelen for denne pakken: hvert bevis skal ende på hva organisasjonen gjorde annerledes etterpå — en standard som ble tatt i bruk, en budsjettprosess som ble levert, controllere som ble lært opp, verktøy andre klinikker faktisk brukte — og aldri på artefaktet i seg selv. Bruk arbeidsgiverens substansielle vokabular der det er dekket: gevinstrealisering, styringsmodell, beslutningsgrunnlag, prioritering, arbeidsformer, forankring og gjennomføring. Behold den formelle tittelen `Rådgiver Økonomi og IKT` synlig i stedet for å bytte den mot en funksjonell etikett — i denne søknaden er den et argument, ikke bare kronologi. Sykehuskonteksten skrives som samfunnskritisk, regulert kompleksitet med mange enheter under felles finansiering, ikke som helsefaglig identitet, og analogien skal ikke gjentas etter at den er etablert. Engelsk skal fremgå eksplisitt av CV-en fordi arbeidsspråket krever begge deler, mens søknaden skrives på norsk.",
+  "requires_source_inspection_observed": false
+}

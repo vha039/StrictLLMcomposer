@@ -1,0 +1,2 @@
+job_id,employer,title,job_class,cluster,sequence,priority,source,unit,reference,deadline,exception_note
+testetaten_radgiver,Testetaten HF,Rådgiver økonomi og analyse,CORE,c1,1,HIGH,vacancies/testetaten_radgiver.md,Økonomiavdelingen,2026/1234,2026-09-15,

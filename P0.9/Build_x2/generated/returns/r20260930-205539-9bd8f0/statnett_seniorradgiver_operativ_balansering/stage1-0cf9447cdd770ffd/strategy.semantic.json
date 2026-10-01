@@ -1,0 +1,559 @@
+{
+  "employer_decision_problem": "Statnett oppgir at rollen som produkteier og forretningsutvikler skal koble systemdriften til utviklingsmiljøene: omsette behov, prioritere verdi, dokumentere akseptansekriterier og bidra i utvikling, forvaltning og drift av markedsløsninger. Utvelgelseshypotesen er at arbeidsgiveren må kunne stole på at kandidaten forstår et operativt behov og får det omsatt til en brukbar, vedlikeholdbar løsning sammen med andre. Dette er en slutning fra oppgavene, ikke kunnskap om intern svikt. Den sterkeste plausible konkurrenten har både kraftmarkedsforståelse og dokumentert produkteierskap i et autonomt team. Vegards troverdighet må derfor etableres gjennom konkrete behovsnære handlinger, akseptansekriterier, kontrollert endring og faktisk bruk, før teknisk prosjektbredde presenteres.",
+  "selection_logic": "Velg seniorrådgiversporet som annonsen uttrykkelig tilbyr, i tråd med brukerens valgte nivå. Senioritet bæres av prosjektvis teknisk hovedansvar, arkitekturvalg, kontrollerte endringer, selvstendige faglige avveininger og kompetanseoverføring på tvers. Den etablerer ikke formelt produkteierskap eller kraftmarkedserfaring. Primær rute er virksomhetsnær digitalisering og kravarbeid, med samfunnsøkonomi som faglig grunnlag. PRJ-03 bærer tilliten: Vegard rekonstruerte et arvet verktøy, integrerte bemanningsdata, gjennomførte kodeendringene innen en bred interessentprosess, brukte differansekontroll og akseptansekriterier og laget controller-onboarding; verktøyet er brukt sykehusdekkende. PRJ-01 tilfører det PRJ-03 alene ikke dokumenterer like konkret: observasjon av faktiske brukere, tilbakemeldinger, målrettede forbedringssprinter og avgrenset driftseierskap. PRJ-08/09 dekker smidig arbeidsstruktur og kravavklaring med korrekte statusgrenser. PRJ-06 gir en egen nyttig beslutning om brukerverdi og vedlikeholdbarhet: synlige vekter og bevisst fravalg av kjerne-VBA for controlleres innsyn. Rangeringen følger ubesvarte arbeidsgiverspørsmål, ikke teknisk skala. Kraftmarked og formelt produkteierskap er ønskede kvalifikasjoner; de er ikke dokumentert og skal ikke hevdes oppfylt. Nåværende prognoseutvikling viser operativ måldefinisjon og integrasjon, ikke energimarked eller produksjonserfaring.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver økonomi og IKT med prosjektvis teknisk hovedansvar i virksomhetsnær digitalisering og kravarbeid.",
+  "headline_hypothesis": "Samfunnsøkonom | Behovsavklaring og digitalisering",
+  "shortlist_thesis": "Kandidat til seniorrådgiversporet med dokumentert teknisk hovedansvar og faglig skjønn i å gjøre driftsnære behov om til tydelige krav, kontrollerte endringer og løsninger brukerne kan forstå og anvende. Grunnlaget er modernisering av et verktøy i faktisk bruk, brukerorientert BI-forvaltning, arkitekturvalg og økonomisk vurdering. Senioriteten ligger i ansvaret og beslutningene; kraftmarkeds- og formell produkteierkompetanse må bygges videre.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Relevant kompetanse og interesse for utvikling og forvaltning av digitale løsninger og markedssystemer.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Utvikling og avgrenset forvaltning av digitale sykehusløsninger er direkte støttet. Markedssystemer er ikke dokumentert. CV viser leveranse og tidligere drift; brevet begrunner overføringen til systemdrift uten å sidestille domenene."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Omsette forretningsbehov i systemdriften til tydelige behov for tekniske løsninger.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Direkte funksjonell parallell fra økonomi/drift til løsning, krav og akseptansekriterier. Systemdrift i kraftsystemet er nytt domene. Hovedargumentet skal vise bemanningsintegrasjon og konkret dokumentasjon fremfor å erklære produkteiertittel."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Bidra i et tverrfaglig team som designer, utvikler, implementerer, forvalter og drifter egne løsninger.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Oppgavene er kumulative. Design/utvikling/implementering og tidligere månedlig BI-drift er støttet i ulike prosjekter; ingen dokumentert drift av markedssystemer. Behold prosjekt- og periodegrenser. CV viser bredde, brevet velger konkret samhandling."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Prioritere utviklingsbehov ut fra Statnetts mål og størst verdi for brukerne.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Kildene bærer beslutningskritisk prioritering, forbedringssprinter, vedlikeholdsvalg og WIP-design. Statnetts mål/prioriteringer og formell backlogmyndighet er ikke kjent. Brevet bruker dokumentert avveining; ingen oppfunnet rangering av interessentkrav."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Definere og dokumentere akseptansekriterier for brukernes behov og forventninger.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "note": "PRJ-03 er levert kontrollert endring med akseptansekriterier. PRJ-09 er kravdesign, PRJ-05 aktiv utvikling. La hovedcaset vise denne praksisen; ikke lån produksjonsstatus fra PRJ-03 til andre prosjekter."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Samarbeide tett med behovseiere, utviklingsmiljøer på tvers av Statnett og eksterne samarbeidspartnere.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Controller-onboarding og opplæring av teknisk personell gjennom flere arbeidsmøter viser reell samhandling. Andre organisasjoner omtales bare så presist kilden tillater. Statnett-samarbeid og konkrete eksterne energipartnere er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Relevant høyere utdanning, fortrinnsvis master; relevant erfaring kan kompensere for manglende formell utdanning.",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+        "EV:EDU#017-2-3-ntnu-okonomi-insentiver-makro-og-fin"
+      ],
+      "note": "Alternativene utdanning eller kompenserende erfaring beholdes; kandidaten har fullført master i samfunnsøkonomi. Økonomi, insentiver og ressursfordeling er relevant faglig grunnlag, ikke energimarkedsspesialisering. Formelle grader står i CV."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Erfaring og interesse for autonome og tverrfaglige team basert på smidig utvikling er en fordel.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "note": "Tverrfaglig arbeid, Scrum/Kanban, oppgavehierarki og WIP er støttet. Arbeidsmodellen blander innført praksis og forslag; full autonom teamorganisering er ikke etablert. CV bruker konkrete handlinger, brevet kan vise brukerorientert iterasjon."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Erfaring med produkteierskap er ønskelig.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Tidligere avgrenset BI-livsløpseierskap, krav, prioritering og brukerkontakt er relevant funksjonell evidens. Det dokumenterer ikke formelt produkteierskap eller produktmandat. På valgt seniorrådgivernivå skal ansvar, avveininger og faktisk leveranse bære broen; senioritet opphever ikke dette gapet."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Kunnskap om kraftmarkeder er en fordel.",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+        "EV:EDU#017-2-3-ntnu-okonomi-insentiver-makro-og-fin"
+      ],
+      "note": "Bred markedsteori, konkurranse, miljø/ressursøkonomi og insentiver er faglig nabogrunnlag. Ingen særskilt kraftmarkeds- eller balanseringskompetanse er dokumentert. Hold gapet synlig i vurderingen; ikke gjør prognoser til energierfaring."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Gode norsk- og engelskkunnskaper, muntlig og skriftlig.",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:EDU#013-1-4-ernest-manning-high-school-calgary"
+      ],
+      "note": "Norsk morsmål og flytende skriftlig/muntlig engelsk er støttet. CVs språkseksjon dokumenterer; ingen standardisert CEFR-skala er fastsatt."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Bygge relasjoner, være nysgjerrig og opptatt av brukernes behov og forventninger.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Faktiske brukertester, tilbakemeldinger, forbedringssprinter, controller-onboarding og kompetanseoverføring gir observerbar praksis. Bevis handlinger og mottakere; ikke utled universell sosial styrke."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Være engasjert, initiativrik og i stand til å ta avgjørelser.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Egeninitiert REGERP-verktøy og beslutningen om transparent proxyfordeling viser initiativ og faglig valg. Brevet kan bruke modellvalget hvis det besvarer prioriteringsspørsmålet bedre enn tekniske detaljer."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Arbeide strukturert både selvstendig og i team, forstå behov, se helheten og skape fremdrift.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Selvstendig tildelt månedsflyt og hovedimplementering innen samarbeid dokumenterer begge arbeidsformer. Teamdesign har blandet status. CV skal vise gjennomføring og arbeidsstruktur uten linjemyndighet."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Ønske å bygge god forretningsforståelse.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Samfunnsøkonomisk utdanning og operativ klinikkøkonomi viser faglig og praktisk virksomhetsforståelse. Den må utvikles videre for kraftsystem/marked; motivasjonen kobles til samspillet mellom behov, prioritering og løsning."
+    },
+    {
+      "requirement_id": "R16",
+      "text": "Bidra til faglig og sosialt miljø og identifisere seg med verdiene mot, leveranse og samarbeid.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Opplæring, arbeidsmøter, workshops og delt leveranse viser faglig bidrag og samarbeid. Personlig verdiforpliktelse og generelt sosialt bidrag kan ikke etableres fra personlighet eller arketypi. Ingen mekanisk gjengivelse av verdiene i brevet."
+    },
+    {
+      "requirement_id": "R17",
+      "text": "Elektronisk søknad med relevante vedlegg; bakgrunnssjekk og egnethetsvurdering, samt relevante opplysninger hvis sikkerhetsklarering kreves.",
+      "importance": "IMPORTANT",
+      "relation": "UNKNOWN",
+      "evidence_refs": [],
+      "note": "Dette er innsendings-/ansettelsesvilkår, ikke dokumentert kandidatkompetanse. Ingen klareringsstatus eller egnethetsgaranti. Manuell innsending og eventuelle konkrete opplysningskrav ligger hos kandidaten; Stage 1 utfører ingen ekstern kontakt."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Bærende leveransebevis for trygg oversettelse fra driftsbehov til vedlikeholdbar løsning: bemanningsdata, kodeendringer, akseptansekriterier, kontroll og controller-onboarding. Svarer på om funksjonell kompetanse faktisk blir brukt.",
+      "claim_ceiling": "Vegard rekonstruerte arkitekturen og var i praksis eneste kodende utvikler for 2025-moderniseringens kodeendringer i en bred interessentprosess. Integrerte bemanningsdata, brukte differansekontroll og akseptansekriterier og laget onboarding for controllere. Modernisert verktøy brukt sykehusdekkende for 2026 og 2027; 2027-moderniseringen ferdigstilt. Ikke opprinnelig skaper, budsjetteier eller eier av hele prosessen; ingen målt besparelse eller nulldefekt.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "role": "Brukerbehov, iterasjon og forvaltning som egen dokumentert praksis. Hovedalternativ dersom tidligere drift og brukerfeedback bør bære brevet; forklarer hva kandidaten gjorde etter første levering.",
+      "claim_ceiling": "Hovedutvikler på backend i en firepersoners BI-leveranse, nesten hele semantiske modellen, mest ETL/M og omtrent 80-90 prosent av DAX. Valgte stjerneskjema ut fra egnethet/vedlikeholdbarhet; observerte faktiske brukere, samlet feedback og gjennomførte fokuserte forbedringssprinter. Eide og oppdaterte løsningen omtrent august 2025-februar 2026. Kolleger ledet innhold/visuelt; løsningen avviklet, ingen nåværende eierskap eller målt effekt.",
+      "lifecycle": "DECOMMISSIONED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Faglig beslutning om forretningsverdi, databegrensninger og mottakerens vedlikeholdsevne. Svarer på om kandidaten kan prioritere en hensiktsmessig løsning fremfor mer teknologi.",
+      "claim_ceiling": "Avviste ustøttet direktefordeling og utformet en transparent vektet proxymodell med synlige forutsetninger, fem arbeidsbøker og skjemakontroll. Valgte bevisst bort kjerne-VBA slik at controllere/fageiere kunne inspisere og justere logikken. Modellen ferdigstilt og overlevert til controllere tidlig i 2026. Ingen dokumentert organisatorisk bruk, realisert gevinst, direkte måling eller eierskap til endelige klinikkestimater.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "role": "Smidig/tverrfaglig arbeidsstruktur og faglig miljø. Gir CV konkret team- og prioritetsbredde uten å gjøre kandidaten til produkteier.",
+      "claim_ceiling": "Deltok i firepersoners etableringsgruppe; utformet Scrum/Kanban, oppgavehierarki, WIP og Loop-arbeidsflater og planla/fasiliterte workshops. Status er blandet innført og foreslått. Ingen eneetablering, full autonom-teamgaranti, organisasjonsmandat, linje- eller personalansvar.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "role": "Granulært alternativ for behovsavklaring og akseptansekriterier når hovedcaset trenger forklaring av hva et tydelig krav inneholder.",
+      "claim_ceiling": "Utformet strukturerte spørsmål om formål, brukere, beslutningsbehov, inn/utdata, avhengigheter, risiko, prioritet og akseptansekriterier; design/evaluering av Forms/Loop og andre verktøy. Prosjektnivåbruk der støttet. Ingen dokumentert virksomhetsutrulling eller formelt produkteierskap.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "role": "Samhandling på tvers og kompetanseoverføring til tekniske kolleger. Svarer på kontaktflaten mellom behov og utviklingsmiljø fremfor bare interessentantall.",
+      "claim_ceiling": "Gjennom flere arbeidsmøter ga Vegard teknisk personell opplæring/råd i Power BI, semantisk modell og optimalisering og bidro vesentlig til en tidlig del av en driftsrapport. Eksakt enhet, dato, rapportstatus, senere bruk og videre støtte er uavklart; ingen eneutvikling eller rapporteierskap.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Økonomisk verdi og delt metodeutvikling som legitim alternativ vektlegging dersom forretningsutvikling og målforståelse skal fremheves.",
+      "claim_ceiling": "Medutviklet i et firepersoners team et eksisterende gevinstrealiseringsrammeverk med forskningssyntese og økonomisk/strategisk/metodisk bidrag. Teamleveransen innført som sykehusdekkende standard og aktiv omtrent 2,5 år senere. Ingen eneopphav, metodeeierskap, eksakt individuell deling eller målt effekt.",
+      "lifecycle": "IMPLEMENTED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "role": "CV-bredde i operativ måldefinisjon, integrasjon og kritisk validering. Nyttig alternativ for komplekse tekniske behov, uten å sidestille pasientprognoser og kraftbalansering.",
+      "claim_ceiling": "Har samlet arkitektur, orkestrering, automatisering og integrasjon i aktiv prognoseutvikling, utfordrer mål/granularitet og tidsmessig validering og har lagt til GAM og arbeider med SARIMAX. Kollega laget opprinnelig XGBoost og mye datapreparering/features; KI-agenter deltar. Ikke produksjonssetting, verifisert modellytelse, komplett ensemble eller manuell eneforfatter.",
+      "lifecycle": "IN_DEVELOPMENT",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#015-2-1-ende-til-ende-leveransemodell"
+      ],
+      "role": "Yrkesanker, dagens oppdrag og normal arbeidsform fra behovsavklaring gjennom avgrensning til mottakertilpasset leveranse.",
+      "claim_ceiling": "Rådgiver Økonomi og IKT med økonomi-, bemannings-, aktivitets- og pasientflytoppdrag; gjør brede behov til arbeidspakker, kontroller, akseptansekriterier og leveranser til ledere, controllere og faglige/tekniske kolleger. Ansvar er prosjektspesifikt og dokumenterer ikke formelt produkt-, program- eller linjemandat.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "role": "Operativ forståelse, rask læring og eget initiativ som svar på den nye domenekonteksten. CV viser faktisk arbeid før senere utviklingsprosjekter.",
+      "claim_ceiling": "Overtok hele tildelte månedsflyten innen omtrent tre måneder og utførte mot slutten kontroll, rapportering og distribusjon til klinikkledere selvstendig. Bygget på eget initiativ VBA-konverterings-/valideringsverktøy brukt av økonomirådgivere i flere klinikker og bidro til budsjett/prosjektøkonomi. Ikke hele OUS-oppgjøret, ERP-eierskap eller målt gevinst.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f"
+      ],
+      "role": "Alternativ for praktisk analyse og kobling til faktisk planlegging, fremfor kun aktiv prognoseutvikling.",
+      "claim_ceiling": "Brukte Stata, R og Power Query til seksjonsvise DRG-estimater levert for budsjett og planlegging i 2023. Ikke produksjonsprognosemotor, fast kadens, enekodeforfatterskap eller generell nøyaktighet. Den enkelte avrundede treffobservasjonen skal ikke bære denne pakken.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "role": "Full arbeidskronologi og konkrete tidligere rolleoppgaver; sikkerhets- og kundekontekst uten energi-/klareringsslutninger.",
+      "claim_ceiling": "Arbeid sammen med heismontører, varelogistikk/salg, vakthold/adgangskontroll/alarmrespons og behovsavklaring/pristilbud/kundedialog er støttet innen respektive roller. Ingen fagbrev, økonomi-/energierfaring eller sikkerhetsklarering utledes.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_TKS_HEIS",
+        "BL:EMP_AHLSELL",
+        "BL:EMP_LUFTFORSVARET",
+        "BL:EMP_SECTOR_ALARM"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "role": "Formalkvalifikasjoner i CV og samfunnsøkonomisk profesjon; tekniske studier som korrekt underordnet supplement.",
+      "claim_ceiling": "Fullført master i samfunnsøkonomi NTNU 2020-2022 og bachelor UiB 2017-2020; pågående femårig KI-masterprogram UiA fra 2024. Ingen fullført KI-grad, konkret progresjon/studietakt, ukjent oppgavetema eller spesialisering.",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIB_ECON",
+        "BL:EDU_UIA_AI"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+        "EV:EDU#017-2-3-ntnu-okonomi-insentiver-makro-og-fin",
+        "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m"
+      ],
+      "role": "Motivasjon og økonomisk skjønn knyttet til samfunnsøkonomisk ressursbruk, marked/insentiver og metode.",
+      "claim_ceiling": "Akademisk grunnlag i mikro/markedsteori, miljø/ressursøkonomi, konkurranse, insentiver og kvantitative/tidsseriemetoder. Dette er utdanning, ikke yrkeserfaring med kraftmarkeder eller en energifaglig spesialisering. Faginnhold holdes på sitt dokumenterte tak."
+    },
+    {
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:EDU#013-1-4-ernest-manning-high-school-calgary"
+      ],
+      "role": "Norsk/engelsk og internasjonal skolebakgrunn når språkkravet må dokumenteres.",
+      "claim_ceiling": "Norsk morsmål og flytende skriftlig/muntlig engelsk; skolegang i Calgary 2011-2013. Ingen CEFR-ekvivalens eller testscore.",
+      "baseline_refs": [
+        "BL:EDU_CALGARY"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:OTHER#033-5-2-tillitsverv",
+        "EV:OTHER#034-5-3-tjeneste-og-kurs"
+      ],
+      "role": "Støtteseksjon i CV: valgt ansvar og kurs, med full lukket kildekontekst dersom masteren inkluderer disse.",
+      "claim_ceiling": "Beboerrepresentant 2017-2019, økonomiansvarlig/nestleder 2019-2020 og styreleder/økonomiansvarlig 2020 i Solheimslien studentboliger; Sanitet nivå 2 april 2014. Ikke profesjonell personalledelse eller sikkerhetsklarering.",
+      "baseline_refs": [
+        "BL:SEC_OTHER_TRUST",
+        "BL:SEC_OTHER_COURSES"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse"
+      ],
+      "role": "Granulære alternativer for dokumentasjon, kvalitetskontroll, mottakertilpasning og oppgavenedbryting, dersom final writer trenger annen funksjonsbredde.",
+      "claim_ceiling": "Prosjektbasert praksis i validering, kontrollert endring, dokumentasjon, workshops og mottakertilpasset overlevering samt arbeidspakker/prioritering. Konkrete historier og mottakere hentes fra de valgte prosjektpostene; ingen virksomhetsstyrings-, sikkerhets- eller produktmandat."
+    },
+    {
+      "evidence_refs": [
+        "EV:OTHER#009-1-1-funksjonell-grunnidentitet",
+        "EV:OTHER#012-1-4-felles-ryggrad-og-profilkonstruksjon",
+        "EV:OTHER#016-2-3-spor-uten-overreach"
+      ],
+      "role": "Identitets- og posisjoneringsgrenser for en tydelig virksomhet-teknologi-rådgiver.",
+      "claim_ceiling": "Funksjonell rådgiveridentitet kan bygges fra dokumentert behovsavklaring, implementering og overlevering. Den formelle tittelen står fast; ingen ny produkteier-, enterprise-arkitekt- eller lederrolle skapes."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#045-7-teknologi-og-metodeinventar",
+        "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser"
+      ],
+      "role": "Verktøy- og tallgrenser for alle CV-punkter og eventuell utdyping.",
+      "claim_ceiling": "Excel/VBA, Power BI/DAX/M er konkret arbeidsbasert dybde; SQL og R/Python kalibreres prosjektvis. Oppgitte skalaer og leveransestatus kan brukes med riktige kvalifikatorer; ingen tallfestet effekt fra kontekstuell skala."
+    },
+    {
+      "evidence_refs": [
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#029-4-5-ki-grenser"
+      ],
+      "role": "Alternativ teknisk arbeidsmåte når agentassistert integrasjon fra prognosearbeidet er nyttig for utviklingssamarbeid.",
+      "claim_ceiling": "Strukturert menneskestyrt KI-støttet implementering med gjennomgang og validering, fordelt forfatterskap og menneskelig ansvar. Ingen produksjons-LLM, enterprise-KI, autonom beslutningsmyndighet eller målt produktivitetsgevinst. Skal ikke fortrenge direkte krav-, bruker- og leveransebevis."
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen dokumentert kraftmarkeds- eller markedssystemerfaring sammenlignet med en kandidat fra energisektoren.",
+      "reframe": "På valgt seniorrådgiverspor dokumenteres evnen til å lære driftskontekst, oversette behov og levere under kvalitetskrav. Samfunnsøkonomi gir et relevant grunnlag for å bygge markedsforståelse.",
+      "honesty_note": "Kraftmarkeder er en fordel, ikke et uttrykkelig minimum. Helseprognoser, økonomifag og sikkerhetstjeneste skal ikke beskrives som kraftsystemkompetanse."
+    },
+    {
+      "objection": "Formelt produkteierskap er ikke dokumentert.",
+      "reframe": "Vis de konkrete funksjonene som er etablert: behovsstrukturering, akseptansekriterier, kontrollert endring, brukerforbedring og tidligere avgrenset driftseierskap. Dette gir en positiv bro inn i oppgavene.",
+      "honesty_note": "Ønsket produkteiererfaring er nærliggende, ikke oppfylt som formell rolle. Oppgaven kandidaten søker er en ny rolle; historisk tittel beholdes."
+    },
+    {
+      "objection": "Tverrfaglig arbeid og smidige strukturer viser ikke i seg selv erfaring fra fullt autonome team.",
+      "reframe": "Bruk observerbare handlinger i oppgavehierarki, WIP, arbeidsmøter og forbedringssprinter. La teaminteraksjon få en mottaker og en handling.",
+      "honesty_note": "PRJ-08 har blandet innført/forslått status. Omtrent 50 interessenter er kontekst, ikke 50 dokumenterte relasjoner eller bevist behovseierskap."
+    }
+  ],
+  "motivation_bridge": "Meningsfull neste bruk av erfaringen er å arbeide nær systemdriftens behov i en virksomhet som eksplisitt skal sikre balanse og samfunnsøkonomisk rasjonell drift og utvikling. Kandidatgrunnlaget er samfunnsøkonomi, praktisk økonomi-/driftsforståelse og digitale løsninger som må fungere for brukere. Motivasjonsretningen er å forstå kraftsystemets og markedenes faglige premisser, bidra til tydeligere krav og prioriteringer og følge endringer frem til brukbar leveranse sammen med behovseiere og utviklere. Dette er et begrunnet fremtidig bidrag, ikke dokumentert tidligere energiarbeid eller påstand om at sykehus og kraftsystem har samme driftsrisiko.",
+  "cv_draft": {
+    "headline": "Samfunnsøkonom | Behovsavklaring og digitalisering",
+    "profile": "Samfunnsøkonom med master fra NTNU og erfaring som rådgiver økonomi og IKT ved Oslo universitetssykehus. Har prosjektvis teknisk hovedansvar for å omsette drifts- og økonomibehov til løsninger, akseptansekriterier og dokumentasjon. Gjennomførte 2025-kodeendringene i modernisering av et budsjetteringsverktøy i sykehusdekkende bruk og hadde tidligere avgrenset driftseierskap for BI med brukertesting og forbedringssprinter. Kombinerer arkitektur og praktisk implementering med økonomisk skjønn og kompetanseoverføring.",
+    "competencies": [
+      "Behov og krav: problemavklaring, brukerbehov, avhengigheter og akseptansekriterier",
+      "Kontrollert videreutvikling: systemkartlegging, differansekontroll, dokumentasjon og vedlikeholdbarhet",
+      "Brukerorientert forbedring: brukertesting, tilbakemeldinger, onboarding og overlevering",
+      "Tverrfaglig leveranse: arbeidsmøter, oppgavenedbryting, Scrum/Kanban og WIP-design",
+      "Økonomisk beslutningsstøtte: ressursbruk, budsjettering, gevinstlogikk og transparente forutsetninger",
+      "Teknisk gjennomføring: Excel/VBA, Power BI, DAX og Power Query; SQL og R/Python etter prosjektbehov"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Rekonstruerte og moderniserte et arvet Excel/VBA-budsjetteringsverktøy og integrerte bemanningsdata. Var i praksis eneste kodende utvikler for 2025-endringene innen en bred interessentprosess; verktøyet brukes sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Brukte differansekontroll og akseptansekriterier i moderniseringen, forbedret kontroller og dokumentasjon og laget onboardingmateriale for controllere.",
+          "Utviklet hoveddelen av backend i en felles Power BI-leveranse. Observerte brukere, samlet tilbakemeldinger og gjennomførte forbedringssprinter; hadde ansvar for månedlige oppdateringer omtrent august 2025-februar 2026. Løsningen er senere avviklet.",
+          "Utformet kravspørsmål om formål, brukere, inn- og utdata, risiko og akseptansekriterier. Bidro med Scrum/Kanban, oppgavehierarki, WIP-design og workshops i utviklingen av avdelingens arbeidsmodell.",
+          "Ga teknisk personell på tvers av organisasjoner opplæring og råd om Power BI, semantiske modeller og optimalisering gjennom flere arbeidsmøter.",
+          "Utformet og overleverte en transparent fordelingsmodell til controllere. Valgte synlige, justerbare vekter og forutsetninger fremfor ustøttet direktefordeling og utvikleravhengig kjerne-VBA.",
+          "Medutviklet i et firepersoners team et gevinstrealiseringsrammeverk som ble innført som sykehusdekkende standard.",
+          "Har ansvar for samlet arkitektur, orkestrering og integrasjon i aktiv utvikling av pasient- og kapasitetsprognoser, med kollega- og KI-assistert implementering og kritisk kontroll av mål og validering."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok hele den tildelte månedsoppgjørsflyten innen omtrent tre måneder. Gjennomførte mot slutten av perioden selvstendig oppgjør, avstemming, kvalitetssikring og månedsrapportering til klinikkledere.",
+          "Bygget på eget initiativ Excel/VBA-verktøy for konvertering og validering ved REGERP-overgangen; verktøyene ble brukt av økonomirådgivere i flere klinikker.",
+          "Bidro med bemanningsgrunnlag, budsjetthjelpeark og prosjektøkonomi. Brukte Stata, R og Power Query til seksjonsvise DRG-estimater levert for budsjett og planlegging."
+        ]
+      },
+      {
+        "employment_id": "EMP_TKS_HEIS",
+        "bullets": [
+          "Arbeidet sammen med heismontører i sesong- og heltidsperioder under studiene, i et praktisk og sikkerhetssensitivt miljø."
+        ]
+      },
+      {
+        "employment_id": "EMP_AHLSELL",
+        "bullets": [
+          "Utførte varemottak, lagerarbeid, bestilling og salg med kundekontakt."
+        ]
+      },
+      {
+        "employment_id": "EMP_LUFTFORSVARET",
+        "bullets": [
+          "Utførte vakthold, adgangskontroll og alarmrespons etter tydelige prosedyrer."
+        ]
+      },
+      {
+        "employment_id": "EMP_SECTOR_ALARM",
+        "bullets": [
+          "Avklarte kundebehov, utarbeidet pristilbud og gjennomførte direkte salg og kundedialog."
+        ]
+      }
+    ]
+  },
+  "application_direction": {
+    "backbone": "Fra driftsbehov til brukbar og kontrollert videreutvikling, med riktig avgrensning, akseptansekriterier og mottakerens bruk som mål. Søk seniorrådgiversporet. Senioriteten vises gjennom teknisk hovedansvar, arkitektur- og vedlikeholdsvalg, kontrollert levering og faglig samhandling.",
+    "structure_guidance": "CV eier mastergrad, full kronologi, verktøy, konkret behovs-/kravbredde, tidligere drift, smidig arbeidsstruktur og økonomisk metode. Brevet skal tolke hva den kontrollerte moderniseringen sier om rollen mellom behovseiere og utviklere, deretter fylle det ubesvarte spørsmålet om brukertilbakemelding med PRJ-01. Bruk PRJ-06-valget hvis det gir mer verdi enn ytterligere teknikkliste: dokumentert hensyn til controlleres mulighet til å forstå og endre løsningen. Hold erfaringene atskilt. PRJ-08/09 kan presisere praksis i CV uten flere casefortellinger. Motivasjonen knyttes til å bygge fagforståelse og utvikle markedsløsninger, med én presis overføringsbro. Ingen brevprosa eller pålagt åpning.",
+    "top_employer_problems": [
+      "Oversette systemdriftens behov til utviklingsbare krav og dokumenterte akseptansekriterier.",
+      "Prioritere nyttige endringer og bevare vedlikeholdbarhet og kontroll i eksisterende løsninger.",
+      "Følge brukernes faktiske oppgaver og tilbakemeldinger gjennom tverrfaglig utvikling og forvaltning."
+    ]
+  },
+  "avoid_guidance": [
+    "Søk seniorrådgiversporet, men behold kandidatens historiske formelle rådgivertittel. Ikke kall kandidaten erfaren formell produkteier eller gjør senioritet til bevis på kraftmarkedskompetanse.",
+    "Ikke gjør pasientprognoser, konkurranseøkonomi eller markedsteori til kraftmarkeds- eller balanseringserfaring.",
+    "Ikke bruk 50 interessenter som bevis på konkrete dialoghandlinger; onboarding og arbeidsmøter gir den faktiske samhandlingen.",
+    "Ikke gi PRJ-01 nåværende eierskap eller la avvikling svekke det dokumenterte tidligere bruker- og driftsarbeidet.",
+    "Ikke overfør PRJ-03 sykehusdekkende bruk til PRJ-06, PRJ-09 eller prognoseprosjektet.",
+    "Ikke påstå at de valgte erfaringene viser Statnetts interne prioriteringsmodell, behov eller risiko utover annonseteksten."
+  ],
+  "counterfactual_route": {
+    "identity": "Brukerorientert rådgiver for digitale beslutningsverktøy og avgrenset forvaltning.",
+    "rationale": "Et reelt alternativ er å la tidligere BI-drift, faktisk brukerobservasjon og forbedringssprinter bære argumentet om forvaltning og løpende brukerbehov, med PRJ-03 som bevis på kontrollert videreutvikling. Dette er mer livsløps- og brukerledet enn primærrutens behov-til-endring. Det kan være nyttig dersom den endelige teksten klarere svarer på markedssystemenes løpende forvaltning slik. Løsningen er avviklet og domene-/produkteiergapene består; ikke bruke dette som nåværende markedssystemeierskap. Også denne ruten gjelder seniorrådgiversporet og bæres av tidligere avgrenset ansvar, arkitekturvalg og kompetanseoverføring, uten oppgradering av historisk formell tittel.",
+    "evidence_refs": [
+      "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+      "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+      "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+    ]
+  },
+  "risk_notes": [
+    "Den sterkeste plausible energikandidaten kan dokumentere to ønskede kvalifikasjoner Vegard ikke har: kraftmarked og formelt produkteierskap. Strategien konkurrerer gjennom konkrete overførbare handlinger og dokumentert teknisk ansvar og faglig skjønn på valgt seniorrådgivernivå, ikke påstand om likeverdig domenedybde.",
+    "Ingen dokumenterte målte gevinster fra hovedcaset. Bruk og levering er sterke faktiske signaler som skal stå for seg."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-08",
+      "plain_language_label": "Forstår løsningen fra brukerens side",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "intended_employer_interpretation": "Tar brukerens arbeidsoppgave og vedlikeholdsevne inn i tekniske valg.",
+      "vacancy_relevance": "Rollen skal koble behovseiere og utvikling og møte brukernes forventninger.",
+      "expression_ceiling": "Observerte faktiske BI-brukere og omsatte tilbakemeldinger til forbedring; laget controller-onboarding og valgte inspiserbar modelllogikk.",
+      "expression_guardrail": "Vis de konkrete handlingene og mottakerne. Ikke utled universell relasjonsdyktighet, følelsesmessig innsikt eller vellykket adopsjon utover kildene.",
+      "misread_risk": "En ren kodende profil uten behovseierkontakt; unngås ved observerbar brukerinteraksjon."
+    },
+    {
+      "facet_id": "PF-10",
+      "plain_language_label": "Lærer gjennom konkret ansvar og levering",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "intended_employer_interpretation": "Har et troverdig grunnlag for å bygge domenekunnskap i en ny driftskontekst.",
+      "vacancy_relevance": "Kraftmarkedet er et fagområde kandidaten må lære, mens rollen samtidig krever fremdrift.",
+      "expression_ceiling": "Gikk fra opplæring til hele den tildelte månedsflyten på omtrent tre måneder og lærte VBA gjennom egne konverteringsverktøy.",
+      "expression_guardrail": "Dette belegger tidligere læring i BAR, ikke garantert læringshastighet eller eksisterende energikompetanse.",
+      "misread_risk": "Å fremstille rask læring som ferdig ekspertise i kraftmarked eller produkteierskap."
+    }
+  ],
+  "writer_guidance": "Start forståelsen av kandidaten i kjent profesjon og fullført økonomimaster. Den avgjørende forskjellen fra en teknisk porteføljepresentasjon er at brukere og driftsbehov kommer før prosjektstørrelse: bemanningsdata som måtte inn i et eksisterende verktøy, kontrollert kodeendring, akseptansekriterier og controller-onboarding. La brukerobservasjon fra BI tilføre et eget ubesvart spørsmål om iterasjon, med tidsavgrenset forvaltning tydelig. Beslutningen om en modell controllere kan inspisere er et positivt økonomisk/teknisk skjønn når plass og argument tilsier det. Bind hver handling til dens faktiske prosjekt og mottaker. For seniorrådgiversporet skal prosjektvis hovedansvar, arkitekturvalg og selvstendig faglig vurdering stå tydelig sammen med den tilstøtende oppgaveerfaringen, men kraftmarked og formelt produkteierskap forblir utviklingsområder. Kandidaten søker rollen som neste anvendelse av erfaringen; strategien etablerer ikke full kvalifikasjon på ønskede spesialområder.",
+  "requires_source_inspection_observed": false
+}

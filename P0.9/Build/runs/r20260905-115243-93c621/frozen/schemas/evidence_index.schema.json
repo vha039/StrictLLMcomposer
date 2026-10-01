@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/evidence_index.schema.json",
+  "title": "EvidenceIndex",
+  "description": "Lean deterministic address layer over the three candidate factual authorities (DEC-14, DEC-34, Contract 11.1). Permitted purposes: source navigation, reference-existence checks, integrity/provenance coordinates and optional source-stated markers. It must not rank, score, summarize, infer fit, infer truth, become a factual carrier, or assert an exhaustive byte partition. Direct source access remains unconditional even where a passage has no granular entry.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "index_version",
+    "generator_version",
+    "sources",
+    "entries"
+  ],
+  "properties": {
+    "artifact_role": { "const": "EVIDENCE_INDEX" },
+    "index_version": { "const": "0.9.0" },
+    "generator_version": { "type": "string", "minLength": 1 },
+
+    "partition_claim": {
+      "const": false,
+      "description": "Explicitly present and false. No byte-partition theorem is asserted and no partition test exists (DEC-34)."
+    },
+
+    "sources": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "description": "Exactly the three factual authorities (INV-03). The generator reads nothing else for factual entries.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source_id", "path", "sha256", "bytes", "lines"],
+        "properties": {
+          "source_id": { "enum": ["WORK", "EDU", "OTHER"] },
+          "path": { "type": "string", "minLength": 1 },
+          "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+          "bytes": { "type": "integer", "minimum": 1 },
+          "lines": { "type": "integer", "minimum": 1 }
+        }
+      }
+    },
+
+    "entries": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "evidence_id",
+          "source_id",
+          "kind",
+          "heading_path",
+          "line_start",
+          "line_end",
+          "content_sha256"
+        ],
+        "properties": {
+          "evidence_id": {
+            "$comment": "Namespace marker EV: keeps factual references visibly distinct from mechanical baseline references BL: (DEC-34, ACC-08).",
+            "type": "string",
+            "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+          },
+          "source_id": { "enum": ["WORK", "EDU", "OTHER"] },
+          "kind": {
+            "enum": ["FILE", "PREAMBLE", "SECTION"],
+            "description": "FILE is the mandatory per-authority root entry. PREAMBLE is the optional convenience entry for text before the first heading; it exists so a preamble-bearing source still indexes usably without any partition claim (Contract 11.1, test 12)."
+          },
+          "heading_path": {
+            "type": "array",
+            "description": "Heading ancestry in document order. Empty for FILE and PREAMBLE entries.",
+            "items": { "type": "string", "minLength": 1 }
+          },
+          "heading_level": { "type": "integer", "minimum": 1, "maximum": 6 },
+          "line_start": { "type": "integer", "minimum": 1 },
+          "line_end": { "type": "integer", "minimum": 1 },
+          "content_sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$",
+            "description": "Deterministic integrity coordinate for the addressed span."
+          },
+          "source_stated_ids": {
+            "type": "array",
+            "description": "Identifiers the source itself writes in this span, copied literally (for example CLM-BAR-001, EDU-002, PRJ-03). Never inferred, never invented, never ranked. These are navigation aids, not a second reference namespace.",
+            "items": { "type": "string", "minLength": 1 }
+          }
+        }
+      }
+    }
+  }
+}

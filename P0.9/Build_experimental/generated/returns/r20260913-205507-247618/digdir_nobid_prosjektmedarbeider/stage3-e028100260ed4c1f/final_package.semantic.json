@@ -1,0 +1,64 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver | Samarbeid på tvers av fagmiljøer og digitalisering",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus. Har arbeidet i prosesser som samler mange enheter og fagmiljøer: et felles rammeverk for gevinstrealisering som ble innført i hele sykehuset, videreutvikling av sykehusets budsjetteringsverktøy med om lag 50 involverte og kompetanseoverføring til en annen organisasjon. Bryter arbeid ned i avklarte leveranser med avhengigheter, akseptansekriterier og risiko, holder workshops og lager opplærings- og beslutningsmateriell. Norsk morsmål og flytende engelsk, med videregående skolegang fra Calgary.",
+    "competencies": [
+      "Samarbeid og koordinering på tvers av enheter og fagmiljøer",
+      "Utvikling av felles metoder og standarder",
+      "Planlegging, oppgavenedbryting og oppfølging av avhengigheter",
+      "Workshops, møter og formidling til ulike målgrupper",
+      "Risikoregister, akseptansekriterier og dokumentasjon",
+      "Løsningsforslag og vurdering av alternativer",
+      "Analyse og beslutningsgrunnlag",
+      "Engelsk og norsk, skriftlig og muntlig"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Videreutviklet sykehusets metodikk for gevinstrealisering og estimering i et team på fire, med bidrag til forskningsgrunnlag, metode og den økonomiske og styringsmessige delen. Rammeverket ble innført som felles standard for hele sykehuset og var fortsatt i bruk om lag 2,5 år senere.",
+          "Videreutviklet sykehusets budsjetteringsverktøy i en prosess med om lag 50 deltakere i arbeidsgrupper og kravarbeid. Var i praksis eneste utvikler av endringene, og brukte akseptansekriterier, risikoregister og differansekontroll. Laget opplærings- og presentasjonsmateriell for controllere. Verktøyet ble brukt i hele sykehuset i budsjettprosessene for 2026 og 2027.",
+          "Deltok i gruppen på fire som etablerte Analyseavdelingen. Bidro med forslag til teamstruktur, ansvar, avhengigheter og beslutningsroller, utformet oppgavestruktur og felles arbeidsflater, og planla og holdt workshops.",
+          "Lærte bort Power BI, semantisk modellering og modelloptimalisering til teknisk personell i en annen organisasjon gjennom flere arbeidsmøter, og bidro vesentlig til en første del av en driftsrapport.",
+          "Utformet strukturerte spørreskjemaer for nye oppdrag med formål, brukere, beslutningsbehov, avhengigheter, risiko og akseptansekriterier, og vurderte alternative verktøy for inntak og samhandling.",
+          "Utformet en transparent modell for fordeling av gevinster fra investeringer i steril logistikk da direkte data ikke bar en klinikkvis fordeling. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Holdt en intern workshop for økonomer og helseøkonomer om prosesskartlegging, datamodellering, datakvalitet og handlingsplan, og utviklet nesten hele datamodellen i avdelingens styringsdashbord (avviklet 2026)."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring gradvis månedsoppgjøret og hadde innen om lag tre måneder hele den tildelte flyten. Gjennomførte og kvalitetssikret etter hvert oppgjøret selvstendig og sendte månedsrapportene til klinikkens ledere.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker.",
+          "Bidro i budsjettprosessen for 2024 og i prosjektøkonomiske saker, blant annet ekstern finansiering, fakturering og prosjektavslutning."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker stillingen som prosjektmedarbeider i NOBID fordi jeg vil jobbe med samarbeid som bare lykkes når mange aktører med ulike behov står bak den samme løsningen. Jeg er samfunnsøkonom og rådgiver økonomi og IKT ved Oslo universitetssykehus, og har arbeidet i flere prosesser som samler mange enheter og fagmiljøer rundt noe felles.",
+    "body_paragraphs": [
+      "Det første store oppdraget i Analyseavdelingen var å forbedre sykehusets metodikk for gevinstrealisering og estimering. Vi var fire som gikk gjennom forskning, diskuterte og videreutviklet rammeverket, og jeg bidro med forskningssyntese, metodeforbedring og den økonomiske og styringsmessige delen. Rammeverket ble innført som felles standard for hele sykehuset og var fortsatt i bruk om lag 2,5 år senere.",
+      "Budsjetteringsverktøyet sykehuset bruker i budsjettprosessen er et annet eksempel. Om lag 50 personer deltok i arbeidsgrupper og kravarbeid da det skulle videreutvikles, og jeg gjorde i praksis alle endringene i selve verktøyet. Underveis brukte jeg akseptansekriterier, et register over risiko og gjenstående avvik og differansekontroll av endringene, og jeg laget opplæringsmateriell for controllerne som skulle bruke det. Verktøyet ble tatt i bruk i hele sykehuset i budsjettprosessen for 2026 og er i bruk for 2027.",
+      "Jeg har planlagt og holdt workshops, blant annet for økonomkolleger om prosesskartlegging og datakvalitet, og jeg har gjennom flere arbeidsmøter lært bort Power BI og datamodellering til teknisk personell i en annen organisasjon. Jeg skriver og snakker engelsk flytende, og gikk på videregående skole i Calgary.",
+      "eID, identitetsforvaltning og nordisk samarbeid har jeg ikke arbeidet med. Da jeg begynte i staben til Barne- og ungdomsklinikken, overtok jeg etter om lag halvannen måneds opplæring gradvis oppgaver i månedsoppgjøret. Innen om lag tre måneder hadde jeg hele den tildelte flyten, og etter hvert rapporterte jeg selv til klinikkens ledere. Jeg regner med å måtte bruke den første tiden på å lære aktørene og regelverket godt."
+    ],
+    "closing": "Det som gjør NOBID meningsfullt for meg, er at arbeidet har en konkret nytte: at eID og digitale tjenester skal kunne brukes på tvers av landegrensene i regionen. Jeg kan bidra med ryddig planlegging og oppfølging av aktivitetene, godt forberedte møter og workshops, og rapportering som gjør det lett å se hvor prosjektet står. Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#013-1-4-ernest-manning-high-school-calgary",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "writer_note": "Carrying evidence changed from PRJ-08/09 (proposal/design status) to PRJ-04 (team-built common standard adopted hospital-wide) and PRJ-03 (50-person process, own controls and onboarding), which answer the multi-actor minimum with implemented outcomes. Workshops, cross-organizational teaching and English as support. eID/Nordic gap stated once with a documented learning-speed bridge from BAR."
+}

@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260923-193222-838ddd",
+  "job_id": "trifid_senior_ki_konsulent",
+  "employer": "Trifid",
+  "title": "Senior KI-konsulent: strategi og governance",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "06fdb4451f34da714a72ed995e9f1eb31bb52738fc6107eeca0b705277a12ff8",
+  "upstream": {
+    "strategy_sha256": "af206a931d7bb58f2a309db0044802d19033e12d7c1c5f347f592264f53603fe"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "Trifid søker en senior rådgiver som kan lede kundeoppdrag fra spredte KI-initiativ til prioriterte anvendelser, beslutninger, organisering og risikostyrt innføring. Arbeidsgiveren etterspør minst syv års relevant erfaring og dokumentert KI-strategi, governance eller organisatorisk innføring, samt ledelse av rådgivningsprosesser. Prosjektvis ansvarlig KI-bruk er relevant, men alene svarer det ikke på dette senior- og kundemandatet.",
+  "selection_logic": "Bruk en ærlig, smal rute som rådgiver i menneskestyrt KI-støttet analyse og implementering, der beslutningsstruktur, avgrenset delegering, validering og handoff er konkret dokumentert. Kombiner dette med offentlig metode-/gevinstarbeid som separat strategisk skjønn. Behold syvårsgrensen, KI-governance på virksomhetsnivå og kundeleveranser som materielle gap.",
+  "primary_candidate_identity": "Samfunnsøkonom og OUS-rådgiver som har utformet menneskestyrte KI-støttede arbeidsflyter i analyse- og utviklingsarbeid.",
+  "headline_hypothesis": "Rådgiver | Ansvarlig KI-støttet leveranse og beslutningsgrunnlag",
+  "shortlist_thesis": "Han kan vise en konkret måte å gjøre KI-bruk styrbar på prosjektnivå: definerte kilder, oppgaver, kontroller, menneskelig gjennomgang og overlevering, knyttet til et virkelig prognoseprosjekt. Sammen med erfaring fra felles gevinstmetodikk og etterprøvbare investeringsantakelser gir det relevant rådgivningsskjønn, men ikke dokumentert senior KI-governance-rådgivning til kunder.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Relevant høyere utdanning og minst syv års relevant rådgivning, strategi, virksomhetsutvikling, digitalisering eller tilsvarende",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver"
+      ],
+      "note": "Relevant fullført master og OUS-rådgivning fra mars 2023 er støttet; minst syv relevante år er ikke dokumentert. Utdanningsdelen er oppfylt, erfaringsdelen ikke."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Dokumentert KI-strategi, KI-governance, organisatorisk KI-innføring eller tilsvarende",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "note": "Menneskestyrt KI-arbeidsmodell og registrert KI-superbruker med teknisk Teams-bistand er prosjekt-/brukernære bevis. Ingen dokumentert virksomhetsstrategi, formell governance, organisasjonsinnføring eller produksjons-LLM."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Lede rådgivningsprosesser og leveranser med ledere og beslutningstakere som sentrale interessenter",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Faglig analyse, felles metode og beslutningsstøtte for ledere er dokumentert; ingen formell ledelse av KI-rådgivningsoppdrag hos kunder."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Kartlegge KI-bruk, modenhet, muligheter, risiko og barrierer hos kunder",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "note": "Prosjektvis kilde-/risikovurdering og teknologisk utforskning gir metodebro. Ingen dokumentert kundekartlegging eller modenhetsvurdering på virksomhetsnivå."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Prioritere KI-anvendelser og konkrete gevinster",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell"
+      ],
+      "note": "Gevinst-/antakelsesskjønn og strukturert KI-arbeidsflyt er separat dokumentert; ikke koble dem til en oppdiktet prioriteringsportefølje for KI."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Lede KI-strategier, veikart og beslutningsgrunnlag",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Teknisk arkitektur og arbeidsstruktur er dokumentert, men ikke leverte KI-strategier/veikart eller formell KI-strategiledelse."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Etablere KI-governance med roller, ansvar, beslutningsprosesser og risikohåndtering",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "note": "Prosjektvise kontroll- og ansvarsgrenser er støttet; ingen enterprise KI-governance eller kundemodell."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Omsette krav fra EUs AI Act og personvernregelverk til praktiske rammer",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "note": "Sensitiv-data- og personvernbevissthet i OUS er ikke dokumentert AI Act-rådgivning eller juridisk tolkning. Samarbeid med jurister er framtidig rollekrav, ikke tidligere erfaring."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Workshops, ledelsespresentasjoner, kundedialog, tilbud og utvikling av KI-tjenester/fagmiljø",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Workshops og teknisk opplæring er dokumentert; tilbudsarbeid, ekstern kundedialog og utvikling av KI-konsulenttjenester er ikke."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Forstå samspillet mellom regelverk, risiko, organisering, kompetanse og prosesser i KI-bruk",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Prosjektvis forståelse av ansvar, datarisiko og arbeidsorganisering er dokumentert. Ingen formell regelverks- eller virksomhetsomfattende KI-styringsrolle."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Svært god norsk og engelsk muntlig/skriftlig fremstilling",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Norsk morsmål, flytende engelsk og dokumentert fagformidling. Eksakt standardisert portalskala er uavklart."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Gevinstrealisering eller endringsledelse er en fordel",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Medutviklet innført gevinstmetode og kontrollert verktøyinnføring; ingen formell endringslederrolle eller personlig realisert gevinst."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Konsulentvirksomhet, tilbuds-/kundeutvikling og fagutvikling er relevant",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Intern/tverrorganisatorisk fagoverføring er støttet; ingen dokumentert ekstern konsulentvirksomhet eller tilbuds-/kundeutvikling."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "role": "Bærende argument om faktisk KI-støttet leveranse: etablerte prosjektinstruksjoner, kildepresedens, avgrenset agentarbeid, tester og menneskelig kontroll i en aktiv prognosearbeidsflate. Svarer på behovet for praktisk ansvarliggjøring av KI-bruk.",
+      "claim_ceiling": "Prosjekt-/repository-praksis, ikke formell virksomhetsgovernance, kundestrategi, produksjons-LLM eller målt KI-effekt. Prognoseprosjektet er under utvikling og implementeringen er fordelt mellom kandidat, kollega og agenter.",
+      "lifecycle": "IN_DEVELOPMENT",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Vis separat strategisk skjønn om gevinster: medutvikling av innført felles metodikk og personlig avvisning av falsk direktefordeling til fordel for transparent proxy-beslutningsstøtte. Nyttig når kunder må prioritere uten overdrevet gevinstpåstand.",
+      "claim_ceiling": "Dette var ikke KI-governance-prosjekter. PRJ-04 var firepersoners arbeid og innført standard; PRJ-06 var ferdigstilt og overlevert modell uten dokumentert organisatorisk bruk/effekt. Ingen konstruert forbindelse mellom dem.",
+      "lifecycle": "IMPLEMENTED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "role": "Belegg registrert KI-superbrukerrolle med tekniske svar i Teams og evne til å formidle til fagpersoner; CV-signal for faglig samspill, ikke en hovedcase om organisatorisk innføring.",
+      "claim_ceiling": "Om lag tre år med betegnelse; ingen oppgitt brukerantall, formelt organisasjonsmandat eller leverte KI-systemer.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Minst syv relevante år er ikke dokumentert.",
+      "reframe": "Vis den konkrete tyngden i OUS-arbeidet uten å legge til år fra ikke-relevante tidligere jobber.",
+      "honesty_note": "Dette er et uttrykkelig minstekrav; utdanning eller personlig potensial erstatter ikke antallet dokumenterte relevante år."
+    },
+    {
+      "objection": "Ingen dokumentert virksomhetsomfattende KI-strategi/governance eller kundeoppdragsledelse.",
+      "reframe": "Prosjektvis menneskestyrt KI-praksis gir substans til et smalere rådgivningsbidrag, mens gevinstmetode gir separat strategisk arbeidsbevis.",
+      "honesty_note": "Ikke kall den registrerte KI-superbrukerrollen strategiansvar eller organisasjonsinnføring."
+    },
+    {
+      "objection": "AI Act, juridisk personvernrådgivning, tilbud og kundeutvikling er udokumentert.",
+      "reframe": "Vis at kandidaten setter datakontroller og eksplisitte menneskelige beslutningspunkter i egne prosjekter; juridiske og kommersielle deler ligger utenfor beviset.",
+      "honesty_note": "Ingen påstand om regulatorisk spesialistkompetanse eller fakturerte kundeoppdrag."
+    }
+  ],
+  "motivation_bridge": "Trifids oppdrag er å hjelpe virksomheter fra KI-ambisjon til styrbare valg. Han har praktisk erfart at nyttige KI-verktøy krever presis problemavgrensning, kilder, kontroll og menneskelig ansvar, og har separat arbeidet med etterprøvbar gevinstlogikk. Det er grunnlaget for å bidra til slike diskusjoner, uten å framstille seg som etablert leder av KI-strategioppdrag.",
+  "cv_direction": {
+    "headline_direction": "Rådgiver med ansvarlig KI-støttet leveransepraksis, ikke Senior KI-governance-leder som historisk identitet.",
+    "emphasis": [
+      "Fullført samfunnsøkonomisk master, pågående KI-studium med korrekt status og nåværende OUS-rolle.",
+      "Konkret menneskestyrt KI-arbeidsflyt i pågående prognoseprosjekt, med distribuert implementering.",
+      "Registrert KI-superbrukerrolle og teknisk Teams-bistand med riktig mandatgrense.",
+      "Innført felles gevinstmetode og transparent proxy-modell som separat rådgivningsskjønn."
+    ],
+    "deprioritize": [
+      "Bred teknologistack og modellnavn uten relevans for organisering og styring."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Fra KI-initiativ til ansvarlig, etterprøvbar arbeidspraksis på prosjektnivå, kombinert med edruelig gevinst- og beslutningsskjønn.",
+    "top_employer_problems": [
+      "Skape valgstruktur for hvor KI gir verdi og hvordan risiko håndteres.",
+      "Oversette ledelsesambisjon til roller, kontrollpunkter og praktisk bruk sammen med fagmiljøer."
+    ],
+    "structure_guidance": "La faktisk KI-arbeidspraksis være hovedbeviset og gevinstmetoden gi et separat beslutningsargument. Gjør ikke regelforståelse eller syv års senioritet til implisitte fakta. Denne strategien er en søknadsrute for rollen, ikke bevis på at alle oppgitte minstekrav er innfridd."
+  },
+  "avoid_guidance": [
+    "Ikke bruk FINNs 60 prosent JobMatch eller ferdighetsfelt som kvalifikasjonsbevis.",
+    "Ikke gjøre prosjektinterne agentkontroller til AI Act-implementering eller enterprise KI-governance.",
+    "Ikke tilskrive kandidaten hele KI-støttede prognoserepositoriet eller original XGBoost-modell."
+  ],
+  "personality_facets": [],
+  "writer_guidance": "Rollen krever kundenær senioritet. Hold den dokumenterte prosjektvise KI-metoden sterk, men synlig avgrenset; ikke fyll ubeviste år, kundemandater eller juridiske leveranser med strategiske ord. Utdanning og KI-superbrukerbetegnelse må ikke ta plassen til konkret leveransebevis.",
+  "requires_source_inspection_observed": false,
+  "risk_notes": [
+    "Uttrykkelig minst syv års relevant erfaring er ikke dokumentert.",
+    "Kundeledet KI-strategi/governance og AI Act-rådgivning er materielle uavklarte krav."
+  ],
+  "binding": {
+    "run_id": "r20260923-193222-838ddd",
+    "job_id": "trifid_senior_ki_konsulent",
+    "employer": "Trifid",
+    "title": "Senior KI-konsulent: strategi og governance",
+    "manifest_sha256": "9732ebd7f1737303a790702bf6c5f4c29b745f45d547372141d3bccb4a8e3b8e",
+    "vacancy_sha256": "3b63b40d81fc38aa235132c0b4354b759f4492d7e6f3311d34c0cf43a8dabf3e",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "6d85e3b1ac702e6d24df928844aed34f213e2206ff5f09bdc63e7a7f33866e62"
+  }
+}

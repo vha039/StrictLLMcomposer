@@ -1,0 +1,71 @@
+{
+  "artifact_role": "CV_LAYER",
+  "cv": {
+    "headline": "Rådgiver – digitale verktøy og brukeropplæring",
+    "profile": "Rådgiver økonomi og IKT ved Oslo universitetssykehus, med mastergrad i samfunnsøkonomi og pågående masterprogram i kunstig intelligens. Arbeider i skjæringspunktet mellom brukere og systemer: gjennomførte veiledede tester med faktiske brukere, observerte hvor de kom skjevt ut og kjørte målrettede forbedringsrunder på funnene. Underviste tekniske kolleger i Power BI og semantisk modellering på tvers av organisasjoner, og er registrert som superbruker for kunstig intelligens med tekniske svar i en Teams-kanal. Lager både detaljert referansemateriell og korte veiledninger, tilpasset mottakeren.",
+    "competencies": [
+      "Brukerstøtte og teknisk feilsøking i systemer som er i daglig bruk",
+      "Brukeropplæring: workshops, onboarding og veiledning for ikke-tekniske brukere",
+      "Brukerdokumentasjon: både detaljert referansemateriell og korte veiledninger",
+      "Praktisk bruk av kunstig intelligens med menneskelig beslutningspunkt og etterprøvbar overlevering",
+      "Utprøving og vurdering av nye verktøy mot driftsrisiko og vedlikeholdbarhet",
+      "Behovsavklaring og kravstrukturering før løsning velges",
+      "Samarbeid med tekniske miljøer i andre organisasjoner",
+      "Kundedialog og behovsavklaring"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Gjennomførte veiledede tester med faktiske brukere av en styrings-BI-løsning, observerte hvor interaksjonen forvirret dem og kjørte målrettede forbedringsrunder på funnene; var primær feilsøker og eide løsningen fra om lag august 2025 til februar 2026, og den er senere avviklet.",
+          "Ledet en intern workshop for økonomi- og helseøkonomikolleger om prosesskartlegging, datamodellering, ytelse og datakvalitet, og underviste tekniske kolleger i Power BI og semantisk modellering på tvers av organisasjoner.",
+          "Er registrert som superbruker for kunstig intelligens og svarer på tekniske henvendelser i en Teams-kanal; arbeider etter en fast arbeidsflyt der KI får avgrensede oppgaver mot definert kilderekkefølge, med krav om tester og avstemming og et menneskelig beslutningspunkt før konsekvensrike handlinger.",
+          "Vurderte VBA, Office Scripts, Python og KI-assisterte tilnærminger mot kompatibilitet, driftsrisiko og vedlikeholdbarhet i moderniseringen av sykehusets budsjetteringsverktøy, og laget onboarding- og presentasjonsmateriell for controllere.",
+          "Deltok i tidlig tilgang og piloter rundt Fabric, Power Platform, dbt, Pega og Python, og vurderte mulighetene mot konkrete driftsbegrensninger i virksomheten."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP, og lærte VBA fra grunnen gjennom arbeidet; verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten, dokumenterte arbeidsstegene og forbedret arvede arbeidsbøker med kontroll- og valideringslogikk."
+        ]
+      }
+    ],
+    "tools_line": "Power BI, DAX, Power Query og SQL; Excel/VBA; Microsoft 365 (Loop, Forms, Teams); Fabric, Power Platform, dbt og Pega fra pilot og tidlig tilgang; prosjektavhengig R og Python."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+  ],
+  "outside_brief_refs": [],
+  "notes": [
+    "Core, EIE 365 og eiendomsmegling forekommer ikke i CV-en. Den ene tillatte omtalen av de navngitte systemene ligger i brevets NAME_ONCE-setning.",
+    "Superbrukerpunktet er formulert uten brukerantall, organisasjonsomfattende støtteansvar eller styringsmandat, fordi ingen av dem er oppgitt i kilden.",
+    "Plattformpunktet har «pilot og tidlig tilgang» som kvalifikator både i punktet og på verktøylinjen; Power BI står ikke oppført som pilot.",
+    "BI-punktet står i fortid med avgrenset eierskapsvindu fordi løsningen er avviklet, og opplæringspunktet i fortid fordi nåstatus for kompetanseoverføringen er uavklart.",
+    "Eldre roller beholdes fra baseline uten overstyring; Sector Alarm-punktet dekker annonsens krav om tett kundedialog der det står."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76",
+    "job_id": "eie_systemkoordinator",
+    "employer": "EIE eiendomsmegling",
+    "title": "Systemkoordinator",
+    "evidence_fingerprint": "8974829ca54313799f365f369276d7be05dd4c6a6e5f0dfffcf05458c004742a",
+    "policy_fingerprint": "fd1983375eeef6e089e266616f394d7b7f1fffe287aec654f88a0f063a9e2d67",
+    "inputs": {
+      "scout": "3415a3e60d5b4e0b98f8d56a893d2ab027c8081ccc1527a2cab546e4d35caac0",
+      "brief": "4875253a68766a02b20983f867bddef77571ad42fb7c50a6093fe539cbf43224"
+    }
+  }
+}

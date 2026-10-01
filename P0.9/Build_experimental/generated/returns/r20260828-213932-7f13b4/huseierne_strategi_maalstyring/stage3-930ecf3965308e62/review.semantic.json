@@ -1,0 +1,31 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken består Tjuesekunderstesten: kandidatidentitet, Huseiernes styringsproblem og de to sterkeste bevisene er tydelige i toppsonen og søknadens første del.",
+      "recommended_action": "Gjør normal menneskelig gjennomlesning og godkjenning av de ferdige dokumentene.",
+      "priority": 1
+    },
+    {
+      "reason": "Pakken består Arbeidsgiverbyttetesten: medlemsvekst, nye produkter, praktisk måloppfølging og medlemsoppdraget gjør både CV-profilen og søknaden spesifikke for Huseierne.",
+      "recommended_action": "Ingen lokal tekstendring er kjent nødvendig.",
+      "priority": 2
+    },
+    {
+      "reason": "Alle materielle kandidatpåstander holder dokumenterte team-, eierskaps-, bruks- og resultatgrenser.",
+      "recommended_action": "Behold avgrensningene ved eventuell manuell redigering.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Kandidatmyndighetene dokumenterer ikke praktisk OKR-erfaring.",
+    "Dokumentert relevant OUS-erfaring starter i mars 2023 og er kortere enn annonsens minimumskrav på fem år.",
+    "Erfaring fra formell produktorganisasjon, privat kommersielt resultatansvar og produksjonsdybde i Azure/Fabric er ikke dokumentert."
+  ],
+  "material_strategy_change": "Stage 3 fjernet Stage-2-brevets defensive avsnitt om manglende OKR-erfaring og kortere ansiennitet. Begrensningene er bevart i review, mens arbeidsgiverteksten nå prioriterer sannferdige overføringsbevis og Huseiernes konkrete styringsbehov.",
+  "upstream_claim_repaired": null,
+  "notes": [
+    "CV og søknad er gjort komplementære: CV-en dokumenterer rolle, leveranser og bruk; søknaden forklarer hvordan metodeinnføring, implementering og styringsinformasjon kan møte Huseiernes behov.",
+    "JobMatch-panelet i den skannede originalkilden er ikke brukt som evidens."
+  ]
+}

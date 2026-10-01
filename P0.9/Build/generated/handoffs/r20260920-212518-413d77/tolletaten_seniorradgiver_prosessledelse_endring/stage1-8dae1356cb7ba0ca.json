@@ -1,0 +1,17 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260920-212518-413d77",
+  "job_id": "tolletaten_seniorradgiver_prosessledelse_endring",
+  "employer": "Tolletaten",
+  "title": "Seniorrådgiver - Prosessledelse og endring",
+  "stage": 1,
+  "mode": "STRATEGY",
+  "expected_artifacts": [
+    "strategy"
+  ],
+  "stage_policy_sha256": "307f5303893c34003910e0fa859ddec4fd25f1f18080aadba3ba2db2dea2cb9f",
+  "upstream": {},
+  "prior_current": {
+    "strategy": null
+  }
+}

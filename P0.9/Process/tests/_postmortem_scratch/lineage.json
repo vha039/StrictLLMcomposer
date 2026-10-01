@@ -1,0 +1,171 @@
+{
+  "r20260908-154257-0fa53b": {
+    "path": "P0.9\\Build\\runs\\r20260908-154257-0fa53b",
+    "changes": [],
+    "manifest_id": "r20260908-154257-0fa53b",
+    "matches": [
+      {
+        "test": "P0.9\\Process\\tests\\cv\\0fa53b_CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "pdf": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf"
+      },
+      {
+        "test": "P0.9\\Process\\tests\\soknad\\0fa53b_Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "pdf": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf"
+      }
+    ]
+  },
+  "0fa53b_stage3_opusx_20260909T155611Z": {
+    "path": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_opusx_20260909T155611Z",
+    "changes": [],
+    "manifest_id": "r20260908-154257-0fa53b/branches/stage3_opt2_20260909T155611Z",
+    "matches": [
+      {
+        "test": "P0.9\\Process\\tests\\cv\\0fa53b_stage3_opusx_20260909T155611Z_CV_Avinor_AS_Seniorradgiver_Digital_Tran_16500c77.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_opusx_20260909T155611Z\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Tran_16500c77.docx",
+        "pdf": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_opusx_20260909T155611Z\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Tran_16500c77.pdf"
+      },
+      {
+        "test": "P0.9\\Process\\tests\\soknad\\0fa53b_stage3_opusx_20260909T155611Z_Soknad_Avinor_AS_Seniorradgiver_Digital_Tran_16500c77.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_opusx_20260909T155611Z\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Tran_16500c77.docx",
+        "pdf": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_opusx_20260909T155611Z\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Tran_16500c77.pdf"
+      }
+    ]
+  },
+  "0fa53b_stage3_solmed_20260909T160521Z": {
+    "path": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_solmed_20260909T160521Z",
+    "changes": [],
+    "manifest_id": "r20260908-154257-0fa53b/branches/stage3_solmed_20260909T160521Z",
+    "matches": [
+      {
+        "test": "P0.9\\Process\\tests\\cv\\0fa53b_stage3_solmed_20260909T160521Z_CV_Avinor_AS_Seniorradgiver_Digital_Tr_16500c77.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_solmed_20260909T160521Z\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Tr_16500c77.docx",
+        "pdf": null
+      },
+      {
+        "test": "P0.9\\Process\\tests\\soknad\\0fa53b_stage3_solmed_20260909T160521Z_Soknad_Avinor_AS_Seniorradgiver_Digital_Tr_16500c77.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_solmed_20260909T160521Z\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Tr_16500c77.docx",
+        "pdf": null
+      }
+    ]
+  },
+  "0fa53b_stage3_solxh_20260909T155607Z": {
+    "path": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_solxh_20260909T155607Z",
+    "changes": [],
+    "manifest_id": "r20260908-154257-0fa53b/branches/stage3_opt1_20260909T155607Z",
+    "matches": [
+      {
+        "test": "P0.9\\Process\\tests\\cv\\0fa53b_stage3_solxh_20260909T155607Z_CV_Avinor_AS_Seniorradgiver_Digital_Tran_16500c77.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_solxh_20260909T155607Z\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Tran_16500c77.docx",
+        "pdf": null
+      },
+      {
+        "test": "P0.9\\Process\\tests\\soknad\\0fa53b_stage3_solxh_20260909T155607Z_Soknad_Avinor_AS_Seniorradgiver_Digital_Tran_16500c77.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_solxh_20260909T155607Z\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Tran_16500c77.docx",
+        "pdf": null
+      }
+    ]
+  },
+  "r20260905-005939-3eeb10": {
+    "path": "P0.9\\Build\\runs\\r20260905-005939-3eeb10",
+    "changes": [],
+    "manifest_id": "r20260905-005939-3eeb10",
+    "matches": [
+      {
+        "test": "P0.9\\Process\\tests\\cv\\3eeb10_CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "pdf": "P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf"
+      },
+      {
+        "test": "P0.9\\Process\\tests\\soknad\\3eeb10_Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "pdf": "P0.9\\Build\\runs\\r20260905-005939-3eeb10\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf"
+      }
+    ]
+  },
+  "3eeb10_stage1_unknown_20260907T194452Z": {
+    "path": "P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z",
+    "changes": [
+      "authorities\\CV_BASELINE.md",
+      "authorities\\Education.md",
+      "authorities\\Other_high_value_information.md",
+      "authorities\\Work_experience.md",
+      "context\\PERSONALITY_PROFILE.md",
+      "generated\\baseline_map.json",
+      "generated\\evidence_index.json",
+      "policy\\settings.toml",
+      "policy\\stages\\stage1_decision_architecture.md",
+      "policy\\stages\\stage3_final_writer_review.md",
+      "policy\\writing\\FORFATTERSTEMME.md",
+      "policy\\writing\\PERSUASION_CALIBRATION.md",
+      "policy\\writing\\WRITING_DOCTRINE.md",
+      "schemas\\failure.schema.json",
+      "schemas\\manifest.schema.json",
+      "schemas\\package.schema.json",
+      "schemas\\render_report.schema.json",
+      "schemas\\review.schema.json",
+      "schemas\\status.schema.json",
+      "schemas\\strategy.schema.json"
+    ],
+    "manifest_id": "r20260905-005939-3eeb10/branches/stage1_unknown_20260907T194452Z",
+    "matches": [
+      {
+        "test": "P0.9\\Process\\tests\\soknad\\3eeb10_stage1_unknown_20260907T194452Z_Soknad_Avinor_AS_Seniorradgiver_Digital_T_16500c77.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_T_16500c77.docx",
+        "pdf": "P0.9\\Build\\runs\\r20260905-005939-3eeb10\\branches\\stage1_unknown_20260907T194452Z\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_T_16500c77.pdf"
+      }
+    ]
+  },
+  "r20260905-195443-6d65bd": {
+    "path": "P0.9\\Build\\runs\\r20260905-195443-6d65bd",
+    "changes": [],
+    "manifest_id": "r20260905-195443-6d65bd",
+    "matches": [
+      {
+        "test": "P0.9\\Process\\tests\\cv\\6d65bd_CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260905-195443-6d65bd\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "pdf": null
+      },
+      {
+        "test": "P0.9\\Process\\tests\\soknad\\6d65bd_Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260905-195443-6d65bd\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "pdf": null
+      }
+    ]
+  },
+  "r20260905-115243-93c621": {
+    "path": "P0.9\\Build\\runs\\r20260905-115243-93c621",
+    "changes": [],
+    "manifest_id": "r20260905-115243-93c621",
+    "matches": [
+      {
+        "test": "P0.9\\Process\\tests\\cv\\93c621_CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260905-115243-93c621\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "pdf": null
+      },
+      {
+        "test": "P0.9\\Process\\tests\\soknad\\93c621_Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260905-115243-93c621\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "pdf": null
+      }
+    ]
+  },
+  "r20260907-215311-b5104f": {
+    "path": "P0.9\\Build\\runs\\r20260907-215311-b5104f",
+    "changes": [],
+    "manifest_id": "r20260907-215311-b5104f",
+    "matches": [
+      {
+        "test": "P0.9\\Process\\tests\\cv\\b5104f_CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260907-215311-b5104f\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "pdf": "P0.9\\Build\\runs\\r20260907-215311-b5104f\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf"
+      },
+      {
+        "test": "P0.9\\Process\\tests\\soknad\\b5104f_Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "run_docx": "P0.9\\Build\\runs\\r20260907-215311-b5104f\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "pdf": "P0.9\\Build\\runs\\r20260907-215311-b5104f\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.pdf"
+      }
+    ]
+  }
+}

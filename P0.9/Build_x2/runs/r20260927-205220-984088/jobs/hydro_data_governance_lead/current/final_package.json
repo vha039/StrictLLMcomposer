@@ -1,0 +1,86 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT | datakvalitet, datamodeller og analyse",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver i økonomi og IKT ved Oslo universitetssykehus, med arbeid på data som skal brukes til styring, analyse og prognoser. Eier den tekniske arkitekturen i et prognoseprosjekt for pasientvolum og sengebehov under utvikling, utformet den semantiske modellen og kvalitetskontrollene i et styrings-BI på tvers av økonomi, bemanning og aktivitet, og var i praksis eneste kodende utvikler da et forretningskritisk budsjetteringsverktøy ble modernisert og tatt i bruk i hele sykehuset. Legger vekt på klare definisjoner, sporbarhet og kontroller som mottakerne selv kan forstå og vedlikeholde.",
+    "competencies": [
+      "Datakvalitet, validering og avstemming",
+      "Datadefinisjoner og semantiske modeller",
+      "Skjemakontroll, metadata og kildeintegrasjon",
+      "Tidsriktig validering og lekkasjekontroll i prognoser",
+      "Menneskestyrt KI-assistert utvikling",
+      "Kontrollert endring i kritiske dataflyter",
+      "Kompetanseoverføring mellom fag- og teknologimiljøer",
+      "Power BI, Power Query, SQL, R/Python og Excel/VBA"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Eier den tekniske arkitekturen, orkestreringen og integrasjonen i et prognoseprosjekt for pasientvolum, sengebehov og kapasitet (14, 90 og 365 dager), utviklet sammen med en kollega og kodeagenter. Definerte og utfordret prognosemålet, kontrollerer overlapp, dubletter, liggetid og tidslekkasje, og krever tidsriktig validering, referansemodeller og akseptansekriterier. Kollegaen laget den opprinnelige XGBoost-modellen og ledet mye av datavalideringen; prosjektet er under aktiv utvikling og ikke produksjonssatt.",
+          "Styrer kodeagentene med faste instrukser om omfang, kildeprioritet og forbudte handlinger, logger, overleveringer og krav om tester eller bevis. Gjennomgår kode, konfigurasjon og avhengigheter, og har kontrollert notatbøker og repositorier for sensitive data.",
+          "Hovedutvikler for backend i et nytt styrings-BI for økonomi, bemanning, sykefravær og aktivitet/DRG i en firepersoners analyseavdeling: utformet nesten hele den semantiske modellen med fakta- og dimensjonsskille og felles organisasjons- og periodenøkler, mesteparten av Power Query-logikken med skjemahåndtering og datakvalitetskontroller, og om lag 80-90 prosent av DAX. Kolleger ledet innhold og visuell utforming. Forvaltet løsningen fra om lag august 2025 til februar 2026; løsningen er senere avviklet.",
+          "I praksis eneste kodende utvikler i 2025-moderniseringen av et arvet, forretningskritisk Excel/VBA-budsjetteringsverktøy, i en prosess med om lag 50 deltakere: integrerte ansatt-, ansettelses- og bemanningsdata som tidligere ble kopiert inn fra en annen arbeidsbok, med differansekontroll, akseptansekriterier og risikoregister. Brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Avviste en direkte fordeling av gevinster fra steril logistikk som datagrunnlaget ikke bar, og utformet en vektet proxy-modell i fem arbeidsbøker med synlige forutsetninger og kontroller for umappede rader og skjemaavvik, slik at controllere skal kunne etterprøve og justere vektene selv. Ferdigstilt og overlevert controllere tidlig i 2026.",
+          "Lærte opp tekniske medarbeidere i den ansvarlige rapporterings- og dataorganisasjonen i Power BI, semantisk modellering og modelloptimalisering gjennom flere arbeidsmøter, og bidro vesentlig til en første komponent i en driftsrapport.",
+          "Medutviklet i et firepersoners team en videreutviklet gevinstmetodikk som ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Bidro i etableringsgruppen for analyseavdelingen med forslag til teamstruktur, ansvar, avhengigheter og beslutningsrettigheter, og utformet strukturerte inntaksskjemaer som fanger formål, beslutningsbehov, risiko og akseptansekriterier."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Gjennomførte etter opplæring hele den tildelte månedsoppgjørsflyten selvstendig, med avstemming, feilsøking, kvalitetssikring og månedsrapportering til klinikkledere.",
+          "Koblet data fra blant annet REGERP, ADI, GAT, lønnsgrunnlag og DRG-/aktivitetsrapporter, og utviklet kontroll- og valideringslogikk i arvede regnskaps- og rapporteringsarbeidsbøker.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy som konverterte og validerte gamle konteringslinjer mot REGERP-formatet. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "I et prognoseprosjekt for pasientvolum og sengebehov ved Oslo universitetssykehus eier jeg den tekniske arkitekturen. Der har jeg definert og utfordret hva prognosen faktisk skal telle, kontrollert overlappende opphold, dubletter og lekkasje av fremtidig informasjon inn i treningsdataene, og krevd validering som respekterer tidsrekkefølgen. Hydro vil gi den typen kontroll tydelig eierskap og en felles form på tvers av organisasjonen, slik at data kan brukes trygt i analyse og KI.",
+    "body_paragraphs": [
+      "Prosjektet utvikles av meg, en kollega og kodeagenter, og er ikke satt i produksjon. Kollegaen laget den opprinnelige XGBoost-modellen og ledet mye av datavalideringen. Jeg bygget orkestreringen som binder data, variabler, modeller og evaluering sammen, og styrer agentene med faste instrukser om omfang, kildeprioritet og forbudte handlinger, logger, overleveringer og krav om tester før noe tas inn. Jeg gjennomgår koden og har kontrollert repositoriene for sensitive data. Det er en praktisk form for ansvarlig KI-bruk: mennesket beholder beslutningspunktet, og hvert bidrag kan spores.",
+      "Den samme vekten på definisjoner lå i styrings-BI-et analyseavdelingen bygget for økonomi, bemanning og aktivitet. Jeg utformet nesten hele den semantiske modellen og mesteparten av datatransformasjonene, med kvalitetskontroller, felles organisasjons- og periodenøkler og et tydelig skille mellom fakta og beskrivende dimensjoner. Kollegene mine ledet innhold og visuell utforming. Da den ansvarlige rapporterings- og dataorganisasjonen senere utviklet nye rapporter, lærte jeg opp deres tekniske medarbeidere i semantisk modellering og modelloptimalisering gjennom flere arbeidsmøter.",
+      "Eierskap til data handler også om hvem som skal kunne endre forutsetningene. Da jeg skulle fordele gevinster fra steril logistikk på klinikkene, bar ikke datagrunnlaget en direkte fordeling. Jeg utformet i stedet en vektet proxy-modell med synlige forutsetninger og kontroller for umappede rader og skjemaavvik, og valgte bort kjerne-VBA slik at de faglige vurderingene skulle ligge hos controllerne, ikke hos utvikleren. Modellen ble overlevert tidlig i 2026. To andre leveranser er tatt i bruk i hele sykehuset: budsjetteringsverktøyet der jeg var i praksis eneste kodende utvikler i en prosess med om lag 50 deltakere, og gevinstmetodikken jeg videreutviklet sammen med tre kolleger."
+    ],
+    "closing": "I Hydro vil jeg gjerne bidra til at rammeverket for data governance blir til slike arbeidsmåter: tydelige definisjoner, kontroller i selve dataflyten og eierskap hos dem som kjenner dataene. Jeg skriver og snakker engelsk flytende og arbeider gjerne i et internasjonalt miljø."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "writer_note": "Ryggrad flyttet til data før modeller: PRJ-05 målsemantikk, lekkasje- og valideringskontroll og menneskestyrt agentarbeid bærer 'trusted data for AI' og ansvarlig KI. PRJ-06 brukt som dataeierskapsbevis (faglige vurderinger hos controllere, dokumentert som designmål). Ingen global governance-, council- eller policymyndighet påstått.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-27",
+    "finalized_at": "2026-09-27T21:20:40Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260927-205220-984088",
+    "job_id": "hydro_data_governance_lead",
+    "employer": "Hydro",
+    "title": "Data Governance Lead",
+    "manifest_sha256": "54bb9727cb0c930dfbaa7607edba818bc4e965582ec746e39173cb9cab27bd8b",
+    "vacancy_sha256": "27002325ccf5ad08798f22ba66d802b39f0c30a0cacf08faa808a5e71acfcb4c",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "6c577e3204ba670f95fa56642d3b86df371edcbd6b193c32da98efa5b498842d",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "87b5718315efe77cb6a1acc384187f10955132c8e2633563feeb399b47633ae8"
+  }
+}

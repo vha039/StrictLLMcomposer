@@ -1,0 +1,146 @@
+# Evidence catalog (ids only; fetch any of them)
+
+- EV:WORK#file — 
+- EV:WORK#preamble — 
+- EV:WORK#001-arbeidserfaring — Arbeidserfaring
+- EV:WORK#002-0-runtime-kjerne — 0. Runtime-kjerne
+- EV:WORK#003-0-1-profesjonelt-arbeidsmonster — 0.1 Profesjonelt arbeidsmønster
+- EV:WORK#004-0-2-ous-kjerne — 0.2 OUS-kjerne
+- EV:WORK#005-0-3-evidensbroer-med-hoyest-verdi — 0.3 Evidensbroer med høyest verdi
+- EV:WORK#006-0-4-gjenfinningsindeks — 0.4 Gjenfinningsindeks
+- EV:WORK#007-0-5-utvalgs-og-syntesekontrakt — 0.5 Utvalgs- og syntesekontrakt
+- EV:WORK#008-0-6-stabil-claim-proveniens — 0.6 Stabil claim-proveniens
+- EV:WORK#009-1-arbeidskronologi-og-forsvarlig-omfang — 1. Arbeidskronologi og forsvarlig omfang
+- EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver — 1.1 Oslo universitetssykehus HF — Rådgiver Økonomi og IKT
+- EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra — Nåværende rolle – forsvarlige ansvarsområder
+- EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl — Tidlig OUS-plassering – Barne- og ungdomsklinikken (BAR)
+- EV:WORK#013-1-2-tidligere-arbeidsforhold — 1.2 Tidligere arbeidsforhold
+- EV:WORK#014-2-arbeidsmodell-og-ledelsesrelevant-atfe — 2. Arbeidsmodell og ledelsesrelevant atferd
+- EV:WORK#015-2-1-ende-til-ende-leveransemodell — 2.1 Ende-til-ende-leveransemodell
+- EV:WORK#016-2-2-evidens-for-funksjonell-ledelse — 2.2 Evidens for funksjonell ledelse
+- EV:WORK#017-3-portefoljekart — 3. Porteføljekart
+- EV:WORK#018-3-1-standard-utvalgsruter — 3.1 Standard utvalgsruter
+- EV:WORK#019-4-detaljert-prosjektevidens — 4. Detaljert prosjektevidens
+- EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se — 4.1 `PRJ-01` — Styrings-BI for sykehus og semantisk modell
+- EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi — 4.2 `PRJ-02` — Tverrorganisatorisk Power BI-kompetanseoverføring
+- EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling — 4.3 `PRJ-03` — Modernisering og nyutvikling av sykehusets budsjetteringsverktøy
+- EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for — 4.4 `PRJ-04` — Sykehusdekkende rammeverk for gevinstrealisering
+- EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se — 4.5 `PRJ-05` — Prognoser for pasientvolum, sengebehov og kapasitet
+- EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves — 4.6 `PRJ-06` — STE-gevinstfordeling og investeringsmodell for steril logistikk
+- EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise — 4.7 `PRJ-07` — Plattformpiloter og moderniseringskartlegging
+- EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s — 4.8 `PRJ-08` — Arbeidsmodell, teamdesign og smidig leveranse
+- EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand — 4.9 `PRJ-09` — Arbeidsinntak, krav og samhandlingsverktøy
+- EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f — 4.10 `PRJ-10` — Seksjonsvise DRG-prognoser for budsjett og planlegging i BAR
+- EV:WORK#030-5-tverrgaende-arbeidsevidens — 5. Tverrgående arbeidsevidens
+- EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end — 5.1 Styring, sikkerhet og kontrollert endring
+- EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin — 5.2 Kommunikasjon og kompetanseoverføring
+- EV:WORK#033-5-3-rekrutteringsstotte — 5.3 Rekrutteringsstøtte
+- EV:WORK#034-5-4-andre-helse-og-strategikontekster — 5.4 Andre helse- og strategikontekster
+- EV:WORK#035-6-arbeidsavledet-kompetanseprofil — 6. Arbeidsavledet kompetanseprofil
+- EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael — 6.1 Helse, økonomi og virksomhetsforståelse
+- EV:WORK#037-6-2-bi-og-rapportering — 6.2 BI og rapportering
+- EV:WORK#038-6-3-data-engineering-og-integrasjon — 6.3 Data engineering og integrasjon
+- EV:WORK#039-6-4-programmering-automatisering-og-impl — 6.4 Programmering, automatisering og implementering
+- EV:WORK#040-6-5-analyse-statistikk-og-modellering — 6.5 Analyse, statistikk og modellering
+- EV:WORK#041-6-6-digitalisering-og-prosessforbedring — 6.6 Digitalisering og prosessforbedring
+- EV:WORK#042-6-7-prosjekt-produkt-og-leveranse — 6.7 Prosjekt, produkt og leveranse
+- EV:WORK#043-6-8-styring-kvalitet-og-kontroll — 6.8 Styring, kvalitet og kontroll
+- EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid — 6.9 Kommunikasjon og interessentarbeid
+- EV:WORK#045-7-teknologi-og-metodeinventar — 7. Teknologi- og metodeinventar
+- EV:WORK#046-8-godkjente-maltall-og-resultatgrenser — 8. Godkjente måltall og resultatgrenser
+- EV:WORK#047-9-konstruksjon-av-cv-og-intervjuevidens — 9. Konstruksjon av CV- og intervjuevidens
+- EV:WORK#048-9-1-cv-only-starting-point-analyseavdeli — 9.1 `CV_ONLY_STARTING_POINT` – Analyseavdelingen
+- EV:WORK#049-9-2-cv-only-starting-point-tidlig-ous — 9.2 `CV_ONLY_STARTING_POINT` – tidlig OUS
+- EV:WORK#050-9-3-intervjuforsvarlige-historiekart — 9.3 Intervjuforsvarlige historiekart
+- EV:WORK#051-9-4-regel-for-cv-punkter — 9.4 Regel for CV-punkter
+- EV:WORK#052-10-forbudte-og-uavklarte-arbeidspastande — 10. Forbudte og uavklarte arbeidspåstander
+- EV:WORK#053-10-1-eksplisitt-forbudt — 10.1 Eksplisitt forbudt
+- EV:WORK#054-10-2-uavklart-utelat-eller-behold-smal-k — 10.2 Uavklart – utelat eller behold smal kvalifikator
+- EV:EDU#file — 
+- EV:EDU#preamble — 
+- EV:EDU#001-utdanning — Utdanning
+- EV:EDU#002-0-runtime-kjerne — 0. Runtime-kjerne
+- EV:EDU#003-0-1-gradskronologi — 0.1 Gradskronologi
+- EV:EDU#004-0-2-akademisk-profil — 0.2 Akademisk profil
+- EV:EDU#005-0-3-ferdighetsklynger — 0.3 Ferdighetsklynger
+- EV:EDU#006-0-4-gjenfinningsindeks — 0.4 Gjenfinningsindeks
+- EV:EDU#007-0-5-finance-process-role-bridge — 0.5 `finance_process_role_bridge`
+- EV:EDU#008-0-6-stabil-claim-proveniens — 0.6 Stabil claim-proveniens
+- EV:EDU#009-1-grader-og-studiestatus — 1. Grader og studiestatus
+- EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste — 1.1 Universitetet i Agder – pågående masterprogram i kunstig intelligens
+- EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso — 1.2 NTNU – fullført mastergrad i samfunnsøkonomi
+- EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach — 1.3 Universitetet i Bergen – fullført bachelorgrad i samfunnsøkonomi
+- EV:EDU#013-1-4-ernest-manning-high-school-calgary — 1.4 Ernest Manning High School, Calgary
+- EV:EDU#014-2-faglig-evidensoversikt — 2. Faglig evidensoversikt
+- EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit — 2.1 Universitetet i Bergen – økonomi, politikk og virksomhetsforståelse
+- EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m — 2.2 Kvantitative metoder, økonometri og matematikk
+- EV:EDU#017-2-3-ntnu-okonomi-insentiver-makro-og-fin — 2.3 NTNU – økonomi, insentiver, makro og finans
+- EV:EDU#018-2-4-programmering-ki-databaser-og-diskre — 2.4 Programmering, KI, databaser og diskret matematikk
+- EV:EDU#019-2-5-selvstendig-arbeid-kommunikasjon-og — 2.5 Selvstendig arbeid, kommunikasjon og tverrfaglig samarbeid
+- EV:EDU#020-3-tverrfaglig-syntese-og-stillingsreleva — 3. Tverrfaglig syntese og stillingsrelevans
+- EV:EDU#021-3-0-utvalgsruter-for-utdanning — 3.0 Utvalgsruter for utdanning
+- EV:EDU#022-3-1-okonomi-helse-og-offentlig-analyse — 3.1 Økonomi, helse og offentlig analyse
+- EV:EDU#023-3-2-bi-data-okonometri-og-prognoser — 3.2 BI, data, økonometri og prognoser
+- EV:EDU#024-3-3-okonomi-og-driftsroller — 3.3 Økonomi- og driftsroller
+- EV:EDU#025-3-4-digitaliserings-og-teknologiroller — 3.4 Digitaliserings- og teknologiroller
+- EV:EDU#026-3-5-seniorradgiver-og-tverrfunksjonelle — 3.5 Seniorrådgiver- og tverrfunksjonelle roller
+- EV:EDU#027-4-godkjente-utdanningsformuleringer-og-g — 4. Godkjente utdanningsformuleringer og grenser
+- EV:EDU#028-4-1-claim-atomer-for-utdanning — 4.1 Claim-atomer for utdanning
+- EV:EDU#029-4-2-forbudte-oppgraderinger — 4.2 Forbudte oppgraderinger
+- EV:EDU#030-4-3-uavklarte-punkter — 4.3 Uavklarte punkter
+- EV:OTHER#file — 
+- EV:OTHER#preamble — 
+- EV:OTHER#001-annen-informasjon-med-hoy-verdi — Annen informasjon med høy verdi
+- EV:OTHER#002-0-runtime-kjerne — 0. Runtime-kjerne
+- EV:OTHER#003-0-1-last-identitet-og-kontakt — 0.1 Låst identitet og kontakt
+- EV:OTHER#004-0-2-profesjonell-kjernetese — 0.2 Profesjonell kjernetese
+- EV:OTHER#005-0-3-ufravikelige-claim-kontroller — 0.3 Ufravikelige claim-kontroller
+- EV:OTHER#006-0-4-gjenfinningsindeks — 0.4 Gjenfinningsindeks
+- EV:OTHER#007-0-5-stabil-claim-proveniens — 0.5 Stabil claim-proveniens
+- EV:OTHER#008-1-profesjonelle-identitetsmoduler — 1. Profesjonelle identitetsmoduler
+- EV:OTHER#009-1-1-funksjonell-grunnidentitet — 1.1 Funksjonell grunnidentitet
+- EV:OTHER#010-1-2-pool-av-identitetsatomer — 1.2 Pool av identitetsatomer
+- EV:OTHER#011-1-3-rutespesifikk-identitetskonstruksjon — 1.3 Rutespesifikk identitetskonstruksjon
+- EV:OTHER#012-1-4-felles-ryggrad-og-profilkonstruksjon — 1.4 Felles ryggrad og profilkonstruksjon
+- EV:OTHER#013-2-posisjonering-etter-rollefamilie — 2. Posisjonering etter rollefamilie
+- EV:OTHER#014-2-1-primaere-spor — 2.1 Primære spor
+- EV:OTHER#015-2-2-selektive-spor — 2.2 Selektive spor
+- EV:OTHER#016-2-3-spor-uten-overreach — 2.3 Spor uten overreach
+- EV:OTHER#017-2-4-senioritetsinnramming — 2.4 Senioritetsinnramming
+- EV:OTHER#018-2-5-rute-for-funksjonell-endringsledelse — 2.5 Rute for funksjonell endringsledelse
+- EV:OTHER#019-3-soke-og-titteltaksonomi — 3. Søke- og titteltaksonomi
+- EV:OTHER#020-3-1-norsk-offentlig-sektor-og-helse — 3.1 Norsk offentlig sektor og helse
+- EV:OTHER#021-3-2-engelsk-og-privat-sektor — 3.2 Engelsk og privat sektor
+- EV:OTHER#022-3-3-prioritering-av-sokeord-med-hoy-verd — 3.3 Prioritering av søkeord med høy verdi
+- EV:OTHER#023-3-4-utvalgsrisiko-og-rutekorrigering — 3.4 Utvalgsrisiko og rutekorrigering
+- EV:OTHER#024-4-ki-stottet-arbeidskompetanse — 4. KI-støttet arbeidskompetanse
+- EV:OTHER#025-4-1-forsvarlig-posisjonering — 4.1 Forsvarlig posisjonering
+- EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell — 4.2 Repeterbar KI-arbeidsmodell
+- EV:OTHER#027-4-3-konkret-evidens — 4.3 Konkret evidens
+- EV:OTHER#028-4-4-trygge-ki-pastander — 4.4 Trygge KI-påstander
+- EV:OTHER#029-4-5-ki-grenser — 4.5 KI-grenser
+- EV:OTHER#030-4-6-intern-kalibrering — 4.6 Intern kalibrering
+- EV:OTHER#031-5-sprak-tillitsverv-og-tjeneste — 5. Språk, tillitsverv og tjeneste
+- EV:OTHER#032-5-1-sprak — 5.1 Språk
+- EV:OTHER#033-5-2-tillitsverv — 5.2 Tillitsverv
+- EV:OTHER#034-5-3-tjeneste-og-kurs — 5.3 Tjeneste og kurs
+- EV:OTHER#035-6-overforbare-styrker-arbeidsstil-og-sel — 6. Overførbare styrker, arbeidsstil og selvkalibrering
+- EV:OTHER#036-6-1-systemtenkning-og-kompleksitetsreduk — 6.1 Systemtenkning og kompleksitetsreduksjon
+- EV:OTHER#037-6-2-analytisk-grundighet-og-etterprovbar — 6.2 Analytisk grundighet og etterprøvbarhet
+- EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te — 6.3 Oversettelse mellom virksomhet og teknologi
+- EV:OTHER#039-6-4-selvstendig-teknisk-problemlosning — 6.4 Selvstendig teknisk problemløsning
+- EV:OTHER#040-6-5-kvalitetsbevisst-pragmatisme — 6.5 Kvalitetsbevisst pragmatisme
+- EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin — 6.6 Kommunikasjon og kompetanseoverføring
+- EV:OTHER#042-6-7-selvledelsesrisiko-og-mottiltak — 6.7 Selvledelsesrisiko og mottiltak
+- EV:OTHER#043-7-tverrfilstyring-av-evidens — 7. Tverrfilstyring av evidens
+- EV:OTHER#044-7-1-felteierskap — 7.1 Felteierskap
+- EV:OTHER#045-7-2-evidensstatus — 7.2 Evidensstatus
+- EV:OTHER#046-7-3-ordforrad-for-bidrag-livslop-og-resu — 7.3 Ordforråd for bidrag, livsløp og resultat
+- EV:OTHER#047-7-4-trygge-transformasjoner — 7.4 Trygge transformasjoner
+- EV:OTHER#048-7-5-handtering-av-aktuelle-korrigeringer — 7.5 Håndtering av aktuelle korrigeringer
+- EV:OTHER#049-8-presentasjons-og-innholdspreferanser — 8. Presentasjons- og innholdspreferanser
+- EV:OTHER#050-8-1-kompetansegrupper — 8.1 Kompetansegrupper
+- EV:OTHER#051-8-2-cv-og-dokumentstandarder — 8.2 CV- og dokumentstandarder
+- EV:OTHER#052-8-3-presentasjonshierarki-for-ki — 8.3 Presentasjonshierarki for KI
+- EV:OTHER#053-9-globalt-uavklartregister — 9. Globalt uavklartregister
+- EV:OTHER#054-10-prioriteringer-for-sterkere-evidens — 10. Prioriteringer for sterkere evidens

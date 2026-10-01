@@ -1,0 +1,69 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver med erfaring fra stab og lederstøtte",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver i Direktørens stab ved Oslo universitetssykehus. Fra klinikkstaben i Barne- og ungdomsklinikken har jeg erfaring med selvstendig månedsoppgjør og månedlig rapportering til ledere. I dag arbeider jeg med beslutningsgrunnlag, struktur for oppgaver og samarbeid, og forbedring av digitale arbeidsverktøy. Registrert KI-superbruker som svarer på tekniske henvendelser i Teams, og som bruker KI med tydelige kilder og menneskelig kontroll.",
+    "competencies": [
+      "Stabsarbeid og lederrapportering",
+      "Beslutningsgrunnlag, notater og sammendrag",
+      "Strukturering av oppgaver, prioritering og oppfølging",
+      "Forbedring av arbeidsprosesser og digitale verktøy",
+      "Microsoft 365: Teams, Loop, Forms, Excel og PowerPoint",
+      "KI i arbeidsprosesser med kildekontroll",
+      "Workshops, veiledning og opplæring",
+      "Økonomistyring, budsjett og analyse",
+      "Excel/VBA og Power BI"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utarbeider beslutningsgrunnlag, notater og korte sammendrag om økonomi, bemanning og aktivitet for ledere, controllere og fagmiljøer, med Power BI, Excel og Power Query som verktøy.",
+          "Deltok i firepersoners etableringsgruppe for Analyseavdelingen. Utformet strukturer for oppgaver, prioritering og pågående arbeid (Kanban/Scrum) og arbeidsflater i Loop, og foreslo ansvarsdeling, avhengigheter og beslutningsroller.",
+          "Utformet skjemaer for arbeidsinntak med formål, beslutningsbehov, avhengigheter, risiko, prioritet og akseptansekriterier, og vurderte løsninger i Forms, Loop, Power BI og lavkodeverktøy.",
+          "Var i praksis eneste kodende utvikler da sykehusets om lag 20 år gamle budsjetteringsverktøy i Excel/VBA ble modernisert, i en prosess med om lag 50 involverte. Integrerte bemanningsdata, brukte akseptansekriterier og risikoregister og laget opplæringsmateriell for controllere. Verktøyet er brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Registrert KI-superbruker i om lag tre år. Svarer på tekniske henvendelser i en Teams-kanal og bruker KI i analyse, utvikling og dokumentasjon med definerte kilder, testing og menneskelig gjennomgang.",
+          "Ledet en intern workshop for økonomkolleger om prosesskartlegging, datakvalitet og Power BI, og veiledet tekniske medarbeidere utenfor egen avdeling i Power BI og datamodellering gjennom flere arbeidsmøter.",
+          "Bidro i et firepersoners team til videreutviklingen av sykehusets metodikk for gevinstrealisering, med forskningssyntese og økonomisk analyse. Metodikken ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, med periodisering, avstemming og resultatforklaring, og gjennomførte mot slutten oppgjøret selvstendig.",
+          "Sammenstilte økonomi-, bemannings- og aktivitetsgrunnlag (blant annet DRG, ventelister og estimert innleie) til månedlig lederrapportering, og kvalitetssikret og sendte rapportene til ledere i klinikken.",
+          "Håndterte prosjektøkonomiske saker etter behov og økonomileders kapasitet, blant annet prosjektopprettelse, ekstern finansiering, fakturering og prosjektavslutning.",
+          "Bidro i budsjettprosessen for 2024 med årsverksregistrering og kvalitetssikring av bemanningsgrunnlag, og bygget et eget budsjetthjelpeark.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg har arbeidet i stab ved Oslo universitetssykehus siden 2023, først i klinikkstaben i Barne- og ungdomsklinikken og nå i Direktørens stab, Analyseavdelingen. Begge steder har jobben vært å levere underlag som ledere kan bruke, og å gjøre arbeidet rundt dem mer ordnet. Jeg er samfunnsøkonom med master fra NTNU og søker stillingen som seniorrådgiver/rådgiver i forvaltningsavdelingens stab.",
+    "body_paragraphs": [
+      "I Barne- og ungdomsklinikken hadde jeg etter om lag tre måneder overtatt hele den månedsoppgjørsflyten jeg var tildelt. Mot slutten av perioden gjennomførte jeg oppgjøret selvstendig, kvalitetssikret resultatet og sendte månedsrapporten med økonomi, bemanning og aktivitet til lederne i klinikken. Ved siden av tok jeg prosjektøkonomiske saker, som ble fordelt etter behov og etter hva økonomileder hadde kapasitet til. Stillingen hos dere har et annet innhold, men den samme kjernen: faste leveranser til ledelsen og mange større og mindre saker som skal følges helt i mål.",
+      "Da Analyseavdelingen ble etablert, var jeg en av fire i etableringsgruppen sammen med avdelingslederen. Jeg utformet strukturer for oppgaver, prioritering og pågående arbeid, laget arbeidsflater i Loop og foreslo hvordan ansvar, avhengigheter og beslutningsroller kunne fordeles. Jeg har også utformet skjemaer for arbeidsinntak som får fram formål, beslutningsbehov, avhengigheter, prioritet og hva som skal til for at noe er ferdig, før arbeidet starter. I tillegg har jeg planlagt og ledet workshops, blant annet en intern workshop for økonomkollegene om prosesskartlegging, datakvalitet og Power BI. Den måten å strukturere arbeid på vil jeg ta med inn i planleggingen og oppfølgingen av saker, beslutninger og tiltak i Decisions og Planner.",
+      "Sykehusets budsjetteringsverktøy var en om lag 20 år gammel Excel-løsning der bemanningsdata måtte hentes fra en annen arbeidsbok, med mye manuelt arbeid. I moderniseringen, der om lag 50 personer var involvert, var jeg i praksis den eneste som skrev kode. Jeg bygget inn bemanningsdataene, endret løsningen funksjon for funksjon med kontroll mot den gamle, og laget opplæringsmateriell for controllerne. Verktøyet ble brukt i hele sykehusets budsjettprosess for 2026 og brukes nå i prosessen for 2027.",
+      "I om lag tre år har jeg vært registrert KI-superbruker ved OUS, og jeg svarer på tekniske henvendelser i en Teams-kanal. I eget arbeid bruker jeg KI til analyse, utvikling og dokumentasjon innenfor faste rammer: jeg bestemmer hvilke kilder som gjelder, deler arbeidet i steg som kan kontrolleres, og går gjennom resultatet før det tas i bruk. Den arbeidsformen vil jeg bidra med når staben skal ta ut mer av potensialet i digitale verktøy og KI, både i eget arbeid og når kolleger og ledere trenger veiledning."
+    ],
+    "closing": "Jeg søker fordi jeg vil jobbe tett på en ledergruppe og være med på å forme hvordan avdelingens arbeid planlegges og følges opp. At arbeidet gir gode rammer for Stortingets virksomhet, gjør det meningsfullt for meg. Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#045-7-teknologi-og-metodeinventar",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#028-4-4-trygge-ki-pastander"
+  ],
+  "writer_note": "Stabsrute: BAR-stab med selvstendig lederrapportering bærer lederstøtte; etableringsgruppe og arbeidsinntaksskjema bærer struktur og oppfølging; budsjettverktøyet bærer levert digital forbedring; KI-superbruker og menneskestyrt KI-bruk fikk eget avsnitt fordi arbeidsgiver setter KI i stillingens innledning. Decisions/Planner er bare fremtidig bidrag. HEMMELIG og femårsønsket er bevisst ikke omtalt i dokumentene."
+}

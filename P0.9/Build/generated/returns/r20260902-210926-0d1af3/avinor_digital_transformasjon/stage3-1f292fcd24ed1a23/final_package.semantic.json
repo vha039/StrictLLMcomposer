@@ -1,0 +1,56 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | digital gjennomføring, gevinststyring og beslutningsgrunnlag",
+    "profile": "Samfunnsøkonom og rådgiver med erfaring fra digitalisering i en kompleks og regulert virksomhet. Kobler virksomhetsbehov, økonomisk analyse og teknologi til prioriterte leveranser som kan innføres uten å miste drift, kontroll eller brukere av syne. Har hatt hovedansvaret for kodeendringene i moderniseringen av et virksomhetskritisk budsjetteringsverktøy og vært med på å utvikle en sykehusdekkende standard for gevinstrealisering.",
+    "competencies": [
+      "Digital gjennomføring med driftskontinuitet og kontroll",
+      "Gevinstrealisering, virksomhetsstyring og verdilogikk",
+      "Analyse, beslutningsgrunnlag og styringsinformasjon",
+      "Prioritering, avhengigheter og akseptansekriterier",
+      "Workshopfasilitering, onboarding og kompetanseoverføring",
+      "Oversettelse mellom virksomhetsbehov, brukere og teknologi"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Hadde hovedansvaret for kodeendringene da et virksomhetskritisk Excel/VBA-verktøy for budsjettering ble modernisert. Integrerte bemanningsdata og utviklet kontroller, dokumentasjon og onboardingmateriell. Versjonen ble brukt i sykehusets budsjettprosess for 2026.",
+          "Var en av fire som videreutviklet et rammeverk for gevinstrealisering. Det ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et halvt år senere.",
+          "Utvikler beslutningsstøtte for økonomi, bemanning, aktivitet/DRG og pasientflyt, og gjør brede behov om til avgrensede leveranser, kontroller og dokumentasjon.",
+          "Utformer strukturer for arbeidsinntak, prioritering og avhengigheter, og planlegger og fasiliterer workshops og kompetanseoverføring i tverrfaglige oppdrag."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring den tildelte månedsoppgjørsflyten med periodisering, reversering, avstemming, kvalitetssikring, resultatforklaring og rapportering til ledere.",
+          "Bidro i budsjett, prosjektøkonomi og klinikkens økonomi- og aktivitetsrapportering, og utviklet Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Arbeid med virksomhetskritiske forbedringer ved Oslo universitetssykehus har lært meg at digital endring først skaper verdi når prioritering, gjennomføring og bruk henger sammen. Det er denne erfaringen jeg vil ta med inn i Avinors nye enhet for Digital Transformasjon, der teknologi og nye arbeidsformer skal styrke drift, sikkerhet og bærekraft i infrastrukturen som binder landet sammen.",
+    "body_paragraphs": [
+      "Det tydeligste gjennomføringsbeviset mitt er moderniseringen av et virksomhetskritisk budsjetteringsverktøy med lang historikk, mange avhengigheter og spredte versjoner. I en bred interessentprosess hadde jeg hovedansvaret for kodeendringene, integrerte bemanningsdata og utviklet kontroller, dokumentasjon og onboardingmateriell for controllere. Den moderniserte versjonen ble brukt i sykehusets budsjettprosess for 2026. Arbeidet krevde at forbedringstakten ble styrt sammen med kompatibilitet, kontinuitet og reell driftsrisiko.",
+      "Jeg har også arbeidet med verdistyring på metodenivå. Som en av fire videreutviklet jeg et rammeverk for gevinstrealisering gjennom forskningssyntese, metodeforbedring og økonomiske, strategiske og styringsmessige vurderinger. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et halvt år senere. Erfaringen viste hvordan en felles modell kan gjøre gevinst og prioritering mer konsistent uten å bli en rapporteringsøvelse på siden av arbeidet.",
+      "I dagens rolle strukturerer jeg uklare beslutningsbehov før løsninger bygges. Jeg avklarer formål, brukere, avhengigheter, risiko og akseptansekriterier, og omsetter dette til gjennomførbare oppgaver. Workshops, brukerobservasjon, onboarding og kompetanseoverføring er viktige deler av denne arbeidsformen. Slik kan jeg bidra i samspillet mellom Avinors ledere, fagmiljøer og teknologimiljøer uten å gjøre teknologien til et mål i seg selv.",
+      "Avinors kombinasjon av nasjonal infrastruktur, sikkerhetskrav og omfattende digital utvikling gjør prioriteringene konkrete: forbedringer må både gi virksomhetsverdi og fungere i en drift med liten toleranse for feil. Jeg vil bidra med nøktern gevinstlogikk, tydelige beslutningsgrunnlag og en gjennomføringsform som ivaretar disse hensynene fra ambisjon til bruk."
+    ],
+    "closing": "Jeg vil bidra til at Avinors digitale initiativer blir prioritert, gjennomført og tatt i bruk med tydelig virksomhetsverdi og nødvendig driftskontroll."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+    "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "writer_note": "Finalen leder med dokumentert digital gjennomføring og faktisk bruk. Gevinstmetoden følger som styringsbevis, mens det uinnførte proxy-designet er tatt ut av søknaden."
+}

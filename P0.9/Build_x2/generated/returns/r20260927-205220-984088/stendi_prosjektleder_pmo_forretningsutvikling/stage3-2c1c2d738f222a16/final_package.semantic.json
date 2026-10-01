@@ -1,0 +1,62 @@
+{
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT | prosjektgjennomføring, analyse og forbedring",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver i økonomi og IKT ved Oslo universitetssykehus. Har tatt ansvar for egne arbeidsstrømmer i tverrfaglige forbedringsprosjekter, fra løst formulert oppdrag til levert og brukt løsning: var i praksis eneste kodende utvikler i moderniseringen av sykehusets budsjetteringsverktøy i en prosess med om lag 50 deltakere, medutviklet gevinstmetodikken som ble sykehusets standard, og var med i gruppen som etablerte en ny analyseavdeling. Lager analyser, beslutningsgrunnlag og presentasjoner for ledere, controllere og fagmiljøer.",
+    "competencies": [
+      "Avklaring av oppdrag, behov og beslutningsbehov",
+      "Nedbryting i aktiviteter, ansvar og akseptansekriterier",
+      "Analyse, anbefalinger og beslutningsgrunnlag",
+      "Gevinstvurdering og økonomiske analyser",
+      "Workshops, involvering og opplæring",
+      "Gjennomføring og overlevering av endringer",
+      "Økonomi og drift i helsesektoren",
+      "Excel/VBA, PowerPoint og Power BI"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Tok ansvar for kodeendringene i moderniseringen av sykehusets arvede, om lag 20 år gamle budsjetteringsverktøy i Excel/VBA, som i praksis eneste kodende utvikler i en prosess med om lag 50 deltakere på tvers av arbeidsgrupper og kravdiskusjoner. Bygget inn bemanningsdata som tidligere ble kopiert manuelt, sikret endringene med akseptansekriterier, differansekontroll og risikoregister, og laget opplærings- og presentasjonsmateriell for controllere. Brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Medutviklet i et firepersoners team en videreutviklet metodikk for gevinstrealisering etter bestilling fra ledelsen, med forskningssyntese, økonomisk og strategisk analyse og bidrag til standardisering. Innført som sykehusdekkende standard og fortsatt i bruk om lag 2,5 år senere.",
+          "Var med i etableringsgruppen på fire for analyseavdelingen: utformet alternativer for teamstruktur, ansvar, avhengigheter og beslutningsrettigheter, utformet oppgavehierarki, Scrum/Kanban- og WIP-strukturer og Loop-arbeidsflater, og planla og fasiliterte workshops. Deler av dette ble innført, andre deler ble stående som forslag.",
+          "Utformet strukturerte skjemaer for nye oppdrag som fanger formål, brukere, beslutningsbehov, input, output, avhengigheter, risiko, prioritet og akseptansekriterier før arbeidet starter.",
+          "Omformet en bestilling om å fordele gevinster fra steril logistikk direkte på klinikkene, som datagrunnlaget ikke bar, til en vektet proxy-modell i fem arbeidsbøker med synlige forutsetninger, som beslutningsstøtte for lager-, utstyrs- og investeringsvalg. Ferdigstilt og overlevert controllere tidlig i 2026.",
+          "Hovedutvikler for backend i et nytt styrings-BI for økonomi, bemanning og aktivitet/DRG, bygget fra et bredt og løst formulert oppdrag i en firepersoners analyseavdeling. Kolleger ledet innhold og visuell utforming. Testet løsningen med brukere og gjennomførte korte forbedringsrunder i forvaltningsperioden om lag august 2025 til februar 2026; løsningen er senere avviklet.",
+          "Holdt intern workshop for økonomkolleger om prosesskartlegging, datamodellering og datakvalitet, og lærte opp tekniske medarbeidere i en annen rapporteringsorganisasjon i Power BI gjennom flere arbeidsmøter."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, avstemming og resultatforklaring, og gjennomførte etter hvert oppgjøret og månedsrapporteringen til klinikkens ledere selvstendig.",
+          "Bidro i budsjettprosessen for 2024 og i prosjektøkonomi, og utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Analyseavdelingen ved Oslo universitetssykehus fikk som sitt første store oppdrag en bestilling fra ledelsen om å forbedre sykehusets metodikk for gevinstrealisering. Vi var fire som undersøkte, diskuterte og utviklet et revidert rammeverk, og jeg bidro med forskningssyntese, økonomisk og strategisk analyse og arbeidet med å standardisere metoden. Den ble innført som felles standard i hele sykehuset og var fortsatt i bruk om lag 2,5 år senere.",
+    "body_paragraphs": [
+      "I moderniseringen av sykehusets budsjetteringsverktøy tok jeg ansvar for en tydelig arbeidsstrøm i et større prosjekt: jeg var i praksis eneste kodende utvikler i en prosess med om lag 50 deltakere. Jeg anbefalte en bredere omstrukturering, men implementeringsansvarlig valgte en smalere endring funksjon for funksjon. Den gjennomførte jeg med akseptansekriterier, differansekontroll og risikoregister, og jeg laget opplæringsmateriell for controllerne. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026 og brukes igjen for 2027.",
+      "Mange oppdrag starter uklart, og jeg begynner med å skille det underliggende behovet fra bestillingen. Da jeg ble bedt om å fordele gevinster fra steril logistikk direkte på klinikkene, fantes det ikke data som bar en slik fordeling, så jeg omformet oppdraget til en modell med synlige forutsetninger som controllerne skulle kunne etterprøve. I etableringen av analyseavdelingen var jeg med på å utforme ansvar, avhengigheter og arbeidsformer, planla og fasiliterte workshops, og utformet skjemaer som avklarer formål, beslutningsbehov, risiko og akseptansekriterier før arbeidet starter."
+    ],
+    "closing": "Stillingen interesserer meg fordi hovedvekten ligger på å få prosjekter gjennomført, tett på driften, i en virksomhet som leverer omsorg på vegne av det offentlige. Jeg vil gjerne bidra med tydelige planer, beslutningsgrunnlag som lederne kan bruke, og oppfølging til endringene er tatt i bruk."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+    "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+    "EV:WORK#045-7-teknologi-og-metodeinventar",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Kort søknad etter Stendis ønske. Åpner med gevinstmetodikken (lederbestilling, teamleveranse, varig bruk), deretter egen arbeidsstrøm i budsjettmoderniseringen med fulgt beslutning, og til slutt avklaring av uklare oppdrag. Tiltredelsestidspunkt er ikke oppgitt fordi det ikke finnes i kildene."
+}

@@ -1,0 +1,434 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": false,
+  "employer_decision_problem": "Eika vil gjøre forbindelsene mellom tjenester, teknologi, informasjonsansvar, risiko og regelverk til et anvendelig beslutningsgrunnlag for ledelse og fagmiljøer. Annonsen krever solid virksomhetsarkitekturerfaring; kandidaten har dokumentert arkitektur- og styringsarbeid på prosjekt- og løsningsnivå, ikke et formelt virksomhetsarkitekturmandat.",
+  "selection_logic": "Velg senior virksomhetsarkitekt-sporet som ett tilbudt spor, men bygg argumentet rundt evnen til å avklare informasjonsbehov, avhengigheter og eierskap for konkrete beslutninger. La dokumentert, sykehusdekkende metodebruk og kontrollert systemmodernisering vise gjennomføring. Formelt enterprise architecture-arbeid, bankdomene og rammeverkene blir åpne kvalifikasjonsgap.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver innen økonomi og IKT som utvikler styringsinformasjon, datamodeller og kontrollert endring i kompleks virksomhet.",
+  "headline_hypothesis": "Rådgiver innen styringsinformasjon og løsningsarkitektur",
+  "shortlist_thesis": "Kandidaten kan tilføre Eika praktisk evne til å gjøre fragmentert informasjon og komplekse avhengigheter beslutningsbrukbare: han har utformet semantisk modell og datakontroller for sykehusstyring, kodet endringer i et kritisk budsjetteringsverktøy og medutviklet en sykehusdekkende styringsmetode. Dette er en overføringsbro til virksomhetsarkitekturens beslutningsfunksjon, ikke dokumentert erfaring som lead enterprise architect.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Høyere utdanning i teknologi, informatikk, økonomi, organisasjon eller strategi, alternativt tilsvarende relevant erfaring.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach"
+      ],
+      "note": "Fullført master i samfunnsøkonomi oppfyller det oppgitte økonomialternativet. Pågående KI-studium er supplement."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Solid erfaring med virksomhetsarkitektur eller enterprise architecture, strategisk rådgivning, digitalisering og teknologistyring.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Strategisk/metodisk rådgivning, digitalisering og prosjektvis teknisk arkitektur er dokumentert. Solid formell virksomhetsarkitektur og teknologistyring på foretaksnivå er ikke dokumentert; vis det reelle omfanget i CV og behold gapet i review."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Formidle komplekse sammenhenger enkelt, visuelt, skriftlig og muntlig på norsk.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:OTHER#032-5-1-sprak"
+      ],
+      "note": "Beslutningsnotater, workshops, lederrettet materiale og teknisk opplæring; norsk er morsmål. Ikke påstå dokumentert effekt av formidlingen."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "God forståelse for sky, integrasjon, data og applikasjonsportefølje i moderne virksomhet.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#038-6-3-data-engineering-og-integrasjon"
+      ],
+      "note": "Sterk praktisk data- og integrasjonsforståelse, men sky/plattform er utforskende og applikasjonsporteføljeansvar er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Erfaring med verktøy som understøtter virksomhetsarkitektens arbeidsoppgaver.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#045-7-teknologi-og-metodeinventar",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Direkte bruk av BI-, modellerings-, dokumentasjons- og samarbeidsverktøy, men ingen dokumentert dedikert EA-verktøypraksis; ikke likestill disse."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Etablere felles struktur, informasjonsansvar, roller, prinsipper og styringsbilder på tvers av virksomheten.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Sykehusdekkende metodestandard ble medutviklet i team; prosjektbasert datamodellering og arbeidsstruktur. Ikke ansvar for Eika-lignende samlet arkitekturkart."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Koble strategi, prosesser, tjenester, applikasjoner, informasjon, teknologi, risiko og regelverk i prioriteringer.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "note": "Konkret system- og beslutningsintegrasjon på prosjektplan; ingen dokumentert helhetlig virksomhetskartlegging på disse lagene."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Koble DORA, BIA, GRC, beredskap, leverandørstyring, sikkerhet og applikasjonsportefølje i styringssystemer.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "note": "Regulert sykehusmiljø og kontrollpraksis er overførbart, men de navngitte finansregulatoriske systemene og helhetlig GRC-arbeid er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Bruke BIAN-inspirerte strukturer, TOGAF og relevante rammeverk tilpasset modenhet.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [],
+      "note": "Ingen dokumentert BIAN-, TOGAF- eller tilsvarende rammeverkspraksis. Ikke navngi metodene som kompetanse."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Samarbeide med arkitektur, data, utvikling, drift, risiko/compliance, juridisk/innkjøp, portefølje og forretning uten å overta operative ansvar.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "note": "Tverrfaglig arbeid og kompetanseoverføring er dokumentert; ikke alle oppførte funksjoner eller formell rolle-/ansvarsfordeling."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Tydelige beslutningsunderlag om konsekvenser, risiko, kritikalitet og avhengigheter.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Vis proxyvurderingens synlige forutsetninger og moderniseringens differansekontroll som konkret beslutnings- og risikologikk."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Erfaring fra bank, finans, forsikring eller annen regulert virksomhet.",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "note": "Regulert helsevirksomhet dekker det alternative kriteriet; bank/finans/forsikring er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Bankfaglige domener, kapabiliteter, prosesser, applikasjoner, integrasjoner og leverandører.",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "evidence_refs": [],
+      "note": "Ingen dokumentert bankdomenepraksis; økonomiutdanning er ikke en erstatning."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Governance, porteføljestyring, risikostyring, etterlevelse, sikkerhet, kontinuitet eller leverandørstyring.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Prosjektnivå governance, personvernhensyn og sykehusdekkende metode; ikke formell portefølje-, sikkerhets- eller leverandørstyring."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Kjennskap til DORA, GRC, BIA, RTO/RPO, GDPR, EU AI Act, beredskap og tredjepartsrisiko.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "note": "Personvern- og kontrollbevis i helsesektoren; ingen dokumentert operativ erfaring med de oppførte finans- og kontinuitetsregimene. Ikke la generell regulert erfaring dekke dem."
+    },
+    {
+      "requirement_id": "R16",
+      "text": "Arkitekturprinsipper, målbilder, veikart, minimumsartefakter og informasjons-/prosess-/tjenestemodeller.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Semantisk informasjonsmodell, systemkartlegging og krav-/arbeidsflytdesign; ikke dokumentert full EA-målbilde eller tjenestemodell."
+    },
+    {
+      "requirement_id": "R17",
+      "text": "TOGAF, BIAN, ArchiMate, ISO, ITIL, COBIT eller tilsvarende strukturer.",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "evidence_refs": [],
+      "note": "Ingen kildestøttet navngitt rammeverkserfaring."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "role": "Bevise personlig modellering av fragmentert styringsinformasjon og tekniske avhengigheter; CV viser semantisk modell, dataflyt, kvalitetskontroller og lederrettet bruk.",
+      "claim_ceiling": "Hovedutvikler for backend i et firepersoners styrings-BI-arbeid; utformet nesten hele semantiske modellen, mesteparten av ETL/M og om lag 80–90 prosent av DAX. Løsningen ble driftet og brukertestet, men avviklet rundt februar 2026; kolleger ledet innhold og visuell utforming.",
+      "lifecycle": "DECOMMISSIONED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Vise kontrollert teknologisk endring i kritisk økonomiprosess, tverrfaglig kravarbeid og gjennomføring under kompatibilitetskrav.",
+      "claim_ceiling": "Rekonstruerte og endret arkitekturen i et arvet budsjetteringsverktøy; i praksis eneste kodende utvikler for 2025-endringene innen en bred prosess på om lag 50 deltakere. Modernisert verktøy ble brukt sykehusdekkende i 2026- og 2027-budsjettprosessene; ikke opphav til originalen, budsjetteier eller målt effektiviseringsgevinst.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Dokumentere felles styringsmetode og varig organisatorisk bruk, relevant for ønsket felles beslutningsspråk.",
+      "claim_ceiling": "Medutviklet videreutvikling av gevinstmetodikk i firepersoners team; innført som sykehusdekkende standard og fortsatt aktiv om lag 2,5 år senere. Individuelle delkomponenter og målt effekt er uavklart; ingen eneforfatter eller metodeeier.",
+      "lifecycle": "IMPLEMENTED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Vise faglig skjønn ved manglende direkte data: synlige antakelser, ansvarlig proxy og reviderbar beslutningsmodell.",
+      "claim_ceiling": "Avviste en udokumentert direktefordeling og utformet transparent vektet proxy i fem arbeidsbøker. Ferdigstilt og overlevert controllere tidlig i 2026; organisatorisk bruk og gevinst er uavklart.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "role": "Gi konkret CV-bredde om rolle-/avhengighetsavklaring og kravarbeid uten å gi formelt EA-mandat.",
+      "claim_ceiling": "Bidro i firepersoners etableringsgruppe med arbeidsstruktur, ansvar og avhengigheter; utformet krav- og inntaksstrukturer. Blanding av innførte og foreslåtte praksiser; ingen formell organisasjonsarkitekt eller linjeleder.",
+      "lifecycle": "IMPLEMENTED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "role": "Vise overføring mellom tekniske fagmiljøer og mottakertilpasset forklaring av modeller.",
+      "claim_ceiling": "Ga Power BI- og semantisk modellråd i flere møter med annet rapporteringsmiljø og bidro vesentlig til en tidlig rapportkomponent. Eksakt rapport- og nåstatus uavklart; ingen formelt opplæringsprogram eller rapporteierskap."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "role": "Underbygge regulert kontekst, sporbarhet, personvernhensyn og endringskontroll uten bank-/GRC-påstand.",
+      "claim_ceiling": "Bruker definisjoner, sporbarhet, validering og kontrollert endring i prosjektarbeid ved sykehus; ikke formell enterprise governance- eller sikkerhetsmyndighet."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "role": "Avgrense moderne plattformforståelse som utforskende CV-kontekst for skykravet.",
+      "claim_ceiling": "Deltok i pilot og utforskning rundt Fabric, Power Platform, dbt, Pega og Python; ingen plattformeierskap eller produksjonsmessig skyarkitektur.",
+      "lifecycle": "PILOT"
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "role": "Dokumentere oppfylt økonomiutdanningsalternativ og korrekt teknisk supplement i CV.",
+      "claim_ceiling": "Fullført master og bachelor i samfunnsøkonomi; KI-masterprogram pågående. Ingen informatikkgrad eller fullført KI-grad.",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIB_ECON",
+        "BL:EDU_UIA_AI"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "role": "Forankre praktisk regulert drifts- og økonomiforståelse bak styringsargumentet.",
+      "claim_ceiling": "Overtok og gjennomførte egen tildelt månedsoppgjørsflyt ved BAR, med kontroller og rapportering til ledere; ikke sykehusomfattende regnskapsansvar.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+        "EV:OTHER#033-5-2-tillitsverv",
+        "EV:OTHER#032-5-1-sprak"
+      ],
+      "role": "Bevare korrekt eldre kronologi, relevante tillitsverv og språk som CV-bredde.",
+      "claim_ceiling": "Tidligere roller i TKS Heis, Ahlsell, Luftforsvaret og Sector Alarm; valgte studentboligverv og norsk morsmål/engelsk flytende. Ingen profesjonell personalledelse utledes.",
+      "baseline_refs": [
+        "BL:EMP_TKS_HEIS",
+        "BL:EMP_AHLSELL",
+        "BL:EMP_LUFTFORSVARET",
+        "BL:EMP_SECTOR_ALARM",
+        "BL:SEC_OTHER_TRUST"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Kravet om solid virksomhetsarkitekturerfaring er ikke dokumentert oppfylt.",
+      "reframe": "Vis konkrete beslutningsarkitekturer, informasjonsmodeller og felles styringsmetode med riktig omfang; la arbeidsgiver vurdere overførbarheten.",
+      "honesty_note": "Ikke gi kandidaten enterprise architect-tittel, TOGAF/BIAN-praksis eller porteføljemandat."
+    },
+    {
+      "objection": "Bankdomene og DORA/GRC/BIA er sentrale for Eikas arbeidsoppgaver.",
+      "reframe": "Bruk regulert sykehusdrift, kontrollert endring og etterprøvbare beslutningsunderlag som nøktern bro.",
+      "honesty_note": "Dette dekker ikke bankfaglig eller regulatorisk spesialistpraksis."
+    },
+    {
+      "objection": "Sky- og applikasjonsporteføljedypet kan bli for svakt.",
+      "reframe": "Dokumenter direkte data-/integrasjonsarbeid og avgrenset plattformutforskning i CV.",
+      "honesty_note": "Ingen produksjonsbasert skyledelse eller EA-verktøyportefølje er bekreftet."
+    }
+  ],
+  "motivation_bridge": "Eikas oppgave med å gjøre arkitekturinformasjon nyttig i prioriteringer treffer dokumentert arbeid med å skape beslutningsstruktur der data, eierskap og tekniske avhengigheter er uklare. Lokalbankenes behov for trygg og effektiv infrastruktur er en konkret anvendelse kandidaten kan ønske å bidra til, uten å hevde at sykehus- og bankregulering er det samme.",
+  "cv_draft": {
+    "headline": "Rådgiver innen styringsinformasjon og løsningsarkitektur",
+    "profile": "Samfunnsøkonom med mastergrad og erfaring fra økonomi- og IKT-rådgivning ved Oslo universitetssykehus. Har utformet semantisk modell for styringsinformasjon, gjennomført kodeendringer i et sykehusdekkende budsjetteringsverktøy og medutviklet en felles gevinstmetode. Arbeider med å avklare informasjonsbehov, avhengigheter og kontrollpunkter slik at komplekse løsninger kan forstås og brukes av ledere og fagmiljøer.",
+    "competencies": [
+      "Styringsinformasjon og beslutningsunderlag",
+      "Semantisk modellering og datakvalitet",
+      "Kontrollert systemmodernisering",
+      "Krav, eierskap og avhengigheter",
+      "Gevinstmetodikk og økonomisk analyse",
+      "Tverrfaglig formidling og overlevering"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utformet nesten hele den semantiske modellen og mesteparten av datatransformasjonen for styrings-BI om økonomi, bemanning og aktivitet i et firepersoners team. Løsningen ble driftet og forbedret etter brukertesting, og er senere avviklet.",
+          "Rekonstruerte arkitekturen i et eldre budsjetteringsverktøy og gjennomførte kodeendringene for integrert bemanningsgrunnlag med differansekontroll og akseptansekriterier. Modernisert verktøy er brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Medutviklet i et firepersoners team en forbedret gevinstmetode som ble innført som sykehusdekkende standard og var aktiv om lag 2,5 år senere.",
+          "Utformet en etterprøvbar modell for gevinstfordeling ved manglende direkte bruksdata, med synlige vekter og kontroller. Modellen ble ferdigstilt og overlevert controllere tidlig i 2026.",
+          "Har bidratt med krav- og arbeidsstrukturer samt teknisk veiledning i samarbeid med økonomi-, data- og rapporteringsmiljøer."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok egen tildelt månedsoppgjørsflyt og leverte avstemming, resultatforklaring og rapportering til klinikkledere etter innledende opplæring.",
+          "Bygget Excel/VBA-verktøy for konvertering og validering ved REGERP-overgangen, brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "application_direction": {
+    "backbone": "Fra fragmentert styringsinformasjon til etterprøvbare prioriteringer: semantisk modell og systemavhengigheter, kontrollert modernisering og felles metode i faktisk bruk.",
+    "top_employer_problems": [
+      "Ledelsen trenger et felles bilde av informasjon, ansvar og avhengigheter for veivalg.",
+      "Arkitektur og styringssystemer må fungere i endring uten å skape unødig dokumentasjonsbyrde."
+    ],
+    "structure_guidance": "Søknaden bør tolke to integrerte bevisenheter: modellering/styringsinformasjon og kontrollert endring/felles metode. Hold metode- og teknologidetaljer i CV. La gapet til formell EA- og bankpraksis være redelig uten defensiv åpningsprosa."
+  },
+  "avoid_guidance": [
+    "Ikke la tittelen eller CV-overskriften antyde formelt virksomhetsarkitekturmandat.",
+    "Ikke likestill prosjektbasert governance med DORA, BIA, GRC eller bankfaglig rammeverkserfaring.",
+    "Ikke fremstille det avviklede BI-produktet som nåværende ansvar eller proxy-modellens overlevering som organisatorisk bruk."
+  ],
+  "counterfactual_route": {
+    "identity": "Rådgiver for økonomisk styring og gevinstmetodikk",
+    "rationale": "Hvis arbeidsgiver legger mest vekt på beslutningsunderlag og felles styringsprinsipper, kan sykehusdekkende gevinstmetode og transparent proxy-modell bære mer enn BI-arkitekturen. Ruten dekker fortsatt ikke formelt EA-minstekrav.",
+    "evidence_refs": [
+      "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+      "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+    ]
+  },
+  "risk_notes": [
+    "Annonsen beskriver ett senior virksomhetsarkitektspor og nevner svært spesifikk finansregulatorisk og metodisk erfaring; ikke la nærliggende sykehuserfaring passere som direkte oppfyllelse.",
+    "Fristen i den avledede annonsen er 27.09.2026; Stage 1 gjør ingen portal- eller innsendingstiltak."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-01",
+      "plain_language_label": "Ser sammenhenger mellom informasjon, prosess og beslutning",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "vacancy_relevance": "Eika ønsker sammenheng og riktig abstraksjonsnivå på tvers av styringsdata.",
+      "intended_employer_interpretation": "Kan strukturere et uklart informasjons- og avhengighetsbilde til et konkret beslutningsgrunnlag.",
+      "expression_ceiling": "Beskriv dokumentert semantisk modellering og systemkartlegging på prosjektplan, ikke enterprise architecture-eierskap.",
+      "expression_guardrail": "Koble analyse til levert og brukt løsning.",
+      "misread_risk": "Kan virke som ren teoretiker uten operativ gjennomføring."
+    },
+    {
+      "facet_id": "PF-12",
+      "plain_language_label": "Gjør forutsetninger og kontroller etterprøvbare",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "vacancy_relevance": "Regulert beslutningsstøtte krever synlige kilder, roller og avvik.",
+      "intended_employer_interpretation": "Bruker kontroll der den beskytter beslutningen og endringen.",
+      "expression_ceiling": "Prosjektbasert sporbarhet, proxykontroller og differansekontroll; ikke formell GRC- eller sikkerhetsstyring.",
+      "expression_guardrail": "Vis konkret beslutningsnytte og bruk, ikke metode for metodens skyld.",
+      "misread_risk": "Kan oppfattes som prosessdrevet eller for tung for pragmatiske miljøer."
+    }
+  ],
+  "requires_source_inspection_observed": false,
+  "writer_guidance": "Skriv for ett senior virksomhetsarkitektspor, men med en korrekt rådgiveridentitet. Eikas formulering om at kandidaten ikke skal eie alle detaljer støtter vekt på informasjonsbehov, roller og beslutninger; bruk den som arbeidsgiveroppgave, ikke som bevis på at kandidaten har hatt tilsvarende myndighet. I brevet bør PRJ-01s modell og PRJ-03s kontroller være distinkte historier; PRJ-04 viser faktisk felles bruk.",
+  "binding": {
+    "run_id": "r20260927-205220-984088",
+    "job_id": "eika_lead_enterprise_architect_senior_virksomhetsarkitekt",
+    "employer": "Eika",
+    "title": "Lead Enterprise Architect slash Senior Virksomhetsarkitekt",
+    "manifest_sha256": "54bb9727cb0c930dfbaa7607edba818bc4e965582ec746e39173cb9cab27bd8b",
+    "vacancy_sha256": "4ac2f851a60af6f0eca11b77093e344da806140141cc5aee80f67f2db12101b2",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "c4ceabaa82370cff63b9ea71f5ba3ce7549ecf95623d1baf6f6ee01090beb3b8"
+  }
+}

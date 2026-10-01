@@ -1,0 +1,64 @@
+{
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT | Brukerstøtte, opplæring og KI i arbeidshverdagen",
+    "profile": "Rådgiver økonomi og IKT ved Oslo universitetssykehus og samfunnsøkonom med master fra NTNU. Har i om lag tre år vært registrert superbruker for kunstig intelligens, og svarer på tekniske henvendelser fra kolleger i en Teams-kanal. Har laget og forbedret verktøy som mange bruker: konverteringsverktøy ved en ERP-overgang som ble tatt i bruk i flere klinikker, og et budsjetteringsverktøy i bruk i hele sykehuset, med opplæringsmateriell for brukerne. Bruker KI strukturert i analyse og utvikling, med tydelige instruksjoner, tester og kontroll av resultatet.",
+    "competencies": [
+      "Teknisk brukerstøtte og feilsøking",
+      "Opplæring, veiledninger og onboarding",
+      "Praktisk bruk av KI med menneskelig kontroll",
+      "Testing og vurdering av nye verktøy og plattformer",
+      "Forbedring og automatisering av digitale arbeidsflyter",
+      "Behovsavklaring og dialog med brukere og kunder",
+      "M365: Teams, Loop, Forms, Excel og PowerPoint",
+      "Power BI, Excel/VBA, Power Query, SQL, R og Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Registrert superbruker for kunstig intelligens ved sykehuset i om lag tre år, og svarer på tekniske henvendelser fra kolleger i en Teams-kanal.",
+          "Satte opp arbeidsstrukturen for KI-kodeagenter i et prognoseprosjekt under utvikling, med prosjektinstruksjoner, tydelig kildeprioritet, logger, overleveringer og tester. Har ansvar for arkitektur og integrasjon, og gjennomgår bidrag fra kollega og agenter før de tas inn.",
+          "Videreutviklet sykehusets budsjetteringsverktøy i Excel/VBA i en prosess med om lag 50 involverte, var i praksis eneste utvikler av endringene og laget opplærings- og presentasjonsmateriell for controllerne. Verktøyet ble brukt i hele sykehuset i budsjettprosessene for 2026 og 2027.",
+          "Testet avdelingens styringsdashbord med faktiske brukere, observerte hva som skapte forvirring og forbedret løsningen i avgrensede runder. Holdt en intern workshop for kolleger om datamodellering, datakvalitet og beste praksis i Power BI.",
+          "Lærte bort Power BI og semantisk modellering til teknisk personell i en annen organisasjon gjennom flere arbeidsmøter.",
+          "Deltok i piloter og utforskning av Fabric, Power Platform, dbt og Pega, og vurderte Forms, Loop, Power BI og lavkodeverktøy for oppdragsinntak og samhandling, målt mot sykehusets rammer."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til REGERP, og lærte VBA underveis. Verktøyene ble brukt av økonomirådgivere i flere klinikker i perioden etter overgangen.",
+          "Koblet data fra blant annet JIT, ADI, REGERP, GAT, lønnsgrunnlag og DRG-rapporter i klinikkens økonomi- og rapporteringsarbeid.",
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten og sendte etter hvert månedsrapportene til klinikkens ledere selv."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "På Oslo universitetssykehus har jeg i om lag tre år vært registrert superbruker for kunstig intelligens, og jeg svarer på tekniske henvendelser fra kolleger i en Teams-kanal. Til daglig er jeg rådgiver økonomi og IKT, med master i samfunnsøkonomi, og arbeider mye i grenseflaten mellom systemene og dem som bruker dem. Derfor søker jeg stillingen som systemkoordinator, der en stor del av hverdagen handler om KI.",
+    "body_paragraphs": [
+      "I eget arbeid bruker jeg KI til analyse, dokumentasjon og utvikling. I et prognoseprosjekt vi utvikler på sykehuset, satte jeg opp arbeidsstrukturen for kodeagentene: prosjektinstruksjoner som sier hva som gjelder og hva som ikke er lov, logger og overleveringer slik at arbeidet kan tas opp igjen, og tester før noe tas inn. Jeg gjennomgår det agentene og kollegaen min leverer før det blir en del av løsningen. Det er den samme holdningen jeg ville tatt med til meglerne: finne ut hvor KI faktisk sparer tid, og være tydelig på hvor et menneske må se over.",
+      "Jeg har også sett hva som skjer når et verktøy skal fungere for mange brukere. Ved overgangen til nytt økonomisystem laget jeg på eget initiativ Excel/VBA-verktøy for å konvertere og kontrollere gamle konteringslinjer, og de ble brukt av økonomirådgivere i flere klinikker i tiden etter overgangen. Senere videreutviklet jeg sykehusets budsjetteringsverktøy, laget opplæringsmateriell for controllerne og så verktøyet tatt i bruk i hele sykehuset. Et styringsdashbord testet jeg med faktiske brukere, observerte hvor de ble forvirret og rettet det opp i korte runder.",
+      "Kundedialog har jeg fra tiden som sikkerhetskonsulent i Sector Alarm, der jeg avklarte behov, laget pristilbud og solgte direkte til kunder. Nye verktøy har jeg prøvd ut gjennom piloter og tidlig tilgang til blant annet Fabric, Power Platform og Pega, og vurdert mulighetene opp mot sykehusets rammer."
+    ],
+    "closing": "Meglerbransjen, Core og EIE 365 må jeg lære, og der vil jeg bruke den første tiden tett på meglerne og Brokio. Det jeg kan bidra med, er rask og ryddig oppfølging av henvendelser, veiledninger som er skrevet for dem som skal bruke dem, opplæring både digitalt og på samlinger, og nøktern testing av KI-verktøy før de rulles ut. Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#045-7-teknologi-og-metodeinventar",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#028-4-4-trygge-ki-pastander"
+  ],
+  "writer_note": "AI moved from supplement to lead: superuser role answering technical inquiries is the closest documented analogue to handling broker system inquiries; coding-agent operating structure shows controlled AI use. REGERP tools (cross-clinic adoption) added as user-facing system change; Sector Alarm used for the customer-dialogue minimum. No Core/EIE 365, vendor coordination, office setup or AI-product claim."
+}

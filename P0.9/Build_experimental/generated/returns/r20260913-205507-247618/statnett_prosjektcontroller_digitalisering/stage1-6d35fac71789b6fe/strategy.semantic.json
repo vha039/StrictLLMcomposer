@@ -1,0 +1,214 @@
+{
+  "employer_decision_problem": "Statnett trenger en økonom som kan gjøre styringen av deler av en digitaliseringsportefølje beslutningsklar: samle budsjett, prognose, faktisk forbruk og økonomiske vurderinger til pålitelig oppfølging, samarbeide med prosjektledere og produktmiljøer, og videreutvikle arbeidsmåter uten å miste kontroll over regnskapsmessig kvalitet. Det er et prosjektcontrollerbehov med en reell digitaliseringskontekst, ikke primært et behov for å bygge IT-løsninger.",
+  "selection_logic": "Velg den smaleste, mest direkte ruten: samfunnsøkonom med praktisk økonomiprosess, budsjett- og styringsarbeid som også kan modernisere en kritisk arbeidsflyt kontrollert. PRJ-03 og BAR svarer samlet på hvordan kandidaten arbeider når økonomidata, endringer i verktøy og kvalitet i beslutningsgrunnlaget henger sammen. De reduserer usikkerheten mer enn en BI-, KI- eller prognoseidentitet ville gjort. Den formelle masteren dekker utdanningskravet, men skal ligge som formelt signal i CV-en fremfor å konkurrere med de bærende arbeidseksemplene.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver økonomi og IKT med praktisk erfaring fra økonomiprosesser, budsjettarbeid og kontrollert digitalisering av beslutningsstøtte.",
+  "headline_hypothesis": "Rådgiver økonomi og IKT | økonomistyring, budsjettprosesser og digitalisering",
+  "shortlist_thesis": "Vegard kan bringe controller-nær økonomiforståelse inn i digitaliseringsarbeidet: han har både arbeidet operativt med økonomiprosesser, rapportering og prosjektøkonomiske enkeltsaker, og gjennomført kontrollert modernisering av et forretningskritisk budsjetteringsverktøy. Han skal ikke fremstilles som en erfaren eier av en digital prosjektportefølje eller IT-kontrakter, men som en analytisk økonom som gjør komplekse økonomiske arbeidsflyter mer sporbare, brukbare og beslutningsklare.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Høyere utdanning på masternivå innen økonomi, teknologi eller tilsvarende.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ],
+      "note": "Fullført mastergrad i samfunnsøkonomi; pågående KI-studium er kun et supplement og ikke nødvendig for å dekke kravet."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Erfaring fra økonomistyring, prosjektcontrolling eller business controlling.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Dokumenterer operativ økonomioppfølging, rapportering, budsjettbidrag og modernisering av budsjetteringsprosess; ikke formell prosjektcontrollerrolle eller økonomiansvar for en digitaliseringsportefølje."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "God forståelse for regnskap og økonomiske prosesser.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "BAR-arbeidet omfattet tildelt månedsoppgjør, avstemming, rapportering, budsjett- og prosjektøkonomiske oppgaver; avgrens til klinikkens tildelte flyt, ikke hele OUS eller årsoppgjør."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Kompetanse i budsjett- og prognosearbeid, kostnadsestimering og økonomiske analyser.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Støtter budsjettarbeid, økonomiske analyser og transparente økonomiske modellforutsetninger. Det etablerer ikke dokumentert kostnadsestimering for Statnett-lignende IT-prosjekter eller realiserte gevinster."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Økonomistyring knyttet til IT, teknologi eller digitalisering er en fordel.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "PRJ-03 viser digitalisering av en økonomisk kritisk budsjetteringsarbeidsflyt, men ikke økonomioppfølging av IT-prosjekter eller en teknologiinvesteringsportefølje."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Helhetlig økonomioppfølging av en portefølje av digitaliseringsinitiativer, prosjekter og programmer.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "note": "Ingen kilde dokumenterer ansvar for en samlet prosjekt-, program- eller digitaliseringsportefølje. CV-en kan vise relevant økonomiprosess og kontrollert endring; søknaden må ikke antyde porteføljeansvar."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Oppfølging av økonomiske rammer i kontrakter, særlig for IT-løsninger og konsulentbruk.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "note": "Ingen kandidatmyndighet dokumenterer kontraktsøkonomi eller oppfølging av IT- og konsulentavtaler. Ikke bygg en bro fra prosjektøkonomiske enkeltsaker til kontraktsansvar."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Videreutvikle metoder, verktøy og arbeidsprosesser innen prosjekt- og produktøkonomi.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Bruk PRJ-03 som hovedbevis for kontrollert forbedring av en budsjetteringsarbeidsflyt; PRJ-06 kan underbygge sporbare antakelser i økonomisk beslutningsstøtte uten å påstå innført modellbruk eller ROI."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Gode kommunikasjonsevner på norsk og trygg dialog med ulike fagmiljøer og interessenter.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:OTHER#032-5-1-sprak"
+      ],
+      "note": "Underbygg med lederrapportering, controller-onboarding og norsk som morsmål; ikke erstatt konkret samarbeidsbevis med en generell påstand om kommunikasjonsevne."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Analytisk, strukturert og løsningsorientert arbeid med forbedringsmuligheter i et miljø med høy aktivitet og utvikling.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Vis dette gjennom arkitekturrekonstruksjon, differanse-/paritetskontroll, akseptansekriterier og transparente modellforutsetninger, ikke som ubundet personlighetsprosa."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Bærende bevis for å kunne videreutvikle en økonomisk kritisk arbeidsflyt under kontinuitets- og kvalitetskrav: rekonstruerte et arvet budsjetteringsverktøy, integrerte bemanningsdata og gjennomførte kodeendringene med paritetskontroll, akseptansekriterier, risikoregister og controller-onboarding.",
+      "claim_ceiling": "Han skapte ikke det opprinnelige verktøyet og eide ikke budsjettprosessen eller hele moderniseringen. Sykehusdekkende bruk dokumenterer bruk av verktøyet, ikke besparelser, feilfrihet, personlig budsjettautoritet eller porteføljecontrolling.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "role": "Bærende bevis for praktisk økonomiprosess og beslutningsstøtte: overtok den tildelte månedsoppgjørsflyten, kvalitetssikret og rapporterte til ledere, bidro i budsjett og prosjektøkonomiske enkeltsaker, og bygget konverterings- og valideringsverktøy ved ERP-overgang.",
+      "claim_ceiling": "Gjelder BAR og tildelte oppgaver, ikke ansvar for hele OUS, årsoppgjør, sentral ERP/Oracle-løsning, fast prosjektportefølje eller målt effektiviseringsgevinst.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ],
+      "role": "Formelt toppsignal i CV-en for masterkravet og for analysegrunnlaget bak økonomiske vurderinger; holdes kort i søknaden fordi den praktiske økonomiprosessen må bære hovedargumentet.",
+      "claim_ceiling": "Masteren gir ikke dokumentert spesialisering, sluttkarakter, oppgavetema eller erstatning for praktisk prosjektcontroller-, kontrakts- eller regnskapsansvar.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Rollen ber om økonomioppfølging av digitaliseringsinitiativer, prosjekter og programmer, mens kandidatgrunnlaget ikke dokumenterer ansvar for en slik samlet portefølje.",
+      "reframe": "La søknaden være konkret om den overførbare kjernen: økonomiske arbeidsflyter, budsjett, rapportering, kontrollert verktøyendring og beslutningsgrunnlag. La CV-en vise bredden, men ikke fylle porteføljegapet med tittel- eller mandatprosa.",
+      "honesty_note": "Ikke bruk ord som porteføljeansvar, programcontrolling eller eier av digitaliseringsinvesteringer om tidligere arbeid."
+    },
+    {
+      "objection": "Oppfølging av kontraktsrammer for IT-løsninger og konsulentbruk er en konkret oppgave uten dokumentert direkte erfaring.",
+      "reframe": "Ikke gjør dette til et selvstendig svakepunkt i søknaden. Vis heller dokumentert økonomisk kontroll, avstemming, validering og arbeid med prosjektøkonomiske enkeltsaker der det støtter den bredere controllerrollen.",
+      "honesty_note": "Ingen kontraktsøkonomi, anskaffelse eller leverandøroppfølging kan påstås."
+    },
+    {
+      "objection": "Kostnadsestimering i teknologi- og digitaliseringsprosjekter er ikke særskilt dokumentert.",
+      "reframe": "Bruk PRJ-06 kun som bevis for transparent økonomisk modellering under usikkert datagrunnlag og PRJ-03/BAR for budsjett- og kontrollnær erfaring; behold skillet mellom en slik modell og IT-prosjektkalkyler.",
+      "honesty_note": "Ikke tilskriv PRJ-06 realiserte gevinster, organisatorisk bruk eller endelige klinikkvekter."
+    }
+  ],
+  "motivation_bridge": "Statnetts oppgave gjør digitaliseringsøkonomi meningsfull når bedre styring av investeringer faktisk skal gi et mer robust og effektivt kraftsystem. Det er en relevant neste arena for erfaringen med å gjøre økonomiske arbeidsprosesser, antakelser og endringer i beslutningsstøtte etterprøvbare og anvendelige for dem som skal prioritere og følge opp.",
+  "cv_direction": {
+    "headline_direction": "Etabler Vegard som rådgiver økonomi og IKT med økonomistyring, budsjettprosesser og digitalisering som hovedfunksjon; økonomimasteren og OUS-rollen skal være lett synlige på første skanning.",
+    "emphasis": [
+      "PRJ-03: kontrollert modernisering av et forretningskritisk budsjetteringsverktøy, med integrasjon av bemanningsdata, kontroller og controller-onboarding.",
+      "Tidlig BAR: tildelt månedsoppgjør, budsjettstøtte, prosjektøkonomiske enkeltsaker, lederrapportering og REGERP-nær valideringsautomatisering.",
+      "Master i samfunnsøkonomi og relevant metodegrunnlag som formell kvalifikasjon; praktisk erfaring skal fortsatt bære controllerargumentet.",
+      "Konkrete styrker i data-/prosesskvalitet, avstemming, dokumentasjon og brukbar overlevering fremfor en bred teknologiliste."
+    ],
+    "deprioritize": [
+      "Aktiv prognoseutvikling, plattformpiloter og KI som hovedidentitet.",
+      "Dyp VBA- eller BI-implementasjonsdetalj som ikke forklarer økonomistyringsverdien.",
+      "Ubegrunnede påstander om IT-kontrakter, digital porteføljestyring, programansvar eller økonomiske gevinster."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Bygg søknaden rundt én forbindelse: Vegard kombinerer praktisk økonomiprosess med evnen til å forbedre de digitale verktøyene og kontrollene som gjør økonomioppfølging mulig. PRJ-03 skal vise kontrollert modernisering og innføring; BAR skal vise at økonomi, rapportering og kvalitet ikke bare er teknisk interesse.",
+    "top_employer_problems": [
+      "Å skape beslutningsklare og korrekte økonomiske grunnlag når digitale initiativer, budsjett, prognoser og faktisk forbruk må følges opp i samarbeid med flere fagmiljøer.",
+      "Å videreutvikle metoder og verktøy for økonomioppfølging uten å miste sporbarhet, kontroll eller operativ kontinuitet.",
+      "Å overføre controller-nær økonomiforståelse til digitaliseringskontekst uten å overselge erfaring med portefølje- eller kontraktsansvar."
+    ],
+    "structure_guidance": "Åpne med yrkesankeret og Statnetts konkrete styringsoppgave. Gi mest plass til PRJ-03 som bærende arbeidsbevis, og bruk BAR som den korte, praktiske økonomiproveniens som forklarer hvorfor moderniseringen er controllerrelevant. Hold masteren som formelt signal og motivasjonen knyttet til investeringer, styring og samfunnsoppgaven; ikke lag et eget teknologicas e."
+  },
+  "avoid_guidance": [
+    "Ikke kall kandidaten prosjektcontroller, senior prosjektcontroller eller ansvarlig for digitaliseringsportefølje på grunnlag av OUS-arbeidet.",
+    "Ikke flytt BARs tildelte månedsoppgjør eller prosjektøkonomiske enkeltsaker til ansvar for hele OUS, en fast prosjektportefølje, årsoppgjør eller regnskapsledelse.",
+    "Ikke gjør PRJ-03 til eierskap til budsjettprosessen, originalutvikling, full modernisering eller dokumentert tids-, feil- eller kostnadsgevinst.",
+    "Ikke antyd kontraktsøkonomi, IT-anskaffelser, konsulentoppfølging eller kostnadsestimering når disse ikke er dokumentert.",
+    "Ikke la KI, plattformpiloter eller verktøyliste fortrenge økonomistyring, kontroll og beslutningsgrunnlag som hovedidentitet.",
+    "Ikke overfør PRJ-06s ferdigstilte og overleverte modell til dokumentert organisatorisk bruk, realisert gevinst eller direkte kostnadsfordeling."
+  ],
+  "counterfactual_route": {
+    "identity": "Samfunnsøkonomisk rådgiver for transparente økonomiske beslutningsmodeller og gevinst-/investeringsvurderinger.",
+    "rationale": "Dersom final writer vurderer at Statnett primært vil vektlegge kvalitet i økonomiske vurderinger fremfor operativ controllerhistorikk, kan PRJ-06 støtte en alternativ vinkel om synlige antakelser og kontroll under ufullstendig datagrunnlag. Den er svakere som hovedrute fordi den ikke dokumenterer porteføljeoppfølging eller IT-kontrakter.",
+    "evidence_refs": [
+      "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+      "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+    ]
+  },
+  "risk_notes": [
+    "Derived vacancy view was readable and source inspection was not required; platform-generated skill labels were not treated as employer requirements.",
+    "The material distinction is between controller-near finance/process evidence and absent ownership of a digital project/program portfolio or contract economics.",
+    "Any quantitative or adoption wording for PRJ-03, BAR or PRJ-06 must retain the documented scope and lifecycle rather than imply savings, measured effect or authority."
+  ],
+  "personality_facets": [],
+  "writer_guidance": "The strongest version is calm and controllercredible, not a technology showcase: make the reader see a candidate who understands the economic consequences of changing an operational tool and who brings controls, documentation and onboarding into the change. Retain the two real gaps in the strategy for truthful allocation, but do not turn them into a defensive application paragraph unless a specific sentence would otherwise mislead. Use no more factual detail than needed to make PRJ-03 and BAR diagnostically useful, and keep each case's ownership, lifecycle and outcome separate.",
+  "requires_source_inspection_observed": false
+}

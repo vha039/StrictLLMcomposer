@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260924-214443-57ef9e",
+    "job_id": "bufdir_spesialradgjevar_tilskot",
+    "final_package_sha256": "6dd2dde6fddac451b49f6bcf2b62220e83982c9eaf76989021bf500e0d4fb96f",
+    "document_date": "2026-09-25",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "688732a32369e2e8718fbb556f0512509fc308d0a0fb43533e09c990c7934c4d",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "9591d19e76a03f767d8fd772090bef99c983d720d49454c12f3d6b3a64db4a48",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260924-214443-57ef9e\\jobs\\bufdir_spesialradgjevar_tilskot\\out\\CV_Bufdir_Spesialradgjevar_avdeling_tilskot.docx",
+      "output_sha256": "dfbdedc3b8b2706070247b0111fe164cb7bdaa465fbdec78624bae25235e6731",
+      "bytes": 40657,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260924-214443-57ef9e\\jobs\\bufdir_spesialradgjevar_tilskot\\out\\CV_Bufdir_Spesialradgjevar_avdeling_tilskot.pdf",
+      "output_sha256": "ecf92276ab5f5f9c7296adc70c3fd8fca32fc38392bdd4d13cf1547624481daa",
+      "bytes": 291014,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_uur5h338\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260924-214443-57ef9e\\jobs\\bufdir_spesialradgjevar_tilskot\\out\\.rnd.4206f4e2\\CV_Bufdir_Spesialradgjevar_avdeling_tilskot.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260924-214443-57ef9e\\jobs\\bufdir_spesialradgjevar_tilskot\\out\\.rnd.4206f4e2\\CV_Bufdir_Spesialradgjevar_avdeling_tilskot.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260924-214443-57ef9e\\jobs\\bufdir_spesialradgjevar_tilskot\\out\\Soknad_Bufdir_Spesialradgjevar_avdeling_tilskot.docx",
+      "output_sha256": "3dc3f03ab8f6441e909da7029d0af8fc431c8dde8f4f7eba97034a39db6e5a90",
+      "bytes": 38831,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260924-214443-57ef9e\\jobs\\bufdir_spesialradgjevar_tilskot\\out\\Soknad_Bufdir_Spesialradgjevar_avdeling_tilskot.pdf",
+      "output_sha256": "f32c174211eb8a5f87dc42d51d5a8c33a40bd2f87f8895319e1a5cec9f4c2f64",
+      "bytes": 192606,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_1lleyjnw\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260924-214443-57ef9e\\jobs\\bufdir_spesialradgjevar_tilskot\\out\\.rnd.4206f4e2\\Soknad_Bufdir_Spesialradgjevar_avdeling_tilskot.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260924-214443-57ef9e\\jobs\\bufdir_spesialradgjevar_tilskot\\out\\.rnd.4206f4e2\\Soknad_Bufdir_Spesialradgjevar_avdeling_tilskot.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-24T22:00:18Z"
+}

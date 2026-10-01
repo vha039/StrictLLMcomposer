@@ -1,0 +1,66 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | Gevinstrealisering, beslutningsgrunnlag og digital gjennomføring",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus, der jeg arbeider mellom økonomisk vurdering, styring og teknisk gjennomføring. Jeg har medutviklet et rammeverk for gevinstrealisering som ble innført som sykehusdekkende standard, utformet en investerings- og fordelingsmodell som gjør forutsetningene synlige for dem som skal bruke den, og stått for kodeendringene i moderniseringen av et virksomhetskritisk budsjetteringsverktøy som nå brukes sykehusdekkende. Arbeidet går gjennomgående fra økonomisk begrunnelse, via styring og prioritering, til en løsning fagfolk faktisk bruker.",
+    "competencies": [
+      "Gevinstrealisering: metodikk, estimering og standardisering",
+      "Beslutningsgrunnlag og investeringsvurdering under svakt datagrunnlag",
+      "Arbeidsformer og styringsstruktur: ansvar og avhengigheter, Scrum og Kanban, WIP",
+      "Kontrollert modernisering av virksomhetskritiske løsninger, med akseptansekriterier og risikoregister",
+      "Beslutningsstøtte og BI: Power BI, DAX, Power Query, SQL, Excel/VBA",
+      "Analyse og prognoser: R, Python, Stata, økonometri og tidsseriemetoder",
+      "Strukturert, menneskestyrt bruk av KI og kodeagenter i utviklings- og analysearbeid",
+      "Workshops, opplæring og overlevering til ledere, controllere og fagmiljøer"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Medutviklet i et team på fire et revidert rammeverk for gevinstrealisering og estimering på oppdrag fra ledelsen, med bidrag til forskningssyntese, metodisk og økonomisk vurdering og styringsstruktur. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et halvt år senere.",
+          "Utformet en modell for gevinstfordeling og investeringsvurdering i steril logistikk der bruksdata ikke bar en forsvarlig fordeling mellom klinikkene: vektede indirekte indikatorer, synlige og justerbare forutsetninger, fire grenmodeller og en konsolideringsmodell, skjemakontrollert overføring i Power Query og revisjoner for umappede rader og kontrollavvik. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Gjorde i praksis alle kodeendringene i moderniseringen av sykehusets arvede Excel/VBA-budsjetteringsverktøy, innenfor en interessentprosess med om lag femti deltakere. Atferdsbevarende refaktorering funksjon for funksjon med differansekontroll, akseptansekriterier og risikoregister, integrasjon av ansatt-, ansettelses- og bemanningsdata, og onboardingmateriell for controllere. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Utvikler beslutningsstøtte for økonomi, bemanning, aktivitet/DRG og pasientflyt med Power BI, DAX, Power Query, Excel/VBA, SQL og prosjektavhengig R og Python, og omsetter brede behov til avgrensede løsningsarkitekturer, kontroller og brukbare leveranser.",
+          "Deltok i firepersonersgruppen som etablerte Analyseavdelingen. Bidro med alternativer for teamstruktur, ansvar og avhengigheter, Scrum- og Kanban-strukturer, oppgavehierarki og WIP-design, og planla og fasiliterte workshops. Deler av strukturen ble tatt i bruk, andre deler ble lagt fram som forslag.",
+          "Hovedutvikler på backend i en styringsløsning i Power BI bygget fra grunnen, med nesten hele den semantiske modellen, mesteparten av ETL-logikken og om lag 80 til 90 prosent av DAX. Eide løsningen fra om lag august 2025 til den ble avviklet i februar 2026, og ledet en intern BI-workshop for økonomer. Lærte også opp teknisk personell i en annen rapporterings- og dataorganisasjon i Power BI og semantisk modellering, med vesentlig bidrag til en første komponent i en driftsrapport.",
+          "Eier teknisk arkitektur, orkestrering, automatisering og integrasjon i et pågående prognosearbeid for pasientvolum og kapasitet med 14-, 90- og 365-dagers horisonter, der implementeringen er fordelt mellom meg, kollega og kodeagenter. Arbeider menneskestyrt med KI gjennom prosjektinstruksjoner, kildepresedens og stoppregler, tester og bevisplikter og kritisk gjennomgang av output. Registrert som superbruker for kunstig intelligens ved OUS i om lag tre år."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen tre måneder hele den tildelte månedsoppgjørsflyten og gjennomførte mot slutten periodisering, avstemming, resultatforklaring og månedsrapportering til klinikkens ledere selvstendig.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av gamle konterings- og bilagslinjer mot REGERP-format ved systemovergangen. Verktøyene ble kort etter overgangen brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Bidro i budsjettprosessen for 2024 med årsverk, kvalitetssikring av bemannings- og vaktgrunnlag og forbedring av formler, og bygde et eget budsjetthjelpeark. Arbeidet også med prosjektøkonomi og leverte seksjonsvise DRG-estimater brukt i budsjett og planlegging."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Da gevinstene fra et sterilforsyningsprosjekt ved Oslo universitetssykehus skulle fordeles mellom klinikkene, fantes det ikke bruksdata som bar en direkte fordeling. Jeg avviste den direkte modellen og bygde i stedet en vektet modell av indirekte indikatorer, med forutsetninger og vekter synlige og justerbare i arbeidsbøkene, slik at controllerne kunne se hva et estimat hvilte på uten å måtte gå veien om en utvikler. Modellen ble ferdigstilt og overlevert tidlig i 2026. Å gjøre et investeringsgrunnlag etterprøvbart på den måten er kjernen i det Avinor beskriver når enheten for Digital Transformasjon skal sikre at investeringer i teknologi gir faktisk verdi.",
+    "body_paragraphs": [
+      "Gevinstarbeid har også en metodeside. Analyseavdelingens første store oppdrag kom fra ledelsen: en eksisterende metodikk for gevinstrealisering og estimering skulle forbedres. I et team på fire medutviklet jeg det reviderte rammeverket og bidro med forskningssyntese, metodisk og økonomisk vurdering og styringsstruktur. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et halvt år senere.",
+      "Den andre halvparten av oppgaven er å få endringen gjennom. Sykehusets budsjetteringsverktøy er et arvet Excel/VBA-verktøy på rundt tjue år som over tid er blitt virksomhetskritisk. Jeg gjorde i praksis alle kodeendringene i moderniseringen, innenfor en prosess med om lag femti deltakere i arbeidsgrupper og kravavklaringer. Jeg anbefalte en bredere omstrukturering, men implementeringsansvarlig satte en smalere ramme, og om lag åtti prosent av arbeidet ble atferdsbevarende refaktorering funksjon for funksjon, sikret med differansekontroll, akseptansekriterier og et risikoregister. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027, og jeg laget onboardingmateriell for controllerne. Målt tidsbesparelse eller feilreduksjon har jeg ikke tall på. Det som er dokumentert, er at verktøyet er i bruk.",
+      "Enheten skal arbeide der jeg selv har hatt mest utbytte av å stå: mellom begrunnelsen for en investering, prioriteringen mellom flere av dem og den praktiske gjennomføringen. Jeg var med i firepersonersgruppen som etablerte Analyseavdelingen ved OUS, og arbeidet der med oppgavedeling, ansvar og avhengigheter, med Scrum- og Kanban-strukturer og med workshops. Noe ble tatt i bruk, annet ble lagt fram som forslag. At Avinor nå bygger opp et nytt transformasjonsmiljø betyr at de samme spørsmålene skal besvares på nytt, denne gangen for en virksomhet der drift og sikkerhet setter rammene."
+    ],
+    "closing": "Hos dere vil jeg bidra til at digitale initiativer får et beslutningsgrunnlag ledelsen kan etterprøve, og til at tiltakene kommer helt frem til fagmiljøene som skal bruke dem. Jeg forklarer gjerne nærmere hvordan gevinstmodellene og budsjettmoderniseringen ble arbeidet fram."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#028-4-4-trygge-ki-pastander"
+  ],
+  "writer_note": "Ruten er beholdt, men vektingen er endret. Strategien rangerte PRJ-04 foran PRJ-06. Brevet åpner med PRJ-06 fordi annonsens gjentatte kjerne er at investeringer skal gi faktisk verdi, og PRJ-06 er den eneste posten der kandidaten selv avgjorde hva et investeringsgrunnlag kunne bære. PRJ-04 følger som klart atskilt erfaring med metodestandard og varighet. Ingen av dem låner status fra den andre. PRJ-03 bærer gjennomføringsargumentet.\nReparert understatement: PRJ-04 er skrevet som innført sykehusdekkende standard, fortsatt i bruk om lag to og et halvt år senere, i tråd med den godkjente måltallsraden, i stedet for en svakere rapportert-formulering. Teamrammen på fire står inntil påstanden. Tilsvarende er PRJ-03 skrevet med det bekreftede kodeansvaret i fullt omfang, uten å gjøre om lag femti deltakere til en gruppe kandidaten ledet.\nDenne versjonen komprimerer CV-en etter at første rendering ga tre sider mot et redaksjonelt mål på to. Komprimeringen følger doktrinens rekkefølge: det avviklede BI-dashbordet og den tverrorganisatoriske kompetanseoverføringen er strammet inn til ett punkt, og øvrige punkter er kortet ned språklig. Ingen mekanisme, grense, lifecycle eller støttet vurdering er fjernet, og brevet er uendret.\nGrenser som er holdt: ingen realisert gevinst, ROI eller business-case-beløp, ingen organisatorisk bruk av STE-modellen, controllerens innsyn skrevet som designhensyn og ikke som observert resultat, ingen målt tidsbesparelse eller feilreduksjon i PRJ-03, ingen portefølje-, program- eller personalmyndighet, ingen produksjonssetting eller verifisert modellytelse i prognosearbeidet, og ingen kobling fra Luftforsvaret til luftfartsdomene, adgang eller klarering."
+}

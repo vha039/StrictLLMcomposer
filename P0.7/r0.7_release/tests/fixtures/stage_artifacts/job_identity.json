@@ -1,0 +1,11 @@
+{
+  "job_id": "B01_J001_raadgiver",
+  "batch_id": "B01",
+  "macro_cluster_id": "B01_C01_process",
+  "employer": "Eksempelvirksomheten AS",
+  "title": "Rådgiver",
+  "unit": null,
+  "reference": null,
+  "language": "nb-NO",
+  "letter_required": true
+}

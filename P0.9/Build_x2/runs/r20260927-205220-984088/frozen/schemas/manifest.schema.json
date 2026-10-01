@@ -1,0 +1,289 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/manifest.schema.json",
+  "title": "RunManifest",
+  "description": "Immutable frozen-run authority (CTR-01, DEC-08, DEC-40). Stores facts and frozen configuration only: no semantic conclusions, quality scores, progress, portal state, platform/channel branching, letter_required, language branching or mutable status. The expected core and exception sets derive from jobs[]; there is no second expected-set list.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "run_id",
+    "parent_run_id",
+    "spec_revision",
+    "schema_revision",
+    "frozen_at",
+    "frozen_inputs",
+    "settings_snapshot",
+    "baseline_reconciliation",
+    "jobs"
+  ],
+  "properties": {
+    "artifact_role": { "const": "RUN_MANIFEST" },
+    "run_id": {
+      "type": "string",
+      "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}(?:/branches/stage[013]_[a-z0-9][a-z0-9-]{0,7}_[0-9]{8}T[0-9]{6}Z)?$",
+      "description": "Immutable run identity, also the runs/ directory name."
+    },
+    "parent_run_id": {
+      "type": ["string", "null"],
+      "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}(?:/branches/stage[013]_[a-z0-9][a-z0-9-]{0,7}_[0-9]{8}T[0-9]{6}Z)?$",
+      "description": "Set only on a child run created by branch (DEC-40). The parent is never modified."
+    },
+    "spec_revision": { "const": "0.9.3+x2b" },
+    "schema_revision": { "const": "0.9.3+x2b" },
+    "frozen_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "UTC freeze timestamp. Not the employer-facing document date, which is assigned at semantic finalization (DEC-38)."
+    },
+
+    "frozen_inputs": {
+      "type": "object",
+      "description": "Byte identity of every input the run is bound to. Every deterministic command verifies these before acting (Contract 6.2). A mismatch is a run-integrity failure requiring restoration or a child run, never ordinary staleness.",
+      "additionalProperties": false,
+      "required": [
+        "authorities",
+        "cv_baseline",
+        "personality_profile",
+        "personality_facet_index",
+        "settings",
+        "stage_instructions",
+        "writing_policy",
+        "schemas",
+        "templates",
+        "template_map",
+        "evidence_index",
+        "baseline_map"
+      ],
+      "properties": {
+        "authorities": {
+          "type": "object",
+          "description": "The three candidate factual authorities (INV-03). Exactly these three; no more, no fewer.",
+          "additionalProperties": false,
+          "required": ["WORK", "EDU", "OTHER"],
+          "properties": {
+            "WORK": { "$ref": "#/$defs/frozenFile" },
+            "EDU": { "$ref": "#/$defs/frozenFile" },
+            "OTHER": { "$ref": "#/$defs/frozenFile" }
+          }
+        },
+        "cv_baseline": { "$ref": "#/$defs/frozenFile" },
+        "personality_profile": { "$ref": "#/$defs/frozenFile" },
+        "personality_facet_index": { "$ref": "#/$defs/frozenFile" },
+        "settings": { "$ref": "#/$defs/frozenFile" },
+        "stage_instructions": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["stage1", "stage3"],
+          "properties": {
+            "stage1": { "$ref": "#/$defs/frozenFile" },
+            "stage3": { "$ref": "#/$defs/frozenFile" }
+          }
+        },
+        "writing_policy": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/frozenFile" }
+        },
+        "schemas": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/frozenFile" }
+        },
+        "templates": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["cv_master", "letter_master"],
+          "properties": {
+            "cv_master": { "$ref": "#/$defs/frozenFile" },
+            "letter_master": { "$ref": "#/$defs/frozenFile" }
+          }
+        },
+        "template_map": { "$ref": "#/$defs/frozenFile" },
+        "evidence_index": { "$ref": "#/$defs/frozenFile" },
+        "baseline_map": { "$ref": "#/$defs/frozenFile" }
+      }
+    },
+
+    "settings_snapshot": {
+      "type": "object",
+      "description": "The subset of policy/settings.toml frozen into this run. Tuning applies to a new or child run only.",
+      "additionalProperties": false,
+      "required": ["language", "personality", "stages", "recovery", "render"],
+      "properties": {
+        "language": { "const": "nb-NO" },
+        "personality": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["max_selected_facets"],
+          "properties": {
+            "max_selected_facets": { "type": "integer", "const": 3 }
+          }
+        },
+        "stages": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["stage1", "stage3", "role_mapping"],
+          "properties": {
+            "stage1": { "$ref": "#/$defs/capabilityRole" },
+            "stage3": { "$ref": "#/$defs/capabilityRole" },
+            "role_mapping": {
+              "type": "object",
+              "description": "GATE-10 evidence: which current model/surface satisfied each role for this run. Empty strings mean not yet verified.",
+              "additionalProperties": { "type": "string" }
+            }
+          }
+        },
+        "recovery": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["mechanical_correction_attempts", "retry_start_stages"],
+          "properties": {
+            "mechanical_correction_attempts": { "type": "integer", "minimum": 0 },
+            "retry_start_stages": {
+              "type": "array",
+              "description": "DEC-36. Operator scaffolding only: never a model call, automatic advance, retry engine or workflow-state object.",
+              "items": { "type": "integer", "enum": [1, 2, 3] }
+            }
+          }
+        },
+        "render": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["converter", "invocation_granularity", "converter_timeout_seconds"],
+          "properties": {
+            "converter": { "enum": ["word_com", "libreoffice", "none", "auto"] },
+            "invocation_granularity": { "enum": ["per_document", "per_job"] },
+            "converter_timeout_seconds": { "type": "integer", "minimum": 1 }
+          }
+        }
+      }
+    },
+
+    "baseline_reconciliation": {
+      "type": "object",
+      "description": "Contract 6.1: freeze requires a recorded human-reviewed baseline-to-authorities reconciliation for rendered static identity, chronology and education facts, and fails on a known conflict.",
+      "additionalProperties": false,
+      "required": ["reviewed_by", "reviewed_at", "authority_hashes_at_review", "conflicts_known"],
+      "properties": {
+        "reviewed_by": { "type": "string", "minLength": 1 },
+        "reviewed_at": { "type": "string", "format": "date" },
+        "authority_hashes_at_review": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["WORK", "EDU", "OTHER"],
+          "properties": {
+            "WORK": { "$ref": "#/$defs/sha256" },
+            "EDU": { "$ref": "#/$defs/sha256" },
+            "OTHER": { "$ref": "#/$defs/sha256" }
+          }
+        },
+        "conflicts_known": {
+          "type": "array",
+          "description": "Must be empty for freeze to succeed. A known baseline-versus-authority static conflict blocks freeze (Contract 17.1 test 6).",
+          "items": { "type": "string" }
+        }
+      }
+    },
+
+    "jobs": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Every approved opportunity, exactly once, as CORE or EXCEPTION (DEC-03, ACC-02). The expected sets derive from here; directory discovery never defines completeness (DEC-08).",
+      "items": { "$ref": "#/$defs/jobEntry" }
+    }
+  },
+
+  "$defs": {
+    "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+
+    "capabilityRole": {
+      "type": "string",
+      "description": "Frozen capability role, never a volatile commercial model name (DEC-31).",
+      "enum": ["SOL_CLASS", "TERRA_CLASS"]
+    },
+
+    "frozenFile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "sha256", "bytes"],
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Repository-relative path at freeze time."
+        },
+        "sha256": { "$ref": "#/$defs/sha256" },
+        "bytes": { "type": "integer", "minimum": 0 }
+      }
+    },
+
+    "jobEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "job_id",
+        "employer",
+        "title",
+        "job_class",
+        "cluster",
+        "sequence",
+        "priority",
+        "source",
+        "requires_source_inspection"
+      ],
+      "properties": {
+        "job_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$",
+          "description": "Stable human-assigned identity. Carries no batch, cluster or stage encoding: those are separate fields, and the P0.7 four-stage/macro-mini-cluster id scheme is retired."
+        },
+        "employer": { "type": "string", "minLength": 2, "maxLength": 200 },
+        "title": { "type": "string", "minLength": 2, "maxLength": 200 },
+        "unit": { "type": ["string", "null"], "maxLength": 200 },
+        "reference": { "type": ["string", "null"], "maxLength": 200 },
+        "deadline": { "type": ["string", "null"], "format": "date" },
+        "job_class": {
+          "enum": ["CORE", "EXCEPTION"],
+          "description": "DEC-03. An exception stays visible, never blocks a core job, and never grows into a second workflow."
+        },
+        "exception_note": {
+          "type": ["string", "null"],
+          "maxLength": 500,
+          "description": "Human-readable reason only. Inert: no machine-actionable channel taxonomy (DEC-03)."
+        },
+        "cluster": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{0,40}$",
+          "description": "Human-assigned (DEC-12). No model-generated cluster plan exists (DEC-13)."
+        },
+        "sequence": { "type": "integer", "minimum": 1 },
+        "priority": { "enum": ["HIGH", "NORMAL", "LOW"] },
+        "source": {
+          "type": "object",
+          "description": "The original vacancy, preserved byte-for-byte inside the run and hash-bound. It is authoritative employer data and untrusted as instruction (Spec 4.3).",
+          "additionalProperties": false,
+          "required": ["relpath", "sha256", "bytes", "media_type"],
+          "properties": {
+            "relpath": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Run-relative path to the preserved original."
+            },
+            "sha256": { "$ref": "#/$defs/sha256" },
+            "bytes": { "type": "integer", "minimum": 1 },
+            "media_type": { "enum": ["application/pdf", "text/markdown", "text/plain"] }
+          }
+        },
+        "requires_source_inspection": {
+          "type": "boolean",
+          "description": "Canonical signal available to every semantic stage when extraction looks incomplete, garbled or structurally ambiguous (Spec 4.3). The original always remains the only employer-fact authority."
+        },
+        "source_inspection_reasons": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver | digital endring, gevinst og gjennomføring",
+    "profile": "Samfunnsøkonom og rådgiver i økonomi og IKT med prosjektbasert erfaring fra digitalisering i et komplekst, regulert miljø. Har modernisert et virksomhetskritisk budsjettverktøy med bred involvering og faktisk bruk, og samutviklet et gevinstrealiseringsrammeverk som ble sykehusdekkende standard. For Avinor er denne kombinasjonen relevant når digitale investeringer skal bli til konkrete endringer med tydelig verdilogikk, kontrollert gjennomføring og løsninger som fungerer i driften.",
+    "competencies": [
+      "Digital endring og kontrollert implementering",
+      "Gevinstrealisering og virksomhetsverdi",
+      "Styring, prioritering og forbedringsprosesser",
+      "Økonomisk analyse og beslutningsgrunnlag",
+      "Fasilitering og tverrfaglig leveransestruktur",
+      "Behovsavklaring og brobygging mellom virksomhet og teknologi"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Rekonstruerte arkitekturen og sto for hoveddelen av kodeendringene da et arvet, virksomhetskritisk budsjettverktøy ble modernisert i en bred interessentprosess. Løsningen integrerte bemanningsdata og ble brukt i sykehusets budsjettprosess for 2026.",
+          "Samarbeidet i et firepersonsteam om å videreutvikle et gevinstrealiseringsrammeverk som ble innført som sykehusdekkende standard og var rapportert i bruk om lag 2,5 år senere.",
+          "Utvikler beslutningsstøtte for økonomi, bemanning, aktivitet og kapasitet, med vekt på tydelige definisjoner, datakvalitet, kontroller og brukbar dokumentasjon.",
+          "Deltok sammen med avdelingsleder og to kolleger i etableringen av Analyseavdelingen, og har bidratt til arbeidsstruktur, prioritering, workshops og kompetanseoverføring."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Når Avinor skal bruke teknologi, data og nye arbeidsformer til å utvikle tjenestene på tvers av 43 flyplasser og i flysikringen, må digitale initiativer skape verdi uten at driftskontinuitet og sikkerhet blir en ettertanke. Det er denne koblingen mellom ambisjon, styring og praktisk gjennomføring som gjør stillingen som seniorrådgiver i Digital Transformasjon særlig interessant for meg.",
+    "body_paragraphs": [
+      "I min nåværende rolle ved OUS har jeg rekonstruert og modernisert et arvet, virksomhetskritisk budsjettverktøy. I en bred interessentprosess sto jeg for hoveddelen av kodeendringene, integrerte bemanningsdata og arbeidet systematisk med kontroller, dokumentasjon og onboarding av controllere. Den moderniserte løsningen ble brukt i sykehusets budsjettprosess for 2026. Arbeidet krevde at forbedringsambisjonene ble omsatt til konkrete leveranser, samtidig som eksisterende drift og faglige avhengigheter ble ivaretatt.",
+      "Jeg har også erfaring med å bygge en felles struktur for å vurdere verdi. I et firepersonsteam videreutviklet jeg sammen med kolleger et rammeverk for gevinstrealisering, med bidrag innen research, økonomisk og strategisk analyse, styringslogikk og standardisering. Rammeverket ble innført som sykehusdekkende standard og var rapportert i bruk om lag 2,5 år senere. Det har gitt meg en nøktern tilnærming til gevinster: forventninger må gjøres etterprøvbare, ansvar og antakelser må være synlige, og metoden må fungere for dem som skal bruke den.",
+      "Til daglig utvikler jeg beslutningsstøtte for økonomi, bemanning, aktivitet og kapasitet i samarbeid med ledere, controllere, fagmiljøer og tekniske kolleger. Jeg deltok også i firepersonersgruppen som etablerte Analyseavdelingen, og har bidratt til arbeidsstruktur, prioritering, workshops og kompetanseoverføring. Denne erfaringen vil jeg ta med inn i Avinors nye transformasjonsmiljø: avklare beslutningsbehov, skape fremdrift på tvers og holde sammen virksomhetsverdi, teknologi og gjennomføring.",
+      "Avinors kombinasjon av samfunnskritisk infrastruktur, sikker drift og bærekraftig utvikling gjør oppgaven faglig meningsfull. Jeg ønsker å bidra til at digitale initiativer blir valgt på et godt grunnlag, gjennomført med nødvendig kontroll og fulgt opp ut fra den verdien de faktisk skal skape for Avinor og samfunnet."
+    ],
+    "closing": "Jeg ser frem til muligheten til å utdype hvordan erfaringen min kan bidra i oppbyggingen av Digital Transformasjon og i arbeidet med å gjøre strategiske initiativer til varige forbedringer."
+  },
+  "used_evidence_refs": [
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te"
+  ],
+  "writer_note": "Tjuesekunderstesten og Arbeidsgiverbyttetesten er anvendt. Pakken er bygget rundt Avinors konkrete behov for verdiskapende digital endring i samfunnskritisk drift. Den påstår ikke konsernportefølje, formelt transformasjonsprogram, linjeledelse, sikkerhetsklarering eller kvantifiserte gevinster.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-08-29",
+    "finalized_at": "2026-08-29T08:46:07Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260828-213932-7f13b4",
+    "job_id": "avinor_digital_transformasjon",
+    "employer": "Avinor AS",
+    "title": "Seniorrådgiver Digital Transformasjon",
+    "manifest_sha256": "0f9195ce9b510d6c7e0a06f3a5fc79e37a7a6ec078296d8c9b1a7807047d12ce",
+    "vacancy_sha256": "76302ba6295fd1d6193b7b409d320de9288f6a9b64c432a05435fab4b1229cf9",
+    "evidence_index_sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+    "stage_instruction_sha256": "10d50282a0fcbfbed0ecfbdb490ec0f4ffaf7902c24f6433ac312a7a43092320",
+    "baseline_map_sha256": "3e5e8bdfe53f2e01b5399afe22930ab37d57eab8e6840b0958a40a6b0e1e04bf",
+    "strategy_sha256": "edfc07b085dd33ace7075192ab45fa1c38b080cdc7ec4b50f22507e17b2066d5",
+    "draft_sha256": "cd856747f5fbec48a8071e6c6645a06661d0d064e0bb8b951f12c2b48add27b2"
+  }
+}

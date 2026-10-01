@@ -1,0 +1,61 @@
+{
+  "artifact_role": "ADVOCACY_LAYER",
+  "letter": {
+    "opening": "Stortingets administrasjon skal både ivareta og fornye institusjonen. For meg setter det en konkret ramme for forbedringsarbeidet: nye arbeidsformer må kunne etterprøves, samtidig som den løpende driften holdes i gang. Jeg velger rådgiversporet, med erfaring fra å overta faste stabsoppgaver og utforme strukturene rundt nye. Det er kombinasjonen av praktisk oppfølging og rom for å forbedre selve arbeidsformen som gjør denne rollen interessant for meg.",
+    "body_paragraphs": [
+      "I Barne- og ungdomsklinikkens stab gikk jeg fra opplæring og kontroll av eget arbeid til selv å stå for kvalitetssikringen og rapporteringen til ledere. Overtakelsen krevde at jeg forsto sammenhengen mellom det som ble registrert, kontrollene underveis og forklaringen mottakeren trengte. Jeg sammenstilte økonomi-, bemannings- og aktivitetsgrunnlag til lederrapportering og dokumenterte arbeidssteg i flyten. Å følge en sak helt frem betyr for meg også å kunne forklare resultatet, ikke bare levere tallene. Den erfaringen er relevant for en stab der både små oppfølgingsoppgaver og større beslutningsgrunnlag må få en tydelig avslutning. Løpende økonomiske avklaringer ga dessuten trening i å håndtere saker etter behov, innenfor økonomilederens kapasitet og den tildelte oppgaven.",
+      "I analyseavdelingens firepersoners miljø har jeg utformet arbeidsmodell og arbeidsinntak med et spørsmål foran verktøyvalget: Hvilken beslutning skal dette arbeidet gjøre mulig? Formål, avhengigheter og kriterier for ferdig arbeid er derfor med i inntaket. Et separat arbeid med sykehusets budsjetteringsverktøy viser hvordan jeg håndterer en fastsatt ramme: Jeg anbefalte en bredere omstrukturering, men gjennomførte kodeendringene funksjon for funksjon slik innføringslederen krevde. I en prosess med om lag 50 involverte brukte jeg sammenligning med opprinnelig funksjon og eksplisitte akseptansekriterier for å kontrollere endringene. En annen foretrukket løsning fritar ikke for å gjøre den valgte løsningen etterprøvbar. Jeg skriver også korte beslutningssammendrag og mer detaljert referansemateriell, slik at mottakeren får riktig dybde. Decisions og Planner lærer jeg raskt; det jeg tar med, er arbeidet med å få saker, møter og beslutninger til å henge sammen i de samhandlingsflatene en avdeling faktisk jobber i."
+    ],
+    "closing": "Hvor i avdelingens årshjul er behovet størst for å knytte planlegging, beslutning og oppfølging tettere sammen?"
+  },
+  "keystones": [
+    {
+      "id": "K1",
+      "text": "For meg setter det en konkret ramme for forbedringsarbeidet: nye arbeidsformer må kunne etterprøves, samtidig som den løpende driften holdes i gang.",
+      "document": "LETTER",
+      "function": "EMPLOYER_FACT"
+    },
+    {
+      "id": "K2",
+      "text": "Jeg velger rådgiversporet, med erfaring fra å overta faste stabsoppgaver og utforme strukturene rundt nye.",
+      "document": "LETTER",
+      "function": "TRACK_CHOICE"
+    },
+    {
+      "id": "K3",
+      "text": "En annen foretrukket løsning fritar ikke for å gjøre den valgte løsningen etterprøvbar.",
+      "document": "LETTER",
+      "function": "JUDGMENT"
+    },
+    {
+      "id": "K4",
+      "text": "Decisions og Planner lærer jeg raskt; det jeg tar med, er arbeidet med å få saker, møter og beslutninger til å henge sammen i de samhandlingsflatene en avdeling faktisk jobber i.",
+      "document": "LETTER",
+      "function": "GAP_TURN"
+    }
+  ],
+  "used_evidence_refs": [
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+  ],
+  "outside_brief_refs": [],
+  "notes": [
+    "CV-feltene er arvet. CV-overskriften inneholder tankestrek fra Stage 1; tegnsettingen overlates til Editor i Stage 3."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76",
+    "job_id": "stortinget_virksomhetsstyring_lederstotte",
+    "employer": "Stortinget",
+    "title": "seniorrådgiver/rådgiver",
+    "evidence_fingerprint": "985f494292995bb3536d6e68c4b77541d6766e53ecea41d22d6d048a4a92cf69",
+    "policy_fingerprint": "eb46b36b2107b4a07e787b4ffa867e3a1ec66e13191088c1e2752982eaafed21",
+    "inputs": {
+      "scout": "c6daa72125a313583505cbf46aacdce9970e7b82bd8199f29b24284daeb4c019",
+      "brief": "196437b7c8555c62fa02ceda4d03d67569fe267a9fdd03d1806a914af9db984f",
+      "cv_draft": "606554330525529f7415e6404447f63fb5a11bdf8b20ec078f4960c5715b4477"
+    }
+  }
+}

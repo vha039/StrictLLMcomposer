@@ -1,0 +1,20 @@
+{
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [],
+  "known_limitations": [
+    "Annonsens regelverksomfang (GDPR, NIS2 og Digitalsikkerhetsloven, EU AI Act, leverandørstyring, EASA Part-IS) er ikke dokumentert erfaring. Pakken nevner det verken som erfaring eller som fravær. Det er et bevisst valg fra briefen: kravet er formulert som en fordel, og MUST-kravet om «business operations, advisory or transformation» er dekket. Leseren vil likevel se at regelverkslinjen ikke besvares direkte.",
+    "Stillingstittelen er Senior Manager. Pakken hevder ingen linjemyndighet, formelt produkteierskap eller lederrolle, i tråd med annonsens egen formulering om å drive saker fremover uten å støtte seg på formell linjemyndighet.",
+    "Gevinstfordelingsmodellen står på ferdigstillelse og overlevering til controllere. Implementering per gren, endelige vekter, organisatorisk bruk og realiserte gevinster er uavklart, og brevet hevder ingen av delene.",
+    "Arbeidsinntak og arbeidsmodell er utformet og evaluert med prosjektnivåbruk. Det finnes ikke belegg for virksomhetsutrulling eller organisasjonsdekkende adopsjon, og teksten går ikke lenger enn «utformet».",
+    "Styrings-BI-løsningen er avviklet, eierskapet varte fra om lag august 2025 til februar 2026, og kolleger ledet innhold og visualisering. Alle tre grensene står nå i CV-punktet.",
+    "Annonsen navngir bare CV-en ved innsending («upload an updated copy of your CV»). Brevet er produsert fordi portalen tar imot begge, men CV-ens toppsone må kunne bære argumentet alene hvis brevet ikke får plass."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": "Brevets åpning underdrev skjønnsatomet: den beskrev gevinstfordelingsmodellen som utformet, men utelot at den ble ferdigstilt tidlig i 2026 og overlevert til controllere. Kortet dokumenterer uttrykkelig en ferdigstilt og overlevert modell, og CV-en hadde det allerede. I tillegg manglet CV-ens BI-punkt både kortets bidragsskala og kollegagrensen; begge er lagt inn.",
+  "notes": [
+    "Brev og CV er på bokmål selv om annonsen er på engelsk og arbeidsspråket er oppgitt som engelsk og norsk. Det følger DEC-01 og DEC-04 og er ikke en redaksjonell forglemmelse.",
+    "Klyngeobservasjon: tankestreken i CV-overskriften er rettet her som i de andre jobbene i rung. Selve overskriftsformen er et Stage 1-mønster.",
+    "Brevet er kortere enn plantallet (292 mot 380 ord). Det som gikk ut var lærdomssetninger, generaliserende maksimer og en dobbel overføringsbro, ikke evidens; teksten er ikke fylt opp igjen for å treffe tallet."
+  ]
+}

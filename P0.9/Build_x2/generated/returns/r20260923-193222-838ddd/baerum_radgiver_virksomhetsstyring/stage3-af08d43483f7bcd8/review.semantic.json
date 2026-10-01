@@ -1,0 +1,25 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Framsikt-erfaring og kommunal konsernoppfølging er ikke dokumentert. Pakken bygger en positiv bro fra sykehusets sentrale budsjettverktøy og klinikkens lederrapportering uten å antyde Framsikt-bruk og uten fraværspåstand.",
+      "recommended_action": "Ingen lokal reparasjon. Framsikt er en preferanse i annonsen, ikke et krav.",
+      "priority": 1
+    },
+    {
+      "reason": "Frist 23.09.2026, samme dag som pakken ble laget. Annonsen ber om tiltredelse snarest; pakken lover ingen dato.",
+      "recommended_action": "Skum og send manuelt umiddelbart; oppgi eventuelt tilgjengelighet selv i portalen.",
+      "priority": 2
+    }
+  ],
+  "known_limitations": [
+    "Erfaringen med virksomhetsstyring er fra helseforetak, ikke kommune; ingen formell virksomhetsstyringsrolle.",
+    "BAR-oppgjørsflyten gjelder egen tildelt klinikkflyt, ikke hele OUS eller årsoppgjør.",
+    "STE-modellen er ferdigstilt og overlevert; organisatorisk bruk og realiserte gevinster er uavklart og ikke påstått."
+  ],
+  "material_strategy_change": "Beholdt strategiens rute, men åpnet med den raske overtakelsen av oppgjørsflyten som svar på vikariatets behov for rask innkjøring, la til tiltaksoppfølgingen i BAR som konkret bro til konsernoppfølging, og hentet inn DRG-estimatene (PRJ-10) og REGERP-verktøyene i CV-en.",
+  "upstream_claim_repaired": null,
+  "notes": [
+    "Personlige egenskaper som humør og arbeidskapasitet er ikke selvrangert; initiativ og selvstendighet vises gjennom egeninitierte verktøy og selvstendig oppgjørsflyt."
+  ]
+}

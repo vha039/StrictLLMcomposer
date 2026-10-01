@@ -1,0 +1,65 @@
+{
+  "artifact_role": "SCOUT_FACTS",
+  "vacancy": {
+    "employer": "Abacus",
+    "title": "ERP-rådgiver",
+    "language": "nb",
+    "sector": "PRIVATE"
+  },
+  "requirements": [
+    {
+      "id": "Q01",
+      "quote": "erfaring med økonomiprosesser",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ]
+    }
+  ],
+  "thresholds": [
+    {
+      "id": "T1",
+      "quote": "minimum tre års erfaring",
+      "dimension": "YEARS",
+      "required": "3",
+      "candidate": "3,5",
+      "status": "MEETS",
+      "refs": []
+    }
+  ],
+  "tracks": [],
+  "employer_facts": [
+    {
+      "fact": "BNXT er produktet",
+      "quote": "BNXT by Visma",
+      "conversion": "kunden må ha kontroll på oppgjør i systemet"
+    }
+  ],
+  "submission": {
+    "letter_requirement": "REQUIRED",
+    "route": "PORTAL",
+    "screening_questions": [
+      "Kildespørsmål?"
+    ]
+  },
+  "reader_signals": [],
+  "triage": {
+    "core": [
+      {
+        "ref": "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "why": "gevinstfordeling og modellvalg"
+      }
+    ],
+    "reserve": []
+  },
+  "binding": {
+    "run_id": "r20260916-185207-a37938",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "b144bacbc6f87355ed822731aa3641543374ef7ea4388537b497d2cfeb931962",
+    "policy_fingerprint": "aa4d64ac6552944b30ffeb3944de5f2cea9c07a2b46da3adb105283065ac6aa0",
+    "inputs": {}
+  }
+}

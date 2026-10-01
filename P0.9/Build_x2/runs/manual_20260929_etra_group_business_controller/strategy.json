@@ -1,0 +1,627 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": false,
+  "job": {
+    "employer": "Etra Gruppen",
+    "title": "Group Business Controller",
+    "candidate": "Vegard Håland",
+    "finn_id": "473733693",
+    "vacancy_path": "C:/Users/veggi/OneDrive/Documents/Codex/Jobbsøk_26/P0.9/Build_x2/inbox/vacancies/Group Business Controller til vekstorientert konsern _ FINN.no.pdf"
+  },
+  "employer_decision_problem": "Arbeidsgiveren oppgir fire selskaper, samlet omsetning på om lag 500 millioner og vekst gjennom oppkjøp og organisk utvikling. En ny Group Business Controller skal støtte CFO med periodisk rapportering, analyser, datterselskapsoppfølging, budsjett/prognoser og utvikling av økonomifunksjonens prosesser og verktøy. Strategisk slutning: Den sentrale ansettelsesbeslutningen er om kandidaten kan gjøre økonomidata fra flere virksomheter til et pålitelig og anvendelig beslutningsgrunnlag, samtidig som han får det daglige arbeidet gjort. Annonsen dokumenterer ikke konkrete feil eller mangler i dagens rapportering.",
+  "selection_logic": "Velg økonomi- og virksomhetsstyringsruten, med operativ økonomiflyt og lederrapportering først, deretter personlig gjennomføring i budsjetteringsverktøy og styrings-BI. Bruk investeringsmodellen som bevis for økonomisk skjønn og mottakertilpasset beslutningsstøtte. Gevinstmetoden gir et alternativt bevis for felles praksis som ble innført og varte. KI, programmering og avansert modellutvikling skal ikke bli yrkesanker. Kandidaten er en relevant, men mindre erfaren utfordrer til rollen; femårsminimumet er ikke oppfylt av dokumentert økonomierfaring.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver innen økonomi og IKT med praktisk økonomi-, rapporterings- og systemutviklingserfaring ved OUS.",
+  "headline_hypothesis": "Samfunnsøkonom | Økonomistyring og ledelsesrapportering",
+  "shortlist_thesis": "Vegard kombinerer erfaring fra selvstendig månedsoppgjør og klinikklederrapportering med utvikling av budsjettverktøy og økonomisk styringsinformasjon. Han kan dokumentere både driftsnært økonomiarbeid og evnen til å bygge verktøy som andre bruker. Det er en relevant kombinasjon for en ny økonomifunksjon som skal støtte CFO og flere selskaper, men etablerer ikke fem års erfaring, tidligere konserncontrolleransvar eller oppkjøpserfaring.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Høyere økonomisk utdannelse.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EDU_DEGREES"
+      ],
+      "note": "Fullført bachelor og master i samfunnsøkonomi. Vis utdanning tydelig i CV; pågående KI-program er supplement."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Minimum fem års relevant erfaring fra tilsvarende rolle, eventuelt kombinert med revisjon, consulting eller lignende.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "evidence_refs": [
+        "OUS_EMPLOYMENT",
+        "EARLIER_EMPLOYMENT"
+      ],
+      "note": "OUS fra mars 2023 gir omtrent tre og et halvt års relevant erfaring per september 2026. Ingen dokumentert revisjons-/consultingrolle. Tidligere praktiske jobber og studier kan ikke fylle dette minimumet. Behold gapet i review; korrekt kronologi må gjøre erfaringen tydelig uten oppblåst senioritet."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Periodisk rapportering til ledelse og eiere og utvikling av ledelsesrapportering, KPI-er og rapporteringspakker.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "BAR_FINANCE",
+        "MANAGEMENT_BI",
+        "WORK_COMMUNICATION"
+      ],
+      "note": "Selvstendig rapportering til klinikkledere og styrings-BI for økonomi, bemanning og aktivitet er direkte støttet. Rapportering til konserneiere og utforming av en samlet konsernrapporteringspakke er ikke dokumentert. CV skal vise mottaker, økonomiinnhold og kontroll; brevet forklarer relevansen for CFO."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Lønnsomhets-, prosjekt- og virksomhetsanalyser som gir anbefalinger og beslutningsgrunnlag.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "BAR_FINANCE",
+        "INVESTMENT_MODEL",
+        "BENEFITS_METHOD"
+      ],
+      "note": "Prosjektøkonomi, resultatforklaring, gevinst-/investeringsvurdering og økonomisk skjønn støttes. Privat VVS-lønnsomhet, entreprisekalkyler og kommersiell marginstyring er ikke dokumentert. Bruk proxy-modellens avveining som konkret beslutningsbevis, ikke som realisert ROI."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Følge opp datterselskaper og forbedre kvalitet og struktur i rapporteringsprosessene.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "BAR_FINANCE",
+        "MANAGEMENT_BI",
+        "BUDGET_TOOL"
+      ],
+      "note": "Klinikkrapportering, avstemming, felles datadefinisjoner og verktøy brukt på tvers gir overførbarhet. Ikke påstå datterselskapsansvar, konsernkonsolidering eller elimineringer. Brevet kan foreslå bidrag til sammenlignbare styringsdata som fremtidig anvendelse."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Bistå CFO i budsjett-, prognose- og planprosesser.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "BAR_FINANCE",
+        "BUDGET_TOOL",
+        "BAR_FORECAST"
+      ],
+      "note": "Faktiske budsjettbidrag og leverte DRG-estimater brukt i planlegging støttes; modernisering av verktøy er ikke eierskap til hele budsjettet. Ingen dokumentert CFO-partnerrolle eller konsernprognoseansvar. Ha prognoseleveransen i CV fremfor å la senere utviklingsprosjekt bære kravet."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Solide Excel-kunnskaper, systemforståelse og interesse for prosess-/styringsverktøyutvikling; BI-/ERP-erfaring er en fordel.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "BUDGET_TOOL",
+        "BAR_FINANCE",
+        "MANAGEMENT_BI",
+        "WORK_TOOLS"
+      ],
+      "note": "Sterkt Excel/VBA, Power Query og Power BI-bevis; praktisk REGERP-/ADI-relatert økonomiflyt. Ikke oppgrader ERP-bruk og konvertering til systemeierskap. Verktøyene skal dokumentere økonomisk nytte og gjennomføring."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Samarbeide med ekstern regnskapsleverandør og nøkkelpersoner; jobbe tett med CFO, CEO og eiere.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "BAR_FINANCE",
+        "WORK_COMMUNICATION",
+        "INVESTMENT_MODEL"
+      ],
+      "note": "Samarbeid og leveranser til ledere, controllere og fagmiljøer støttes. Ekstern regnskapsleverandør, eierrapportering og daglig CFO-sparring er ikke dokumentert. La overlevering til controllere og klinikklederrapportering vise reelle mottakere."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Delta i oppkjøp, integrasjoner og øvrige prosjekter.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "BUDGET_TOOL"
+      ],
+      "note": "Ingen dokumentert M&A, finansiell due diligence eller oppkjøpsintegrasjon. Dataintegrasjon og teknisk modernisering gir nyttig systemkompetanse, men oppfyller ikke M&A-delen. Hold skillet i review og i alle formuleringer om integrasjon."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Erfaring fra prosjektbasert virksomhet, entreprenørvirksomhet eller lignende.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "BAR_FINANCE",
+        "EARLIER_EMPLOYMENT"
+      ],
+      "note": "Klinikkens prosjektøkonomi og praktisk arbeid sammen med heismontører er relevant bredde. TKS Heis dokumenterer ikke entreprenørøkonomi, controlling eller prosjektmarginansvar. Eldre rolle kan stå kort i CV uten å bære kvalifikasjonen."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Sterk økonomisk og kommersiell forståelse.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EDU_DEGREES",
+        "EDU_FINANCE",
+        "BAR_FINANCE",
+        "INVESTMENT_MODEL"
+      ],
+      "note": "Økonomisk metode, driftsøkonomi og investeringsvurdering er støttet. Ikke utled privat konsernfinansiering, prising, anbud, VVS-markedskunnskap eller lønnsomhetsansvar."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Flytende norsk og engelsk, skriftlig og muntlig.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "LANGUAGES"
+      ],
+      "note": "Norsk morsmål; engelsk flytende skriftlig og muntlig. Vis språk i CV."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Bygge struktur, omsette tall til anbefalinger, håndtere store og små operative oppgaver, gjennomføre og samarbeide godt.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "BAR_FINANCE",
+        "BUDGET_TOOL",
+        "INVESTMENT_MODEL",
+        "TEAM_MODEL",
+        "WORK_COMMUNICATION"
+      ],
+      "note": "Vis produksjon, kontroll og lederrapportering i BAR, egen kodegjennomføring og mottakertilpasset modell. Teamstørrelse dokumenterer ikke samarbeidskvalitet; bruk støttet handling og mottaker. Ingen generisk selvkarakteristikk erstatter bevis."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "BAR_FINANCE"
+      ],
+      "role": "Bærende økonomibevis: tildelt månedsoppgjør, avstemming, resultatforklaring, lederrapportering, budsjett og prosjektøkonomi. Beviser at økonomigrunnlaget er operativt, ikke bare akademisk.",
+      "claim_ceiling": "Overtok hele egen tildelt månedsoppgjørsflyt innen omtrent tre måneder; leverte kvalitetssikret rapportering til klinikkledere, bidro i budsjett/prosjektøkonomi og bygget REGERP-konverteringsverktøy brukt av økonomirådgivere i flere klinikker. Ingen konsernregnskaps-, årsoppgjørs-, ERP-eier- eller all-OUS-mandat.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "BUDGET_TOOL"
+      ],
+      "role": "Bærende forbedringsbevis: egen gjennomføring i et arvet, virksomhetskritisk økonomiverktøy med faktisk bred bruk.",
+      "claim_ceiling": "Rekonstruerte arvet arkitektur og var i praksis eneste kodende utvikler for 2025-moderniseringens kodeendringer innen en bred interessentprosess. Modernisert verktøy brukt sykehusdekkende for 2026 og 2027; 2027-modernisering ferdigstilt. Ikke opphavsperson, budsjetteier eller eier av hele moderniseringen; ingen godkjente effektmålinger.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "MANAGEMENT_BI"
+      ],
+      "role": "Vise evne til å utvikle sammenhengende styringsdata og rapporteringsgrunnlag for økonomi, bemanning og aktivitet.",
+      "claim_ceiling": "Hovedutvikler for backend, nesten hele semantiske modellen og mest ETL i et firepersoners team; kolleger ledet innhold og visualisering. Månedlig drift og avgrenset eierskap omtrent august 2025 til februar 2026. Løsningen ble avviklet rundt februar 2026; ikke nåværende løsning eller målt beslutningseffekt.",
+      "lifecycle": "DECOMMISSIONED"
+    },
+    {
+      "evidence_refs": [
+        "INVESTMENT_MODEL"
+      ],
+      "role": "Faglig skjønn og økonomisk beslutningsstøtte: valgte transparente proxyer når direktefordeling ikke hadde holdbart datagrunnlag.",
+      "claim_ceiling": "Utformet fem arbeidsbøker med synlige forutsetninger og justerbare vekter, valgte bort sentral VBA for at controllere skulle kunne etterprøve modellen. Ferdigstilt og overlevert tidlig 2026. Ingen dokumentert organisatorisk bruk, realisert gevinst, ROI eller eierskap til klinikkenes estimater.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "BAR_FORECAST"
+      ],
+      "role": "Dekke prognose-/planleggingsspørsmålet med faktisk levert analyse, fremfor aktivt utviklingsarbeid.",
+      "claim_ceiling": "Brukte Stata, R og Power Query til seksjonsvise DRG-estimater levert og brukt i BARs budsjett og planlegging i 2023. Ikke konsernprognoser, fast kadens, produksjonsmotor, ene-kodeforfatterskap eller generalisert treffsikkerhet.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "BENEFITS_METHOD"
+      ],
+      "role": "Alternativt bevis for utvikling av felles metode og varig praksis på tvers av en stor organisasjon.",
+      "claim_ceiling": "Medutviklet forbedret gevinstmetode i firepersoners team; innført som sykehusdekkende standard og aktiv omtrent 2,5 år senere. Ingen soloforfatter, metodeleder, dokumentert individuell implementeringsdel eller målt gevinst.",
+      "lifecycle": "IMPLEMENTED"
+    },
+    {
+      "evidence_refs": [
+        "TEAM_MODEL",
+        "WORK_COMMUNICATION"
+      ],
+      "role": "Vise samarbeid, strukturbygging, workshops og tilpasning til økonomimottakere.",
+      "claim_ceiling": "Deltok i etableringsgruppen for Analyseavdelingen, bidro med ansvar/avhengigheter og workshopfasilitering; formidlet til ledere, controllere og fagmiljøer. Bevar skille mellom innførte praksiser og forslag; ingen personalansvar eller konsernfunksjonsleder."
+    },
+    {
+      "evidence_refs": [
+        "OUS_EMPLOYMENT",
+        "EARLIER_EMPLOYMENT",
+        "EDU_DEGREES",
+        "EDU_FINANCE",
+        "LANGUAGES",
+        "TRUST",
+        "WORK_TOOLS"
+      ],
+      "role": "Korrekt kronologi, grader, språk og relevant bredde; støtte for Excel-/systemforståelse og økonomisk faggrunnlag.",
+      "claim_ceiling": "Bare kildebekreftede titler, perioder og grader; KI-program er pågående. Studentverv er valgte tillitsverv, ikke profesjonell ledelse. Tidligere praktiske roller er ikke fem års relevant controllererfaring."
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Femårsminimumet er ikke oppfylt av dokumentert relevant erfaring.",
+      "reframe": "Gjør bredden i faktisk økonomiansvar, egne leveranser og operativt brukte verktøy tydelig. La arbeidsgiveren vurdere om kombinasjonen kan kompensere; teksten skal ikke hevde at kravet er oppfylt.",
+      "honesty_note": "Ingen summering av studieår, TKS Heis eller andre praktiske roller til controlleransiennitet."
+    },
+    {
+      "objection": "Ingen dokumentert konserncontroller-, datterselskaps- eller oppkjøpsrolle.",
+      "reframe": "Vis reell erfaring med økonomirapportering, felles datagrunnlag og kontroller og foreslå hvordan den kan brukes i en økonomifunksjon i vekst.",
+      "honesty_note": "Sykehusets klinikker er ikke datterselskaper; teknisk integrasjon er ikke oppkjøpsintegrasjon."
+    },
+    {
+      "objection": "Offentlig sykehusøkonomi skiller seg fra kommersiell prosjekt-/entreprenørøkonomi.",
+      "reframe": "Bruk konkrete økonomiprosesser og investeringsvurderinger; hold teknikk underordnet økonomiinnsikt og praktisk arbeid.",
+      "honesty_note": "Ingen erfaring med VVS-prosjektmarginer, entreprisekalkyler eller anbudsøkonomi skal utledes."
+    }
+  ],
+  "motivation_bridge": "Etra oppretter en økonomifunksjon tett på CFO samtidig som flere selskaper skal inngå i en større struktur. Kandidatens relevante interesse kan begrunnes i kombinasjonen av løpende økonomiarbeid og muligheten til å bygge felles rapporteringsgrunnlag og anvendelige styringsverktøy. Knytt dette til hans faktiske erfaring fra økonomiflyt, data og kontroller; ikke oppfinn en personlig lidenskap for VVS, private equity eller oppkjøp.",
+  "cv_draft": {
+    "headline": "Samfunnsøkonom | Økonomistyring og ledelsesrapportering",
+    "profile": "Samfunnsøkonom med mastergrad og erfaring fra økonomi, lederrapportering og utvikling av styringsverktøy ved Oslo universitetssykehus. Har gjennomført månedsoppgjør og klinikklederrapportering, bidratt i budsjett og prosjektøkonomi og utviklet løsninger i Excel/VBA og Power BI. Kombinerer praktisk økonomiarbeid med analyse, systemforståelse og kontrollert forbedring av rapporteringsprosesser.",
+    "competencies": [
+      "Økonomi- og ledelsesrapportering",
+      "Månedsoppgjør, avstemming og resultatforklaring",
+      "Budsjett, prognoser og prosjektøkonomi",
+      "Excel/VBA og Power Query",
+      "Power BI og sammenhengende styringsdata",
+      "Investeringsvurdering og beslutningsstøtte"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utvikler og forbedrer beslutningsstøtte for økonomi, bemanning og aktivitet, med vekt på sammenhengende datagrunnlag, kontroller og anvendelig rapportering.",
+          "Gjennomførte kodeendringene i 2025-moderniseringen av et arvet Excel/VBA-budsjetteringsverktøy innen en bred interessentprosess. Integrerte bemanningsdata og brukte differansekontroll og akseptansekriterier; modernisert verktøy ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Var hovedutvikler for backend i teamets styrings-BI for økonomi, bemanning og aktivitet, med semantisk modell og Power Query. Hadde avgrenset drift og eierskap fra om lag august 2025 til februar 2026; løsningen ble senere avviklet.",
+          "Utformet en transparent modell for investerings- og gevinstvurdering med synlige forutsetninger og justerbare vekter når direkte bruksdata manglet. Ferdigstilte og overleverte modellen til controllere tidlig i 2026.",
+          "Medutviklet en forbedret gevinstmetode i et firepersoners team. Metoden ble innført som sykehusdekkende standard og var fortsatt aktiv om lag 2,5 år senere."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, med periodisering, avstemming, kvalitetssikring, resultatforklaring og rapportering til klinikkledere.",
+          "Bidro i budsjett og prosjektøkonomi, blant annet fakturering, prosjektoppfølging og økonomisk underlag; bygget et eget budsjetthjelpeark.",
+          "Utviklet egeninitierte Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker.",
+          "Brukte Stata, R og Power Query til seksjonsvise DRG-estimater som ble levert og brukt i budsjett og planlegging."
+        ]
+      }
+    ]
+  },
+  "application_direction": {
+    "backbone": "Operativ økonomiforståelse kombinert med evnen til å bygge pålitelig rapportering og styringsverktøy for andre.",
+    "top_employer_problems": [
+      "Løpende rapportering og analyser må være anvendelige for CFO og ledelse.",
+      "Vekst og flere selskaper krever videreutvikling av økonomiprosesser, datagrunnlag og verktøy."
+    ],
+    "structure_guidance": "Skriv et konsentrert brev med økonomiarbeidet som første bevis, ikke sykehusets samfunnsoppdrag eller en teknologiliste. Koble BARs rapportering og kontroll til moderniseringen som viser egen gjennomføring og faktisk bruk. Investeringsmodellen kan vise skjønn og mottakertilpasning dersom den gir mer enn et ekstra case. CV dokumenterer omfang, verktøy, datoer og bredde; brevet tolker relevansen for CFO og den nyopprettede rollen. Ingen pålagt åpning eller antall cases."
+  },
+  "avoid_guidance": [
+    "Ikke påstå fem års relevant økonomierfaring.",
+    "Ikke kalle kandidaten tidligere Group Business Controller eller konsernregnskapsansvarlig.",
+    "Ikke fremstille klinikkoppfølging som datterselskapsoppfølging eller dataintegrasjon som M&A.",
+    "Ikke la pågående KI-/prognoseutvikling fortrenge leverte økonomi- og rapporteringsbevis.",
+    "Ikke påstå besparelser, ROI, privat prosjektmarginansvar eller konkrete mangler hos Etra.",
+    "Ikke blande budsjettverktøyets versjoner, gevinstmetodens teamattribusjon og investeringsmodellens uavklarte bruk."
+  ],
+  "counterfactual_route": null,
+  "personality_facets": [],
+  "writer_guidance": "Prioriter økonomisk rolleforståelse og praktisk leveranse fremfor teknisk prestisje. Femårsminimumet er den største screeningrisikoen; bevart, riktig kronologi og tydelige leveranser er viktigere enn forsøk på å skjule gapet. Stage 3 kan rekonstruere strategi og CV fritt innen det vedlagte faktagrunnlaget. Lokale evidence_refs nedenfor er nøkler til verbatim kildepassasjer i denne filen, ikke pipeline-indeks-ID-er. Ingen runtime-binding, hashes eller valideringsstatus skal oppfinnes.",
+  "risk_notes": [
+    "Søknadsfrist i PDF: Snarest; fortløpende behandling. Ingen live bekreftelse av annonse-/portalstatus.",
+    "Annonsen ber om søknad via FinancePeople, ikke e-post. Kandidaten sender selv; ingen portalhandling er autorisert.",
+    "Kandidatens oppsigelsestid, tilgjengelighet, lønnsønske og privat kommersiell erfaring er ikke oppgitt.",
+    "Dette er direkte Stage 1 uten freeze, manifest, handoff eller stage-submit; ingen påstand om runtime-aksept."
+  ],
+  "selected_evidence": [
+    {
+      "evidence_ref": "OUS_EMPLOYMENT",
+      "source_file": "Work_experience.md",
+      "source_heading": "1.1 Oslo universitetssykehus HF — Rådgiver Økonomi og IKT",
+      "text": "### 1.1 Oslo universitetssykehus HF — Rådgiver Økonomi og IKT\n\n**Period:** March 2023–present.  \n**Current placement:** Direktørens stab, Analyseavdelingen, operationally December 2023–present.  \n**Early placement:** Barne- og ungdomsklinikken (BAR), Stab, operationally March–November 2023.  \n**Administrative transition:** Formal position change 1 June 2023; actual first working day in Analyseavdelingen 1 December 2023. Use the operational dates when describing delivered work and the formal date only when an administrative chronology is required.\n\n#### Nåværende rolle – forsvarlige ansvarsområder\n\n| Evidence | Responsibility/contribution | Contribution ceiling |\n|---|---|---|\n| `EMP-OUS-001` | Works with hospital finance, staffing, activity/DRG, patient flow/capacity and related management information. | Project/assignment scope; not authority over all OUS data or operations. |\n| `EMP-OUS-002` | Develops and improves decision-support solutions using Power BI, DAX, Power Query, Excel/VBA, SQL, R and Python according to need. | Tool depth is project-specific; never present all tools as equal-depth mastery. |\n| `EMP-OUS-003` | Converts broad or underspecified needs into scoped architectures, implementable work packages, controls and usable deliverables. | Functional lead pattern; no programme/line authority. |\n| `EMP-OUS-004` | Acts project-specifically as technical architect, principal implementer or integrator in multidisciplinary hospital work. | Name the project and team boundary when prominent. |\n| `EMP-OUS-005` | Establishes definitions, source precedence, audit trails, validation, change control, acceptance criteria and proof obligations. | Project-level governance; no formal enterprise-governance title. |\n| `EMP-OUS-006` | Produces dashboards, models, workbooks, reports, workshops, onboarding, documentation and handover for managers, controllers, specialists and technical colleagues. | Prefer a concrete project example. |\n| `EMP-OUS-007` | Contributes to team structure, task decomposition, backlogs, WIP/prioritization, collaboration workspaces and workshop formats. | No personnel authority. |\n| `EMP-OUS-008` | Integrates coworker and AI-assisted contributions while retaining human review, validation and accountability. | Preserve distributed authorship. |\n| `EMP-OUS-009` | Participated in the four-person founding group that established Analyseavdelingen. | Founding participation, not sole establishment or department leadership. |\n| `EMP-OUS-010` | Provides technical enablement through BI teaching and cross-organizational advice. | Registrert KI-superbrukerrolle i om lag tre år med teknisk bistand i en Teams-kanal, se avsnittet under; antall brukere, formelt organisasjonsomfattende støtteansvar og KI-styringsmandat er ikke oppgitt. |\n\nVegard er registrert som «SuperBruker – Kunstig intelligens» ved OUS og har\nhatt betegnelsen i om lag tre år. Han svarer på tekniske henvendelser i en\nTeams-kanal. Bekreftet 2026-09-06. Det er ikke oppgitt antall brukere,\nformelt organisasjonsomfattende støtteansvar eller et KI-styringsmandat.\n\n#### Tidlig OUS-plassering – Barne- og ungdomsklinikken (BAR)\n\nVegard arbeidet operativt i BAR-staben fra mars til og med november 2023. Alle artefaktene fra oktober–november i BAR-evidensrapporten tilhører dette arbeidet, ikke Analyseavdelingen. Etter om lag halvannen måneds opplæring begynte han raskt å overta oppgaver i månedsavslutningen, og innen omtrent tre måneder hadde han overtatt hele den tildelte månedsoppgjørsflyten. Arbeidet ble kvalitetssikret av andre i starten; mot slutten gjennomførte han månedsoppgjøret selvstendig, kvalitetssikret resultatet, rapporterte og sendte månedsrapporter til ledere i klinikken.\n\n**Dokumentert ansvars- og leveranseprofil**\n\n| Stable claim | Arbeidsstrøm og personlig bidrag | Status/bruk | Ceiling |\n|---|---|---|---|\n| `CLM-BAR-001` | Gjennomførte månedsoppgjør med prosjektnulling, periodisering, reversering/ikke-reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring. Overtok hele den tildelte flyten innen ca. tre måneder etter oppstart. | Operativ produksjon; først med kvalitetssikring, senere selvstendig ende-til-ende. | Gjelder BAR/egen tildelt klinikkflyt; ikke hele OUS, formelt regnskapsansvar eller årsoppgjør. |\n| `CLM-BAR-002` | Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings-/bilagslinjer mot REGERP-format. Brukte utviklingen til å lære seg VBA fra grunnen. | Verktøyene ble i perioden kort etter overgangen brukt relativt hyppig av økonomirådgivere i flere klinikker. | Ikke den sentrale REGERP-/Oracle-løsningen, ikke ERP-programmeierskap og ikke dokumentert tids-/feilreduksjon. |\n| `CLM-BAR-003` | Bidro i budsjettprosessen for 2024 gjennom registrering av årsverk, kvalitetssikring av bemannings-, UTA- og vaktgrunnlag og forbedring av formler i automatisk genererte kolonner. Bygget hele `budsjetthjelpeark.xlsx`. Bidro også i oppfølging/analyse av økonomiske tiltak og oversettelse av tiltakslogikk til budsjett- og styringsspråk. | Faktisk budsjettleveranse og lederstøtte; tiltakssporet er støttet som bidrag, ikke som prosesseierskap. | Ikke eierskap til klinikkbudsjettet, samlet tiltaksstyring, full budsjettprosess eller arvede hovedmodeller. |\n| `CLM-BAR-004` | Arbeidet etter behov med prosjektøkonomi: prosjektopprettelse/-oppfølging, ekstern finansiering, fakturering, frikjøp/lønnskostnader, revisjonskostnader, overhead, prosjektavslutning og økonomiske avklaringer. Fordelingen av saker var etterspørselsstyrt og avhang av økonomilederens kapasitet. | Løpende operative enkeltsaker og rådgivning. | Ikke fast ansvar for alle prosjekter eller en bestemt prosjektportefølje; eksakte prosjekttyper/volumer er ikke fastslått. |\n| `CLM-BAR-005` | Sammenstilte, analyserte og oversatte økonomi-, bemannings- og aktivitetsgrunnlag til lederrapportering, blant annet DRG/plantall, ventelister, kurdøgn, gjestepasientoppgjør, medikamenter og estimert ekstern innleie. Mot slutten kvalitetssikret, rapporterte og distribuerte han månedsrapporteringen selv. | Operativ leder- og beslutningsstøtte; månedsrapporten var samtidig en klinisk rapporteringsleveranse, ikke bevis på at alt underliggende innhold var egenutviklet. | Ikke klinikkledelsesmedlem, eier av alle kilder/modeller eller dokumentert beslutnings-/resultateffekt. |\n| `CLM-BAR-006` | Dokumenterte arbeidssteg, utviklet kontroll- og valideringslogikk og forbedret arvede regnskaps-/rapporteringsarbeidsbøker. Koblet data fra blant annet JIT, ADI, REGERP, GAT, personell-/lønnsgrunnlag og DRG-/aktivitetsrapporter. | Løpende prosessforbedring og praktisk systemsammenkobling i produksjonsnære økonomiprosesser. | Ikke opphav til alle arvede arbeidsbøker, systemeierskap eller automatiseringsstrategi for organisasjonen. |\n\n**Kompakt evidens- og autoritetskart**\n\n| Evidence IDs | Source/meaning | Authority/use |\n|---|---|---|\n| `BAR-U001`–`BAR-U008` | Vegards direkte 2026-07-29-avklaringer om kronologi, månedsoppgjør, verktøyopphav/-bruk, budsjettrolle, prosjektøkonomi, hjelpeark og DRG-estimater | `USER_CONFIRMED`; styrer ved konflikt med eldre usikkerhet |\n| `BAR-E001` | BAR canonical evidence report, complete cross-analysis of 52 work artifacts | `SUPPORTED`; retrieval/provenance index, not independent authority over Vegards later corrections |\n| `BAR-E002`–`BAR-E005` | Onboarding, month-close notes and reversal/non-reversal workbooks | Supports ramp-up, production workflow, periodization, journals and controls |\n| `BAR-E006`–`BAR-E007` | Monthly report/leader material and REGERP conversion-tool family | Supports reporting contribution and technical workflow; personal ownership/adoption comes from `BAR-U*` |\n| `BAR-E008`–`BAR-E009` | Budget mail/helper/main-model context and project-economics artifacts | Supports budget/process and project-economics scope; preserve inherited-model boundaries |\n| `BAR-E010`–`BAR-E012` | DRG/activity/settlement/hire sources, Stata/R/Power Query artifacts and late-autumn files | Supports clinical-finance breadth and analysis; BAR chronology/operational use comes from `BAR-U001`/`BAR-U008` |\n\n**Arbeidsmåte og kompetansesignal**\n\n- Gikk fra strukturert opplæring til selvstendig produksjonsansvar i en kontrollkritisk økonomiflyt på kort tid.\n- Arbeidet i tre sammenhengende lag: produksjon (bilag, faktura, avsetning, periodisering og oppgjør), kontroll/analyse (avstemming, feil, DRG-/aktivitetsavvik, innleieestimat og budsjettkvalitet) og oversettelse (lederinstrukser, rapporter og prosjektøkonomisk rådgivning).\n- Kombinerte regnskaps- og klinikkøkonomisk forståelse med praktisk systemintegrasjon og egenutviklet automatisering.\n- Forbedret arvede prosesser uten å gjøre arvede modeller eller sentrale systemer til egne nyutviklinger.\n\n**Selection metadata**\n\n| Field | Value |\n|---|---|\n| `route_id` | `FINANCE_PROCESS_BRIDGE` |\n| `selection_value` | `VERY_HIGH` for finance/process improvement, controller, accounting-adjacent digitalization, ERP-transition, project-economics and business-process roles |\n| `role_signals` | month-end close, public accounting, periodization, reconciliation, budgeting, project economics, ERP/REGERP/ADI, Excel/VBA automation, management reporting |\n| `narrative_function` | Positive proof that the economics/process foundation is practical as well as academic |\n| `differentiator` | Rapid progression to end-to-end month-close delivery plus self-initiated VBA automation adopted across several clinics |\n| `adoption_human_change_evidence` | Self-built conversion tools used by finance advisers in several clinics; leader-facing reporting and budget instructions |\n| `public_narrative_potential` | Main or strong second case where finance-process ownership, rapid learning, ERP transition or practical automation is decisive |\n| `interview_defensibility` | `VERY_HIGH` for the confirmed scope; keep inherited-workbook, system-ownership and accuracy boundaries explicit |\n| `do_not_lead_with` | Missing accounting-firm/payroll/year-end-close experience; no accounting-leadership, ERP-programme or all-clinic close-ownership claim |\n\n**Claim atoms**\n\n| Atom | Supported content |\n|---|---|\n| `CONTEXT` | Operational BAR clinic-staff placement, March–November 2023; formal transfer dated 1 June, actual Analysis-department start 1 December |\n| `PERSONAL_CONTRIBUTION` | End-to-end assigned month close after ramp-up; budget/FTE support; project economics; invoicing; DRG/activity and leader reporting |\n| `PROCESS_TECHNOLOGY` | Self-built Excel/VBA conversion/validation tools; REGERP/ADI workflows; multi-source clinical-finance workbooks |\n| `ADOPTION_HUMAN_CHANGE` | Conversion tools used by finance advisers across several clinics; reports/instructions delivered to clinic managers |\n| `STATUS_OUTCOME` | Operationally used work; self-built budget helper; documented transition from supervised to independent delivery |\n| `ROLE_BRIDGE` | Economics + finance process + digitalization + decision support |\n| `BOUNDARY` | No accounting leadership, ERP/Oracle ownership, payroll/year-end-close claim, all-project ownership or generalized measured effect |"
+    },
+    {
+      "evidence_ref": "BAR_FINANCE",
+      "source_file": "Work_experience.md",
+      "source_heading": "Tidlig OUS-plassering – Barne- og ungdomsklinikken (BAR)",
+      "text": "#### Tidlig OUS-plassering – Barne- og ungdomsklinikken (BAR)\n\nVegard arbeidet operativt i BAR-staben fra mars til og med november 2023. Alle artefaktene fra oktober–november i BAR-evidensrapporten tilhører dette arbeidet, ikke Analyseavdelingen. Etter om lag halvannen måneds opplæring begynte han raskt å overta oppgaver i månedsavslutningen, og innen omtrent tre måneder hadde han overtatt hele den tildelte månedsoppgjørsflyten. Arbeidet ble kvalitetssikret av andre i starten; mot slutten gjennomførte han månedsoppgjøret selvstendig, kvalitetssikret resultatet, rapporterte og sendte månedsrapporter til ledere i klinikken.\n\n**Dokumentert ansvars- og leveranseprofil**\n\n| Stable claim | Arbeidsstrøm og personlig bidrag | Status/bruk | Ceiling |\n|---|---|---|---|\n| `CLM-BAR-001` | Gjennomførte månedsoppgjør med prosjektnulling, periodisering, reversering/ikke-reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring. Overtok hele den tildelte flyten innen ca. tre måneder etter oppstart. | Operativ produksjon; først med kvalitetssikring, senere selvstendig ende-til-ende. | Gjelder BAR/egen tildelt klinikkflyt; ikke hele OUS, formelt regnskapsansvar eller årsoppgjør. |\n| `CLM-BAR-002` | Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings-/bilagslinjer mot REGERP-format. Brukte utviklingen til å lære seg VBA fra grunnen. | Verktøyene ble i perioden kort etter overgangen brukt relativt hyppig av økonomirådgivere i flere klinikker. | Ikke den sentrale REGERP-/Oracle-løsningen, ikke ERP-programmeierskap og ikke dokumentert tids-/feilreduksjon. |\n| `CLM-BAR-003` | Bidro i budsjettprosessen for 2024 gjennom registrering av årsverk, kvalitetssikring av bemannings-, UTA- og vaktgrunnlag og forbedring av formler i automatisk genererte kolonner. Bygget hele `budsjetthjelpeark.xlsx`. Bidro også i oppfølging/analyse av økonomiske tiltak og oversettelse av tiltakslogikk til budsjett- og styringsspråk. | Faktisk budsjettleveranse og lederstøtte; tiltakssporet er støttet som bidrag, ikke som prosesseierskap. | Ikke eierskap til klinikkbudsjettet, samlet tiltaksstyring, full budsjettprosess eller arvede hovedmodeller. |\n| `CLM-BAR-004` | Arbeidet etter behov med prosjektøkonomi: prosjektopprettelse/-oppfølging, ekstern finansiering, fakturering, frikjøp/lønnskostnader, revisjonskostnader, overhead, prosjektavslutning og økonomiske avklaringer. Fordelingen av saker var etterspørselsstyrt og avhang av økonomilederens kapasitet. | Løpende operative enkeltsaker og rådgivning. | Ikke fast ansvar for alle prosjekter eller en bestemt prosjektportefølje; eksakte prosjekttyper/volumer er ikke fastslått. |\n| `CLM-BAR-005` | Sammenstilte, analyserte og oversatte økonomi-, bemannings- og aktivitetsgrunnlag til lederrapportering, blant annet DRG/plantall, ventelister, kurdøgn, gjestepasientoppgjør, medikamenter og estimert ekstern innleie. Mot slutten kvalitetssikret, rapporterte og distribuerte han månedsrapporteringen selv. | Operativ leder- og beslutningsstøtte; månedsrapporten var samtidig en klinisk rapporteringsleveranse, ikke bevis på at alt underliggende innhold var egenutviklet. | Ikke klinikkledelsesmedlem, eier av alle kilder/modeller eller dokumentert beslutnings-/resultateffekt. |\n| `CLM-BAR-006` | Dokumenterte arbeidssteg, utviklet kontroll- og valideringslogikk og forbedret arvede regnskaps-/rapporteringsarbeidsbøker. Koblet data fra blant annet JIT, ADI, REGERP, GAT, personell-/lønnsgrunnlag og DRG-/aktivitetsrapporter. | Løpende prosessforbedring og praktisk systemsammenkobling i produksjonsnære økonomiprosesser. | Ikke opphav til alle arvede arbeidsbøker, systemeierskap eller automatiseringsstrategi for organisasjonen. |\n\n**Kompakt evidens- og autoritetskart**\n\n| Evidence IDs | Source/meaning | Authority/use |\n|---|---|---|\n| `BAR-U001`–`BAR-U008` | Vegards direkte 2026-07-29-avklaringer om kronologi, månedsoppgjør, verktøyopphav/-bruk, budsjettrolle, prosjektøkonomi, hjelpeark og DRG-estimater | `USER_CONFIRMED`; styrer ved konflikt med eldre usikkerhet |\n| `BAR-E001` | BAR canonical evidence report, complete cross-analysis of 52 work artifacts | `SUPPORTED`; retrieval/provenance index, not independent authority over Vegards later corrections |\n| `BAR-E002`–`BAR-E005` | Onboarding, month-close notes and reversal/non-reversal workbooks | Supports ramp-up, production workflow, periodization, journals and controls |\n| `BAR-E006`–`BAR-E007` | Monthly report/leader material and REGERP conversion-tool family | Supports reporting contribution and technical workflow; personal ownership/adoption comes from `BAR-U*` |\n| `BAR-E008`–`BAR-E009` | Budget mail/helper/main-model context and project-economics artifacts | Supports budget/process and project-economics scope; preserve inherited-model boundaries |\n| `BAR-E010`–`BAR-E012` | DRG/activity/settlement/hire sources, Stata/R/Power Query artifacts and late-autumn files | Supports clinical-finance breadth and analysis; BAR chronology/operational use comes from `BAR-U001`/`BAR-U008` |\n\n**Arbeidsmåte og kompetansesignal**\n\n- Gikk fra strukturert opplæring til selvstendig produksjonsansvar i en kontrollkritisk økonomiflyt på kort tid.\n- Arbeidet i tre sammenhengende lag: produksjon (bilag, faktura, avsetning, periodisering og oppgjør), kontroll/analyse (avstemming, feil, DRG-/aktivitetsavvik, innleieestimat og budsjettkvalitet) og oversettelse (lederinstrukser, rapporter og prosjektøkonomisk rådgivning).\n- Kombinerte regnskaps- og klinikkøkonomisk forståelse med praktisk systemintegrasjon og egenutviklet automatisering.\n- Forbedret arvede prosesser uten å gjøre arvede modeller eller sentrale systemer til egne nyutviklinger.\n\n**Selection metadata**\n\n| Field | Value |\n|---|---|\n| `route_id` | `FINANCE_PROCESS_BRIDGE` |\n| `selection_value` | `VERY_HIGH` for finance/process improvement, controller, accounting-adjacent digitalization, ERP-transition, project-economics and business-process roles |\n| `role_signals` | month-end close, public accounting, periodization, reconciliation, budgeting, project economics, ERP/REGERP/ADI, Excel/VBA automation, management reporting |\n| `narrative_function` | Positive proof that the economics/process foundation is practical as well as academic |\n| `differentiator` | Rapid progression to end-to-end month-close delivery plus self-initiated VBA automation adopted across several clinics |\n| `adoption_human_change_evidence` | Self-built conversion tools used by finance advisers in several clinics; leader-facing reporting and budget instructions |\n| `public_narrative_potential` | Main or strong second case where finance-process ownership, rapid learning, ERP transition or practical automation is decisive |\n| `interview_defensibility` | `VERY_HIGH` for the confirmed scope; keep inherited-workbook, system-ownership and accuracy boundaries explicit |\n| `do_not_lead_with` | Missing accounting-firm/payroll/year-end-close experience; no accounting-leadership, ERP-programme or all-clinic close-ownership claim |\n\n**Claim atoms**\n\n| Atom | Supported content |\n|---|---|\n| `CONTEXT` | Operational BAR clinic-staff placement, March–November 2023; formal transfer dated 1 June, actual Analysis-department start 1 December |\n| `PERSONAL_CONTRIBUTION` | End-to-end assigned month close after ramp-up; budget/FTE support; project economics; invoicing; DRG/activity and leader reporting |\n| `PROCESS_TECHNOLOGY` | Self-built Excel/VBA conversion/validation tools; REGERP/ADI workflows; multi-source clinical-finance workbooks |\n| `ADOPTION_HUMAN_CHANGE` | Conversion tools used by finance advisers across several clinics; reports/instructions delivered to clinic managers |\n| `STATUS_OUTCOME` | Operationally used work; self-built budget helper; documented transition from supervised to independent delivery |\n| `ROLE_BRIDGE` | Economics + finance process + digitalization + decision support |\n| `BOUNDARY` | No accounting leadership, ERP/Oracle ownership, payroll/year-end-close claim, all-project ownership or generalized measured effect |"
+    },
+    {
+      "evidence_ref": "EARLIER_EMPLOYMENT",
+      "source_file": "Work_experience.md",
+      "source_heading": "1.2 Tidligere arbeidsforhold",
+      "text": "### 1.2 Tidligere arbeidsforhold\n\n| Period | Employer and role | Defensible scope | Transferable relevance |\n|---|---|---|---|\n| July 2015–August 2021 | TKS Heis — Hjelpearbeider | Seasonal/full-time work alongside elevator installers during studies. | Practical teamwork, reliability, technical/safety-sensitive environment, long-term continuity. |\n| February–April 2015 | Ahlsell, Auglendsmyra — Butikkmedarbeider/vikar | Goods receipt, inventory, ordering and sales. | Inventory discipline, operational execution and customer interaction. |\n| March 2014–February 2015 | Luftforsvaret, Sola — Vakt- og sikringssoldat | Security, access control, alarm response and procedural responsibility. | Responsibility, procedure adherence, situational awareness and calm execution. |\n| October 2013–March 2014 | Sector Alarm, Stavanger — Sikkerhetskonsulent | Needs assessment, estimates, direct sales and customer dialogue. | Needs analysis, commercial communication and self-directed field work. |\n\nUse older roles briefly unless the vacancy rewards operational reliability, security, customer work, practical technical environments or continuity."
+    },
+    {
+      "evidence_ref": "MANAGEMENT_BI",
+      "source_file": "Work_experience.md",
+      "source_heading": "4.1 `PRJ-01` — Styrings-BI for sykehus og semantisk modell",
+      "text": "### 4.1 `PRJ-01` — Styrings-BI for sykehus og semantisk modell\n\n**Selection metadata**\n\n| Field | Value |\n|---|---|\n| `differentiator` | Deep personal backend contribution across semantic model, ETL/M and DAX plus bounded lifecycle ownership |\n| `adoption_human_change_evidence` | Monthly operation; supervised user observation; feedback-driven improvement sprints; internal workshop |\n| `interview_defensibility` | Division of labour and lifecycle are explicit |\n| `do_not_lead_with` | Non-BI process/finance roles where backend detail would distort the candidate identity; never imply current ownership |\n\n**Problem/context**\n\nA four-person analysis department received a broad, lightly specified assignment to build a management dashboard spanning financial, staffing, sickness absence, activity/DRG and related management information. The solution was built from scratch. Source/environment limitations made monthly operation burdensome.\n\n**Division of labour**\n\nVegard was the principal backend developer. He reports:\n\n- almost all semantic-model design;\n- most ETL logic in Power Query M;\n- approximately 80–90% of DAX;\n- primary technical troubleshooting due to deepest backend/model knowledge.\n\nColleagues mainly led content selection, visual design and front-end presentation, with some report work after technical guidance.\n\n**Technical contribution**\n\n- Chose star-schema patterns after evaluating alternatives, including snowflake concepts, based on Power BI suitability and maintainability.\n- Designed fact/dimension separation, organizational/period keys, dimensions and relationships across finance, staffing and activity/DRG contexts.\n- Implemented Power Query M pipelines, custom functions, schema/type handling, transformations, null handling and data-quality controls.\n- Developed/debugged DAX for deviations, ratios, accumulated values, cut-off periods, year-to-date comparisons, DRG performance and hierarchical context.\n- Handled organizational hierarchies, period/calendar logic, historical/current alignment, SAS/Excel dependencies and model-size/performance trade-offs.\n- Identified redundant descriptive fields in fact tables and strengthened fact/dimension discipline.\n- Contributed to navigation, tooltips, bookmarks, report structure and extension planning.\n- Separated large-model modernization from routine extension work when model limits created delivery risk.\n- Maintained documentation, technical backlogs and monthly operating context.\n\n**Lifecycle and user orientation**\n\n- Official owner approximately August 2025–February 2026.\n- Maintained monthly updates during that period.\n- Conducted supervised tests with actual users, observed confusing interactions, collected feedback and ran focused improvement sprints.\n- Dashboard decommissioned around February 2026; this is historical delivered/operated evidence, not current ownership.\n\n**Separate BI workshop**\n\nVegard led an internal workshop for economist/health-economist colleagues covering process mapping, ETL, star schemas, semantic-model practices, Power Query, DAX optimization, governance, performance, data quality and action planning. Slides and a Loop workspace were workshop artifacts, not dashboard infrastructure.\n\n**Claim atoms**\n\n| Atom | Supported content |\n|---|---|\n| `CONTEXT` | Greenfield hospital-management BI solution; four-person analysis department; broad/lightly specified brief |\n| `PERSONAL_CONTRIBUTION` | Principal backend developer; almost all semantic-model design; most ETL/M; approximately 80–90% of DAX |\n| `METHOD_CONTROL` | Star schema, keys/relationships, data-quality controls, technical troubleshooting, documentation and operating backlog |\n| `ADOPTION_HUMAN_CHANGE` | Monthly operation; supervised tests with actual users; observed friction; focused improvement sprints; internal BI workshop |\n| `STATUS_OUTCOME` | Built and operated; Vegard owner approximately Aug. 2025–Feb. 2026; decommissioned around Feb. 2026 |\n| `BOUNDARY` | Colleagues led content/visuals; no current ownership, quantified effect or enterprise-architecture authority |\n\n**Ceiling**\n\nDo not claim all visuals/content, current ownership, multi-year ownership, quantified adoption/efficiency, exact page/table/measure/user scale or enterprise-architecture authority."
+    },
+    {
+      "evidence_ref": "BUDGET_TOOL",
+      "source_file": "Work_experience.md",
+      "source_heading": "4.3 `PRJ-03` — Modernisering og nyutvikling av sykehusets budsjetteringsverktøy",
+      "text": "### 4.3 `PRJ-03` — Modernisering og nyutvikling av sykehusets budsjetteringsverktøy\n\n**Selection metadata**\n\n| Field | Value |\n|---|---|\n| `differentiator` | Modernized a business-critical finance workflow under strict compatibility constraints while retaining operational continuity |\n| `adoption_human_change_evidence` | Approximately 50 participants/stakeholders; controller onboarding; modernisert verktøy i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027, bekreftet 2026-09-06 |\n| `interview_defensibility` | Principal coding and concrete workflow change are clear; I praksis eneste kodende utvikler for 2025-moderniseringen, uttrykkelig bekreftet 2026-09-06; den brede interessentprosessen beholdes |\n| `do_not_lead_with` | Deep formula/VBA internals when business process, adoption and controlled change are the vacancy's real decision criteria |\n\n**Origin and system**\n\nInherited approximately 20-year-old Excel/VBA budgeting tool originally created by Vegard’s former department leader. Vegard did not create the original. Over time it became business-critical and accumulated technical debt across formulas, named ranges, VBA architecture and distributed workbook copies.\n\nThe FY-2025 workbook is supported at approximately 15 worksheets and 78 global named ranges. It contains logic for employee/employment/staffing data, organization, finance, FTE, activity, periodization, aggregation, analysis, control and export.\n\n**2025 modernization**\n\nThe main change added native employee, employment and staffing/labour information, replacing a process that required copying data from another workbook and involved significant manual work. Approximately 50 people participated across workgroups, requirements discussions and implementation-adjacent activity. Vegard was effectively the principal/sole coder changing workbook/VBA; preserve the broader stakeholder process.\n\nThe implementation lead required a narrow, function-by-function refactor even though Vegard recommended broader restructuring. Approximately 80% of the changes were behaviour-preserving one-to-one refactors. This demonstrates controlled modernization under constraint, not Vegard’s preferred target architecture.\n\n**Technical contribution**\n\n- Reconstructed architecture from VBA source, workbook metadata, formulas, names and prior reports.\n- Integrated staffing/labour data and related organization, finance, FTE, periodization, analysis, control and export logic.\n- Compared original/refactored functions and identified logic drift.\n- Introduced `Option Explicit`, centralized constants, clearer Norwegian comments and explicit parity/zero-regression expectations.\n- Used differential/code comparison, workbook comparison/hash-style gates, acceptance criteria and gap/risk registers.\n- Cleaned opaque formulas, hidden white-text formulas, inconsistent references/names and logic distributed across cells, names and VBA.\n- Improved refresh/orchestration, generated sheets, periodization keys, rounding/validation logic, logging, protection/visibility and performance modes.\n- Evaluated VBA, Office Scripts, Python and AI-assisted approaches against compatibility, operational risk and maintainability.\n- Produced controller onboarding and presentation material.\n\n**Delivered/current status**\n\n- Den moderniserte versjonen ble brukt sykehusdekkende i budsjettprosessen\n  for 2026.\n- Den avsluttende moderniseringen for 2027 er ferdigstilt. Vegard hadde\n  vesentlig større frihet i denne runden; verktøyet er nå i sykehusdekkende\n  bruk i den pågående budsjettprosessen for 2027. Bekreftet 2026-09-06.\n- Bruk og leveranse er dokumentert. Det foreligger ikke godkjente målinger\n  av tidsbesparelse, feilreduksjon eller økonomisk effekt.\n\n**Claim atoms**\n\n| Atom | Supported content |\n|---|---|\n| `CONTEXT` | Inherited approximately 20-year-old business-critical Excel/VBA budgeting tool with technical debt and distributed copies |\n| `PROCESS_PROBLEM` | Staffing/labour data had to be copied from a separate workbook; significant manual work and change risk |\n| `PERSONAL_CONTRIBUTION` | Reconstructed architecture; principal/effectively sole coder changing workbook/VBA; integrated staffing data; improved orchestration, controls and documentation |\n| `METHOD_CONTROL` | Function-by-function constrained refactor; differential/parity review; acceptance criteria; risk/gap register; explicit zero-regression expectations |\n| `ADOPTION_HUMAN_CHANGE` | Approximately 50-person stakeholder context; controller onboarding/presentation material |\n| `STATUS_OUTCOME` | Sykehusdekkende bruk i budsjettprosessene for 2026 og 2027; 2027-moderniseringen ferdigstilt, bekreftet 2026-09-06 |\n| `BOUNDARY` | Not original creator or budget owner; no savings, zero-defect or quantified time/error claim |\n\n**Ceiling**\n\nNever claim original creation, sole ownership of the complete modernization or budget process, personal control of hospital budgets, savings equal to budget scale, zero defects or quantified time/error reduction. Approximate hospital budget values are context-only and require separate approval before external use."
+    },
+    {
+      "evidence_ref": "INVESTMENT_MODEL",
+      "source_file": "Work_experience.md",
+      "source_heading": "4.6 `PRJ-06` — STE-gevinstfordeling og investeringsmodell for steril logistikk",
+      "text": "### 4.6 `PRJ-06` — STE-gevinstfordeling og investeringsmodell for steril logistikk\n\n**Selection metadata**\n\n| Field | Value |\n|---|---|\n| `differentiator` | Reframed an unsupported direct-allocation request into an auditable proxy system with configurable weights |\n| `adoption_human_change_evidence` | Designed controller/domain-owner inspectability; model completed and handed over to controllers early 2026, confirmed 2026-09-06; actual implementation/adoption unresolved |\n| `interview_defensibility` | Framework design is defensible; organizational use and realized benefit are not supported |\n| `do_not_lead_with` | Realized ROI, business-case amounts, direct service-use measurement or completed implementation |\n\n**Problem and reframing**\n\nDirect service-use tracking was insufficient to allocate sterile-logistics benefits defensibly by clinic. Vegard rejected false precision and reframed the request as a transparent proxy-based distribution model based on weighted indirect indicators, explicit assumptions and uncertainty.\n\n**Design contribution**\n\n- Designed a multi-indicator proxy approach rather than presenting indirect evidence as observed use.\n- Structured operational, financial, quality/resilience, avoided-cost and transferred-burden mechanisms across clinic/enterprise levels.\n- Designed five workbooks: four branch models plus one consolidation model.\n- Kept formulas and weights visible/configurable.\n- Used Power Query for schema-controlled transfer from branch outputs to consolidation.\n- Avoided core VBA deliberately so controllers/domain owners could inspect and adjust assumptions without permanent developer dependence.\n- Defined audits for unmapped rows, schema/control drift and nonfunctional validation elements.\n\nModellen ble ferdigstilt tidlig i 2026 og overlevert til controllere.\nBekreftet 2026-09-06. Dette dokumenterer en ferdigstilt og overlevert\nbeslutningsstøttemodell, ikke organisatorisk bruk, realiserte gevinster\neller at alle grenmodeller og endelige vekter er tatt i operativ bruk.\n\n**Intended use**\n\nWarehouse, equipment, automation, feature and investment choices. The architecture is decision support under missing data, not direct measurement.\n\n**Ceiling**\n\nVegard owns framework/system design, not permanent substantive ownership of clinic estimates or final domain judgments. Implementation by branch, final weights, organizational use and realized benefits remain unresolved; controller handover and artifact completion are confirmed. Business-case amounts and recalled ROI are context-only, not personal achievements or realized savings.\n\n**Claim atoms**\n\n| Atom | Supported content |\n|---|---|\n| `CONTEXT` | Direct service-use data insufficient for defensible clinic allocation |\n| `PERSONAL_CONTRIBUTION` | Reframed problem; designed weighted multi-indicator proxy and five-workbook architecture |\n| `METHOD_CONTROL` | Visible/configurable assumptions and weights; Power Query schema transfer; mapping/schema/control audits |\n| `HUMAN_CHANGE` | Controller/domain-owner inspectability and reduced permanent developer dependence were explicit design goals; the completed model was handed over to controllers early 2026, confirmed 2026-09-06 |\n| `STATUS_OUTCOME` | `COMPLETED`: decision-support model designed, finished early 2026 and handed over to controllers; implementation/adoption unresolved |\n| `BOUNDARY` | No direct measurement, clinic-estimate ownership, realized benefit or ROI claim |"
+    },
+    {
+      "evidence_ref": "BAR_FORECAST",
+      "source_file": "Work_experience.md",
+      "source_heading": "4.10 `PRJ-10` — Seksjonsvise DRG-prognoser for budsjett og planlegging i BAR",
+      "text": "### 4.10 `PRJ-10` — Seksjonsvise DRG-prognoser for budsjett og planlegging i BAR\n\n**Selection metadata**\n\n| Field | Value |\n|---|---|\n| `differentiator` | Used code-based forecasting in an actual clinical-finance delivery during the first OUS placement, not only as later exploration |\n| `adoption_human_change_evidence` | Estimates were delivered for clinic budget/planning; no broader production-system or recurring-adoption claim |\n| `interview_defensibility` | Delivery, use and tool application are defensible; generalized predictive performance is not |\n| `do_not_lead_with` | The single exact rounded monthly estimate as if it proved model accuracy; production data-science or automated forecast-platform language |\n\n**Problem and delivery**\n\nBAR needed prediction-based estimates of DRG development by section for budgeting and planning. Vegard used Stata, R and Power Query in actual work deliveries to prepare the estimates. The underlying artifacts include ARIMA/SARIMA model searches/specifications, multi-year activity-data preparation and Power Query transformations.\n\n**Evidence map:** `PRJ-10-E001` = `bruteforce.do`/`arimamodels.docx`; `PRJ-10-E002` = `R_kode_Brigt_analyse.txt`; `PRJ-10-E003` = `skriblerier til logistikk.docx`; `PRJ-10-E004`/`BAR-U008` = Vegards confirmation of delivery purpose, production use and the single rounded-actual observation.\n\n**Result and interpretation**\n\nFor one month, one estimate matched the realized value exactly when both were rounded to the nearest whole DRG point. This is a concrete self-reported forecast observation, not a validated accuracy study. It demonstrates that the analysis was operationally connected to later outcomes; it cannot support a generalized claim of high model accuracy.\n\n**Claim atoms**\n\n| Atom | Supported content |\n|---|---|\n| `CONTEXT` | Section-level DRG development estimates needed for BAR budget and planning |\n| `PERSONAL_CONTRIBUTION` | Applied Stata, R and Power Query to produce prediction-based estimates; connected activity-data preparation, time-series modelling and planning use |\n| `METHOD_CONTROL` | ARIMA/SARIMA exploration and section-level output; exact validation design and recurring methodology are not fully reconstructed |\n| `STATUS_OUTCOME` | Actual delivery used for budget/planning; one monthly estimate matched rounded actual DRG exactly |\n| `BOUNDARY` | No generalized accuracy, production forecast engine, recurring cadence, sole code authorship or mature model-validation claim |\n\n**Ceiling**\n\nMay claim actual use of Stata/R/Power Query for section-level DRG estimates in budget/planning and the narrowly described one-month observation. Never convert the observation into an accuracy percentage, model-quality conclusion, repeated-performance claim or production-system status."
+    },
+    {
+      "evidence_ref": "BENEFITS_METHOD",
+      "source_file": "Work_experience.md",
+      "source_heading": "4.4 `PRJ-04` — Sykehusdekkende rammeverk for gevinstrealisering",
+      "text": "### 4.4 `PRJ-04` — Sykehusdekkende rammeverk for gevinstrealisering\n\n**Selection metadata**\n\n| Field | Value |\n|---|---|\n| `differentiator` | Team-developed methodology became the hospital-wide standard and was reported active approximately 2.5 years later |\n| `adoption_human_change_evidence` | Hospital-wide implementation and reported durability |\n| `interview_defensibility` | Outcome is strong, but preserve four-person co-development and unresolved individual split |\n| `do_not_lead_with` | Sole-author, owner, method-lead or measured-effect language |\n\n**Context**\n\nAnalyseavdelingen’s first major project. Leadership requested improvement of an existing benefits-realization/estimation methodology. The four-person team researched, discussed, co-developed and delivered a revised framework.\n\n**Supported contribution/outcome**\n\n- Vegard co-developed the framework as one member of the four-person team.\n- Contributed to research synthesis, methodological improvement, economic/strategic analysis, governance and standardization.\n- The team-delivered framework was implemented as the hospital-wide standard.\n- Vegard reports it remained active approximately 2.5 years later.\n\n**Why it matters**\n\nEvidence of durable hospital-wide methodology development, public/health-sector analytical judgment, benefits realization, standardization, governance and team delivery.\n\n**Ceiling**\n\nDo not call Vegard owner, sole author or methodology lead. Exact name, dates, individual subcomponents, approval route, users/projects and measured effect remain unresolved.\n\n**Claim atoms**\n\n| Atom | Supported content |\n|---|---|\n| `CONTEXT` | Leadership requested improvement of an existing benefits-realization/estimation methodology |\n| `PERSONAL_CONTRIBUTION` | Four-person team co-development; research synthesis; methodological, economic/strategic and governance contribution |\n| `METHOD_CONTROL` | Shared framework development and standardization |\n| `STATUS_OUTCOME` | Implemented as hospital-wide standard; reported active approximately 2.5 years later |\n| `BOUNDARY` | No sole authorship, ownership, method-lead, individual-effect or measured-impact claim |"
+    },
+    {
+      "evidence_ref": "TEAM_MODEL",
+      "source_file": "Work_experience.md",
+      "source_heading": "4.8 `PRJ-08` — Arbeidsmodell, teamdesign og smidig leveranse",
+      "text": "### 4.8 `PRJ-08` — Arbeidsmodell, teamdesign og smidig leveranse\n\n**Selection metadata**\n\n| Field | Value |\n|---|---|\n| `differentiator` | Combines practical team/task architecture with workshop facilitation and delivery context |\n| `adoption_human_change_evidence` | Four-person department founding; workshop planning/facilitation; implemented and proposed work structures |\n| `interview_defensibility` | Defensible when adopted/proposed status is kept explicit |\n| `do_not_lead_with` | Formal organizational-design mandate, personnel leadership, programme ownership or unqualified adoption |\n\n**Supported contribution**\n\n- Participated in the four-person founding group establishing Analyseavdelingen.\n- Contributed team-centred organizational alternatives, restructuring plans, responsibilities, dependencies and decision-right proposals.\n- Designed practical Scrum/Kanban/task-hierarchy/WIP structures and Microsoft Loop workspaces.\n- Planned/facilitated workshops and created internal collaboration/presentation material.\n- Applies ownership, prioritization, dependency overview, stakeholder alignment and knowledge sharing.\n\n**Evidence meaning**\n\nMore than generic agile familiarity: practical structuring of comparable tasks, work-in-progress, dependencies, collaboration spaces and improvement discussions.\n\n**Ceiling**\n\nNo sole founding claim, formal organizational-design mandate, programme ownership, personnel authority or line management. Distinguish adopted practices from proposals.\n\n**Claim atoms**\n\n| Atom | Supported content |\n|---|---|\n| `CONTEXT` | Establishment and development of a four-person analysis department's working model |\n| `PERSONAL_CONTRIBUTION` | Team-structure alternatives, responsibilities/dependencies, Scrum/Kanban/task hierarchy, WIP design and Loop workspaces |\n| `HUMAN_CHANGE` | Workshop planning/facilitation, internal collaboration material, prioritization and knowledge sharing |\n| `STATUS_OUTCOME` | Mixed implemented and proposed practices |\n| `BOUNDARY` | No sole founding, formal organization-design mandate, line authority or programme ownership |"
+    },
+    {
+      "evidence_ref": "WORK_COMMUNICATION",
+      "source_file": "Work_experience.md",
+      "source_heading": "5.2 Kommunikasjon og kompetanseoverføring",
+      "text": "### 5.2 Kommunikasjon og kompetanseoverføring\n\n- Translates technical/economic context into decision notes, executive summaries, workshops, documentation and onboarding.\n- Adapts communication to controllers, managers, specialists and technical teams.\n- Leads or contributes to BI teaching, semantic-model guidance, controller enablement and handover.\n- Converts large technical context into concise decision-ready summaries.\n\nDo not invent executive decisions caused, training impact or adoption metrics."
+    },
+    {
+      "evidence_ref": "WORK_TOOLS",
+      "source_file": "Work_experience.md",
+      "source_heading": "7. Teknologi- og metodeinventar",
+      "text": "## 7. Teknologi- og metodeinventar\n\n| Area | Evidence-calibrated depth | Technologies/methods | Use boundary |\n|---|---|---|---|\n| Core BI | Extensive demonstrated work | Power BI, DAX, Power Query M, custom M functions, semantic models, star schemas, PBIX/report concepts | One major dashboard decommissioned; no claim to all visual/front-end work |\n| Core automation | Extensive demonstrated work; likely strongest technical specialization | Excel, VBA, formulas, named ranges, macro-enabled workbooks, Office integration | Includes self-built cross-clinic BAR conversion tools and inherited-system modernization; preserve origin per artifact |\n| Clinic finance/ERP workflow | Direct operational use | JIT, ADI, REGERP, Oracle validation rules, GAT, personnel/payroll extracts, project/invoice and DRG/activity sources | Process-near integration and control; no ERP/Oracle system ownership |\n| Data/query | Repeated practical use | SQL, SQL Server/SSMS, schemas, relational modelling | Advanced query optimization/production ownership unverified |\n| Programming/analytics | Substantial current/project-dependent plus delivered early OUS use | R, Python, Stata, Power Query M; ARIMA/SARIMA exploration and data preparation | Calibrate code authorship and language depth; BAR use was delivered analysis, not a production forecasting platform |\n| Forecasting/ML | Applied-development evidence | XGBoost, GAM, SARIMAX; Prophet/Chronos/ensemble concepts | Preserve ownership/status register; no production deployment |\n| Modern platforms | Pilot/exploratory/adjacent | Fabric, Power Platform, dbt, Pega, Dataflows, lakehouse/Spark concepts | Not equal-depth production expertise |\n| Collaboration/process | Repeated direct use | Loop, Forms, PowerPoint, Scrum, Kanban, workshops | Adoption varies by artifact |\n| Development/governance | Practical project evidence | Git/GitLab, YAML, JSON, diffing, testing, acceptance criteria | No mature enterprise CI/CD claim |\n| Adjacent/evaluated/exposed | Exposure varies | Office Scripts, DAX Studio, SAS integration, Dataverse, P360, Eye-share, LIS/ProClarity-like report sources | Verify hands-on depth before prominent use; P360/Eye-share are exposure signals, not core competence claims |"
+    },
+    {
+      "evidence_ref": "EDU_DEGREES",
+      "source_file": "Education.md",
+      "source_heading": "1. Grader og studiestatus",
+      "text": "## 1. Grader og studiestatus\n\n### 1.1 Universitetet i Agder – pågående masterprogram i kunstig intelligens\n\n- Period: 2024–present.\n- Programme: five-year master programme in artificial intelligence.\n- Status: ongoing.\n- Safe role: formal technical development that complements—not replaces—work-derived AI, forecasting, programming and analytical evidence.\n- Do not state full-time/part-time pace, expected completion, current year/module progression, degree completion or AI-engineer status without new confirmation.\n\n### 1.2 NTNU – fullført mastergrad i samfunnsøkonomi\n\n- Period: 2020–2022.\n- Status: completed.\n- Strongest supported academic value: advanced econometrics, applied empirical design, time-series econometrics, mathematical analysis, macro/open-economy policy, incentives/contracts, public decision/behaviour, finance and independent thesis work.\n- Do not state exact award date, thesis title/topic, specialization or final grade without confirmation.\n\n### 1.3 Universitetet i Bergen – fullført bachelorgrad i samfunnsøkonomi\n\n- Period: 2017–2020.\n- Status: completed.\n- Strongest supported academic value: broad economics core, statistics/econometrics, mathematics, public/political/industrial/labour/environment economics, trade/open economy, business economics, finance, Python introduction and independent thesis.\n- Older CV reported average grade B; omit until reconfirmed.\n\n### 1.4 Ernest Manning High School, Calgary\n\n- Period: 2011–2013.\n- Science and advanced mathematics.\n- Supports international educational experience and strong practical English.\n- Describe conservatively; do not claim Norwegian-equivalent qualification or AP equivalence without documentation.\n- English 30-1 i Alberta; kandidaten opplyser at dette var høyeste nivå for elever uten engelsk som morsmål. Bekreftet 2026-09-06. Ingen CEFR-ekvivalens eller standardisert testscore er fastsatt."
+    },
+    {
+      "evidence_ref": "EDU_FINANCE",
+      "source_file": "Education.md",
+      "source_heading": "3.3 Økonomi- og driftsroller",
+      "text": "### 3.3 Økonomi- og driftsroller\n\nSafe academic support:\n\n- investment/financing, risk, valuation and portfolio basics;\n- budgeting, liquidity and control-system concepts;\n- accounting/operating-account awareness;\n- macrofinance/asset-pricing exposure;\n- fintech concepts.\n\nDo not position as financial engineer, IFRS specialist, auditor or accounting-close owner without separate experience.\n\nFor process/improvement roles in finance or accounting-adjacent environments:\n\n- treat the completed economics master as a clear economics-education requirement match;\n- use `ECON263` and `ECON261` as correctly attributed bachelor-level grounding;\n- connect education to practical evidence from early OUS and `PRJ-03`, rather than presenting course content as work experience;\n- present the ongoing AI programme as a technology supplement, not the candidate's primary identity;\n- do not introduce the bridge through negative wording about accounting-firm, payroll or year-end-close experience."
+    },
+    {
+      "evidence_ref": "LANGUAGES",
+      "source_file": "Other_high_value_information.md",
+      "source_heading": "5.1 Språk",
+      "text": "### 5.1 Språk\n\n| Language | Approved level | Use |\n|---|---|---|\n| Norwegian | Native | Bokmål default for Norwegian applications |\n| English | Fluent written and spoken | Supported by current CV and schooling in Calgary; se `Education.md` §1.4 for skolebeviset (English 30-1); calibrate to portal scale if required |"
+    },
+    {
+      "evidence_ref": "TRUST",
+      "source_file": "Other_high_value_information.md",
+      "source_heading": "5.2 Tillitsverv",
+      "text": "### 5.2 Tillitsverv\n\n| Period | Role | Safe relevance |\n|---|---|---|\n| October 2017–January 2019 | Elected resident representative, Solheimslien student housing | Elected trust, representation and practical responsibility |\n| January 2019–January 2020 | Financial officer and deputy chair | Financial responsibility, meetings and increasing scope |\n| January–August 2020 | Chair and financial officer | Elected leadership/trust; do not confuse with professional people management |"
+    }
+  ],
+  "global_factual_boundaries": [
+    {
+      "source_file": "Work_experience.md",
+      "source_heading": "0. Runtime-kjerne",
+      "text": "## 0. Runtime-kjerne\n\n### 0.1 Profesjonelt arbeidsmønster\n\nVegard Håland er en tverrfaglig analytiker og rådgiver ved Oslo universitetssykehus HF (OUS). Arbeidet kombinerer sykehusdrift, økonomi, BI, data, teknisk implementering, budsjettering/prognoser, gevinstarbeid, styring og interessentkommunikasjon.\n\nHans sterkeste gjennomgående bidrag er å omsette problem til leveranse og data til beslutning:\n\n`Forstå -> Avgrense -> Strukturere -> Bygge -> Kontrollere -> Forbedre`\n\nHan gjør brede eller underdefinerte behov om til beslutningsproblem, forsvarlig data-/løsningsarkitektur, gjennomførbare arbeidspakker, kontrollert implementering, validering og brukbar overlevering. Prosjektspesifikt kan han beskrives som teknisk arkitekt, hovedimplementør, integrator eller funksjonell/teknisk leder. Dette dokumenterer ikke formelt linje-/personalansvar, virksomhetsarkitekteierskap eller soloforfatterskap til teamarbeid.\n\n### 0.2 OUS-kjerne\n\n- Formell tittel: `Rådgiver Økonomi og IKT`.\n- Ansatt ved OUS: mars 2023–d.d.\n- Barne- og ungdomsklinikken (BAR), Stab: operativ plassering mars–november 2023.\n- Formelt stillingsbytte til Analyseavdelingen: 1. juni 2023; første arbeidsdag i avdelingen: 1. desember 2023.\n- Direktørens stab, Analyseavdelingen: operativ plassering desember 2023–d.d.\n- Arbeider med økonomi, bemanning, aktivitet/DRG, pasientflyt/kapasitet og tilhørende styringsinformasjon.\n- Bygger og forbedrer beslutningsstøtte med Power BI, DAX, Power Query M, Excel/VBA, SQL, R og Python etter prosjektbehov.\n- Leverer dashbord, semantiske modeller, arbeidsbøker, analyser, tekniske arkitekturer, kontroller, rapporter, workshops, onboarding og dokumentasjon.\n- Deltok i firepersoners etableringsgruppe for Analyseavdelingen sammen med avdelingsleder og to kolleger.\n\n### 0.3 Evidensbroer med høyest verdi\n\n| Record | Source section | Lifecycle | Can prove | Live ceilings |\n|---|---|---|---|---|\n| OUS — ansettelse og avdelingskronologi | 1.1 | Pågående arbeidsforhold | Ansatt fra mars 2023; operativt i BAR-staben mars–november 2023 og i Analyseavdelingen fra desember 2023; formelt stillingsbytte 1. juni 2023, første arbeidsdag i Analyseavdelingen 1. desember | Bruk operative datoer når levert arbeid beskrives; formell dato bare når administrativ kronologi er relevant |\n| OUS — nåværende ansvarsområder og KI-superbrukerrolle | Nåværende rolle – forsvarlige ansvarsområder | Nåværende rolle | Ansvarsområdene EMP-OUS-001–010: økonomi, bemanning, aktivitet og beslutningsstøtte; prosjektvis teknisk arkitektur, implementering og integrasjon; kontroll, validering, workshops og overlevering; deltakelse i firepersoners etableringsgruppe; registrert KI-superbrukerrolle i om lag tre år og tekniske svar i en Teams-kanal | Prosjekt-/oppdragsomfang, ikke myndighet over alle OUS-data, formell virksomhetsstyringsrolle, personal- eller programmyndighet; verktøydybde er prosjektspesifikk; distribuert forfatterskap beholdes; KI-brukerantall, organisasjonsomfattende støtteansvar og styringsmandat er ikke oppgitt |\n| OUS — tidlig BAR-arbeid og operative økonomileveranser | Tidlig OUS-plassering – Barne- og ungdomsklinikken (BAR) | Operativt arbeid mars–november 2023 | Overtok hele den tildelte månedsoppgjørsflyten innen ca. tre måneder; gikk fra kvalitetssikring av andre til selvstendig gjennomføring, kontroll og lederrapportering; egeninitierte Excel/VBA-verktøy for REGERP-konvertering brukt av økonomirådgivere i flere klinikker; budsjettbidrag 2024, selvbygd budsjetthjelpeark, prosjektøkonomi og løpende prosessforbedring | Egen tildelt klinikkflyt, ikke hele OUS eller formelt regnskapsansvar; ingen ERP-/Oracle-eierskap, lønns-/årsoppgjørserfaring, alle-prosjekter-ansvar eller eierskap til alle arvede arbeidsbøker og modeller; ingen dokumentert tids-/feilreduksjon eller generalisert målt effekt |\n| Tidligere arbeidsforhold 2013–2021 | 1.2 | COMPLETED | Fire tidligere stillinger med periode, arbeidsgiver og forsvarlig omfang: TKS Heis, Ahlsell, Luftforsvaret og Sector Alarm, med overførbar relevans som praktisk samarbeid, prosedyreetterlevelse, varelogistikk og kundedialog | Brukes kort med mindre stillingen belønner driftssikkerhet, sikkerhet, kundearbeid eller kontinuitet; ingen faglig økonomi- eller analyseerfaring utledes av disse rollene |\n| PRJ-01 Styrings-BI for sykehus og semantisk modell | 4.1 | DECOMMISSIONED | Greenfield styrings-BI i en firepersoners analyseavdeling; hovedbidrag i backend med nesten hele den semantiske modellen, mesteparten av ETL/M og ca. 80–90 prosent av DAX; drift, testing, brukerobservasjon og avgrenset livsløpseierskap ca. aug. 2025–feb. 2026 | Kolleger ledet innhold og visualisering; ingen nåværende eller flerårig eierskap, kvantifisert adopsjon eller effekt, eksakt side-, tabell-, mål- eller brukerskala og ingen virksomhetsarkitekturmyndighet |\n| PRJ-02 Tverrorganisatorisk Power BI-kompetanseoverføring | 4.2 | Ikke fastsatt i kilden; bidrag støttet og nåstatus uavklart | Opplæring og rådgivning om Power BI, semantisk modell og modelloptimalisering på tvers av organisasjoner, og vesentlig bidrag til en første komponent i en driftsrapport | Eksakt enhet, rapportnavn, datoer, deltakerantall, komponenter, release- og nåstatus samt videre støtte er uavklart; ingen eneutvikling, rapporteierskap, formelt opplæringsprogram eller nåværende støtte |\n| PRJ-03 Modernisering og nyutvikling av budsjetteringsverktøyet | 4.3 | IN_USE | Arvet ca. 20 år gammelt Excel/VBA-budsjetteringsverktøy på ca. 15 ark og 78 globale navn; 2025-moderniseringen integrerte ansatt-, ansettelses- og bemanningsdata; i praksis eneste kodende utvikler for kodeendringene, bekreftet 2026-09-06, innenfor en bred interessentprosess på ca. 50 personer; ca. 80 prosent atferdsbevarende funksjon-for-funksjon-refaktorering med differansekontroll, akseptansekriterier og risikoregister; controller-onboarding; sykehusdekkende bruk i budsjettprosessene for 2026 og 2027 og ferdigstilt 2027-modernisering | Ikke opphavsperson eller budsjetteier; ingen eierskap til hele moderniseringen eller budsjettprosessen; ingen besparelse tilsvarende budsjettskala, nulldefekt eller kvantifisert tids- og feilreduksjon; det foreligger ikke godkjente målinger av effekt |\n| PRJ-04 Sykehusdekkende rammeverk for gevinstrealisering | 4.4 | IMPLEMENTED | Firepersoners videreutvikling av en eksisterende gevinstrealiserings- og estimeringsmetodikk med forskningssyntese samt metodisk, økonomisk/strategisk og styringsmessig bidrag; innført som sykehusdekkende standard og oppgitt aktiv om lag 2,5 år senere | Ingen ene-forfatter-, eier- eller metodelederrolle; eksakt navn, datoer, individuelle delkomponenter, godkjenningsvei, bruker- og prosjektomfang samt målt effekt er uavklart |\n| PRJ-05 Prognoser for pasientvolum, sengebehov og kapasitet | 4.5 | IN_DEVELOPMENT | Aktiv utvikling av 14-, 90- og 365-dagers prognoser; samlet arkitektur, repository og orkestrator, automatisering, integrasjon, GAM, SARIMAX-evaluering og utfordring av mål- og valideringsvalg | Aldri opprinnelig XGBoost-forfatterskap, all datapreparering eller alle features, manuelt forfatterskap av hele repositoriet, ferdigstilt Prophet/Chronos/ensemble, produksjonssetting, verifisert modellytelse eller moden enterprise-MLOps; implementeringen har distribuert kollega- og KI-forfatterskap |\n| PRJ-06 STE-gevinstfordeling og investeringsmodell | 4.6 | COMPLETED | Omforming av en ustøttet direktefordeling til en transparent vektet proxy-modell; fem arbeidsbøker med fire grenmodeller og én konsolideringsmodell; synlige og konfigurerbare forutsetninger og vekter; Power Query-overføring med skjemakontroll; revisjoner for umappede rader og skjema- eller kontrollavvik; modellen ferdigstilt tidlig i 2026 og overlevert til controllere, bekreftet 2026-09-06 | Ingen direkte måling, eierskap til klinikkestimater, realisert gevinst eller ROI-påstand; implementering per gren, endelige vekter, organisatorisk bruk og realiserte gevinster er fortsatt uavklart |\n| PRJ-07 Plattformpiloter og moderniseringskartlegging | 4.7 | PILOT | Deltakelse i tidlig tilgang, pilot og utforskning rundt Fabric, Power Platform, dbt, Pega og Python; vurdering av muligheter mot konkrete sykehusbegrensninger og teknisk troverdig moderniseringsargumentasjon | Power BI er ikke en pilot; ingen Fabric-adopsjonsledelse, plattformeierskap eller -administrasjon, produksjonsdataengineering, levert modenhetsveikart, formell fagansvarsrolle eller formelt Microsoft-engasjement; en rapportert sjelden sentral utviklertilgang er uavklart og utelatt fra normal ekstern bruk |\n| PRJ-08 Arbeidsmodell, teamdesign og smidig leveranse | 4.8 | IMPLEMENTED og foreslått, blandet i kilden | Etablering og utvikling av arbeidsmodellen i en firepersoners analyseavdeling; teamstrukturalternativer, ansvar og avhengigheter, Scrum/Kanban og oppgavehierarki, WIP-design og Loop-arbeidsflater | Ingen ene-etablering, formelt organisasjonsdesignmandat, programeierskap, personalansvar eller linjeledelse; innførte praksiser må skilles fra forslag |\n| PRJ-09 Arbeidsinntak, krav og samhandlingsverktøy | 4.9 | Designet og evaluert; kilden bruker ingen lifecycle-etikett | Strukturerte spørreskjemaer, krav- og informasjonsarkitektur samt design og evaluering av Forms-, Loop-, Power BI-, Pega- og lavkodealternativer, med prosjektnivåbruk der den er støttet | Kun design, evaluering og prosjektnivåbruk inntil ytterligere bevis etablerer utrulling; ingen virksomhetsutrulling, formelt produkteierskap eller organisasjonsdekkende adopsjon |\n| PRJ-10 Seksjonsvise DRG-prognoser i BAR | 4.10 | COMPLETED | Seksjonsvise DRG-estimater levert og brukt i budsjett og planlegging under den første OUS-plasseringen; Stata, R og Power Query anvendt på aktivitetsdatapreparering, tidsseriemodellering og planleggingsbruk; ett månedsestimat traff avrundet faktisk DRG nøyaktig | Observasjonen skal aldri gjøres om til treffprosent, modellkvalitetskonklusjon, gjentatt ytelse eller produksjonsstatus; ingen generalisert nøyaktighet, produksjonsprognosemotor, fast kadens, ene-kodeforfatterskap eller moden modellvalidering |\n\n### 0.4 Gjenfinningsindeks\n\n| Norske/engelske annonsesignaler | Hent |\n|---|---|\n| `Power BI`, `DAX`, `Power Query`, `semantic model`, `star schema`, `dashboard`, `styringsinformasjon` | §§4.1, 4.2, 6.2, 7 |\n| `Excel`, `VBA`, `budget`, `budsjettering`, `controller`, `legacy`, `refactoring`, `automation`, `self-taught`, `selvlært` | §§1.1, 4.3, 6.4, 7, 8 |\n| `forecast`, `prognose`, `time series`, `R`, `Python`, `Stata`, `XGBoost`, `GAM`, `SARIMAX`, `ARIMA`, `ML`, `capacity` | §§4.5, 4.10, 6.5, 7, 8 |\n| `benefits`, `gevinst`, `business case`, `investment`, `health economics`, `resource allocation` | §§4.4, 4.6, 6.1 |\n| `data quality`, `governance`, `security`, `privacy`, `validation`, `audit` | §§5.1, 6.8 |\n| `digitalisering`, `business analyst`, `requirements`, `product`, `agile`, `change`, `process`, `business transformation`, `service design` | §§4.7–4.9, 6.6–6.7 |\n| `stakeholder`, `communication`, `training`, `workshop`, `rådgivning` | §§4.2, 5.2, 6.9 |\n| `prosessforbedring`, `kontinuerlig forbedring`, `arbeidsprosess`, `flaskehals`, `standardisering`, `operational excellence`, `workflow` | §§1.1, 4.3–4.4, 4.8–4.9, 6.6–6.7 |\n| `regnskapsprosess`, `regnskap`, `økonomiprosess`, `ERP`, `REGERP`, `ADI`, `Oracle`, `periodisering`, `reversering`, `avstemming`, `månedsoppgjør`, `month-end close`, `financial close`, `lønn`, `årsoppgjør`, `controller` | §§1.1, 6.1, 6.4, 7, 8, 9.3, 10; `lønn` er et dokumentert underlags-/kostnadssignal, mens `årsoppgjør` er nabosignal og ikke direkte erfaringsclaim |\n| `fakturering`, `internfakturering`, `invoice`, `MVA`, `bilag`, `journal`, `kontering`, `kodeverk`, `project accounting`, `prosjektøkonomi`, `frikjøp` | §§1.1, 6.1, 7, 9.3 |\n| `klinikkøkonomi`, `DRG`, `aktivitet`, `kurdøgn`, `gjestepasient`, `innleie`, `medikament`, `lederrapport`, `variance explanation`, `management reporting` | §§1.1, 4.10, 6.1–6.2, 9.3 |\n| `endringsledelse`, `forankring`, `etterlevelse`, `opplæring`, `adopsjon` | §§2.2, 4.1–4.4, 4.8, 5.2, 6.7, 6.9 |\n| `måle effekt`, `KPI`, `gevinst`, `implementering`, `varig bruk` | §§4.1, 4.3–4.4, 5.1–5.2, 6.1–6.2, 8 |\n| `flere lokasjoner`, `på tvers`, `konsern`, `felles arbeidsmåte`, `skalering` | §§4.2–4.4, 4.8, 5.2; bruk sykehusdekkende/tverrorganisatorisk evidens uten å antyde multi-site linjemyndighet |\n| strengt tall- eller resultatclaim | §§8, 10 |\n| `process mining`, `task mining`, `root cause`, `prosess-KPI`, `conformance`, `rework` | §§4.1, 4.3–4.4, 4.8–4.9, 6.6, 8; rut til prosessevidens, aldri direkte verktøyerfaring uten bevis |\n| `Microsoft Fabric`, `OneLake`, `lakehouse`, `Data Factory`, `Direct Lake`, `Purview`, `Real-Time Intelligence` | §§4.7, 6.3, 7; behold utforskende nabostatus uten separat produksjonsbevis |\n\n### 0.5 Utvalgs- og syntesekontrakt\n\nFor hvert valgt prosjekt:\n\n1. Bruk `selection_value` mot arbeidsgiverens faktiske problem, ikke Vegards generelle tekniske dybde.\n2. Bygg prosa fra kompatible `claim_atoms` og bevar ceiling.\n3. Bruk `do_not_lead_with` mot teknisk imponerende, men rolleforvrengende åpning. Rekkefølgerådet i feltet kan revideres etter faktisk arbeidsgiverrelevans; de faktiske forbudene i samme felt står fast.\n4. Direkte økonomi-/regnskapsnær erfaring er positiv bro for prosessroller. Ikke gjør fravær av regnskapsbyrå-, lønns- eller årsoppgjørserfaring til frivillig svakhetsprosa.\n\n**Flerdimensjonal statuskontroll:** Les alltid minst fire akser separat: leveransestatus (`planlagt`/`pilot`/`aktiv utvikling`/`implementert`/`fullført`/`avviklet`), faktisk bruk/adopsjon, Vegards nåværende eierskap og hvilken effekt som er verifisert. En sammensatt status skal ikke presses inn i ett sterkere ord. Match verbet mot den svakeste aksen som er nødvendig for påstanden.\n\n### 0.6 Stabil claim-proveniens"
+    },
+    {
+      "source_file": "Work_experience.md",
+      "source_heading": "8. Godkjente måltall og resultatgrenser",
+      "text": "## 8. Godkjente måltall og resultatgrenser\n\n| Metric | Approved use | Required qualifier / prohibited implication |\n|---|---|---|\n| Four-person analysis department | Team/context scale | Never imply sole department/project ownership |\n| Approximately 1.5 months before gradually taking over month-close tasks; full assigned flow within approximately 3 months | Ramp-up and learning-speed signal from BAR | Self-reported approximate timing; not expert-from-day-one or all-OUS close ownership |\n| REGERP conversion tools used relatively frequently by finance advisers in several clinics shortly after transition | Operational adoption beyond own desk | No exact clinic/user/run count, quantified saving or central-system ownership |\n| Complete `budsjetthjelpeark.xlsx` built by Vegard | Personal artifact ownership in BAR budget support | Does not transfer ownership of inherited main budget workbooks or clinic budget |\n| One monthly BAR DRG estimate matched realized DRG exactly when rounded to the nearest whole point | Narrow concrete forecast observation | Never generalize to model accuracy, repeated performance or validated production forecasting |\n| Approximately 80–90% of dashboard DAX; almost all semantic model; most ETL/M | Contribution scale for `PRJ-01` | Self-reported share; colleagues led visual/content work |\n| Dashboard owner approximately Aug. 2025–Feb. 2026 | Former lifecycle ownership | Not current ownership |\n| Approximately 15 worksheets and 78 global names | Budget-workbook architecture scale | Retain `approximately`; verify before headline use |\n| Approximately 20-year-old inherited budgeting tool | Legacy context | Vegard did not create it |\n| Approximately 50 participants/stakeholders; Vegard effectively sole coder | Role/process scale | Bekreftet 2026-09-06; gjelder kodeendringene, ikke hele budsjettprosessen; broad stakeholder process remains |\n| Sykehusdekkende bruk i budsjettprosessene for 2026 og 2027; 2027-moderniseringen ferdigstilt, bekreftet 2026-09-06 | Operational use | Not zero defects, savings or personal budget authority |\n| Hospital-wide benefits framework active approximately 2.5 years later | Team-delivered durability/adoption | No personal ownership or measured effect |\n| 14-, 90- and 365-day forecast horizons | Project scope | Active development; no production claim |\n| Approximately 40,000 repository lines | Project scale | Distributed coworker/AI authorship |\n| Five-workbook STE architecture | Designed and completed scope; model handed over to controllers early 2026 | Not proof of full implementation/adoption |\n\nNever use contextual hospital budget values, STE business-case amounts, recalled ROI, rare-access population figures or unverified productivity/adoption measures externally without explicit reclassification."
+    },
+    {
+      "source_file": "Work_experience.md",
+      "source_heading": "9. Konstruksjon av CV- og intervjuevidens",
+      "text": "## 9. Konstruksjon av CV- og intervjuevidens\n\nThis section is a **CV/interview construction surface**, not an application-sentence library. Every selected element must be vacancy-ranked and rewritten. Never copy these sentences into an application, and never use all of them automatically.\n\n`CV_ONLY_STARTING_POINT` betyr: velg fra støttede atomer -> ranger på nytt for stillingen -> skriv formuleringen materielt om -> kontroller rute, ceiling og kanalrolle. Det er aldri baselineprosa som bare forkortes.\n\n### 9.1 `CV_ONLY_STARTING_POINT` – Analyseavdelingen\n\n### 9.2 `CV_ONLY_STARTING_POINT` – tidlig OUS\n\n### 9.3 Intervjuforsvarlige historiekart\n\n| Story | Problem | Personal contribution | Control/proof | Status/value | Limit |\n|---|---|---|---|---|---|\n| Greenfield management BI | Broad brief and fragmented finance/workforce/activity data | Semantic model, most M/ETL, ~80–90% DAX, operation/testing | Star schema, data-quality controls, user tests, documentation | Built and operated; now decommissioned | Colleagues led content/visuals; no quantified impact |\n| Controlled legacy modernization | Fragile ~20-year-old budgeting workbook | Architecture reconstruction, staffing integration, principal coding, controls/onboarding | Differential/parity logic, acceptance criteria, risk register | Sykehusdekkende bruk i budsjettprosessene for 2026 og 2027; 2027-moderniseringen ferdigstilt, bekreftet 2026-09-06 | Not original creator/budget owner; no quantified efficiency |\n| Forecasting architecture and validation | Multi-horizon operational forecasts and integrated codebase | Architecture, orchestrator, automation, GAM/SARIMAX, integration | Temporal holdouts, leakage/target checks, tests/handoffs | Active development | Coworker owns original XGBoost/much data/features; no production/performance claim |\n| Hospital-wide benefits method | Need for stronger shared methodology | Four-person team co-development | Research, economic/strategic analysis, standardization | Implemented hospital-wide; reported durable | Individual split/effect unresolved |\n| Proxy allocation under missing data | Direct service-use allocation unsupported | Weighted proxy logic and five-workbook architecture | Visible assumptions, configurable weights, audits | Completed transparent decision-support architecture, handed over to controllers early 2026 | Implementation/adoption/benefits unresolved |\n| Rapid takeover of clinic month close | Control-critical recurring process after onboarding | Gradually took over and within ~3 months ran the full assigned flow, QA, reporting and manager distribution | Periodization/reversal files, reconciliations, self-authored work notes and staged QA | Independent recurring delivery by end of BAR period | Not all-OUS close, accounting leadership or year-end close |\n| REGERP transition tooling | Old coding lines had to be consolidated with new structure | Self-initiated and self-built Excel/VBA conversion/validation tools; learned VBA from scratch | Mapping, input/output/error rows, project/account checks and operational use by advisers across clinics | Repeated cross-clinic use shortly after transition | Not the central ERP/Oracle solution; no quantified saving |\n| Early DRG forecasting | Sections needed forward-looking DRG estimates for budget/planning | Applied Stata, R and Power Query to prediction-based estimates | ARIMA/SARIMA artifacts and comparison with realized data | Delivered estimates; one month matched rounded actual exactly | Single observation, no generalized accuracy or production-system claim |\n\n### 9.4 Regel for CV-punkter\n\nPrefer: **problem/scope + personal action + method/control + supported capability/result**.\n\nIf no verified result exists, end with delivered capability, operational use or reduced/managed risk—not an invented impact. For shared work, include the team boundary in the verb or adjacent sentence."
+    },
+    {
+      "source_file": "Work_experience.md",
+      "source_heading": "10. Forbudte og uavklarte arbeidspåstander",
+      "text": "## 10. Forbudte og uavklarte arbeidspåstander\n\n### 10.1 Eksplisitt forbudt\n\nDo not claim that Vegard:\n\n- owned month-end close for all OUS, held formal accounting/controller leadership or performed year-end close;\n- built every inherited BAR accounting/reporting workbook or owned all underlying source data;\n- developed or owned the central REGERP/Oracle solution or ERP transition programme;\n- delivered quantified time/error savings from the BAR conversion tools without new evidence;\n- owned all BAR projects, invoices, budget work, management-report content or clinic decisions;\n- achieved generally exact or validated forecast performance because one rounded monthly DRG estimate matched actual;\n- created the original budgeting tool;\n- owned or controlled the hospital budgets processed through it;\n- designed every dashboard visual/content element or currently owns the decommissioned dashboard;\n- built the original XGBoost model or completed all data preparation/features;\n- manually authored the entire forecasting repository;\n- completed Prophet, Chronos or the final ensemble;\n- deployed the forecasting system as a completed production platform;\n- has mature enterprise MLOps/CI/CD;\n- led enterprise Fabric adoption or owns a central platform;\n- personally owned/solely authored the hospital-wide benefits framework;\n- owns the full recruitment process or has hiring authority;\n- has formal line-management, enterprise architecture, enterprise data-governance, AI-governance or security authority;\n- realized business-case estimates or contextual budget values as personal results.\n\n### 10.2 Uavklart – utelat eller behold smal kvalifikator\n\n- exact BAR month-close task list by period, report cadence/recipient count and types/frequency of errors found;\n- number/names of clinics, advisers, conversions and duration of REGERP-tool use; quantified time/error effects;\n- exact categories, volume and duration of project-economics cases beyond the documented demand-driven assignment model;\n- exact recurring methodology, model selection, code authorship, forecast horizon and performance series for the 2023 BAR DRG estimates;\n- full personal modification scope in inherited BAR accounting/reporting workbooks and the partially decoded binary VBA content;\n- exact dashboard name, start/delivery date, pages/tables/measures/sources/users and decommission reason;\n- exact operations-report unit/name/dates/components/current status;\n- exact benefits-framework name, individual split, approval route, use and effect;\n- forecasting deployment/performance and language-specific coding split;\n- STE implementation, weights, adoption and realized benefits;\n- exact platform-pilot names, access scope and governance;\n- AI-superuser assistance: exact dates, user count and formal organization-wide support mandate;\n- adoption, time saved, error reduction, cycle-time change, AI productivity and other quantified outcomes not explicitly approved above.\n\nWhen an unresolved item is decisive, ask one targeted question. Otherwise omit it."
+    },
+    {
+      "source_file": "Education.md",
+      "source_heading": "4. Godkjente utdanningsformuleringer og grenser",
+      "text": "## 4. Godkjente utdanningsformuleringer og grenser\n\n### 4.1 Claim-atomer for utdanning\n\n| Atom ID | Supported content | Attribution/qualifier |\n|---|---|---|\n| `EDU-A01` | Completed master’s degree in economics | NTNU, 2020–2022 |\n| `EDU-A02` | Completed bachelor’s degree in economics | UiB, 2017–2020 |\n| `EDU-A03` | Ongoing five-year master programme in artificial intelligence | UiA, 2024–present; pace/progression/completion unresolved |\n| `EDU-A04` | Master-level coursework in advanced econometrics, applied econometrics, time-series econometrics and advanced mathematical analysis | NTNU; retain historical mismatch qualifier for `FIN3006` if exact content is material |\n| `EDU-A05` | Bachelor-level business-economics grounding in accounts, budgeting, liquidity/control systems, valuation, strategy and economic control | UiB `ECON263`; historical page/title mismatch |\n| `EDU-A06` | Bachelor-level investment/finance grounding in valuation, risk, markets and portfolio basics | UiB `ECON261` |\n| `EDU-A07` | Broad economics grounding across public/welfare, labour, political, competition, macro/open-economy and environmental/resource economics | UiB/NTNU; exact courses remain separately attributed |\n| `EDU-A08` | Verified introductory Python fundamentals | UiB `INFO132`; historical page/code alignment qualifier |\n| `EDU-A09` | Course-level exposure to AI concepts, software development, database modelling and discrete mathematics | UiA; detailed outcomes unresolved |\n| `EDU-A10` | Independent scientific analysis, empirical design, sustained writing, source handling and critical discussion | Bachelor/master thesis and supporting subjects; thesis topics/results unresolved |\n\nReconstruct vacancy-specific wording from these atoms. Use `faglig forankring`, `masterfag`, `kursbakgrunn` or `studieeksponering` where needed. Prefer work evidence for practical expertise, and never collapse bachelor- and master-level subjects into an ambiguous course list.\n\n### 4.2 Forbudte oppgraderinger\n\nDo not infer:\n\n- health-economics degree/certification;\n- computer-science or software-engineering degree;\n- AI-engineer or data-engineer qualification;\n- professional mastery of Python, databases or ML from courses alone;\n- financial-engineering specialization;\n- formal leadership/management qualification;\n- thesis topic, grade, specialization or result;\n- degree completion for the ongoing UiA programme.\n\n### 4.3 Uavklarte punkter\n\n- UiA study pace, current progression, expected completion and detailed current modules.\n- NTNU award date, thesis title/topic, specialization and grade.\n- UiB exact award date and grade.\n- Historical page/title/code alignment for `ECON210`, `ECON263`, `ECON264`, `INFO132`, `ECON290`, `FIN3005`, `FIN3006`.\n- Detailed content for `RET100`, `PSY3813` and the four listed UiA courses.\n- Formal Norwegian equivalence of Canadian upper-secondary study.\n\nIf a strict vacancy criterion depends on any unresolved detail, ask one targeted question or request official documentation. Otherwise use the conservative degree/capability wording above."
+    },
+    {
+      "source_file": "Other_high_value_information.md",
+      "source_heading": "9. Globalt uavklartregister",
+      "text": "## 9. Globalt uavklartregister\n\nOmit or retain narrow qualifier:\n\n- exact English portal scale if a standardized label is required;\n- whether trust/service or Canadian schooling adds value for a specific CV;\n- AI-superuser designation: exact dates, user count and formal organization-wide support mandate;\n- quantified adoption, time saved, error reduction, cycle-time change, decision impact or AI productivity;\n- formal leadership/management authority;\n- public-safe portfolio artifacts or externally publishable case materials;\n- exact current platform-access scope.\n\nWhen a material unresolved item determines eligibility or claim strength, ask one targeted question. Otherwise omit it."
+    }
+  ],
+  "mechanical_cv_baseline": {
+    "baseline_version": "0.7.0",
+    "candidate": {
+      "full_name": "Vegard Håland",
+      "phone": "+47 905 26 886",
+      "email": "vegard-haaland@outlook.com",
+      "location": "Oslo",
+      "linkedin": null
+    },
+    "employment": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "sort_order": 1,
+        "employer": "Oslo universitetssykehus HF",
+        "formal_title": "Rådgiver Økonomi og IKT",
+        "unit": "Direktørens stab, Analyseavdelingen",
+        "location": "Oslo",
+        "period": "12.2023-d.d.",
+        "employment_group_period": "03.2023-d.d.",
+        "default_bullets": [
+          "Utvikler og forbedrer beslutningsstøtte for økonomi, bemanning, aktivitet/DRG og pasientflyt ved hjelp av Power BI, DAX, Power Query, Excel/VBA, SQL og prosjektavhengig R/Python.",
+          "Omsetter brede behov til avgrensede løsningsarkitekturer, kontroller, dokumentasjon og brukbare leveranser for ledere, controllere, fagmiljøer og tekniske samarbeidspartnere.",
+          "Bidrar til strukturering av leveranser, workshops, onboarding og kompetanseoverføring i tverrfaglige oppdrag."
+        ],
+        "always_include": true,
+        "authority_anchor": "EMP-OUS-001"
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "sort_order": 2,
+        "employer": "Oslo universitetssykehus HF",
+        "formal_title": "Rådgiver Økonomi og IKT",
+        "unit": "Barne- og ungdomsklinikken, Stab",
+        "location": "Oslo",
+        "period": "03.2023-11.2023",
+        "default_bullets": [
+          "Overtok etter opplæring den tildelte månedsoppgjørsflyten med periodisering, reversering, avstemming, kvalitetssikring, resultatforklaring og rapportering til ledere.",
+          "Utviklet Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP og bidro i budsjett, prosjektøkonomi og klinikkens økonomi-/aktivitetsrapportering."
+        ],
+        "always_include": true,
+        "authority_anchor": "CLM-BAR-001"
+      },
+      {
+        "employment_id": "EMP_TKS_HEIS",
+        "sort_order": 3,
+        "employer": "TKS Heis",
+        "formal_title": "Hjelpearbeider",
+        "unit": null,
+        "location": null,
+        "period": "07.2015-08.2021",
+        "default_bullets": [
+          "Sesong- og heltidsarbeid sammen med heismontører under studiene, i et praktisk og sikkerhetssensitivt arbeidsmiljø."
+        ],
+        "always_include": true,
+        "authority_anchor": "July 2015–August 2021"
+      },
+      {
+        "employment_id": "EMP_AHLSELL",
+        "sort_order": 4,
+        "employer": "Ahlsell",
+        "formal_title": "Butikkmedarbeider/vikar",
+        "unit": "Auglendsmyra",
+        "location": "Stavanger",
+        "period": "02.2015-04.2015",
+        "default_bullets": [
+          "Arbeidet med varemottak, lager, bestilling, salg og kundekontakt."
+        ],
+        "always_include": true,
+        "authority_anchor": "February–April 2015"
+      },
+      {
+        "employment_id": "EMP_LUFTFORSVARET",
+        "sort_order": 5,
+        "employer": "Luftforsvaret",
+        "formal_title": "Vakt- og sikringssoldat",
+        "unit": "Sola",
+        "location": "Sola",
+        "period": "03.2014-02.2015",
+        "default_bullets": [
+          "Utførte vakthold, adgangskontroll og alarmrespons med tydelige prosedyrer og ansvar."
+        ],
+        "always_include": true,
+        "authority_anchor": "March 2014–February 2015"
+      },
+      {
+        "employment_id": "EMP_SECTOR_ALARM",
+        "sort_order": 6,
+        "employer": "Sector Alarm",
+        "formal_title": "Sikkerhetskonsulent",
+        "unit": null,
+        "location": "Stavanger",
+        "period": "10.2013-03.2014",
+        "default_bullets": [
+          "Gjennomførte behovsavklaring, pristilbud, direkte salg og kundedialog."
+        ],
+        "always_include": true,
+        "authority_anchor": "October 2013–March 2014"
+      }
+    ],
+    "education": [
+      {
+        "education_id": "EDU_UIA_AI",
+        "sort_order": 1,
+        "institution": "Universitetet i Agder",
+        "qualification": "Masterprogram i kunstig intelligens",
+        "field": "Kunstig intelligens",
+        "period": "2024-d.d.",
+        "status": "Pågående",
+        "details": [],
+        "include_in_cv": true,
+        "authority_anchor": "EDU-001"
+      },
+      {
+        "education_id": "EDU_NTNU_ECON",
+        "sort_order": 2,
+        "institution": "NTNU",
+        "qualification": "Master i samfunnsøkonomi",
+        "field": "Samfunnsøkonomi",
+        "period": "2020-2022",
+        "status": "Fullført",
+        "details": [
+          "Relevante fag: videregående og anvendt økonometri, anvendt tidsserieøkonometri og videregående matematisk analyse."
+        ],
+        "include_in_cv": true,
+        "authority_anchor": "EDU-002"
+      },
+      {
+        "education_id": "EDU_UIB_ECON",
+        "sort_order": 3,
+        "institution": "Universitetet i Bergen",
+        "qualification": "Bachelor i samfunnsøkonomi",
+        "field": "Samfunnsøkonomi",
+        "period": "2017-2020",
+        "status": "Fullført",
+        "details": [
+          "Bred økonomifaglig bakgrunn, blant annet statistikk og økonometri, offentlig økonomi, arbeidsmarked, konkurranse, finans og bedriftsøkonomi."
+        ],
+        "include_in_cv": true,
+        "authority_anchor": "EDU-003"
+      },
+      {
+        "education_id": "EDU_CALGARY",
+        "sort_order": 4,
+        "institution": "Ernest Manning High School, Calgary",
+        "qualification": "Videregående utdanning",
+        "field": "Naturfag og avansert matematikk",
+        "period": "2011-2013",
+        "status": "",
+        "details": [],
+        "include_in_cv": false,
+        "authority_anchor": "EDU-004"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Norsk",
+        "level": "Morsmål"
+      },
+      {
+        "language": "Engelsk",
+        "level": "Flytende skriftlig og muntlig"
+      }
+    ],
+    "other_sections": [
+      {
+        "section_id": "OTHER_TRUST",
+        "heading": "Tillitsverv",
+        "items": [
+          "Styremedlem/beboerrepresentant, Solheimslien studentboliger, 10.2017-01.2019.",
+          "Økonomiansvarlig og nestleder, 01.2019-01.2020.",
+          "Styreleder og økonomiansvarlig, 01.2020-08.2020."
+        ]
+      },
+      {
+        "section_id": "OTHER_COURSES",
+        "heading": "Kurs",
+        "items": [
+          "Sanitet nivå 2, 04.2014."
+        ]
+      }
+    ],
+    "references_text": "Oppgis ved forespørsel."
+  }
+}

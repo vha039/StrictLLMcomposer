@@ -1,0 +1,77 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE2_DRAFT",
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver innen virksomhetsstyring og styringsinformasjon",
+    "profile": "Samfunnsøkonom (mastergrad fra NTNU) og rådgiver i virksomhetsstyringsfunksjonen i direktørens stab ved Oslo universitetssykehus. Arbeider med budsjettprosesser, prognoser, avviksanalyser og styringsinformasjon for ledere. Erfaring med å omsette virksomhetsbehov til felles metoder og robuste styringsverktøy: deltok i et firepersonersteam som utviklet et sykehusdekkende rammeverk for gevinstrealisering som fortsatt var i bruk om lag 2,5 år senere, og har hatt hovedansvar for kodeendringene i sykehusets sentrale budsjettverktøy for 2026-prosessen. Kombinerer økonomisk metode med praktisk erfaring i å bygge datamodeller og samarbeide på tvers av fag, ledelse og tekniske miljøer.",
+    "competencies": [
+      "Virksomhetsstyring og budsjettprosess",
+      "Styringsinformasjon og ledelsesrapportering",
+      "Avviksanalyse og prognoser",
+      "Gevinstrealisering og metodestandardisering",
+      "Beslutningsgrunnlag og analyse",
+      "Tverrfaglig samarbeid og interessentdialog",
+      "Power BI, semantisk modellering og DAX",
+      "Power Query, SQL og Excel/VBA",
+      "Datainfrastruktur og BI-arkitektur",
+      "Arbeids- og prioriteringsprosesser (Scrum/Kanban)"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Hovedansvar for kodeendringene i sykehusets virksomhetskritiske budsjetteringsverktøy, levert til budsjettprosessen for 2026, i en prosess med om lag 50 involverte, inkludert onboarding og materiell for controllere.",
+          "Deltok i et firepersonersteam som utviklet et rammeverk for gevinstrealisering og estimering, innført som sykehusdekkende standard og fortsatt i bruk om lag 2,5 år senere.",
+          "Utviklet greenfield styringsinformasjon og semantisk modell på tvers av økonomi, bemanning, sykefravær og aktivitet/DRG (Power BI, DAX, Power Query M), inkludert avviks- og hittil-i-år-logikk samt veiledede brukertester.",
+          "Samarbeidet på tvers av organisasjonsgrenser mot den sentrale rapporterings- og dataorganisasjonen for å sikre styringsinformasjon; bisto i arbeidsmøter og lærte opp teknisk personell i semantisk modellering.",
+          "Utformet prioriterings- og arbeidsstrukturer i Analyseavdelingen under etablering (oppgavehierarki, WIP-begrensning, arbeidsinntak med akseptansekriterier) og fasiliterte felles workshops."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter kort tid hele den tildelte månedsoppgjørsflyten i klinikkstaben med periodisering, avstemming, kvalitetssikring, avviks- og resultatforklaring og selvstendig rapportering til klinikkens ledere.",
+          "Fulgte opp og analyserte økonomiske tiltak med oversettelse av tiltakslogikk til budsjett- og styringsspråk, samt utarbeidet seksjonsvise DRG-prognoser levert inn i budsjett og planlegging.",
+          "Utviklet validerings- og konverteringsverktøy i Excel/VBA ved overgangen til REGERP og bisto i klinikkens budsjett- og prosjektøkonomi."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Huseiernes stillingsannonse peker rett på det punktet der styringsrammeverk vanligvis møter motstand: i overgangen fra formelt dokument til en faktisk arbeidsmåte på tvers av avdelinger og produktområder. Som samfunnsøkonom i Analyseavdelingen i direktørens stab ved Oslo universitetssykehus har jeg erfart at rammeverk og styringsverktøy bare overlever dersom de utformes på premissene til dem som skal bruke dem i hverdagen.",
+    "body_paragraphs": [
+      "I et tverrfaglig firepersonersteam var jeg med på å utvikle et rammeverk for gevinstrealisering og estimering som ble innført som sykehusdekkende standard, og som fortsatt var i bruk om lag 2,5 år senere. Ledelsens oppdrag var å forbedre en eksisterende metode slik at ulike kliniske og administrative enheter faktisk kunne ta den i bruk. For at måling skal eies av andre, har jeg lagt til grunn en klar faglig regel om å unngå falsk presisjon: Da direkte måling av tjenestebruk i et annet prosjekt ikke ga forsvarlig grunnlag for fordeling mellom klinikker, avviste jeg en direkte gevinstfordeling. I stedet utformet jeg en flerindikatormodell der fordelingsvekter og antakelser er synlige og justerbare, slik at controllere og fagansvarlige selv kan vurdere og oppdatere tallene uten varig utviklerbinding.",
+      "Den samme prioriteringen av driftssikkerhet og mottakernes behov preget arbeidet mitt med sykehusets sentrale budsjetteringsverktøy for 2026-prosessen. Jeg overtok en om lag tjue år gammel, virksomhetskritisk modell med betydelig teknisk gjeld og spredte versjoner, og integrerte bemannings- og ansettelsesdata direkte slik at et manuelt avstemmingsledd mellom arbeidsbøker falt bort. Prosessen involverte om lag 50 controllere og ledere. Da innføringsansvarlig overprøvde min faglige anbefaling om en bredere omstrukturering til fordel for en smalere, funksjon-for-funksjon-fornyelse, tilpasset jeg gjennomføringen til den operative rammen. Rundt 80 prosent av endringene ble gjort strengt atferdsbevarende, og jeg etablerte paritetstester, eksplisitte akseptansekriterier og et risikoregister. Leveransen ble tatt i bruk til 2026-budsjettet, støttet av målrettet opplæring og dokumentasjon for controllerne.",
+      "I det løpende arbeidet har jeg overtatt og selvstendig gjennomført månedsoppgjørsflyten i klinikkstab, med avstemming, avviksforklaring og rapportering direkte til klinikkens ledere, samt levert seksjonsvise aktivitets- og DRG-prognoser inn i den årlige budsjett- og planleggingsprosessen. Da rapporter fra den sentrale dataorganisasjonen ikke dekket avdelingens analysebehov, arbeidet jeg i sømmen mellom forretning og IT gjennom tekniske arbeidsmøter og opplæring i semantiske modeller, for å sikre at styringsinformasjonen ble relevant og tilgjengelig for dem som skulle handle på den.",
+      "Huseiernes uavhengige stilling og medlemsfinansiering stiller høye krav til ryddighet: Styringsinformasjon og prioriteringer er ikke et formelt ritual, men måten organisasjonen sikrer at medlemmenes midler disponeres best mulig. Med veksten i nye produkter og fagområder kreves et styringsapparat som holder orden uten å skape unødig byråkrati. Mitt bidrag inn i avdeling for virksomhetsstyring vil være å etablere en forutsigbar måneds- og prioriteringsrytme som avdelinger og produktteam kan eie selv, og sørge for at beslutningsgrunnlag og prognoser er etterprøvbare og faglig forankret."
+    ],
+    "closing": "Jeg stiller gjerne til samtale for å drøfte hvordan denne erfaringen kan omsettes i praktisk målstyring hos Huseierne."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "writer_note": null,
+  "binding": {
+    "run_id": "r20260905-115243-93c621",
+    "job_id": "huseierne_strategi_maalstyring",
+    "employer": "Huseiernes Landsforbund",
+    "title": "Strategi- og målstyringsrådgiver",
+    "manifest_sha256": "2e9bdd1baea08644149e9db3114b5bb3e80ed2d7a8e24018bc414278c207edd8",
+    "vacancy_sha256": "79989b4967452f73a86107aa8b28d7bba0ebad6656e03eca6bfad3c1ce15ee11",
+    "evidence_index_sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+    "stage_instruction_sha256": "2711e84ffe1072d25c8339f0a11fc8835b1d5a63a5d5f34cb70a8c7796f27595",
+    "baseline_map_sha256": "3f7353e62164f402e2c5edfd1ef4ea5ab24bf4031975fa8e88e8d1ca2776aaff",
+    "strategy_sha256": "1470366d60d60c8445df1e8add758473470d39c656d225a8d6d2ff92349caa7e"
+  }
+}

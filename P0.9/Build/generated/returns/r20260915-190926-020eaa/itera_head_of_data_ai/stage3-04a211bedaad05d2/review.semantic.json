@@ -1,0 +1,34 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Ingen kjent materiell omskriving eller faktabekreftelse gjenstår i den leverte pakken. Teknisk ansvar, distribuerte bidrag og utviklingsstatus er avgrenset i teksten.",
+      "recommended_action": "Les gjennom CV og brev før eventuell ekstern innsending.",
+      "priority": 1
+    },
+    {
+      "reason": "Head-rollen innebærer et reelt sprang til personal- og kommersielt ansvar. Pakken viser overførbar prosjekterfaring uten å fremstille disse kravene som oppfylt.",
+      "recommended_action": "Vurder om Itera kan være åpen for dette spranget, og forbered en konkret samtale om personalledelse, salg og kundeutvikling.",
+      "priority": 2
+    },
+    {
+      "reason": "Sykehusdekkende bruk er dokumentert, men gir ikke grunnlag for å hevde målte eller kommersielle forretningsresultater.",
+      "recommended_action": "Behold skillet mellom dokumentert bruk og økonomisk effekt i videre dialog.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert profesjonell personalledelse, bemanningsmyndighet, samlet rekrutteringsansvar eller ledergruppeerfaring.",
+    "Ingen dokumentert erfaring fra eksternt konsulentmiljø med kommersiell tjenesteutvikling, teknologisalg, kundevekst eller resultatansvar. Eldre direkte salg lukker ikke dette gapet.",
+    "Ingen godkjente målinger av økonomisk effekt, tidsbesparelse eller feilreduksjon fra moderniseringen.",
+    "Prognosearbeidet er under utvikling uten verifisert modellytelse eller produksjonssetting. KI-arbeidsformen er ikke en produksjonssatt generativ KI-tjeneste eller moden MLOps.",
+    "Ekstern faglig synlighet og markedsposisjonering er ikke dokumentert. KI-masterprogrammet er pågående."
+  ],
+  "material_strategy_change": "Reordnet hovedbevisene: modernisering og dokumentert bruk kommer før prognose-/KI-utvikling. Det gir Iteras resultat- og tjenesteorienterte utvelgelse et konkret leveransegrunnlag før teknisk utviklingsdybde. CV viser omfang og status, mens brevet utdyper dataflyt, tilpasning til implementeringsrammen og kvalitetspremisser. Kompetanseoverføring får en kort egen arbeidsgiverbro.",
+  "upstream_claim_repaired": null,
+  "notes": [
+    "Ingen materiell over- eller underdrivelse i strategiens påstander ble identifisert som krevde reparasjon. Kildelesningen presiserte at den avgrensede refaktoreringen var implementeringsansvarliges krav, ikke kandidatens foretrukne arkitektur.",
+    "READY/CHECK ble vurdert mot gapene i leder- og kommersiell erfaring. Dette er kjente kvalifikasjonsgap, ikke et avgrenset uavklart faktum eller en lokal tekstreparasjon; derfor READY.",
+    "Den støttede kommunikasjonsdelen gjelder ledere, controllere og tekniske miljøer, BI-opplæring og tilpassede beslutningsnotater. Det er ikke utledet et eget lederrettet KI-rådgivningsprogram fra strategiens sammensatte krav."
+  ]
+}

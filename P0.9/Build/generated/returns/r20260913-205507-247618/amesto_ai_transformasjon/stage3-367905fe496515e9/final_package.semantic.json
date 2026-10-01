@@ -1,0 +1,67 @@
+{
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT | Automatisering av økonomiprosesser, data og KI",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus. Kombinerer praktisk erfaring fra månedsoppgjør og prosjektøkonomi med automatisering, dataintegrasjon og KI-støttet utvikling: laget konverterings- og valideringsverktøy ved overgangen til REGERP som ble brukt i flere klinikker, videreutviklet sykehusets budsjetteringsverktøy til bruk i hele sykehuset, og har ansvar for arkitektur og orkestrering i et KI-støttet prognoseprosjekt under utvikling. Registrert superbruker for kunstig intelligens og student ved et pågående masterprogram i kunstig intelligens ved Universitetet i Agder.",
+    "competencies": [
+      "Automatisering av økonomi- og rapporteringsprosesser",
+      "Økonomiprosesser: månedsoppgjør, periodisering og avstemming",
+      "Dataintegrasjon på tvers av fagsystemer",
+      "Arkitektur og orkestrering i analyseprosjekter",
+      "KI-støttet utvikling med menneskelig kontroll",
+      "Teknologivalg vurdert mot drift, risiko og vedlikehold",
+      "Kontrollert implementering, testing og opplæring",
+      "Excel/VBA, Power Query, SQL, R, Python og Git"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Videreutviklet sykehusets arvede budsjetteringsverktøy i Excel/VBA i en prosess med om lag 50 involverte. Rekonstruerte arkitekturen fra kildekode, formler og navngitte områder, integrerte ansatt-, ansettelses- og bemanningsdata som tidligere ble kopiert manuelt, og var i praksis eneste utvikler av kodeendringene.",
+          "Vurderte VBA, Office Scripts, Python og KI-støttede løsninger mot kompatibilitet, driftsrisiko og vedlikehold, og gjennomførte endringene med akseptansekriterier, risikoregister, differansekontroll og opplæringsmateriell for controllere. Brukt i hele sykehuset i budsjettprosessene for 2026 og 2027.",
+          "Har ansvar for arkitektur, orkestrering, automatisering og integrasjon i et prosjekt under utvikling med prognoser for pasientvolum og kapasitet på 14, 90 og 365 dagers sikt: orkestrator som kobler data, features, modeller, evaluering og resultater, automatiske kvalitetskontroller og kontroll av sensitive data i kode og notatbøker. Implementeringen er fordelt på egen innsats, en kollega og kodeagenter.",
+          "Satte opp arbeidsstrukturen for kodeagentene i prognoseprosjektet med prosjektinstruksjoner, kildeprioritet, logger, overleveringer og tester, og gjennomgår bidrag før de integreres.",
+          "Registrert superbruker for kunstig intelligens ved sykehuset i om lag tre år, med teknisk bistand til kolleger i en Teams-kanal.",
+          "Utformet en modell for fordeling av gevinster fra investeringer i steril logistikk med fem arbeidsbøker, Power Query-overføring med skjemakontroll og kontroller for umappede rader og avvik. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Deltok i piloter og utforskning av Fabric, Power Platform, dbt og Pega, og vurderte mulighetene mot sykehusets rammer.",
+          "Utviklet nesten hele den semantiske modellen, det meste av Power Query-logikken og om lag 80 til 90 prosent av DAX-beregningene i avdelingens styringsdashbord, der kolleger ledet innhold og visualisering (avviklet 2026)."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy som konverterte, standardiserte og validerte gamle konteringslinjer mot REGERP-formatet, og lærte VBA underveis. Verktøyene ble brukt av økonomirådgivere i flere klinikker i perioden etter overgangen.",
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avsetninger, bilagsflyt, avstemming og feilsøk, og gjennomførte oppgjøret etter hvert selvstendig.",
+          "Koblet data fra blant annet JIT, ADI, REGERP, GAT, personell- og lønnsgrunnlag og DRG-rapporter, og dokumenterte arbeidssteg og kontroll- og valideringslogikk i arvede arbeidsbøker.",
+          "Håndterte prosjektøkonomiske saker etter behov, blant annet ekstern finansiering, fakturering, frikjøp og lønnskostnader og prosjektavslutning."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Ved overgangen til nytt økonomisystem i min første plassering ved Oslo universitetssykehus satt jeg selv i månedsoppgjøret, og gamle konteringslinjer måtte konverteres til den nye strukturen. Jeg lærte meg VBA og laget på eget initiativ verktøy som konverterte og validerte linjene, og de ble brukt av økonomirådgivere i flere klinikker. I dag er jeg rådgiver økonomi og IKT i Analyseavdelingen, samfunnsøkonom med master fra NTNU, og søker stillingen fordi jeg vil gjøre mer av nettopp dette: finne ut hvor en økonomiprosess kan automatiseres, og få løsningen i bruk.",
+    "body_paragraphs": [
+      "I oppgjørsarbeidet hadde jeg innen om lag tre måneder hele den tildelte flyten med periodisering, reversering, avsetninger, bilagsflyt og avstemming, og jeg koblet data fra blant annet REGERP, ADI, JIT, GAT og personell- og lønnsgrunnlag. Underveis dokumenterte jeg arbeidsstegene og la inn kontroll- og valideringslogikk i arbeidsbøkene.",
+      "Budsjetteringsverktøyet sykehuset bruker i budsjettprosessen har jeg videreutviklet fra behov til bruk. Bemanningsdata måtte før kopieres manuelt fra en annen arbeidsbok. Jeg rekonstruerte verktøyets oppbygging fra kildekoden, vurderte VBA, Office Scripts, Python og KI-støttede løsninger opp mot kompatibilitet, driftsrisiko og vedlikehold, og anbefalte en bredere omstrukturering. Gjennomføringsleder valgte en smalere vei, og jeg gjorde i praksis alle kodeendringene med akseptansekriterier, risikoregister og differansekontroll, i en prosess med om lag 50 involverte. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026, og i runden for 2027 hadde jeg vesentlig større frihet.",
+      "Med data og KI jobber jeg blant annet i et prognoseprosjekt for pasientvolum og kapasitet, som fortsatt er under utvikling. Der har jeg ansvar for arkitekturen og orkestratoren som kobler data, features, modeller, evaluering og resultater, og for de automatiske kvalitetskontrollene. Koden skrives av meg, en kollega og kodeagenter som arbeider etter prosjektinstruksjoner, kildeprioritet og tester, og jeg går gjennom bidragene før de integreres, også med tanke på sensitive data. Jeg er dessuten registrert superbruker for kunstig intelligens ved sykehuset og tar et masterprogram i kunstig intelligens ved Universitetet i Agder."
+    ],
+    "closing": "Lønn, regnskapsbyrå og løsninger for mange eksterne kunder har jeg ikke jobbet med, og jeg har ikke ledet et team. Det jeg kan bidra med i transformasjonsteamet, er å analysere en regnskaps- eller lønnsprosess nøyaktig nok til å se hva som kan automatiseres, vurdere hva ulike teknologivalg betyr for drift og kontroll, og følge løsningen helt til den er tatt i bruk. Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+    "EV:WORK#039-6-4-programmering-automatisering-og-impl",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#028-4-4-trygge-ki-pastander"
+  ],
+  "writer_note": "Kept strategy route (BAR + PRJ-03 + AI) but replaced the abstract AI work model with PRJ-05 as the concrete data-architecture and AI unit (orchestrator, quality checks, agent structure, sensitive-data review), added technology-option evaluation from PRJ-03 for consequences of technology choices, and added superuser role and ongoing AI master. Gaps on payroll, accounting firm, customer-scale solutions and team leadership stated once."
+}

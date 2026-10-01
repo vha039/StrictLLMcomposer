@@ -1,0 +1,200 @@
+{
+  "artifact_role": "BRIEF",
+  "position": {
+    "track": "Kvalifikasjonsruten økonomi- og IT-kompetanse, ikke eiendomsmeglerruten. Annonsen åpner tre veier inn, og dette er et reelt valg: argumentet føres på dokumentert systemarbeid, brukeropplæring og praktisk KI-bruk, ikke på bransjekunnskap kandidaten ikke har.",
+    "thesis": "Rollen er personen som står mellom meglerne og systemene, og det avgjørende er ikke systemkunnskap men om veiledningen og opplæringen faktisk treffer der brukeren står fast; det er nøyaktig det arbeidet Vegard har gjort med faktiske brukere, tekniske kolleger i andre organisasjoner og kontrollere.",
+    "reader_need": "EIE trenger en som tar imot en meglerhenvendelse, løser den, skriver veiledningen som gjør at neste megler ikke trenger å spørre, og som kan gjøre KI til noe meglerne tør bruke i en travel arbeidsdag.",
+    "headline_intent": "Navngi rådgiverfunksjonen med digitale verktøy og brukeropplæring som feltet. Kort nok til å rendre på én linje; denne jobbens signalliste har tidligere hatt en overskrift på to linjer."
+  },
+  "delivery": "LETTER_AND_CV",
+  "delivery_reason": "Scoutens submission har letter_requirement UNSPECIFIED, route UNKNOWN og ingen sitat: annonsen sier ikke hva som skal sendes. Prosessen ledes av en rekrutterer, og brev er da normalt og ikke avvist. Brevet er også eneste sted overføringen fra sykehusdrift til meglerhverdag kan gjøres.",
+  "units": [
+    {
+      "id": "U1",
+      "refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "proves": "Gjennomførte veiledede tester med faktiske brukere, observerte hvor interaksjonen forvirret dem, samlet tilbakemeldinger og kjørte målrettede forbedringsrunder på funnene. Ledet en intern workshop for kolleger og underviste tekniske kolleger i andre organisasjoner i Power BI og semantisk modellering. Lager både detaljert referansemateriell og korte sammendrag, tilpasset mottakeren.",
+      "employer_problem": "«lage veiledninger folk faktisk leser og bruker»: annonsen innrømmer selv at veiledninger vanligvis ikke blir lest. Kan denne personen finne ut hvor brukeren faktisk står fast, og skrive for det?",
+      "ceiling": "Do not claim all visuals/content, current ownership, multi-year ownership, quantified adoption/efficiency, exact page/table/measure/user scale or enterprise-architecture authority.",
+      "placement": "BOTH"
+    },
+    {
+      "id": "U2",
+      "refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "proves": "Registrert som superbruker for kunstig intelligens i om lag tre år, med tekniske svar i en Teams-kanal. Arbeider etter en fast arbeidsflyt der KI får avgrensede oppgaver mot definert kilderekkefølge, med krav om tester og avstemming og et menneskelig beslutningspunkt før konsekvensrike handlinger, og med en konkret driftsstruktur for kodeagenter.",
+      "employer_problem": "«effektivisere og forenkle meglernes arbeidsdag gjennom AI»: det vanskelige er ikke begeistring for KI, men å gjøre den trygg og brukbar for travle, ikke-tekniske brukere.",
+      "ceiling": "Arbeidsflytprinsipp, ikke bevis på en formell KI-styringsrolle; konsekvensrike handlinger krever et menneskelig beslutningspunkt og en etterprøvbar overlevering",
+      "placement": "BOTH"
+    }
+  ],
+  "judgment": {
+    "refs": [
+      "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+    ],
+    "judgment": "Vurderte VBA, Office Scripts, Python og KI-assisterte tilnærminger mot kompatibilitet, driftsrisiko og vedlikeholdbarhet før moderniseringen av et forretningskritisk verktøy, og valgte den linjen brukerne kunne leve med framfor den mest moderne. Nytt verktøy er en driftsbeslutning, ikke et smaksspørsmål.",
+    "ceiling": "Ikke opphavsperson eller budsjetteier; ingen eierskap til hele moderniseringen eller budsjettprosessen; ingen besparelse tilsvarende budsjettskala, nulldefekt eller kvantifisert tids- og feilreduksjon; det foreligger ikke godkjente målinger av effekt",
+    "integrate_into": "U2"
+  },
+  "reserve": [
+    {
+      "ref": "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+      "use_if": "Et selvbygget verktøy kolleger faktisk tok i bruk trengs: REGERP-konverteringen, brukt relativt hyppig av økonomirådgivere i flere klinikker. Utenfor kjernen."
+    },
+    {
+      "ref": "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+      "use_if": "MUST-kravet om tett kundedialog skal besvares: behovsavklaring, pristilbud og direkte kundedialog hos Sector Alarm. Kort."
+    },
+    {
+      "ref": "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+      "use_if": "Utprøving av nye verktøy mot driftsbegrensninger trengs. Power BI er ikke en pilot; ingen plattformeierskap."
+    },
+    {
+      "ref": "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+      "use_if": "Behovsavklaring og kravstrukturering før et verktøy velges eller testes trengs."
+    },
+    {
+      "ref": "EV:OTHER#039-6-4-selvstendig-teknisk-problemlosning",
+      "use_if": "Arbeidsmåten ved innkommende henvendelser trengs: inspisere ukjent system, diagnostisere, etablere vei videre. Arbeidsstil. Utenfor kjernen."
+    }
+  ],
+  "employer_fact": {
+    "fact": "EIE har utvidet fra boligmegling til næringsmegling, nybygg og advokattjenester.",
+    "quote": "Utover megling av boliger, besitter vi i dag kompetanse innen næringsmegling, nybygg og advokattjenester knyttet til alle juridiske aspekter ved kjøp og salg av eiendom.",
+    "conversion": "Arbeidsbetingelsen er at systemstøtten skal betjene flere ulike fagflyter samtidig, ikke én ensartet meglerprosess. Da må veiledningen skrives for hver brukergruppe og ikke for gjennomsnittet, og det er nettopp den tilpasningen U1 dokumenterer."
+  },
+  "stances": [
+    {
+      "req": "Q09",
+      "relation": "GAP",
+      "stance": "NAME_ONCE",
+      "via_ref": "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+      "line": "Core og EIE 365 er systemene jeg skal inn i, og selve systemkunnskapen tilegner jeg meg raskt. Tregere går det å finne ut hvor en bruker faktisk står fast, og nettopp det arbeidet kommer jeg fra."
+    },
+    {
+      "req": "Q13",
+      "relation": "PARTIAL",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+    },
+    {
+      "req": "Q02",
+      "relation": "ADJACENT",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+    },
+    {
+      "req": "Q10",
+      "relation": "ADJACENT",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+    },
+    {
+      "req": "Q08",
+      "relation": "GAP",
+      "stance": "OMIT"
+    }
+  ],
+  "distinctiveness": {
+    "facets": [
+      {
+        "facet_id": "PF-08",
+        "behaviour": "Vis at brukerens situasjon undersøkes i stedet for antas: han satte seg ned med faktiske brukere, så hvor de kom skjevt ut i interaksjonen, og endret løsningen etter det, og han skriver med ulik dybde til controllere, ledere og tekniske kolleger fordi de trenger ulike ting.",
+        "refs": [
+          "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+          "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin"
+        ]
+      },
+      {
+        "facet_id": "PF-11",
+        "behaviour": "Vis byggingen som noe andre overtar: Excel/VBA-verktøyet for REGERP-overgangen ble laget på eget initiativ og deretter brukt av økonomirådgivere i flere klinikker, og onboarding-materiellet for controllere ble laget slik at de kunne bruke verktøyet uten ham.",
+        "refs": [
+          "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+          "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+        ]
+      }
+    ],
+    "motive": "Å stå i grenseflaten der et system møter en travel fagperson er den delen av arbeidet som har gitt mest igjen: en modell som ingen bruker er ikke levert. I EIE er den avstanden kort og tilbakemeldingen umiddelbar, og KI-delen er det området kandidaten allerede arbeider strukturert med i stedet for å lese om.",
+    "opening_move": "PROBLEM",
+    "closing_move": "NEXT_STEP"
+  },
+  "letter_plan": {
+    "word_target": 350,
+    "paragraphs": [
+      {
+        "job": "Åpne på problemet annonsen selv navngir: en veiledning som ikke blir lest er normalresultatet, og grunnen er nesten alltid at den er skrevet for gjennomsnittsbrukeren. Ingen stillingstittel i åpningen, ingen «søker ... fordi». Omsett arbeidsgiverfaktumet om de fire fagområdene her.",
+        "unit_ids": [],
+        "refs": []
+      },
+      {
+        "job": "Bær U1: de veiledede brukertestene med observert forvirring og forbedringsrunder, workshopen for kolleger og opplæringen av tekniske kolleger i en annen organisasjon. Dette er svaret på både veiledningskravet og Brokio-samarbeidet.",
+        "unit_ids": [
+          "U1"
+        ],
+        "refs": [
+          "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+          "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+        ]
+      },
+      {
+        "job": "Bær U2 med skjønnsatomet integrert: superbrukerrollen og den avgrensede, etterprøvbare KI-arbeidsflyten, og vurderingen av VBA, Office Scripts, Python og KI-assisterte tilnærminger mot driftsrisiko. Plasser NAME_ONCE-setningen om Core og EIE 365 her, én gang. Lukk med neste steg.",
+        "unit_ids": [
+          "U2"
+        ],
+        "refs": [
+          "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+          "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+          "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "phrase": "«besvarer KI-henvendelser for organisasjonen», «KI-superbruker for OUS», «ledet KI-innføringen», eller annen målt KI-gevinst",
+      "ceiling": "KI-brukerantall, organisasjonsomfattende støtteansvar og styringsmandat er ikke oppgitt. Ingen enterprise AI governance, autonom beslutningsmyndighet eller kvantifisert KI-produktivitetsgevinst. Presis form: registrert som superbruker, svarer på tekniske henvendelser i en Teams-kanal."
+    },
+    {
+      "phrase": "«pilotert Fabric», «ledet plattformmoderniseringen» eller Power BI omtalt som pilot",
+      "ceiling": "Power BI is not a pilot. Do not claim enterprise Fabric adoption leadership, platform ownership/administration, production data engineering, a delivered maturity roadmap or formal vendor engagement."
+    },
+    {
+      "phrase": "«utviklet driftsrapporten» eller «holdt et opplæringsprogram» om kompetanseoverføringen",
+      "ceiling": "Do not claim sole development, formal training-program ownership, report ownership or current support; release/current status remains unresolved."
+    },
+    {
+      "phrase": "Antydning om erfaring med eiendomsmegling, Core eller EIE 365 ut over NAME_ONCE-setningen",
+      "ceiling": "The record does not document real-estate brokerage domain experience or use of Core or EIE 365, nor new-office system setup or supplier coordination."
+    }
+  ],
+  "outside_scout_refs": [
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:OTHER#039-6-4-selvstendig-teknisk-problemlosning",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+  ],
+  "notes": [
+    "Utfordrer til U1: nåværende rolle dokumenterer bredere digital leveranse, men beviser ikke at kandidaten har undersøkt hvor brukeren faktisk står fast. BI-posten har veiledede tester med faktiske brukere og observert forvirring, som er det annonsen ber om.",
+    "Utfordrer til U2: kravposten for arbeidsinntak treffer «tester nye verktøy» godt, men er design og evaluering, ikke KI. Annonsen sier at en stor del av hverdagen handler om kunstig intelligens, så KI-evidensen bærer.",
+    "Utfordrer til skjønnsatomet: plattformpilotposten er nærmere annonsens ordlyd, men er utforskende og har ingen navngitt beslutning. Budsjettverktøyposten gir en reell teknologivurdering med navngitte alternativer og valgt linje.",
+    "Dette er den ene jobben i klyngen der KI-evidensen er riktig rute. I de to foregående jobbene ble den holdt utenfor argumentet fordi prosess og styring forklarte behovet bedre.",
+    "NAME_ONCE brukes på Core og EIE 365 fordi det er navngitte systemer skjermleseren uansett ser. Setningen står én gang, i brevet, aldri i CV-en. Q08 om oppsett ved nye kontorer er OMIT: det er en oppgave i rollen, ikke et kvalifikasjonskrav."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76",
+    "job_id": "eie_systemkoordinator",
+    "employer": "EIE eiendomsmegling",
+    "title": "Systemkoordinator",
+    "evidence_fingerprint": "be4d80d208c4eb46154171d927370f8c2a1398d097e7797fed2d6bef6ea4c261",
+    "policy_fingerprint": "fd1983375eeef6e089e266616f394d7b7f1fffe287aec654f88a0f063a9e2d67",
+    "inputs": {
+      "scout": "8419e988670fcc304cd2bd1f4d5cfb5ec9b9b3694381a402469801b4d3c806f6"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "triage": "RERUN",
+  "reasons": [
+    {
+      "reason": "fixture",
+      "recommended_action": "none"
+    }
+  ],
+  "known_limitations": [],
+  "rerun_stage": 2
+}

@@ -1,0 +1,17 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260930-205909-0aff47",
+  "job_id": "joulia_product_manager_growth",
+  "employer": "Joulia",
+  "title": "Product Manager Growth",
+  "stage": 1,
+  "mode": "STRATEGY",
+  "expected_artifacts": [
+    "strategy"
+  ],
+  "stage_policy_sha256": "fb5ac077506e674e1d963924a29f2fa1fa5d161892975278add2548180192677",
+  "upstream": {},
+  "prior_current": {
+    "strategy": null
+  }
+}

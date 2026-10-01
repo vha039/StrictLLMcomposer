@@ -1,0 +1,138 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260914-211650-5d3516",
+    "job_id": "visma_product_manager",
+    "final_package_sha256": "96aabc8b9007d7719f1e9f255e4b53eb5e04d341a0ee9d6752973be93cf0974f",
+    "document_date": "2026-09-15",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "84a069c32995b61353e3edcee53d2c5fab5d289148f0358c3b461338108a2acb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\CV_Visma_Enterprise_AS_Product_Manager.docx",
+      "output_sha256": "c78a66dd606f60056b94f991d78c27577b6956fc5b0d32f5cf06c5f87bc1cc72",
+      "bytes": 41229,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\CV_Visma_Enterprise_AS_Product_Manager.pdf",
+      "output_sha256": "ffa7327789858baeb2f45940964781d5d794510bda0bb0c8939d9a8f17f13bd5",
+      "bytes": 298744,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_7zu6vf3a\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\.rnd.439f6ab2\\CV_Visma_Enterprise_AS_Product_Manager.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\.rnd.439f6ab2\\CV_Visma_Enterprise_AS_Product_Manager.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 3,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": [
+        "CV rendered to 3 pages; editorial target is <=2. Review signal only."
+      ]
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\Soknad_Visma_Enterprise_AS_Product_Manager.docx",
+      "output_sha256": "0a9dbe9ea0d68157db781eb9bba250a0ff1bd0cc99813e299da9a939ba90b12f",
+      "bytes": 38329,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\Soknad_Visma_Enterprise_AS_Product_Manager.pdf",
+      "output_sha256": "b77a34d6cadc3c2063ccc17c51ecda8425579cb51b3b8532d4659b04a68889e3",
+      "bytes": 192068,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_3l8yd95r\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\.rnd.439f6ab2\\Soknad_Visma_Enterprise_AS_Product_Manager.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\.rnd.439f6ab2\\Soknad_Visma_Enterprise_AS_Product_Manager.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-14T22:00:16Z"
+}

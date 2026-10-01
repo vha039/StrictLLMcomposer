@@ -1,0 +1,31 @@
+{
+  "job_id": "stortinget_virksomhetsstyring_lederstotte",
+  "stage": 3,
+  "cv_dynamic_words": 349,
+  "letter_words": 332,
+  "signals": [
+    "cleft motive"
+  ],
+  "documents": {
+    "cv": {
+      "pages": 2,
+      "tail_sections": {
+        "VERKTØY": 1,
+        "TIDLIGERE ERFARING": 2,
+        "TILLITSVERV": 2,
+        "SPRÅK": 2,
+        "SPRÅK OG KURS": 2,
+        "KURS": 2
+      },
+      "headline_lines": 1,
+      "warnings": []
+    },
+    "letter": {
+      "pages": 1,
+      "tail_sections": {},
+      "warnings": []
+    }
+  },
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\stortinget_virksomhe\\0917\\30950",
+  "render_state": "OK"
+}

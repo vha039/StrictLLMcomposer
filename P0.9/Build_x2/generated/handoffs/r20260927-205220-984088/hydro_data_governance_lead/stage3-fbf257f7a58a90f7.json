@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260927-205220-984088",
+  "job_id": "hydro_data_governance_lead",
+  "employer": "Hydro",
+  "title": "Data Governance Lead",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "edfea1ea60f2dbf86f446f244cf46782deee3582f9812d2dca5be66b14388877",
+  "upstream": {
+    "strategy_sha256": "87b5718315efe77cb6a1acc384187f10955132c8e2633563feeb399b47633ae8"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

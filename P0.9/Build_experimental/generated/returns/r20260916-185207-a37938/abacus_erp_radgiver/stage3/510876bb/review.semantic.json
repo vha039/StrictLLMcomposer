@@ -1,0 +1,11 @@
+{
+  "triage": "RERUN",
+  "rerun_stage": 2,
+  "reasons": [
+    {
+      "reason": "Letter argues nothing about the product track.",
+      "recommended_action": "Rewrite the middle paragraph around BNXT."
+    }
+  ],
+  "known_limitations": []
+}

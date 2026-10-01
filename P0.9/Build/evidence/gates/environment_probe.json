@@ -1,0 +1,38 @@
+{
+  "unicode_path_write": {
+    "ok": true,
+    "path_len": 143,
+    "roundtrip": "Rådgiver æøå ÆØÅ"
+  },
+  "long_path_write": {
+    "ok": true,
+    "path_len": 282
+  },
+  "console_encoding": "utf-8",
+  "default_encoding_without_harness": "cp1252",
+  "interrupted_write": {
+    "target_unchanged": true,
+    "target_content": "original valid output",
+    "stray_temp_files": [
+      ".deliverable.docx.ugx36d0e.tmp"
+    ]
+  },
+  "promote_owned": {
+    "outcome": "REPLACED",
+    "content": "new pipeline output"
+  },
+  "promote_foreign": {
+    "outcome": "REFUSED_FOREIGN",
+    "preserved": "HUMAN EDITED",
+    "source_kept": true
+  },
+  "same_volume_rename": {
+    "run_root_drive": "C:",
+    "temp_in_target_dir": true
+  },
+  "filename_folding": {
+    "Rådgiver økonomi og analyse": "Radgiver_okonomi_og_analyse",
+    "Ægir & Åse": "AEgir_Ase",
+    "Testetaten HF": "Testetaten_HF"
+  }
+}

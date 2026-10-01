@@ -1,0 +1,17 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260930-205539-9bd8f0",
+  "job_id": "hafslund_kraft_radgiver_administrerende_direktor",
+  "employer": "Hafslund",
+  "title": "Rådgiver administrerende direktør - Hafslund Kraft",
+  "stage": 1,
+  "mode": "STRATEGY",
+  "expected_artifacts": [
+    "strategy"
+  ],
+  "stage_policy_sha256": "fb5ac077506e674e1d963924a29f2fa1fa5d161892975278add2548180192677",
+  "upstream": {},
+  "prior_current": {
+    "strategy": null
+  }
+}

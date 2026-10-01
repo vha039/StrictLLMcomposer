@@ -1,0 +1,62 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver økonomi og IKT | Økonomiprosesser, systemovergang og implementering",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus. Har arbeidet operativt med månedsoppgjør, periodisering, avstemming og prosjektøkonomi i sykehusets økonomisystemer, og laget konverterings- og valideringsverktøy ved overgangen til REGERP som ble brukt av økonomirådgivere i flere klinikker. Har videreutviklet sykehusets budsjetteringsverktøy i en prosess med om lag 50 involverte, fra kravarbeid og integrasjon av bemanningsdata til opplæring og bruk i hele sykehuset.",
+    "competencies": [
+      "Økonomiprosesser: månedsoppgjør, periodisering og avstemming",
+      "Prosjektøkonomi, fakturering og budsjett",
+      "Systemovergang: konvertering og validering av data",
+      "Behovsanalyse, krav og akseptansekriterier",
+      "Implementering, testing og opplæring av brukere",
+      "Sammenkobling av data fra økonomi- og personalsystemer",
+      "Dokumentasjon, kontroller og kvalitetssikring",
+      "Excel/VBA, Power Query, Power BI og SQL"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Videreutviklet sykehusets arvede budsjetteringsverktøy i Excel/VBA i en prosess der om lag 50 personer deltok i arbeidsgrupper og kravarbeid. Integrerte ansatt-, ansettelses- og bemanningsdata som tidligere måtte kopieres manuelt, og var i praksis eneste utvikler av kodeendringene.",
+          "Gjennomførte endringene med akseptansekriterier, risikoregister og differansekontroll av eksisterende funksjoner, og laget opplærings- og presentasjonsmateriell for controllerne. Verktøyet ble brukt i hele sykehuset i budsjettprosessene for 2026 og 2027.",
+          "Utformet en modell for fordeling av gevinster fra investeringer i steril logistikk med synlige forutsetninger, Power Query-overføring med skjemakontroll og kontroller for umappede rader, bygget uten VBA i kjernen slik at controllere kan justere den selv. Ferdigstilt og overlevert tidlig i 2026.",
+          "Utformet strukturerte skjemaer for nye oppdrag med formål, brukere, avhengigheter, risiko og akseptansekriterier.",
+          "Lærte bort Power BI og datamodellering til teknisk personell i en annen organisasjon gjennom flere arbeidsmøter.",
+          "Videreutviklet sykehusets metodikk for gevinstrealisering og estimering i et team på fire. Rammeverket ble innført som standard i hele sykehuset."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring gradvis månedsoppgjøret og hadde innen om lag tre måneder hele den tildelte flyten: prosjektnulling, periodisering, reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring. Gjennomførte og kvalitetssikret etter hvert oppgjøret selvstendig.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy som konverterte, standardiserte og validerte gamle konteringslinjer mot REGERP-formatet, med kontroll av prosjekt og konto. Lærte VBA underveis. Verktøyene ble brukt av økonomirådgivere i flere klinikker i perioden etter overgangen.",
+          "Koblet data fra blant annet JIT, ADI, REGERP, GAT, lønnsgrunnlag og DRG-rapporter, og dokumenterte arbeidssteg og kontroll- og valideringslogikk i arvede arbeidsbøker.",
+          "Håndterte prosjektøkonomiske saker etter behov, blant annet prosjektopprettelse og oppfølging, ekstern finansiering, fakturering, frikjøp og prosjektavslutning.",
+          "Bidro i budsjettprosessen for 2024 med registrering av årsverk og kvalitetssikring av bemannings- og vaktgrunnlag, og sendte etter hvert månedsrapportene til klinikkens ledere selv."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker stillingen som ERP-rådgiver. Jeg er samfunnsøkonom og rådgiver økonomi og IKT ved Oslo universitetssykehus, og har arbeidet med de økonomiprosessene et ERP-system skal støtte, både i det daglige oppgjørsarbeidet og med verktøy rundt en systemovergang.",
+    "body_paragraphs": [
+      "I staben til Barne- og ungdomsklinikken overtok jeg etter opplæringen gradvis månedsoppgjøret, og innen om lag tre måneder hadde jeg hele den tildelte flyten: periodisering, reversering, avsetninger, bilagsflyt, avstemming og feilsøk. Jeg koblet data fra blant annet REGERP, ADI, JIT og GAT, og tok prosjektøkonomiske saker som fakturering, ekstern finansiering og prosjektavslutning. Ved overgangen til REGERP laget jeg på eget initiativ Excel/VBA-verktøy som konverterte og validerte gamle konteringslinjer mot det nye formatet, med kontroll av prosjekt og konto. Jeg lærte VBA underveis, og verktøyene ble brukt av økonomirådgivere i flere klinikker i tiden etter overgangen.",
+      "I Analyseavdelingen har jeg videreutviklet budsjetteringsverktøyet sykehuset bruker i budsjettprosessen, i en prosess der om lag 50 personer deltok i arbeidsgrupper og kravarbeid. Bemanningsdata måtte tidligere kopieres inn manuelt fra en annen arbeidsbok. Jeg integrerte ansatt-, ansettelses- og bemanningsdata i verktøyet og gjorde i praksis alle kodeendringene, med akseptansekriterier, risikoregister og kontroll av at eksisterende funksjoner fortsatt ga samme resultat. Jeg laget opplæringsmateriell for controllerne, og verktøyet ble brukt i hele sykehuset i budsjettprosessene for 2026 og 2027.",
+      "BNXT og Visma kjenner jeg ikke fra før, og jeg har ikke jobbet med ERP-implementering for kunder. Derfor søker jeg rådgiverrollen og ikke seniorrollen. Det jeg tar med inn i implementeringsprosjektene, er kjennskap til hvordan periodisering, avstemming og prosjektøkonomi faktisk gjøres, og erfaring med å endre et verktøy som mange er avhengige av. Direkte kundedialog har jeg fra salgsarbeid i Sector Alarm, og varemottak, lager og bestilling fra en kortere periode i Ahlsell."
+    ],
+    "closing": "Jeg vil gjerne lære plattformen og kundearbeidet sammen med erfarne kolleger, og bidra med behovsanalyse, testing og opplæring i prosjektene fra start. Jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#045-7-teknologi-og-metodeinventar",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt"
+  ],
+  "writer_note": "Kept strategy's BAR + PRJ-03 route and junior-role targeting. Expanded BAR with the concrete REGERP conversion/validation mechanics and multi-system data work; added Sector Alarm customer dialogue and Ahlsell inventory/ordering briefly. Minimum treated as met via the ad's 'økonomi ... eller tilsvarende' alternative. No BNXT, Visma, ERP implementation or ERP ownership claim."
+}

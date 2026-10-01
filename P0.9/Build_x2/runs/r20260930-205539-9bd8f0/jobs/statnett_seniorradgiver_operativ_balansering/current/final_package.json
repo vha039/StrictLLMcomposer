@@ -1,0 +1,88 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom | Behovsavklaring og videreutvikling av driftsverktøy",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus siden 2023. Omsetter brede driftsbehov til avgrensede løsninger, arbeidspakker og akseptansekriterier, og gjennomfører i flere prosjekter endringene selv i samarbeid med controllere, ledere og tekniske kolleger. Gjorde i praksis alle kodeendringene i 2025-moderniseringen av sykehusets budsjetteringsverktøy, som er i sykehusdekkende bruk, og hadde formelt ansvar for et styringsdashbord med månedlig drift, brukertester og forbedringsrunder frem til det ble avviklet.",
+    "competencies": [
+      "Behov og krav: problemavklaring, brukere, beslutningsbehov, avhengigheter og akseptansekriterier",
+      "Kontrollert endring i verktøy i drift: systemkartlegging, differansekontroll, risikoregister og dokumentasjon",
+      "Forvaltning og brukerforbedring: månedlig drift, brukertester, tilbakemeldinger og forbedringsrunder",
+      "Prioritering og smidig arbeid: oppgavenedbryting, teknisk backlog, Scrum/Kanban og WIP-struktur",
+      "Samhandling: arbeidsmøter, workshops, onboarding og opplæring av controllere og teknisk personell",
+      "Økonomisk analyse: samfunnsøkonomi, økonometri, budsjett og transparente forutsetninger",
+      "Verktøy: Excel/VBA, Power BI (DAX, Power Query), SQL, Git og prosjektavhengig R og Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Gjorde i praksis alle kodeendringene i 2025-moderniseringen av sykehusets om lag 20 år gamle, arvede budsjetteringsverktøy i Excel/VBA, i en prosess med om lag 50 deltakere i arbeidsgrupper og kravdiskusjoner. Rekonstruerte arkitekturen fra kode og arbeidsbok, bygget inn ansatt- og bemanningsdata som tidligere ble kopiert manuelt fra en annen arbeidsbok, kontrollerte endringene med differansekontroll, akseptansekriterier og risikoregister, og laget opplæringsmateriale for controllere. Verktøyet ble brukt sykehusdekkende i budsjettprosessen for 2026; den ferdigstilte 2027-moderniseringen er i bruk i den pågående budsjettprosessen.",
+          "Hovedutvikler av backend i et teamutviklet styringsdashbord for økonomi, bemanning, sykefravær og aktivitet/DRG: nesten hele den semantiske modellen, mesteparten av Power Query-logikken og om lag 80-90 prosent av DAX, mens kolleger ledet innhold og visualisering. Formelt ansvarlig fra om lag august 2025 til løsningen ble avviklet rundt februar 2026, med månedlige oppdateringer, brukertester med faktiske brukere, forbedringsrunder og teknisk backlog.",
+          "Utformet strukturerte inntaksskjemaer for prosjekt- og oppdragsforespørsler med spørsmål om formål, brukere, beslutningsbehov, inn- og utdata, avhengigheter, risiko, prioritet og akseptansekriterier, og vurderte Forms-, Loop-, Power BI- og lavkodealternativer for arbeidsflyten.",
+          "Utformet en modell for fordeling av gevinster fra steril logistikk på klinikker da direkte bruksdata ikke bar en forsvarlig fordeling: vektede indirekte indikatorer i fem arbeidsbøker, synlige og justerbare forutsetninger, skjemakontroll i Power Query og bevisst uten kjerne-VBA. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Har ansvar for arkitektur, orkestrering, automatisering og integrasjon i et pågående utviklingsprosjekt for prognoser for pasientvolum, sengebehov og kapasitet (14, 90 og 365 dager). Definerer og utfordrer prognosemålet, krever tidsriktig validering og akseptansekriterier, og integrerer bidrag fra en kollega og kodeagenter.",
+          "Deltok i firepersonersgruppen som etablerte Analyseavdelingen; utformet oppgavehierarki, Scrum/Kanban- og WIP-strukturer og samarbeidsflater i Loop, og planla og fasiliterte workshops.",
+          "Lærte opp teknisk personell i rapporteringsmiljøet i Power BI, semantisk modellering og modelloptimalisering gjennom flere arbeidsmøter, og bidro vesentlig til en første del av en driftsrapport.",
+          "Medutviklet i et team på fire en gevinstrealiseringsmetodikk som ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, med periodisering, avstemming, feilsøk og resultatforklaring, og gjennomførte mot slutten oppgjøret selvstendig og rapporterte til ledere i klinikken.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av gamle konteringslinjer ved overgangen til REGERP, og lærte VBA gjennom arbeidet. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen.",
+          "Bidro i budsjettprosessen for 2024 med årsverk og kvalitetssikring av bemanningsgrunnlag, bygget et eget budsjetthjelpeark, arbeidet med prosjektøkonomi og leverte seksjonsvise DRG-estimater til budsjett og planlegging med Stata, R og Power Query."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "I arbeidet mitt ved Oslo universitetssykehus står jeg ofte mellom dem som bruker et verktøy i driften, og koden som må endres. Jeg avklarer hva som faktisk skal endres, avtaler hva som skal til for at endringen er god nok, og gjør i flere prosjekter jobben selv. Den samme oversettelsen mellom systemdriften og utviklingsmiljøene vil jeg gjerne gjøre som seniorrådgiver i Operativ balansering.",
+    "body_paragraphs": [
+      "Sykehusets budsjetteringsverktøy er et om lag 20 år gammelt Excel/VBA-verktøy som jeg arvet. Ansatt- og bemanningsdata måtte kopieres manuelt inn fra en annen arbeidsbok, og i 2025 skulle de bygges inn i selve verktøyet. Om lag 50 personer deltok i arbeidsgrupper og kravdiskusjoner, og jeg gjorde i praksis alle kodeendringene. Omtrent 80 prosent av endringene var omskrivinger som ikke skulle endre noe resultat, så for dem var kravet at gammel og ny funksjon ga samme svar. Jeg sammenlignet funksjonene parvis, fant logikk som hadde drevet fra hverandre, og holdt åpne avvik og risikoer i et eget register. Til controllerne laget jeg opplæringsmateriale. Den moderniserte versjonen ble brukt i hele sykehusets budsjettprosess for 2026, og etter den avsluttende moderniseringen er verktøyet i bruk for 2027.",
+      "Forvaltning av en løsning i drift kjenner jeg fra et styringsdashbord for økonomi, bemanning og aktivitet, der jeg bygde nesten hele datamodellen og det meste av beregningslogikken, mens kolleger ledet innhold og visualisering. Fra om lag august 2025 til dashbordet ble avviklet rundt februar 2026, var jeg formelt ansvarlig for det og sto for de månedlige oppdateringene. Jeg testet det med faktiske brukere, så hvor de stoppet opp, og tok tilbakemeldingene inn i korte forbedringsrunder. Da grensene i datamodellen begynte å skape risiko for leveransene, skilte jeg en større modernisering av modellen fra de løpende utvidelsene.",
+      "Hvem som skal eie en løsning etterpå, påvirker også valgene mine. Da gevinstene fra steril logistikk skulle fordeles på klinikkene, bar ikke dataene om direkte bruk en forsvarlig fordeling. Jeg utformet i stedet en modell med vektede indirekte indikatorer og valgte bort kjerne-VBA, slik at controllere og fagansvarlige skulle kunne se og justere forutsetningene uten å gå via en utvikler. Modellen ble overlevert til controllerne tidlig i 2026. For nye prosjekt- og oppdragsforespørsler har jeg utformet et inntaksskjema som får formål, brukere, beslutningsbehov, avhengigheter, prioritet og akseptansekriterier skrevet ned før noen begynner å bygge.",
+      "Kraftmarkedet og operativ balansering blir nytt fagfelt for meg. Da jeg begynte i den operative økonomistaben i Barne- og ungdomsklinikken, hadde jeg etter om lag tre måneder overtatt hele den tildelte månedsoppgjørsflyten, og jeg lærte VBA fra grunnen ved å bygge verktøy for overgangen til REGERP som økonomirådgivere i flere klinikker brukte. Samfunnsøkonomien gir meg et faglig utgangspunkt i markeder og ressursbruk. Jeg vil gjerne arbeide med markedssystemene tett på dem som bruker dem i systemdriften, og lære samspillet mellom det fysiske kraftsystemet og markedene gjennom konkrete krav og leveranser."
+    ],
+    "closing": "Jeg tar gjerne en samtale og viser hvordan kravene og kontrollene i budsjettverktøyet ble lagt opp."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:WORK#045-7-teknologi-og-metodeinventar",
+    "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m",
+    "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit"
+  ],
+  "writer_note": "Letter answers early whether he can turn operational needs into controlled, usable changes with others: budget tool (parity requirement for refactors, drift checks, register, onboarding, use), dashboard forvaltning (user tests, sprints, separating modernization from routine extensions), STE maintainability choice plus intake form (designed). Power-market is stated as new field after evidence, with BAR ramp-up as learning proof.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-30",
+    "finalized_at": "2026-09-30T21:34:25Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260930-205539-9bd8f0",
+    "job_id": "statnett_seniorradgiver_operativ_balansering",
+    "employer": "Statnett",
+    "title": "Seniorrådgiver Operativ balansering",
+    "manifest_sha256": "4e7d82f0be62059a2a30f5837e5b7f78ef03e8f4cae22fbd4d896962dcc93a26",
+    "vacancy_sha256": "c84c3764f26462778ed213851637d2b573a2ce8362fc232388c2567e2521fd19",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "6c577e3204ba670f95fa56642d3b86df371edcbd6b193c32da98efa5b498842d",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "b5fe7d6c68d90620e0d892733f625bf09e6e30752d35a8e550b43bedfdeca4bf"
+  }
+}

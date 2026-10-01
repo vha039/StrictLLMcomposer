@@ -1,0 +1,64 @@
+{
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT | Teknisk arkitektur, integrasjon og kontrollert modernisering",
+    "profile": "Samfunnsøkonom med master fra NTNU, rådgiver i Analyseavdelingen ved Oslo universitetssykehus og med et pågående masterprogram i kunstig intelligens. Jeg designer løsningsarkitektur fra ende til ende: datamodell, integrasjoner, orkestrering, kontroller og dokumentasjon, og jeg holder antakelser, avhengigheter og teknisk gjeld synlige for dem som skal bruke og vedlikeholde løsningen. Arbeidet spenner fra en semantisk modell jeg bygget og driftet til avvikling, via modernisering av et virksomhetskritisk legacy-system som er i sykehusdekkende bruk, til den samlede arkitekturen i et pågående prognoseprosjekt. Økonomibakgrunnen gjør at tekniske valg blir vurdert mot hva de faktisk koster og gir av verdi.",
+    "competencies": [
+      "Løsningsarkitektur og end-to-end design på prosjektnivå",
+      "Semantisk modellering: stjerneskjema, fakta- og dimensjonsskille, nøkler, hierarkier og periodelogikk",
+      "Dataintegrasjon og ETL med Power Query M, SQL, Excel/VBA og R/Python",
+      "Teknisk gjeld, regresjonskontroll og kontrollert endring i kritiske løsninger",
+      "Validering: tidsriktige holdout-sett, lekkasjekontroll, baselinjer og akseptansekriterier",
+      "Arkitekturdokumentasjon, sporbare antakelser og avhengighetsoversikt",
+      "Kontrollert bruk av KI- og kodeagenter med tester, sporbare overleveringer og menneskelig ansvar",
+      "Oversettelse mellom virksomhetsbehov, økonomi og tekniske valg"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Har ansvaret for den samlede løsningsarkitekturen, orkestreringen, automatiseringen og integrasjonen i et prognoseprosjekt for pasientvolum, sengebehov og kapasitet med 14, 90 og 365 dagers horisont. Prosjektet er i aktiv utvikling, ikke i produksjon; en kollega laget den opprinnelige XGBoost-modellen og ledet mye av datavalideringen, og implementeringen er fordelt mellom meg, kollegaen og kodeagenter.",
+          "Krever tidsriktige holdout-sett, baselinjer, operative måltall og akseptansekriterier, og gjennomgår kode, konfigurasjon, avhengigheter, tester og eksponering av sensitive data.",
+          "Utformet nesten hele den semantiske modellen, mesteparten av ETL-logikken i Power Query M og om lag 80 til 90 prosent av DAX-en i en styringsløsning bygget fra bunnen for økonomi, bemanning, sykefravær og aktivitet/DRG. Valgte stjerneskjema etter å ha vurdert alternativer opp mot egnethet i Power BI og vedlikeholdbarhet; kollegene ledet innholdsvalg og visuell utforming.",
+          "Eide løsningen fra om lag august 2025 til februar 2026 med månedlig drift, veiledede tester med faktiske brukere og målrettede forbedringssprinter. Løsningen ble avviklet rundt februar 2026.",
+          "Moderniserte sykehusets om lag 20 år gamle og virksomhetskritiske budsjetteringsverktøy: rekonstruerte arkitekturen fra kildekode, formler og navn, integrerte ansatt-, ansettelses- og bemanningsdata og gjennomførte endringene funksjon for funksjon med differansesammenligning, akseptansekriterier, paritetskrav og risiko- og gap-register. Jeg var i praksis eneste utvikler på kodeendringene, i en prosess med om lag 50 deltakere. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Utformet en proxybasert fordelingsmodell for gevinster i steril logistikk da datagrunnlaget ikke bar direkte måling: vektede indirekte indikatorer, synlige og konfigurerbare forutsetninger, skjemakontrollert overføring mellom fire grenmodeller og en konsolideringsmodell, og kontroller for umappede rader og skjemaavvik. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Vurderer nye plattformmuligheter som Microsoft Fabric, Power Platform, dbt og Pega mot sykehusets faktiske rammer; dette er utforskende arbeid, ikke plattformeierskap.",
+          "Utvikler beslutningsstøtte for økonomi, bemanning, aktivitet/DRG og pasientflyt, og formidler tekniske valg og konsekvenser til ledere, controllere, fagmiljøer og tekniske samarbeidspartnere."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg arbeider i skjæringspunktet mellom økonomi og teknologi: som samfunnsøkonom og rådgiver i Analyseavdelingen ved Oslo universitetssykehus designer jeg løsningsarkitektur og datamodeller, og jeg bruker økonomifaget til å vurdere hva et teknologivalg koster og gir. Jeg bygger slik at antakelser, avhengigheter og teknisk gjeld kan ettergås av andre enn den som laget løsningen.",
+    "body_paragraphs": [
+      "I dag har jeg ansvaret for den samlede løsningsarkitekturen i et prognoseprosjekt for pasientvolum, sengebehov og kapasitet. Jeg designet repositoriet og arkitekturen, bygget orkestreringen som kobler data, features, modeller, evaluering og utdata, og står for mesteparten av automatikken rundt. Prosjektet er i aktiv utvikling og ikke satt i produksjon: en kollega laget den opprinnelige XGBoost-modellen, implementerte mange features og ledet mye av datavalideringen, og implementeringen er fordelt mellom meg, kollegaen og kodeagenter. Jeg definerte og utfordret den operative målvariabelen, krevde tidsriktige holdout-sett, baselinjer og akseptansekriterier, og undersøkte tidslekkasje, intervalloverlapp og feiljustering mellom features og målvariabel før resultater ble tolket.",
+      "Før dette bygget jeg hoveddelen av en styringsløsning for sykehuset fra bunnen. Jeg utformet nesten hele den semantiske modellen, mesteparten av ETL-logikken i Power Query M og om lag 80 til 90 prosent av DAX-en, og valgte stjerneskjema etter å ha vurdert alternativer opp mot egnethet i Power BI og vedlikeholdbarhet. Kollegene ledet innholdsvalg og visuell utforming. Jeg eide løsningen fra om lag august 2025 til februar 2026, driftet den månedlig, gjennomførte veiledede tester der jeg observerte hvor brukerne faktisk stoppet opp, og kjørte målrettede forbedringssprinter. Løsningen ble avviklet rundt februar 2026.",
+      "Teknisk gjeld har jeg håndtert i praksis. Sykehusets budsjetteringsverktøy er om lag 20 år gammelt og virksomhetskritisk, med logikk spredt mellom celler, navn og VBA. Jeg rekonstruerte arkitekturen fra kildekode, formler og navn og integrerte bemanningsdata som tidligere måtte kopieres manuelt. Rammen var satt av innføringsansvarlig: endringene skulle gjøres funksjon for funksjon, selv om jeg anbefalte en bredere omstrukturering. Jeg gjennomførte moderniseringen innenfor den rammen, med differansesammenligning av opprinnelige og refaktorerte funksjoner, eksplisitte paritetskrav og et risiko- og gap-register. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+      "Arkitekturvalg må også tåle at datagrunnlaget ikke holder. Da jeg ble bedt om å fordele gevinster fra steril logistikk direkte mellom klinikker, avviste jeg den direkte målingen og utformet i stedet en proxybasert fordelingsmodell med vektede indirekte indikatorer og eksplisitt usikkerhet. Forutsetningene og vektene ble holdt synlige og konfigurerbare, og jeg holdt VBA bevisst utenfor kjernen slik at controllere og fagansvarlige kunne inspisere og justere modellen uten varig avhengighet av en utvikler. Modellen ble ferdigstilt og overlevert til controllere tidlig i 2026; hvordan den er tatt i bruk, og hvilke vekter som ble stående, vet jeg ikke."
+    ],
+    "closing": "Bank, CRM, markedsplattform og personaliserte kundereiser er nytt for meg, og arkitekturansvaret mitt har vært på prosjekt- og løsningsnivå, ikke for et helt tjenesteområde. Det jeg tar med meg, er en arbeidsform som holder avhengigheter, gjeld og konsekvenser av teknologivalg lesbare for dem som skal prioritere, og en økonomibakgrunn som gjør at valgene vurderes mot verdien de gir. Arkitektur som avgjør hvordan folk faktisk møter banken sin, er en anvendelse jeg har lyst på. Jeg tar gjerne en samtale om hvor dette passer og hvor det ikke gjør det."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+    "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+    "EV:WORK#039-6-4-programmering-automatisering-og-impl",
+    "EV:WORK#043-6-8-styring-kvalitet-og-kontroll",
+    "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#025-3-4-digitaliserings-og-teknologiroller",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#028-4-4-trygge-ki-pastander",
+    "EV:OTHER#032-5-1-sprak",
+    "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te"
+  ],
+  "writer_note": "Hovedruten beholdt, med tre proof-funksjoner og adskilte lifecycle-grenser: prognosearkitektur (aktiv utvikling), styrings-BI (bygget, driftet, avviklet feb. 2026) og legacy-modernisering (i sykehusdekkende bruk). STE-proxymodellen er brukt som ett kort skjonnssignal, ikke et fjerde case. Tittelgapet og bankdomenet er sagt rett ut i avslutningen, i en setning, i stedet for a legges bare i review. KI er holdt som kontrollert arbeidsform. Arkitekttittel er ikke brukt om tidligere roller."
+}

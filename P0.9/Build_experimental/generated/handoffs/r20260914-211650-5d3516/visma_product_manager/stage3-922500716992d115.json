@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260914-211650-5d3516",
+  "job_id": "visma_product_manager",
+  "employer": "Visma Enterprise AS",
+  "title": "Product Manager",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "27a1fc9d61dc13ae7270a472dd3789282ba7943ecd72197dc652b69e4d3ad8c8",
+  "upstream": {
+    "strategy_sha256": "c718abc2b02ee8aa6bcac3d88fb26a9c7e7d012e0fbb2e11dbda7950aaf4b6ef"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom | Analyse, metodeutvikling og oppfølging av tiltak",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus. Gjør økonomi-, aktivitets- og bemanningsdata om til analyser, beslutningsgrunnlag og rapporter for ledere, controllere og fagmiljøer. Har vært med og utvikle et felles rammeverk for gevinstrealisering som ble innført i hele sykehuset, testet analyseløsninger med brukerne og holdt workshops og opplæring på tvers av fagmiljøer.",
+    "competencies": [
+      "Kvantitativ analyse, økonometri og prognoser",
+      "Metodeutvikling og felles standarder",
+      "Estimering og oppfølging av gevinster og tiltak",
+      "Beslutningsgrunnlag med synlige forutsetninger",
+      "Formidling av analyser til ledere og fagmiljøer",
+      "Brukertester og forbedring av analyseløsninger",
+      "Workshops, faglig sparring og kompetanseoverføring",
+      "Power BI, Excel, R, Stata og SQL"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Videreutviklet sykehusets metodikk for gevinstrealisering og estimering i et team på fire, med bidrag til forskningssyntese, metodeforbedring og økonomisk og styringsmessig analyse. Rammeverket ble innført som standard i hele sykehuset og var fortsatt i bruk om lag 2,5 år senere.",
+          "Utformet en modell for fordeling av gevinster fra investeringer i steril logistikk da direkte bruksdata ikke bar en klinikkvis fordeling: vektede indirekte indikatorer, synlige og justerbare forutsetninger og kontroller i datagrunnlaget. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Utviklet nesten hele datamodellen og det meste av beregningslogikken i avdelingens styringsdashbord for økonomi, bemanning og aktivitet, der kolleger ledet innhold og visualisering. Testet løsningen med faktiske brukere, observerte hva som skapte usikkerhet og forbedret den i avgrensede runder. Dashbordet ble avviklet rundt februar 2026.",
+          "Holdt en intern workshop for økonomer og helseøkonomer om prosesskartlegging, datamodellering, datakvalitet og handlingsplan, og lærte bort Power BI og datamodellering til teknisk personell i en annen organisasjon.",
+          "Har ansvar for arkitektur, automatisering og validering i et prosjekt under utvikling som lager prognoser for pasientvolum og kapasitet på 14, 90 og 365 dagers sikt, sammen med en kollega som laget den opprinnelige modellen.",
+          "Videreutviklet sykehusets budsjetteringsverktøy i en prosess med om lag 50 involverte, med opplæringsmateriell for controllere. Verktøyet ble brukt i hele sykehuset i budsjettprosessene for 2026 og 2027."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Sammenstilte og analyserte økonomi-, bemannings- og aktivitetsgrunnlag til månedlig lederrapportering, blant annet DRG, ventelister, kurdøgn og gjestepasientoppgjør, og kvalitetssikret og sendte etter hvert rapportene selv til klinikkens ledere.",
+          "Bidro i oppfølging og analyse av klinikkens økonomiske tiltak og oversatte tiltakslogikken til budsjett- og styringsspråk.",
+          "Utarbeidet seksjonsvise DRG-prognoser med Stata, R og Power Query som ble brukt i klinikkens budsjett og planlegging.",
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten, og bidro i budsjettprosessen for 2024."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg er samfunnsøkonom og rådgiver økonomi og IKT ved Oslo universitetssykehus, der jeg gjør økonomi-, aktivitets- og bemanningsdata om til analyser og beslutningsgrunnlag for ledere og fagmiljøer. Jeg søker stillingen som seniorrådgiver forretningsutvikling fordi dere skal gjøre arbeidet med tiltak mot publikum mer strukturert og innsiktsbasert, og fordi rollen skal bygge en metode som resten av seksjonen kan bruke.",
+    "body_paragraphs": [
+      "Metodeverket jeg kjenner best fra innsiden, er sykehusets rammeverk for gevinstrealisering og estimering. Det videreutviklet vi i et team på fire i Analyseavdelingen, med utgangspunkt i forskningen på feltet, og jeg bidro med forskningssyntesen, metodeforbedringen og den økonomiske og styringsmessige analysen. Rammeverket ble innført som standard i hele sykehuset og var fortsatt i bruk om lag 2,5 år senere. Før det, i staben til Barne- og ungdomsklinikken, var jeg med på å følge opp klinikkens økonomiske tiltak og oversette tiltakslogikken til budsjett- og styringsspråk.",
+      "Å gjøre analyser anvendelige for dem som skal handle på dem, har vært en del av flere oppdrag. I avdelingens styringsdashbord for økonomi, bemanning og aktivitet utviklet jeg nesten hele datamodellen, mens kolleger ledet innhold og visualisering. Jeg testet løsningen med faktiske brukere, observerte hva som skapte usikkerhet og forbedret den i korte runder. Da gevinstene fra en investering i steril logistikk skulle fordeles på klinikkene, holdt ikke de direkte bruksdataene til en forsvarlig fordeling. Jeg gikk bort fra den direkte fordelingen og utformet en modell der forutsetninger og vekter ligger synlige, slik at controllerne selv kan vurdere og justere dem. Modellen ble overlevert til controllere tidlig i 2026.",
+      "Jeg har holdt workshop for økonom- og helseøkonomkolleger om prosesskartlegging, datamodellering og datakvalitet, og har gjennom flere arbeidsmøter lært bort datamodellering og Power BI til teknisk personell i en annen organisasjon. Metodegrunnlaget har jeg fra masteren ved NTNU, med økonometri og anvendt empirisk analyse."
+    ],
+    "closing": "Publikumsutvikling, medlemskap og inntektsarbeid i en kulturinstitusjon blir nytt for meg, og der vil jeg lære mye av kollegene i seksjonen. Det jeg tar med, er erfaring med å bygge felles metode for hvordan tiltak vurderes og følges opp, og med å lage analyser for dem som skal bruke dem. Et mål om at flest mulig skal oppleve samlingen er et godt sted å bruke den erfaringen, og jeg forteller gjerne mer i en samtale."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m",
+    "EV:OTHER#003-0-1-last-identitet-og-kontakt"
+  ],
+  "writer_note": "Kept strategy's PRJ-04 method route but tied it to initiative follow-up (BAR measure follow-up added) and merged PRJ-01 user tests with PRJ-06 visible assumptions into one unit on making insight usable. Analysis experience treated as meeting the either-or experience requirement. PRJ-05 and PRJ-10 in CV only as volume/demand forecasting breadth, status kept. Audience/commercial gap stated once in closing.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-13",
+    "finalized_at": "2026-09-13T21:40:08Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "nasjonalmuseet_forretningsutvikling",
+    "employer": "Nasjonalmuseet",
+    "title": "Seniorrådgiver forretningsutvikling",
+    "manifest_sha256": "d68a8bf0c96a0df58fcded9772503c06957c162c9f4762a03f049228eb60dc77",
+    "vacancy_sha256": "6e6f7c1a56da4c6f829eb534a6664e11d7a3ceadfa1a46bd72d9b5fb978898df",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "3b29e4540213373d6c7020e0d26818cd01da612755379dbf320727452fefe9d3",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "a63ac381a263aba00ed7b0c98dbf048e4b01670c706cbc570065d3ca9c242381"
+  }
+}

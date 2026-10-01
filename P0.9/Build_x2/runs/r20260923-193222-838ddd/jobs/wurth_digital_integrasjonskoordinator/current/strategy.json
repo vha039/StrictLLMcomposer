@@ -1,0 +1,240 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "Würth vil holde elektronisk samhandling med kunder og leverandører stabil mens nye integrasjoner planlegges og eksisterende dataflyt forbedres. Koordinatoren må forstå behov på begge sider av et grensesnitt, følge opp avhengigheter, feilsøke mappinger og dokumentere drift. Annonsen beskriver en juniorrolle med opplæring; interesse og læring teller, mens EDI, PunchOut og Seeburger ikke er absolutte forhåndskrav.",
+  "selection_logic": "Velg integrasjons- og prosesskoordinator som funksjonell rute, forankret i personlig utviklet konverterings-/valideringsverktøy ved REGERP-overgang og skjemakontrollert Power Query-overføring i en egen beslutningsmodell. Fremhev konkret kilde-til-mål-mapping og kontroller før generell BI- eller økonomiidentitet. Hold kunde-/leverandør-EDI, prisfiler og PunchOut som klare læringsområder.",
+  "primary_candidate_identity": "Rådgiver Økonomi og IKT med praktisk datamapping, integrasjonskontroll og koordinering mellom fagbehov og tekniske løsninger.",
+  "headline_hypothesis": "Digital integrasjon og dataflyt | Rådgiver Økonomi og IKT",
+  "shortlist_thesis": "Han har selv bygget og fått brukt verktøy som oversetter og validerer data mellom gamle og nye formater, og har designet kontrollerbar overføring mellom arbeidsbøker for andre fagbrukere. Det er direkte mekanismebevis for integrasjonsarbeid og læring, selv om kommersiell EDI, PunchOut og prisfilforvaltning ikke er dokumentert.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Relevant bachelorutdanning innen e-handel, økonomi, teknologi, prosjektledelse eller lignende; erfaring/interesse kan kompensere",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ],
+      "note": "Fullført økonomibachelor og master oppfyller den nevnte økonomiruten. Pågående KI-studium er supplement, ikke fullført teknologigrad."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Interesse for elektronisk samhandling, integrasjoner og digitale arbeidsprosesser",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Egeninitiert konvertering, skjemakontrollert dataoverføring og arbeidsflytdesign viser faktisk handling, ikke bare uttalt interesse."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Grunnleggende dataflyt mellom kunder, leverandører og interne systemer",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Dataflyt mellom interne klinikkøkonomiske systemer og modeller er dokumentert; kundeside-/leverandørsystemer og handelsflyt er ikke."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Koordinere og følge opp EDI-integrasjoner og integrasjonsprosjektaktiviteter med interne og eksterne parter",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Oppgave-/avhengighetsstruktur og behovsavklaring er støttet. Ingen EDI-koordinering med kommersielle kunder eller leverandører er dokumentert."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Behovsavklaring og dialog mellom tekniske og forretningsmessige interessenter",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Strukturerte behovsspørsmål, tverrfaglig avklaring og controller-onboarding viser konkret dialog, men ikke ekstern kundekontakt i integrasjonsløp."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Mappinger, meldingsformater og filbaserte grensesnitt i EDI-/mappingsystemer",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Egen mapping/validering fra eldre konterings-/bilagslinjer til REGERP-format og skjemakontrollert Power Query-overføring er direkte metodebro. Ingen spesifikk EDI-standard eller meldingsutveksling er dokumentert."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Prisfiler og PunchOut-løsninger er en fordel, ikke krav",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "note": "Ingen dokumentert prisfil- eller PunchOut-erfaring. Ikke fyll med generell varehandel fra Ahlsell; den rollen etablerer ikke digital prisfilkompetanse."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "ERP, Seeburger eller andre EDI-/mappingsystemer er en fordel",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "REGERP-nær konverteringsverktøy og kontroll er relevant, men ikke eierskap til ERP eller erfaring med Seeburger/EDI-system."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Feilsøke, overvåke og kvalitetssikre integrasjoner og dataflyt",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Validering av konverteringer, unmappede rader/skjemaavvik og teknisk drift/feilsøking er støttet; disse var ikke kunde-EDI-strømmer."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Dokumentere, standardisere, forbedre og implementere integrasjonsprosesser",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Produksjonsnær verktøybruk på tvers av klinikker, dokumentert modernisering og overlevert modell; ikke organisatorisk innføring av EDI hos Würth."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Teknisk forståelse og rask læring i nye systemer",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Lærte VBA for et konkret konverteringsbehov og rekonstruerte arvet verktøy før kontrollert endring; ingen løfte om umiddelbar EDI-ekspertise."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Norsk og engelsk kommunikasjon; metodisk samarbeid og oppfølging av avhengigheter",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Dokumenterte språknivåer og praktisk team-/opplæringsarbeid. Utadvendthet bør ikke selvrangeres; vis konkret handling."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "role": "Bærende mekanismebevis: identifiserte behov ved formatendring, lærte VBA og bygget selv konverterings-/valideringsverktøy for REGERP-linjer som økonomirådgivere i flere klinikker brukte. Viser mapping, kvalitet og praktisk overleverbarhet.",
+      "claim_ceiling": "Verktøyet var ikke den sentrale ERP-løsningen, EDI eller kunde-/leverandørintegrasjon; bruk er dokumentert kort etter overgangen, ikke som nåværende drift. Ingen eksakt bruker-/klinikkskala eller målt tids-/feilbesparelse.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Vis skjemakontrollert overføring mellom fire grenmodeller og konsolidering, med synlige mapping- og kontrollavvik, som separat bevis for stabil dataflyt og feilsøkingsdesign.",
+      "claim_ceiling": "Femarbeidsbokmodellen er ferdigstilt og overlevert; faktisk organisatorisk bruk og effekt er uavklart. Ikke kall den EDI-plattform eller produksjonsintegrasjon hos eksterne parter.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Vis strukturert behovsavklaring og kontrollert gjennomføring i en bred fag-/teknologiprosess; relevant for rollen som følger opp mennesker og avhengigheter, ikke bare filformater.",
+      "claim_ceiling": "PRJ-09 er design/evaluering uten dokumentert organisasjonsutrulling. PRJ-03 gjelder arvet budsjettverktøy med hovedkoding og controller-onboarding, ikke EDI eller formelt prosjektledermandat.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen direkte erfaring med EDI, PunchOut, Seeburger eller prisfilforvaltning.",
+      "reframe": "Vis faktisk kilde-til-mål-konvertering, skjemakontroll og feilsøking; annonsen tilbyr opplæring og gjør flere spesialverktøy til fordeler fremfor krav.",
+      "honesty_note": "Ikke list spesialverktøyene som kandidatens ferdigheter."
+    },
+    {
+      "objection": "Kommersiell kundeleverandør-dataflyt er ikke dokumentert.",
+      "reframe": "Forklar hvordan intern dataflyt i kontrollkritiske OUS-prosesser gir relevant metode for å avklare grensesnitt og ansvar med nye partnere.",
+      "honesty_note": "Ikke påstå tidligere kommersielle integrasjonsprosjekter eller eksterne leverandøravtaler."
+    }
+  ],
+  "motivation_bridge": "Würths mål om at kunder og leverandører skal få stabile digitale prosesser gjør format, mapping og kontroll til praktiske serviceforutsetninger. Han har erfart hvor mye riktig dataoverføring og forståelige valideringer betyr når flere fagbrukere er avhengige av en løsning, og ønsker å bruke dette i mer direkte integrasjonskoordinering med opplæring i EDI-domenet.",
+  "cv_direction": {
+    "headline_direction": "Digital integrasjon og dataflyt gjennom dokumentert prosess-/verktøyarbeid, uten EDI-ekspertbetegnelse.",
+    "emphasis": [
+      "BAR-konverteringsverktøy og bruk på tvers av klinikker som første signal.",
+      "Skjemakontrollert Power Query-overføring og synlige mapping-/kontrollavvik i PRJ-06.",
+      "Behovsavklaring, strukturert koordinering og controller-onboarding som samhandlingsbevis.",
+      "Økonomibachelor/master og språk som tydelig formell bredde."
+    ],
+    "deprioritize": [
+      "Finansiell gevinstteori, avanserte prognoser og generisk KI som ikke viser integrasjonsoppgavene."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_BAR",
+      "BL:EMP_OUS_ANALYSE"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Fra behov og gamle formater til kontrollerbar dataflyt som flere kan bruke og vedlikeholde.",
+    "top_employer_problems": [
+      "Trygg og stabil mapping/feilsøking når nye og eksisterende kunde-/leverandørintegrasjoner endres.",
+      "Koordinere faglige og tekniske parter gjennom avklaring, fremdrift, dokumentasjon og opplæring."
+    ],
+    "structure_guidance": "Åpne argumentet med konkret konvertering og validering, ikke samfunnsøkonomisk utdanning eller sykehusbudsjett. Bruk PRJ-06 for schema-/mapping-skjønn og PRJ-09/03 for oppfølging og brukere. Forklar EDI som ønsket læringsretning uten å oppfinne tidligere EDI-erfaring."
+  },
+  "avoid_guidance": [
+    "Ikke gi Würths kunde-/leverandør-EDI samme status som intern OUS-dataflyt.",
+    "Ikke gjøre innføring av REGERP-konverteringsverktøy til eierskap til REGERP/Oracle-programmet.",
+    "Ikke bruk Ahlsell-varearbeid som bevis for digitale prisfiler eller PunchOut."
+  ],
+  "personality_facets": [],
+  "writer_guidance": "Annonsen søker en juniorprofil som får opplæring. Hold bevisene praktiske og lærevillige, ikke en senior strateg-/CFO-rute. Den konkrete forklaringen av mapping og validering kan gjøre overførbarheten troverdigere enn en bred liste med systemnavn.",
+  "requires_source_inspection_observed": false,
+  "risk_notes": [
+    "EDI, PunchOut, prisfiler og Seeburger er udokumenterte, men annonsen gjør særlig de siste verktøyene til ønskede fordeler."
+  ],
+  "binding": {
+    "run_id": "r20260923-193222-838ddd",
+    "job_id": "wurth_digital_integrasjonskoordinator",
+    "employer": "Würth Norge",
+    "title": "Digital integrasjonskoordinator",
+    "manifest_sha256": "9732ebd7f1737303a790702bf6c5f4c29b745f45d547372141d3bccb4a8e3b8e",
+    "vacancy_sha256": "d9dcabca05b8a29751be6c7a36c215d15f29c5c6968123082bb5ff0df6cffb9a",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "6d85e3b1ac702e6d24df928844aed34f213e2206ff5f09bdc63e7a7f33866e62"
+  }
+}

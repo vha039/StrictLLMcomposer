@@ -1,0 +1,38 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Minstekravet om fem års relevant erfaring er ikke oppfylt. Relevant erfaring starter i mars 2023, og pakken hevder ingen steder at terskelen er nådd; CV-datoene viser omfanget selv.",
+      "recommended_action": "Godkjenn som den er dersom du vil søke på tross av terskelen. Ingen tekstendring gjenstår, og eldre roller skal ikke summeres inn."
+    },
+    {
+      "priority": 2,
+      "reason": "Praktisk OKR-metodikk er et eksplisitt minstekrav uten dokumentert dekning. Brevet sier én gang, uten unnskyldende form, at rammeverket var gevinstrealisering og ikke OKR, og bygger broen på felles definisjoner, eierskap og oppfølging.",
+      "recommended_action": "Behold formuleringen. Har du OKR-erfaring som ikke ligger i Work_experience.md, meld den inn der før neste kjøring i stedet for å legge den til i teksten."
+    },
+    {
+      "priority": 3,
+      "reason": "Erfaring fra produktorganisasjon og moderne produktmetodikk er ønsket. Pakken viser prioritering, arbeidsinntak, Scrum/Kanban og WIP-struktur i tverrfaglige team, men ingen rolle i en produktorganisasjon.",
+      "recommended_action": "Ingen endring nødvendig. Vær forberedt på spørsmålet i intervju og hold skillet mellom arbeidsstruktur og produkteierskap."
+    }
+  ],
+  "known_limitations": [
+    "Fem års relevant erfaring er ikke oppfylt; dokumentert relevant erfaring begynner mars 2023.",
+    "Praktisk OKR-metodikk og fasilitering av OKR-prosesser er ikke dokumentert i kildene og påstås ikke.",
+    "Det finnes ingen godkjente målinger av tids-, feil- eller økonomisk effekt for budsjetteringsverktøyet, gevinstrealiseringsrammeverket eller STE-modellen. Pakken hevder ingen slik effekt.",
+    "STE-modellen er ferdigstilt og overlevert til controllere. Organisatorisk bruk, endelige vekter og realiserte gevinster er uavklart, og brevet påstår ingen av delene.",
+    "Individuell fordeling av bidrag i det firepersoners gevinstrealiseringsarbeidet er uavklart; teamrammen står eksplisitt i både CV og brev.",
+    "Kandidaten har ikke dokumentert kommersielt resultatansvar. Kommersiell forståelse uttrykkes gjennom økonomi, prioritering og gevinstlogikk.",
+    "Styringsdashboardet er avviklet, og kolleger ledet innhold og visuell utforming. Dette står i CV-punktet.",
+    "Prognosearbeidet for pasientvolum og kapasitet er under aktiv utvikling med distribuert forfatterskap, ikke produksjonssatt."
+  ],
+  "material_strategy_change": "Strategiens to bærende bevisenheter er beholdt, men bevisutvalget er utvidet på to punkter. PRJ-06 (STE-gevinstfordeling) er tatt inn som en dokumentert beslutning om måling: avvisningen av direkte fordeling, den vektede proxymodellen med synlige og justerbare forutsetninger, og det uttalte designmålet om at controllere skal kunne endre forutsetninger uten utvikler. Strategien brukte posten bare som fasettproveniens, slik at annonsens krav om prestasjonsmåling hvilte på utdanning og generell gevinstlogikk. PRJ-10 (leverte seksjonsvise DRG-prognoser brukt i budsjett og planlegging) er dessuten lagt inn i CV-en ved siden av PRJ-05, fordi prognosekravet ellers hvilte på et prosjekt i aktiv utvikling. Åpningen er skrevet som en faglig vurdering av hva som er vanskelig i målstyring, ikke som en gjengivelse av arbeidsgiverens egen situasjon.",
+  "upstream_claim_repaired": "Reparasjonen går i retning av understatement, ikke overclaim. Strategien lot kravet om prestasjonsmåling og kommersielle drivere stå som ADJACENT med utdanning og generell gevinstlogikk som støtte, samtidig som PRJ-06 dokumenterer et konkret, ferdigstilt og overlevert arbeid med nettopp hvordan en gevinst kan måles forsvarlig når direkte registrering mangler. Evidensen er brukt innenfor sitt eget tak: ingen realisert gevinst, ingen ROI, ingen organisatorisk bruk. Ingen påstand er hevet i motsatt retning; teamrammen i PRJ-04 og avgrensningen av hovedansvaret i PRJ-03 til kodeendringene er beholdt uendret.",
+  "notes": [
+    "Søknad sendes via www.financepeople.no, ikke direkte til kontaktpersonene i annonsen. Frist er oppgitt som snarest, og søknader behandles fortløpende.",
+    "Ingen defensivt gapavsnitt er skrevet. Femårskravet er ikke omtalt i brevet; det fremgår av kronologien i CV-en.",
+    "Alle tallverdier i pakken er hentet fra godkjente måltall i Work_experience.md §8: rundt 50 deltakere, om lag 15 ark og 78 globale navn, 80-90 % av DAX, om lag 2,5 år, sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+    "Avsnittet om implementeringslederens smale refaktoreringskrav er beholdt bevisst: det er en dokumentert avveining og viser gjennomføring innenfor en annens rammer, ikke uenighet."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | Beslutningsgrunnlag og lederrapportering",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver økonomi og IKT ved Oslo universitetssykehus siden 2023. Lager beslutningsgrunnlag, rapporter og korte sammendrag om økonomi, bemanning og aktivitet for ledere, controllere og fagmiljøer, og følger arbeidet frem til levering og overlevering. Kvalitetssikret og sendte månedsrapportene til ledere i Barne- og ungdomsklinikken, utformet en transparent modell for gevinstfordeling der datagrunnlaget ikke bar direkte måling, og medutviklet i et team på fire gevinstmetodikken som ble sykehusstandard.",
+    "competencies": [
+      "Lederrettet materiale: rapporter, beslutningsnotater, korte sammendrag og presentasjoner",
+      "Økonomiske vurderinger: gevinstlogikk, ressursfordeling, investeringsgrunnlag og usikkerhet",
+      "Virksomhetsøkonomi: budsjett, månedsoppgjør, resultatforklaring, bemanning og aktivitet",
+      "Koordinering: prioritering, avhengigheter, oppgavenedbryting og oppfølging av neste steg",
+      "Samhandling: workshops, arbeidsmøter, onboarding og opplæring på tvers av fagmiljøer",
+      "Analyseverktøy: Excel, Power BI og Power Query; Stata, R og Python etter behov"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utformet en modell for fordeling av gevinster fra steril logistikk på klinikker, som beslutningsstøtte for lager-, utstyrs- og investeringsvalg. Direkte bruksdata bar ikke en forsvarlig fordeling, så modellen bygger på vektede indirekte indikatorer med synlige forutsetninger og usikkerhet, laget for at controllere og fagansvarlige skal kunne justere vektene. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Medutviklet på oppdrag fra ledelsen, i et team på fire, en forbedret metodikk for gevinstrealisering og gevinstestimering, med forskningssyntese og økonomiske, strategiske og styringsmessige vurderinger. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Lager beslutningsnotater, korte sammendrag, dokumentasjon og presentasjoner som tilpasser økonomisk og teknisk materiale til ledere, controllere og fagmiljøer.",
+          "Gjorde i praksis alle kodeendringene i 2025-moderniseringen av sykehusets om lag 20 år gamle, arvede budsjetteringsverktøy, innenfor en prosess med om lag 50 deltakere og rammer satt av implementeringslederen, og laget opplærings- og presentasjonsmateriale for controllere. Verktøyet ble brukt sykehusdekkende i budsjettprosessen for 2026; den ferdigstilte 2027-moderniseringen er i bruk i den pågående budsjettprosessen.",
+          "Deltok i firepersonersgruppen som etablerte Analyseavdelingen; utformet oppgave- og samarbeidsstrukturer med prioriteringer, ansvar og avhengigheter, og planla og fasiliterte workshops, blant annet en intern workshop for økonom- og helseøkonomkolleger.",
+          "Hovedutvikler av backend i et teamutviklet styringsdashbord for økonomi, bemanning, sykefravær og aktivitet/DRG, mens kolleger ledet innhold og visualisering. Ansvarlig for månedlig drift, brukertester og forbedringer fra om lag august 2025 til dashbordet ble avviklet rundt februar 2026.",
+          "Lærte opp teknisk personell i rapporteringsmiljøet i Power BI og semantisk modellering gjennom flere arbeidsmøter, og bidro vesentlig til en første del av en driftsrapport."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter om lag halvannen måneds opplæring gradvis oppgaver i månedsavslutningen og innen om lag tre måneder hele den tildelte månedsoppgjørsflyten. Kvalitetssikret, rapporterte og sendte mot slutten månedsrapportene til ledere i klinikken selv.",
+          "Sammenstilte og forklarte økonomi-, bemannings- og aktivitetsgrunnlag for ledere, blant annet DRG og plantall, ventelister, kurdøgn, gjestepasientoppgjør, medikamenter og estimert ekstern innleie, og oversatte tiltakslogikk til budsjett- og styringsspråk.",
+          "Håndterte prosjektøkonomiske saker etter behov og økonomilederens kapasitet, bidro i budsjettprosessen for 2024, bygget et eget budsjetthjelpeark og leverte seksjonsvise DRG-estimater til budsjett og planlegging.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP; verktøyene ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Da jeg begynte ved Oslo universitetssykehus i 2023, var en av de første oppgavene å lære månedsoppgjøret i Barne- og ungdomsklinikken. Etter om lag tre måneder hadde jeg overtatt hele den tildelte flyten, og mot slutten var det jeg som kvalitetssikret månedsrapportene og sendte dem til ledere i klinikken. Mye av arbeidet mitt siden har handlet om det samme: å gjøre økonomiske og operative tall om til materiale en leder kan bruke. Som rådgiver for administrerende direktør i Hafslund Kraft vil jeg gjøre den jobben for ledergruppen og styret.",
+    "body_paragraphs": [
+      "Rapportene samlet blant annet DRG og plantall, ventelister, kurdøgn, gjestepasientoppgjør og estimert ekstern innleie. Jobben var å avstemme tallene, finne feil og forklare resultatet. I budsjettarbeidet for 2024 bidro jeg også til å oversette logikken i økonomiske tiltak til budsjett- og styringsspråk. Fordelingen av prosjektøkonomiske saker fulgte økonomilederens kapasitet, så jeg tok fakturering, prosjektavslutninger og økonomiske avklaringer når det trengtes.",
+      "Analyseavdelingens første store oppdrag fra ledelsen var å forbedre sykehusets metodikk for gevinstrealisering. Vi var fire som utviklet rammeverket, jeg bidro med forskningssyntese og økonomiske og strategiske vurderinger, og det ble innført som standard for hele sykehuset. Senere skulle gevinstene fra steril logistikk fordeles på klinikkene, som grunnlag for valg om lager, utstyr og investeringer, men dataene om direkte bruk var ikke gode nok til en fordeling som kunne forsvares. I stedet for å presentere indirekte tall som målt bruk, utformet jeg en modell med vektede indikatorer der forutsetningene og usikkerheten står synlig, og som controllere skal kunne justere selv. Modellen ble overlevert til controllerne tidlig i 2026. Når Hafslund Kraft skal prioritere mellom investeringer i ny produksjon, vil jeg bidra med samme disiplin: et tydelig budskap som ikke lover mer presisjon enn tallene har.",
+      "Jeg var med i gruppen på fire som etablerte Analyseavdelingen, og utformet der oppgave- og samarbeidsstrukturer med prioriteringer, ansvar og avhengigheter og planla og fasiliterte workshops. For økonom- og helseøkonomkollegene holdt jeg en egen workshop om modellering, datakvalitet og styring av analysearbeid. I 2025 gjorde jeg i praksis alle kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy, innenfor rammer som implementeringslederen satte, og laget opplærings- og presentasjonsmateriale til controllerne som skulle bruke det. Verktøyet er i bruk i hele sykehusets budsjettprosess."
+    ],
+    "closing": "Kraftbransjen må jeg lære. Utgangspunktet er samfunnsøkonomi, med miljø- og ressursøkonomi og investering og finansiering fra studiene. Det som trekker meg til stillingen, er selve forberedelsesarbeidet: å få agenda, materiale og budskap til å henge sammen før ledergruppen og styret skal ta stilling, og å lære virksomheten gjennom sakene som skal besluttes. Jeg stiller gjerne til en samtale om rollen."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid",
+    "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit"
+  ],
+  "writer_note": "Letter answers early whether he can turn numbers into material leaders use: BAR monthly leader reports (own QA and distribution), translation of measure logic, demand-driven project-economics support; STE as judgment about precision in decision material; founding-group structuring and budget-tool delivery within others' frame for practical coordination. Director's-staff placement not used as proof of CEO proximity."
+}

@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260913-205507-247618",
+  "job_id": "ecit_solution_manager",
+  "employer": "ECIT",
+  "title": "Solution Manager, Commercial",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "850cf837d9417c86a85dbf7896b28550b5d4d70b173cb06ea15621d2acf7ea05",
+  "upstream": {
+    "strategy_sha256": "7a63e6a53d4e29d1344687f15583fb800402fabbd748ec5507b88e0c95b34b0c"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

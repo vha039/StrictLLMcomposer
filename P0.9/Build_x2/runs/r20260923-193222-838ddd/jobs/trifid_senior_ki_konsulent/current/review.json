@@ -1,0 +1,34 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Minstekravet om minst syv års relevant erfaring er ikke oppfylt: relevant rådgivererfaring fra mars 2023. CV-en viser datoene korrekt og brevet antyder ikke lengre erfaring.",
+      "recommended_action": "Ingen lokal reparasjon. Vurder ved godkjenning om søknaden skal sendes med dette kjente gapet; brevet bruker annonsens åpning for interne rådgivningsroller.",
+      "priority": 1
+    },
+    {
+      "reason": "Dokumentert KI-strategi eller KI-governance på virksomhetsnivå, ledelse av kundeoppdrag, AI Act-rådgivning og tilbudsarbeid er ikke dokumentert. Pakken bruker prosjektvis menneskestyrt KI-arbeidsmodell og avgrenser den uttrykkelig til prosjektnivå.",
+      "recommended_action": "Ingen lokal reparasjon; vær forberedt på spørsmålet i intervju.",
+      "priority": 2
+    }
+  ],
+  "known_limitations": [
+    "Syvårskravet (minimum) er ikke oppfylt.",
+    "Ingen dokumentert kundeledet KI-strategi, virksomhetsomfattende KI-governance, organisatorisk KI-innføring, AI Act-tolkning eller konsulent-/tilbudserfaring.",
+    "Prognoseprosjektet er under aktiv utvikling uten produksjonssetting; implementeringen er delt med kollega og kodeagenter.",
+    "KI-superbrukerrollen har ikke oppgitt brukerantall eller formelt organisasjonsmandat.",
+    "UiA-masterprogrammet er pågående; progresjon og forventet fullføring er ikke oppgitt."
+  ],
+  "material_strategy_change": "Beholdt strategiens hovedbevis, men skrev arbeidsmodellen ut som konkrete styringselementer i brevet og la til to bevis strategien ikke brukte: plattformpilotene (Fabric, Power Platform, Pega) som vurdering av teknologi mot virksomhetens begrensninger, og budsjettverktøyet som kontrollert endring i et system mange er avhengige av. Gevinstrealisering, som annonsen nevner som fordel, ble løftet til eget avsnitt.",
+  "upstream_claim_repaired": null,
+  "notes": [
+    "Den strategiske gevinstmetodikken og STE-modellen var ikke KI-prosjekter; brevet holder dem atskilt fra KI-arbeidet og bruker dem bare som bevis på gevinstskjønn.",
+    "READY valgt fordi ingen lokal bekreftelse eller redigering gjenstår; de kjente kvalifikasjonsgapene er beslutningen til mennesket, ikke en reparasjon."
+  ],
+  "binding": {
+    "run_id": "r20260923-193222-838ddd",
+    "job_id": "trifid_senior_ki_konsulent",
+    "final_package_sha256": "4c5ba193c9e17b03295bb901cf855707bf208066e2790c8d6653e7fbd9ce435c"
+  }
+}

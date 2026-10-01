@@ -1,0 +1,2477 @@
+{
+  "artifact_role": "EVIDENCE_INDEX",
+  "index_version": "0.9.0",
+  "generator_version": "evidence_index/1.0",
+  "partition_claim": false,
+  "sources": [
+    {
+      "source_id": "WORK",
+      "path": "authorities/Work_experience.md",
+      "sha256": "0b39a5105f0d809d1bc9a917665bc69c619eb059253a779079b37304b49a2f9d",
+      "bytes": 92045,
+      "lines": 1085
+    },
+    {
+      "source_id": "EDU",
+      "path": "authorities/Education.md",
+      "sha256": "75e238890215cbc02c3bc59cdaaeb43f467ae7d512e9b5a9c4723ccc0c4580f8",
+      "bytes": 25474,
+      "lines": 339
+    },
+    {
+      "source_id": "OTHER",
+      "path": "authorities/Other_high_value_information.md",
+      "sha256": "58a8f88f9eb627847152d684b19d7938c42da7d173a57a7fff58728a25ae5bf8",
+      "bytes": 31785,
+      "lines": 554
+    }
+  ],
+  "entries": [
+    {
+      "evidence_id": "EV:WORK#file",
+      "source_id": "WORK",
+      "kind": "FILE",
+      "heading_path": [],
+      "line_start": 1,
+      "line_end": 1085,
+      "content_sha256": "0b39a5105f0d809d1bc9a917665bc69c619eb059253a779079b37304b49a2f9d",
+      "source_stated_ids": [
+        "CLM-BAR-001",
+        "CLM-PRJ10-001",
+        "PRJ-01",
+        "PRJ-03",
+        "PRJ-05",
+        "PRJ-04",
+        "PRJ-06",
+        "PRJ-08",
+        "PRJ-09",
+        "PRJ-01-E008",
+        "PRJ-02",
+        "PRJ-10",
+        "CLM-BAR",
+        "CLM-PRJ10",
+        "CLM-CHR-001",
+        "CLM-EMP-001",
+        "EMP-OUS-001",
+        "CLM-EMP-003",
+        "EMP-OUS-003",
+        "EMP-OUS-004",
+        "CLM-EMP-009",
+        "EMP-OUS-009",
+        "PRJ-08-E001",
+        "CLM-BAR-002",
+        "CLM-BAR-003",
+        "CLM-BAR-004",
+        "CLM-BAR-005",
+        "CLM-BAR-006",
+        "CLM-PRJ01-001",
+        "CLM-PRJ01-003",
+        "CLM-PRJ01-006",
+        "CLM-PRJ01-007",
+        "CLM-PRJ01-008",
+        "PRJ-01-E001",
+        "CLM-PRJ02-001",
+        "PRJ-02-E001",
+        "PRJ-02-E002",
+        "CLM-PRJ03-001",
+        "CLM-PRJ03-003",
+        "CLM-PRJ03-005",
+        "CLM-PRJ03-007",
+        "CLM-PRJ03-008",
+        "PRJ-03-E001",
+        "CLM-PRJ04-001",
+        "CLM-PRJ04-003",
+        "PRJ-04-E001",
+        "CLM-PRJ05-001",
+        "CLM-PRJ05-003",
+        "CLM-PRJ05-004",
+        "CLM-PRJ05-007",
+        "PRJ-05-E001",
+        "CLM-PRJ06-001",
+        "CLM-PRJ06-003",
+        "PRJ-06-E001",
+        "CLM-PRJ07-001",
+        "PRJ-07-E001",
+        "PRJ-07-E002",
+        "CLM-PRJ08-003",
+        "PRJ-08-E002",
+        "PRJ-08-E003",
+        "PRJ-08-E004",
+        "CLM-PRJ09-001",
+        "PRJ-09-E001",
+        "PRJ-09-E003",
+        "CLM-PRJ10-002",
+        "PRJ-10-E001",
+        "PRJ-10-E004",
+        "CLM-GOV-001",
+        "CLM-GOV-002",
+        "CLM-COM-001",
+        "CLM-REC-001",
+        "EMP-OUS-002",
+        "EMP-OUS-005",
+        "EMP-OUS-006",
+        "EMP-OUS-007",
+        "EMP-OUS-008",
+        "EMP-OUS-010",
+        "PRJ-07",
+        "PRJ-10-E002",
+        "PRJ-10-E003"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#preamble",
+      "source_id": "WORK",
+      "kind": "PREAMBLE",
+      "heading_path": [],
+      "line_start": 1,
+      "line_end": 27,
+      "content_sha256": "149af4931150dddf46fdeff8c0e56ff8107c723967f3ac417850006cce88636e",
+      "source_stated_ids": [
+        "CLM-BAR-001",
+        "CLM-PRJ10-001"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#001-arbeidserfaring",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring"
+      ],
+      "heading_level": 1,
+      "line_start": 28,
+      "line_end": 35,
+      "content_sha256": "1218890a1ae746ed2de04dbff8a4302e78636330b7e110ef31f592428d721f24",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#002-0-runtime-kjerne",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "0. Runtime-kjerne"
+      ],
+      "heading_level": 2,
+      "line_start": 36,
+      "line_end": 37,
+      "content_sha256": "62ddd76006d27976c924160833aca31da4528fd435c0016349af57577dabf382",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#003-0-1-profesjonelt-arbeidsmonster",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "0. Runtime-kjerne",
+        "0.1 Profesjonelt arbeidsmønster"
+      ],
+      "heading_level": 3,
+      "line_start": 38,
+      "line_end": 47,
+      "content_sha256": "d80d7c1f789cb185fd1392e3003a5142e082f8332a42fe3784b9490e11cfc872",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#004-0-2-ous-kjerne",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "0. Runtime-kjerne",
+        "0.2 OUS-kjerne"
+      ],
+      "heading_level": 3,
+      "line_start": 48,
+      "line_end": 59,
+      "content_sha256": "40ed2c5d058ccaf72f4186bd8e19cff277484c142747bddf28906b1354587f51",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#005-0-3-evidensbroer-med-hoyest-verdi",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "0. Runtime-kjerne",
+        "0.3 Evidensbroer med høyest verdi"
+      ],
+      "heading_level": 3,
+      "line_start": 60,
+      "line_end": 77,
+      "content_sha256": "918412fbd148d212f1b1cda3ac3ff1d3b5870ea92f1e1e4469a7e71f7f2695b3",
+      "source_stated_ids": [
+        "PRJ-01",
+        "PRJ-03",
+        "PRJ-05",
+        "PRJ-04",
+        "PRJ-06",
+        "PRJ-08",
+        "PRJ-09",
+        "PRJ-01-E008",
+        "PRJ-02",
+        "PRJ-10"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#006-0-4-gjenfinningsindeks",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "0. Runtime-kjerne",
+        "0.4 Gjenfinningsindeks"
+      ],
+      "heading_level": 3,
+      "line_start": 78,
+      "line_end": 99,
+      "content_sha256": "b4667d8216fd815645f0ecb5ca2f5d643c6037930ebef86bf01470965288a8ca",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#007-0-5-utvalgs-og-syntesekontrakt",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "0. Runtime-kjerne",
+        "0.5 Utvalgs- og syntesekontrakt"
+      ],
+      "heading_level": 3,
+      "line_start": 100,
+      "line_end": 112,
+      "content_sha256": "0cfcf4367060aaa3f85b443480c2d8f4c9e7be5ad07350348f4a2881ae9f19da",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#008-0-6-stabil-claim-proveniens",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "0. Runtime-kjerne",
+        "0.6 Stabil claim-proveniens"
+      ],
+      "heading_level": 3,
+      "line_start": 113,
+      "line_end": 137,
+      "content_sha256": "abc74b7eaea3123a9d1945b9e13e763ede44bb81925fa7d49a20b892daacb80c",
+      "source_stated_ids": [
+        "CLM-BAR",
+        "CLM-PRJ10",
+        "CLM-CHR-001",
+        "CLM-EMP-001",
+        "EMP-OUS-001",
+        "CLM-EMP-003",
+        "EMP-OUS-003",
+        "EMP-OUS-004",
+        "CLM-EMP-009",
+        "EMP-OUS-009",
+        "PRJ-08-E001",
+        "CLM-BAR-001",
+        "CLM-BAR-002",
+        "CLM-BAR-003",
+        "CLM-BAR-004",
+        "CLM-BAR-005",
+        "CLM-BAR-006",
+        "CLM-PRJ01-001",
+        "CLM-PRJ01-003",
+        "CLM-PRJ01-006",
+        "CLM-PRJ01-007",
+        "CLM-PRJ01-008",
+        "PRJ-01-E001",
+        "CLM-PRJ02-001",
+        "PRJ-02-E001",
+        "PRJ-02-E002",
+        "CLM-PRJ03-001",
+        "CLM-PRJ03-003",
+        "CLM-PRJ03-005",
+        "CLM-PRJ03-007",
+        "CLM-PRJ03-008",
+        "PRJ-03-E001",
+        "CLM-PRJ04-001",
+        "CLM-PRJ04-003",
+        "PRJ-04-E001",
+        "CLM-PRJ05-001",
+        "CLM-PRJ05-003",
+        "CLM-PRJ05-004",
+        "CLM-PRJ05-007",
+        "PRJ-05-E001",
+        "CLM-PRJ06-001",
+        "CLM-PRJ06-003",
+        "PRJ-06-E001",
+        "CLM-PRJ07-001",
+        "PRJ-07-E001",
+        "PRJ-07-E002",
+        "CLM-PRJ08-003",
+        "PRJ-08-E002",
+        "PRJ-08-E003",
+        "PRJ-08-E004",
+        "CLM-PRJ09-001",
+        "PRJ-09-E001",
+        "PRJ-09-E003",
+        "CLM-PRJ10-001",
+        "CLM-PRJ10-002",
+        "PRJ-10-E001",
+        "PRJ-10-E004",
+        "CLM-GOV-001",
+        "CLM-GOV-002",
+        "CLM-COM-001",
+        "CLM-REC-001"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#009-1-arbeidskronologi-og-forsvarlig-omfang",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "1. Arbeidskronologi og forsvarlig omfang"
+      ],
+      "heading_level": 2,
+      "line_start": 138,
+      "line_end": 139,
+      "content_sha256": "58d1589d3f5d54e6affef6e0681ccb4a4b3c2d8cacc9b489b4d03fd0a4ea50eb",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "1. Arbeidskronologi og forsvarlig omfang",
+        "1.1 Oslo universitetssykehus HF — Rådgiver Økonomi og IKT"
+      ],
+      "heading_level": 3,
+      "line_start": 140,
+      "line_end": 146,
+      "content_sha256": "b7e77a5a4ac699eb7f6bf006f059d0d7d3bc65f614b165a071f26d64c0dcf21a",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "1. Arbeidskronologi og forsvarlig omfang",
+        "1.1 Oslo universitetssykehus HF — Rådgiver Økonomi og IKT",
+        "Nåværende rolle – forsvarlige ansvarsområder"
+      ],
+      "heading_level": 4,
+      "line_start": 147,
+      "line_end": 161,
+      "content_sha256": "1aa78bf933933ab756e48767c4a11d8dc2c5c0ded5ad31f6298e60fdb55ff231",
+      "source_stated_ids": [
+        "EMP-OUS-001",
+        "EMP-OUS-002",
+        "EMP-OUS-003",
+        "EMP-OUS-004",
+        "EMP-OUS-005",
+        "EMP-OUS-006",
+        "EMP-OUS-007",
+        "EMP-OUS-008",
+        "EMP-OUS-009",
+        "EMP-OUS-010"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "1. Arbeidskronologi og forsvarlig omfang",
+        "1.1 Oslo universitetssykehus HF — Rådgiver Økonomi og IKT",
+        "Tidlig OUS-plassering – Barne- og ungdomsklinikken (BAR)"
+      ],
+      "heading_level": 4,
+      "line_start": 162,
+      "line_end": 220,
+      "content_sha256": "128679240f0116236cfbfd9fef0094c8a34693edd0cf0b56bf8ebe7088436548",
+      "source_stated_ids": [
+        "CLM-BAR-001",
+        "CLM-BAR-002",
+        "CLM-BAR-003",
+        "CLM-BAR-004",
+        "CLM-BAR-005",
+        "CLM-BAR-006"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "1. Arbeidskronologi og forsvarlig omfang",
+        "1.2 Tidligere arbeidsforhold"
+      ],
+      "heading_level": 3,
+      "line_start": 221,
+      "line_end": 231,
+      "content_sha256": "3e19721ea88b34d5391bb01c43e3326f01ad623095b1cded1f0bb949dbd87a7c",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#014-2-arbeidsmodell-og-ledelsesrelevant-atfe",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "2. Arbeidsmodell og ledelsesrelevant atferd"
+      ],
+      "heading_level": 2,
+      "line_start": 232,
+      "line_end": 233,
+      "content_sha256": "65cb83ebada505302e6e162a8b324de76c7473c2694f0a558a0b708082694d7b",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#015-2-1-ende-til-ende-leveransemodell",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "2. Arbeidsmodell og ledelsesrelevant atferd",
+        "2.1 Ende-til-ende-leveransemodell"
+      ],
+      "heading_level": 3,
+      "line_start": 234,
+      "line_end": 244,
+      "content_sha256": "185c7ec3f7e9df36f8c9f8b00eb08572255b0e6d9053636dfbdde4ff482164ca",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "2. Arbeidsmodell og ledelsesrelevant atferd",
+        "2.2 Evidens for funksjonell ledelse"
+      ],
+      "heading_level": 3,
+      "line_start": 245,
+      "line_end": 260,
+      "content_sha256": "f6b16f17fb786ec518d6f1e84615e4966de998dfa96c1e740e69c71d29649e03",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#017-3-portefoljekart",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "3. Porteføljekart"
+      ],
+      "heading_level": 2,
+      "line_start": 261,
+      "line_end": 275,
+      "content_sha256": "8462f634f30641ff0ed22a043c333283f662c2f8abf7da5bdf7737f06a72102e",
+      "source_stated_ids": [
+        "PRJ-01",
+        "PRJ-02",
+        "PRJ-03",
+        "PRJ-04",
+        "PRJ-05",
+        "PRJ-06",
+        "PRJ-07",
+        "PRJ-08",
+        "PRJ-09",
+        "PRJ-10"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#018-3-1-standard-utvalgsruter",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "3. Porteføljekart",
+        "3.1 Standard utvalgsruter"
+      ],
+      "heading_level": 3,
+      "line_start": 276,
+      "line_end": 288,
+      "content_sha256": "f055c57d244f5685ba47c57cc54b97ca9a832e80a989318bdcb4b84241088790",
+      "source_stated_ids": [
+        "PRJ-03",
+        "PRJ-04",
+        "PRJ-01",
+        "PRJ-02",
+        "PRJ-08",
+        "PRJ-09",
+        "PRJ-10",
+        "PRJ-05",
+        "PRJ-06",
+        "PRJ-07"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#019-4-detaljert-prosjektevidens",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens"
+      ],
+      "heading_level": 2,
+      "line_start": 289,
+      "line_end": 290,
+      "content_sha256": "3ce394b13040e4318f1341dd10a6628619cfa05f9bd357baebb709837319963b",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens",
+        "4.1 `PRJ-01` — Styrings-BI for sykehus og semantisk modell"
+      ],
+      "heading_level": 3,
+      "line_start": 291,
+      "line_end": 360,
+      "content_sha256": "9ec98fa543d94ff1306e482931bb6a466611c192b6af402562c89ef790199f82",
+      "source_stated_ids": [
+        "PRJ-01",
+        "CLM-PRJ01-001",
+        "CLM-PRJ01-003",
+        "CLM-PRJ01-006",
+        "CLM-PRJ01-007",
+        "CLM-PRJ01-008"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens",
+        "4.2 `PRJ-02` — Tverrorganisatorisk Power BI-kompetanseoverføring"
+      ],
+      "heading_level": 3,
+      "line_start": 361,
+      "line_end": 405,
+      "content_sha256": "ec951e3b7d5435974108feb79adf8c13408576d71d9cb046bfaeeaf62c4aae76",
+      "source_stated_ids": [
+        "PRJ-02",
+        "CLM-PRJ02-001"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens",
+        "4.3 `PRJ-03` — Modernisering og nyutvikling av sykehusets budsjetteringsverktøy"
+      ],
+      "heading_level": 3,
+      "line_start": 406,
+      "line_end": 469,
+      "content_sha256": "f63452fbc07447d4cdfb4ebabb73810df0c818337a0fe514e88c7ea89da06aea",
+      "source_stated_ids": [
+        "PRJ-03",
+        "CLM-PRJ03-001",
+        "CLM-PRJ03-003",
+        "CLM-PRJ03-005",
+        "CLM-PRJ03-007",
+        "CLM-PRJ03-008"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens",
+        "4.4 `PRJ-04` — Sykehusdekkende rammeverk for gevinstrealisering"
+      ],
+      "heading_level": 3,
+      "line_start": 470,
+      "line_end": 515,
+      "content_sha256": "ff4e4474ab897283a2cfad25a129c7249299fd5a52e85b5fe5d05e7e0f7a5888",
+      "source_stated_ids": [
+        "PRJ-04",
+        "CLM-PRJ04-001",
+        "CLM-PRJ04-003"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens",
+        "4.5 `PRJ-05` — Prognoser for pasientvolum, sengebehov og kapasitet"
+      ],
+      "heading_level": 3,
+      "line_start": 516,
+      "line_end": 595,
+      "content_sha256": "8c38328684fb8ca3fd79608cbc7074e7a4612257f2f69cad9c766749bec14bb3",
+      "source_stated_ids": [
+        "PRJ-05",
+        "CLM-PRJ05-001",
+        "CLM-PRJ05-003",
+        "CLM-PRJ05-004",
+        "CLM-PRJ05-007"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens",
+        "4.6 `PRJ-06` — STE-gevinstfordeling og investeringsmodell for steril logistikk"
+      ],
+      "heading_level": 3,
+      "line_start": 596,
+      "line_end": 645,
+      "content_sha256": "c2632662f9fe7321de139266da489bba87409a565b135340378dd474754ca83a",
+      "source_stated_ids": [
+        "PRJ-06",
+        "CLM-PRJ06-001",
+        "CLM-PRJ06-003"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens",
+        "4.7 `PRJ-07` — Plattformpiloter og moderniseringskartlegging"
+      ],
+      "heading_level": 3,
+      "line_start": 646,
+      "line_end": 686,
+      "content_sha256": "b1ad2b856f11e1271dbfbdff6d3f8ec79b10e9edacb70dac401e9a6893e06d2a",
+      "source_stated_ids": [
+        "PRJ-07",
+        "CLM-PRJ07-001"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens",
+        "4.8 `PRJ-08` — Arbeidsmodell, teamdesign og smidig leveranse"
+      ],
+      "heading_level": 3,
+      "line_start": 687,
+      "line_end": 729,
+      "content_sha256": "61a20991fbef5440d2fd324274f7e19346fe548923c26c42535138aab804b71b",
+      "source_stated_ids": [
+        "PRJ-08",
+        "CLM-PRJ08-003"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens",
+        "4.9 `PRJ-09` — Arbeidsinntak, krav og samhandlingsverktøy"
+      ],
+      "heading_level": 3,
+      "line_start": 730,
+      "line_end": 766,
+      "content_sha256": "27f6c6abad62208b94f4e29beab6c96a2973775f866831b710ffab76571e45b0",
+      "source_stated_ids": [
+        "PRJ-09",
+        "CLM-PRJ09-001"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "4. Detaljert prosjektevidens",
+        "4.10 `PRJ-10` — Seksjonsvise DRG-prognoser for budsjett og planlegging i BAR"
+      ],
+      "heading_level": 3,
+      "line_start": 767,
+      "line_end": 807,
+      "content_sha256": "0250fa0146c5faf7aa5749a9882362592358e20656fddb4a81b7224ac2136b2c",
+      "source_stated_ids": [
+        "PRJ-10",
+        "CLM-PRJ10-001",
+        "CLM-PRJ10-002",
+        "PRJ-10-E001",
+        "PRJ-10-E002",
+        "PRJ-10-E003",
+        "PRJ-10-E004"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#030-5-tverrgaende-arbeidsevidens",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "5. Tverrgående arbeidsevidens"
+      ],
+      "heading_level": 2,
+      "line_start": 808,
+      "line_end": 809,
+      "content_sha256": "0f5ce8412eae16eeac06b9691743eb361e29831fb375cd9af3212572e960ca7a",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "5. Tverrgående arbeidsevidens",
+        "5.1 Styring, sikkerhet og kontrollert endring"
+      ],
+      "heading_level": 3,
+      "line_start": 810,
+      "line_end": 819,
+      "content_sha256": "6c8d5f84d5d1fb2dce76c1c50c50d01fce1826883d9ba7af54029fe2de56bb7e",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "5. Tverrgående arbeidsevidens",
+        "5.2 Kommunikasjon og kompetanseoverføring"
+      ],
+      "heading_level": 3,
+      "line_start": 820,
+      "line_end": 828,
+      "content_sha256": "28c368bd279b8f37213f12b785250b9ddcb0fd302eb9ddb50f04796d102ebc01",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#033-5-3-rekrutteringsstotte",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "5. Tverrgående arbeidsevidens",
+        "5.3 Rekrutteringsstøtte"
+      ],
+      "heading_level": 3,
+      "line_start": 829,
+      "line_end": 836,
+      "content_sha256": "f1e9aef86ea61acd53cf7ca959f1d28bec86fe90ea1bcf494cf740e1495340cc",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#034-5-4-andre-helse-og-strategikontekster",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "5. Tverrgående arbeidsevidens",
+        "5.4 Andre helse- og strategikontekster"
+      ],
+      "heading_level": 3,
+      "line_start": 837,
+      "line_end": 851,
+      "content_sha256": "fa1ece3176261f79e5cf18ad83ce2108e3dc5f28b2507979ecfe832f55b2ec56",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#035-6-arbeidsavledet-kompetanseprofil",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "6. Arbeidsavledet kompetanseprofil"
+      ],
+      "heading_level": 2,
+      "line_start": 852,
+      "line_end": 853,
+      "content_sha256": "99c9cce6ca2b62f611b05d84928a800bf0111f0f53ee4c82698bedc9935daa94",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "6. Arbeidsavledet kompetanseprofil",
+        "6.1 Helse, økonomi og virksomhetsforståelse"
+      ],
+      "heading_level": 3,
+      "line_start": 854,
+      "line_end": 865,
+      "content_sha256": "8fd64c9b2e07d74ec80b35043e1f12505de8c9ad7c1f34dfb2c4ea3565d2b8de",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#037-6-2-bi-og-rapportering",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "6. Arbeidsavledet kompetanseprofil",
+        "6.2 BI og rapportering"
+      ],
+      "heading_level": 3,
+      "line_start": 866,
+      "line_end": 877,
+      "content_sha256": "eeb58de9a2b5d73aa65aee9afd76309860cf9ab8fe2e386b4cafd281b214c332",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "6. Arbeidsavledet kompetanseprofil",
+        "6.3 Data engineering og integrasjon"
+      ],
+      "heading_level": 3,
+      "line_start": 878,
+      "line_end": 888,
+      "content_sha256": "ddbeba0036008460d819c7f74b30c6cd40fbbfad383583fd639d344344993829",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#039-6-4-programmering-automatisering-og-impl",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "6. Arbeidsavledet kompetanseprofil",
+        "6.4 Programmering, automatisering og implementering"
+      ],
+      "heading_level": 3,
+      "line_start": 889,
+      "line_end": 900,
+      "content_sha256": "c2220418856de76b4b8b7d2bb65eb95b6abbb49f43ab6ae4d49106c62a8ed40f",
+      "source_stated_ids": [
+        "PRJ-05"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#040-6-5-analyse-statistikk-og-modellering",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "6. Arbeidsavledet kompetanseprofil",
+        "6.5 Analyse, statistikk og modellering"
+      ],
+      "heading_level": 3,
+      "line_start": 901,
+      "line_end": 910,
+      "content_sha256": "5191cac7c0d16781a6e7096c0a5acd15a8053b768f5bbe861f6d65298adfe356",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#041-6-6-digitalisering-og-prosessforbedring",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "6. Arbeidsavledet kompetanseprofil",
+        "6.6 Digitalisering og prosessforbedring"
+      ],
+      "heading_level": 3,
+      "line_start": 911,
+      "line_end": 923,
+      "content_sha256": "3a1eac83bb2707029a04b750ac75299fd42361c2db820a9c6b7d90b461f1fe6c",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "6. Arbeidsavledet kompetanseprofil",
+        "6.7 Prosjekt, produkt og leveranse"
+      ],
+      "heading_level": 3,
+      "line_start": 924,
+      "line_end": 935,
+      "content_sha256": "28d2986682f52deb3c8efd51a83c44ad4db1a2150ad217d92e1b7ddb05bcd708",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#043-6-8-styring-kvalitet-og-kontroll",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "6. Arbeidsavledet kompetanseprofil",
+        "6.8 Styring, kvalitet og kontroll"
+      ],
+      "heading_level": 3,
+      "line_start": 936,
+      "line_end": 945,
+      "content_sha256": "08c8791662410c58e628a164af343186b8feab3e42efff9850f23d3349ef6a50",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "6. Arbeidsavledet kompetanseprofil",
+        "6.9 Kommunikasjon og interessentarbeid"
+      ],
+      "heading_level": 3,
+      "line_start": 946,
+      "line_end": 955,
+      "content_sha256": "636e623b126aea0508e12199d9b91bce62b0d3b0d46ca9defe107bec9fd681a7",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#045-7-teknologi-og-metodeinventar",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "7. Teknologi- og metodeinventar"
+      ],
+      "heading_level": 2,
+      "line_start": 956,
+      "line_end": 970,
+      "content_sha256": "d7a6592418770d56b802939921f2f30ca709d8863b1dba3e74cbc53571e68502",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "8. Godkjente måltall og resultatgrenser"
+      ],
+      "heading_level": 2,
+      "line_start": 971,
+      "line_end": 992,
+      "content_sha256": "22606f732f92ef37237da708444fb7e08e4a2203ca039422a76a7f5fa402a308",
+      "source_stated_ids": [
+        "PRJ-01"
+      ]
+    },
+    {
+      "evidence_id": "EV:WORK#047-9-konstruksjon-av-cv-og-intervjuevidens",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "9. Konstruksjon av CV- og intervjuevidens"
+      ],
+      "heading_level": 2,
+      "line_start": 993,
+      "line_end": 998,
+      "content_sha256": "61d80d4a44a0907da08f9b8d3126ede09ce9ee2c5f5afcb2c5f717b6a5014b7e",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#048-9-1-cv-only-starting-point-analyseavdeli",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "9. Konstruksjon av CV- og intervjuevidens",
+        "9.1 `CV_ONLY_STARTING_POINT` – Analyseavdelingen"
+      ],
+      "heading_level": 3,
+      "line_start": 999,
+      "line_end": 1010,
+      "content_sha256": "ade32f6b7bf0fe8502e38d3b79a9889efc64b9a78736d4a7f37da35e7a2ebab3",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#049-9-2-cv-only-starting-point-tidlig-ous",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "9. Konstruksjon av CV- og intervjuevidens",
+        "9.2 `CV_ONLY_STARTING_POINT` – tidlig OUS"
+      ],
+      "heading_level": 3,
+      "line_start": 1011,
+      "line_end": 1021,
+      "content_sha256": "7599455ce37a3a4290b1fe8c73145c5e680f6c4cc53f8528c771d3d9c31c09ec",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#050-9-3-intervjuforsvarlige-historiekart",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "9. Konstruksjon av CV- og intervjuevidens",
+        "9.3 Intervjuforsvarlige historiekart"
+      ],
+      "heading_level": 3,
+      "line_start": 1022,
+      "line_end": 1034,
+      "content_sha256": "6716bcb2600d907f3d2589d2a16c4962983c5e9301e743657b893ad9c5e108e2",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#051-9-4-regel-for-cv-punkter",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "9. Konstruksjon av CV- og intervjuevidens",
+        "9.4 Regel for CV-punkter"
+      ],
+      "heading_level": 3,
+      "line_start": 1035,
+      "line_end": 1040,
+      "content_sha256": "e84bc6901cc550779cb72177a1181f7c2d3d62ca6dac25303f6a04b61f636784",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#052-10-forbudte-og-uavklarte-arbeidspastande",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "10. Forbudte og uavklarte arbeidspåstander"
+      ],
+      "heading_level": 2,
+      "line_start": 1041,
+      "line_end": 1042,
+      "content_sha256": "c123f9cd37fadc766dff0208d2ccf72d3fc62b2560035105f7cc6747248688a8",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#053-10-1-eksplisitt-forbudt",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "10. Forbudte og uavklarte arbeidspåstander",
+        "10.1 Eksplisitt forbudt"
+      ],
+      "heading_level": 3,
+      "line_start": 1043,
+      "line_end": 1066,
+      "content_sha256": "8dc4aa76d275e3ca032160d50aed4f8d9777be0d1bce842863e68b9faa67e062",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:WORK#054-10-2-uavklart-utelat-eller-behold-smal-k",
+      "source_id": "WORK",
+      "kind": "SECTION",
+      "heading_path": [
+        "Arbeidserfaring",
+        "10. Forbudte og uavklarte arbeidspåstander",
+        "10.2 Uavklart – utelat eller behold smal kvalifikator"
+      ],
+      "heading_level": 3,
+      "line_start": 1067,
+      "line_end": 1085,
+      "content_sha256": "b358fa1e660a2f173916c937bb1ebfebd349d3281288e47d1fc0a7c6a8db692e",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#file",
+      "source_id": "EDU",
+      "kind": "FILE",
+      "heading_path": [],
+      "line_start": 1,
+      "line_end": 339,
+      "content_sha256": "75e238890215cbc02c3bc59cdaaeb43f467ae7d512e9b5a9c4723ccc0c4580f8",
+      "source_stated_ids": [
+        "EDU-001",
+        "EDU-002",
+        "EDU-003",
+        "EDU-004",
+        "PRJ-03",
+        "PRJ-04",
+        "CLM-EDU-001",
+        "CLM-EDU-002",
+        "EDU-CAP-001",
+        "EDU-CAP-002",
+        "EDU-CAP-005",
+        "PRJ-05",
+        "EDU-A01",
+        "EDU-A02",
+        "EDU-A03",
+        "EDU-A04",
+        "EDU-A05",
+        "EDU-A06",
+        "EDU-A07",
+        "EDU-A08",
+        "EDU-A09",
+        "EDU-A10"
+      ]
+    },
+    {
+      "evidence_id": "EV:EDU#preamble",
+      "source_id": "EDU",
+      "kind": "PREAMBLE",
+      "heading_path": [],
+      "line_start": 1,
+      "line_end": 21,
+      "content_sha256": "1e54c57a1e254ed0bd74e2f12a905174c4ef4f6e5b12337933960833fc622dfa",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#001-utdanning",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning"
+      ],
+      "heading_level": 1,
+      "line_start": 22,
+      "line_end": 29,
+      "content_sha256": "fd4ea5d89d45fbd4f68ef6f0601deed7ef2be0959bae5df5c68704f1b0b11f47",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#002-0-runtime-kjerne",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "0. Runtime-kjerne"
+      ],
+      "heading_level": 2,
+      "line_start": 30,
+      "line_end": 31,
+      "content_sha256": "62ddd76006d27976c924160833aca31da4528fd435c0016349af57577dabf382",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#003-0-1-gradskronologi",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "0. Runtime-kjerne",
+        "0.1 Gradskronologi"
+      ],
+      "heading_level": 3,
+      "line_start": 32,
+      "line_end": 40,
+      "content_sha256": "0c986dda21337c2c880276d6745a16ab341d86f640296a865397e8a64dcc65a1",
+      "source_stated_ids": [
+        "EDU-001",
+        "EDU-002",
+        "EDU-003",
+        "EDU-004"
+      ]
+    },
+    {
+      "evidence_id": "EV:EDU#004-0-2-akademisk-profil",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "0. Runtime-kjerne",
+        "0.2 Akademisk profil"
+      ],
+      "heading_level": 3,
+      "line_start": 41,
+      "line_end": 44,
+      "content_sha256": "61d14d5821a3d47caafb8e18b6e9ae6fffe345474bb0940d1c5a7ca86648783d",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#005-0-3-ferdighetsklynger",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "0. Runtime-kjerne",
+        "0.3 Ferdighetsklynger"
+      ],
+      "heading_level": 3,
+      "line_start": 45,
+      "line_end": 54,
+      "content_sha256": "98c60aa254cdd2b905e75d4ec522e63a68c024a99d5f710f747d0814b8432b14",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#006-0-4-gjenfinningsindeks",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "0. Runtime-kjerne",
+        "0.4 Gjenfinningsindeks"
+      ],
+      "heading_level": 3,
+      "line_start": 55,
+      "line_end": 72,
+      "content_sha256": "56cd5f311ce09248bd85cedae8f1e750d5581bac26b62eb2f87d5f6eaac2fa2b",
+      "source_stated_ids": [
+        "PRJ-03",
+        "PRJ-04"
+      ]
+    },
+    {
+      "evidence_id": "EV:EDU#007-0-5-finance-process-role-bridge",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "0. Runtime-kjerne",
+        "0.5 `finance_process_role_bridge`"
+      ],
+      "heading_level": 3,
+      "line_start": 73,
+      "line_end": 99,
+      "content_sha256": "b0f6b9b929b5351d2c4d1d873437566406390be1124db99789f4afbae0a7ddc4",
+      "source_stated_ids": [
+        "PRJ-03",
+        "PRJ-04",
+        "CLM-EDU-001",
+        "CLM-EDU-002"
+      ]
+    },
+    {
+      "evidence_id": "EV:EDU#008-0-6-stabil-claim-proveniens",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "0. Runtime-kjerne",
+        "0.6 Stabil claim-proveniens"
+      ],
+      "heading_level": 3,
+      "line_start": 100,
+      "line_end": 108,
+      "content_sha256": "73a01ebf635e3674e1dd69d5880b399f5738a82a676abfd7e359c1800449d617",
+      "source_stated_ids": [
+        "CLM-EDU-001",
+        "EDU-CAP-001",
+        "EDU-CAP-002",
+        "CLM-EDU-002",
+        "EDU-CAP-005"
+      ]
+    },
+    {
+      "evidence_id": "EV:EDU#009-1-grader-og-studiestatus",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "1. Grader og studiestatus"
+      ],
+      "heading_level": 2,
+      "line_start": 109,
+      "line_end": 110,
+      "content_sha256": "e5132ef1705f1e3eebe7a11a802221e4c7c4f32b3e4284f3dc6b652266abf26b",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "1. Grader og studiestatus",
+        "1.1 Universitetet i Agder – pågående masterprogram i kunstig intelligens"
+      ],
+      "heading_level": 3,
+      "line_start": 111,
+      "line_end": 118,
+      "content_sha256": "975a802c33f89de2cc21cfa011f9517b200f23a716d0af6660cb37502f0852fb",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "1. Grader og studiestatus",
+        "1.2 NTNU – fullført mastergrad i samfunnsøkonomi"
+      ],
+      "heading_level": 3,
+      "line_start": 119,
+      "line_end": 125,
+      "content_sha256": "f0cb022419c34e14cbeb7f79121941e670f4811289ddf217d92fd39a43d3b4ae",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "1. Grader og studiestatus",
+        "1.3 Universitetet i Bergen – fullført bachelorgrad i samfunnsøkonomi"
+      ],
+      "heading_level": 3,
+      "line_start": 126,
+      "line_end": 132,
+      "content_sha256": "a97c6cf5b165587bcc125a4b6c1fb38e99000f1cdf26768d718e681bd7ba2e69",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#013-1-4-ernest-manning-high-school-calgary",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "1. Grader og studiestatus",
+        "1.4 Ernest Manning High School, Calgary"
+      ],
+      "heading_level": 3,
+      "line_start": 133,
+      "line_end": 139,
+      "content_sha256": "0af7a3e9732901f3692c3af2eba8649c497a72afc98e431d6009dd2fc18fb0f4",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#014-2-faglig-evidensoversikt",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "2. Faglig evidensoversikt"
+      ],
+      "heading_level": 2,
+      "line_start": 140,
+      "line_end": 149,
+      "content_sha256": "f62f9e3d141203b5fee780aec4d65d9c66d992b3578de9e6008ee063642786e0",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "2. Faglig evidensoversikt",
+        "2.1 Universitetet i Bergen – økonomi, politikk og virksomhetsforståelse"
+      ],
+      "heading_level": 3,
+      "line_start": 150,
+      "line_end": 167,
+      "content_sha256": "86a2c0482d64977f3c957f8ca402cc08c7afb136f0c34504837f4ddcfdccb953",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "2. Faglig evidensoversikt",
+        "2.2 Kvantitative metoder, økonometri og matematikk"
+      ],
+      "heading_level": 3,
+      "line_start": 168,
+      "line_end": 178,
+      "content_sha256": "d355996233f98a7ee3af1d8b8ac0625ec9299134399f12ad47d87e93559b9159",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#017-2-3-ntnu-okonomi-insentiver-makro-og-fin",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "2. Faglig evidensoversikt",
+        "2.3 NTNU – økonomi, insentiver, makro og finans"
+      ],
+      "heading_level": 3,
+      "line_start": 179,
+      "line_end": 187,
+      "content_sha256": "df020d65339008a054c93be2b678e57ca35e81f1e157bac529099fa253701aa8",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#018-2-4-programmering-ki-databaser-og-diskre",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "2. Faglig evidensoversikt",
+        "2.4 Programmering, KI, databaser og diskret matematikk"
+      ],
+      "heading_level": 3,
+      "line_start": 188,
+      "line_end": 197,
+      "content_sha256": "8420702f75d5c9023eb50f56e32a9242454c592d5de2d872c02373d4e522d52c",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#019-2-5-selvstendig-arbeid-kommunikasjon-og",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "2. Faglig evidensoversikt",
+        "2.5 Selvstendig arbeid, kommunikasjon og tverrfaglig samarbeid"
+      ],
+      "heading_level": 3,
+      "line_start": 198,
+      "line_end": 207,
+      "content_sha256": "fc36568bd9bf318e24a526e29f8ac15f9baa5ba9533abdf0eb06fd568ba508c7",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#020-3-tverrfaglig-syntese-og-stillingsreleva",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "3. Tverrfaglig syntese og stillingsrelevans"
+      ],
+      "heading_level": 2,
+      "line_start": 208,
+      "line_end": 209,
+      "content_sha256": "cfda2df4141ee5b521e983b3f3743a1ccc662b3269773bb42596218dc2e23f03",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#021-3-0-utvalgsruter-for-utdanning",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "3. Tverrfaglig syntese og stillingsrelevans",
+        "3.0 Utvalgsruter for utdanning"
+      ],
+      "heading_level": 3,
+      "line_start": 210,
+      "line_end": 222,
+      "content_sha256": "2f5286f518549bd51ece4d0abfa1ce33e6937f8cb72f6fd17e4426fe0aae2d24",
+      "source_stated_ids": [
+        "PRJ-05"
+      ]
+    },
+    {
+      "evidence_id": "EV:EDU#022-3-1-okonomi-helse-og-offentlig-analyse",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "3. Tverrfaglig syntese og stillingsrelevans",
+        "3.1 Økonomi, helse og offentlig analyse"
+      ],
+      "heading_level": 3,
+      "line_start": 223,
+      "line_end": 240,
+      "content_sha256": "5be37bf47eb5c376144ef41c99480eb0254107a6cfd299a8018c44d4994a5fca",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#023-3-2-bi-data-okonometri-og-prognoser",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "3. Tverrfaglig syntese og stillingsrelevans",
+        "3.2 BI, data, økonometri og prognoser"
+      ],
+      "heading_level": 3,
+      "line_start": 241,
+      "line_end": 254,
+      "content_sha256": "50d5677e48b45d7752f4ea804785a69597c8887bd4ece43ba919a2977b2421fc",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#024-3-3-okonomi-og-driftsroller",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "3. Tverrfaglig syntese og stillingsrelevans",
+        "3.3 Økonomi- og driftsroller"
+      ],
+      "heading_level": 3,
+      "line_start": 255,
+      "line_end": 274,
+      "content_sha256": "2728033ae40f337f06541a70e46c6997dc7c33e769400227614e6675191168e7",
+      "source_stated_ids": [
+        "PRJ-03"
+      ]
+    },
+    {
+      "evidence_id": "EV:EDU#025-3-4-digitaliserings-og-teknologiroller",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "3. Tverrfaglig syntese og stillingsrelevans",
+        "3.4 Digitaliserings- og teknologiroller"
+      ],
+      "heading_level": 3,
+      "line_start": 275,
+      "line_end": 285,
+      "content_sha256": "6d646a0bd5ae8e324549eec7ef1f1b8c9057867c94e2288af38226ac951a23c5",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#026-3-5-seniorradgiver-og-tverrfunksjonelle",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "3. Tverrfaglig syntese og stillingsrelevans",
+        "3.5 Seniorrådgiver- og tverrfunksjonelle roller"
+      ],
+      "heading_level": 3,
+      "line_start": 286,
+      "line_end": 297,
+      "content_sha256": "83fd3c55dae6b635015baf63b3e6a471952b181ab3b5169ee23696b43e9e8af1",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#027-4-godkjente-utdanningsformuleringer-og-g",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "4. Godkjente utdanningsformuleringer og grenser"
+      ],
+      "heading_level": 2,
+      "line_start": 298,
+      "line_end": 299,
+      "content_sha256": "b61b74db36d2700daf1e508dce4ec85d5c898990cec49d793e268f08cecc4d60",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#028-4-1-claim-atomer-for-utdanning",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "4. Godkjente utdanningsformuleringer og grenser",
+        "4.1 Claim-atomer for utdanning"
+      ],
+      "heading_level": 3,
+      "line_start": 300,
+      "line_end": 316,
+      "content_sha256": "5ea86324254b9524b1baad66fec305c0c9f9f5f49d096b930746fe85bdec11d0",
+      "source_stated_ids": [
+        "EDU-A01",
+        "EDU-A02",
+        "EDU-A03",
+        "EDU-A04",
+        "EDU-A05",
+        "EDU-A06",
+        "EDU-A07",
+        "EDU-A08",
+        "EDU-A09",
+        "EDU-A10"
+      ]
+    },
+    {
+      "evidence_id": "EV:EDU#029-4-2-forbudte-oppgraderinger",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "4. Godkjente utdanningsformuleringer og grenser",
+        "4.2 Forbudte oppgraderinger"
+      ],
+      "heading_level": 3,
+      "line_start": 317,
+      "line_end": 329,
+      "content_sha256": "35a5fdf178d7035784c5eea437d35f5199644b2794ef9f3860931018dab06011",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:EDU#030-4-3-uavklarte-punkter",
+      "source_id": "EDU",
+      "kind": "SECTION",
+      "heading_path": [
+        "Utdanning",
+        "4. Godkjente utdanningsformuleringer og grenser",
+        "4.3 Uavklarte punkter"
+      ],
+      "heading_level": 3,
+      "line_start": 330,
+      "line_end": 339,
+      "content_sha256": "df9d493d2e7faeaefb8fa94e21d44dad3a0b3747352bbb8d2a670a409dbc599d",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#file",
+      "source_id": "OTHER",
+      "kind": "FILE",
+      "heading_path": [],
+      "line_start": 1,
+      "line_end": 554,
+      "content_sha256": "58a8f88f9eb627847152d684b19d7938c42da7d173a57a7fff58728a25ae5bf8",
+      "source_stated_ids": [
+        "PRJ-07",
+        "CLM-ID-001",
+        "CLM-AI-001",
+        "CLM-AI-002",
+        "PRJ-03",
+        "PRJ-04",
+        "PRJ-01",
+        "PRJ-08",
+        "PRJ-02",
+        "PRJ-05",
+        "PRJ-06",
+        "PRJ-09"
+      ]
+    },
+    {
+      "evidence_id": "EV:OTHER#preamble",
+      "source_id": "OTHER",
+      "kind": "PREAMBLE",
+      "heading_path": [],
+      "line_start": 1,
+      "line_end": 22,
+      "content_sha256": "2c932645da03fc87107eadff83c9e86721ccf1c7494bb7d07a05c9747aa52495",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#001-annen-informasjon-med-hoy-verdi",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi"
+      ],
+      "heading_level": 1,
+      "line_start": 23,
+      "line_end": 30,
+      "content_sha256": "12bd20a8dea288faf2fa96b524dd53a9071e0213b3b5b89779b3b56036e79d19",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#002-0-runtime-kjerne",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "0. Runtime-kjerne"
+      ],
+      "heading_level": 2,
+      "line_start": 31,
+      "line_end": 32,
+      "content_sha256": "62ddd76006d27976c924160833aca31da4528fd435c0016349af57577dabf382",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#003-0-1-last-identitet-og-kontakt",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "0. Runtime-kjerne",
+        "0.1 Låst identitet og kontakt"
+      ],
+      "heading_level": 3,
+      "line_start": 33,
+      "line_end": 42,
+      "content_sha256": "d0c8315aa3e8269f0d673c24c1bd92adf1613f6cb473d2e0482fb2970dd87db5",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#004-0-2-profesjonell-kjernetese",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "0. Runtime-kjerne",
+        "0.2 Profesjonell kjernetese"
+      ],
+      "heading_level": 3,
+      "line_start": 43,
+      "line_end": 69,
+      "content_sha256": "bb8ef9a43867e5cc9b8dc00e5094e6fd931819795090f3a5d000426a9156296f",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#005-0-3-ufravikelige-claim-kontroller",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "0. Runtime-kjerne",
+        "0.3 Ufravikelige claim-kontroller"
+      ],
+      "heading_level": 3,
+      "line_start": 70,
+      "line_end": 83,
+      "content_sha256": "3bb43a746226027d82a585e42bedc9d4feb5a4ecf4f0e3dfc8bb0a95d7e654a3",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#006-0-4-gjenfinningsindeks",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "0. Runtime-kjerne",
+        "0.4 Gjenfinningsindeks"
+      ],
+      "heading_level": 3,
+      "line_start": 84,
+      "line_end": 101,
+      "content_sha256": "908dcc40f8194a3bf72a8dd78e72d0bd38e3ab02f16bba2a5addcf11f8ad7173",
+      "source_stated_ids": [
+        "PRJ-07"
+      ]
+    },
+    {
+      "evidence_id": "EV:OTHER#007-0-5-stabil-claim-proveniens",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "0. Runtime-kjerne",
+        "0.5 Stabil claim-proveniens"
+      ],
+      "heading_level": 3,
+      "line_start": 102,
+      "line_end": 111,
+      "content_sha256": "ffdff7460cafa60a9831af52ece29ab1186339c18aa20e1fc25073f7872c123c",
+      "source_stated_ids": [
+        "CLM-ID-001",
+        "CLM-AI-001",
+        "CLM-AI-002"
+      ]
+    },
+    {
+      "evidence_id": "EV:OTHER#008-1-profesjonelle-identitetsmoduler",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "1. Profesjonelle identitetsmoduler"
+      ],
+      "heading_level": 2,
+      "line_start": 112,
+      "line_end": 113,
+      "content_sha256": "98f350578c9ecb93acd6951b4063955b9d90586cc06f7a4b6c0fe5ffa428cd9a",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#009-1-1-funksjonell-grunnidentitet",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "1. Profesjonelle identitetsmoduler",
+        "1.1 Funksjonell grunnidentitet"
+      ],
+      "heading_level": 3,
+      "line_start": 114,
+      "line_end": 119,
+      "content_sha256": "fadf4fa6bb88c84b78469f1f802d02d042eaa34e3f17ce6b5bd1845a1d6b4ef2",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#010-1-2-pool-av-identitetsatomer",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "1. Profesjonelle identitetsmoduler",
+        "1.2 Pool av identitetsatomer"
+      ],
+      "heading_level": 3,
+      "line_start": 120,
+      "line_end": 135,
+      "content_sha256": "b456b6e47961ac2576bfd3da9320c873d8ae1af50659f3ab1d97adfdcaf028c4",
+      "source_stated_ids": [
+        "PRJ-03",
+        "PRJ-04"
+      ]
+    },
+    {
+      "evidence_id": "EV:OTHER#011-1-3-rutespesifikk-identitetskonstruksjon",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "1. Profesjonelle identitetsmoduler",
+        "1.3 Rutespesifikk identitetskonstruksjon"
+      ],
+      "heading_level": 3,
+      "line_start": 136,
+      "line_end": 148,
+      "content_sha256": "858aa946cee51219031fbf4320e28dcde500ab7ef19e3666a4941a4a5f30dd1f",
+      "source_stated_ids": [
+        "PRJ-03",
+        "PRJ-04",
+        "PRJ-01",
+        "PRJ-08",
+        "PRJ-02",
+        "PRJ-05",
+        "PRJ-06",
+        "PRJ-09"
+      ]
+    },
+    {
+      "evidence_id": "EV:OTHER#012-1-4-felles-ryggrad-og-profilkonstruksjon",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "1. Profesjonelle identitetsmoduler",
+        "1.4 Felles ryggrad og profilkonstruksjon"
+      ],
+      "heading_level": 3,
+      "line_start": 149,
+      "line_end": 159,
+      "content_sha256": "63fc881f0835dd333adf922ad6439b395648827fd9cc1b44d66740d195f80bbc",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#013-2-posisjonering-etter-rollefamilie",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "2. Posisjonering etter rollefamilie"
+      ],
+      "heading_level": 2,
+      "line_start": 160,
+      "line_end": 161,
+      "content_sha256": "728669c7fe71077167c1133d2ed0e426700ed9e1a84fb1ef1728d26d05a21a0e",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#014-2-1-primaere-spor",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "2. Posisjonering etter rollefamilie",
+        "2.1 Primære spor"
+      ],
+      "heading_level": 3,
+      "line_start": 162,
+      "line_end": 171,
+      "content_sha256": "26a57a10bc8031ef0341274daa400280c1770fbfa0cfb00c2fd6a41d9dbd8d46",
+      "source_stated_ids": [
+        "PRJ-03",
+        "PRJ-04",
+        "PRJ-01",
+        "PRJ-02",
+        "PRJ-08",
+        "PRJ-05",
+        "PRJ-09"
+      ]
+    },
+    {
+      "evidence_id": "EV:OTHER#015-2-2-selektive-spor",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "2. Posisjonering etter rollefamilie",
+        "2.2 Selektive spor"
+      ],
+      "heading_level": 3,
+      "line_start": 172,
+      "line_end": 180,
+      "content_sha256": "6522ac7aa023a246324b5d16573e00c32297340ec5ece00740d07b6592ba9aad",
+      "source_stated_ids": [
+        "PRJ-05"
+      ]
+    },
+    {
+      "evidence_id": "EV:OTHER#016-2-3-spor-uten-overreach",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "2. Posisjonering etter rollefamilie",
+        "2.3 Spor uten overreach"
+      ],
+      "heading_level": 3,
+      "line_start": 181,
+      "line_end": 194,
+      "content_sha256": "89888a976ca7c67e345ace84995350968ae3ae598c09ac167025240bf62337bb",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#017-2-4-senioritetsinnramming",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "2. Posisjonering etter rollefamilie",
+        "2.4 Senioritetsinnramming"
+      ],
+      "heading_level": 3,
+      "line_start": 195,
+      "line_end": 207,
+      "content_sha256": "4aee204b808edcb8529b35379ac027d0bd25c2486bd66e7858aaf389f35105ef",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#018-2-5-rute-for-funksjonell-endringsledelse",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "2. Posisjonering etter rollefamilie",
+        "2.5 Rute for funksjonell endringsledelse"
+      ],
+      "heading_level": 3,
+      "line_start": 208,
+      "line_end": 222,
+      "content_sha256": "77f7b29e0a0f4c5e64d7276109afe021ebc55cbe540e6e3392a19035518521bc",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#019-3-soke-og-titteltaksonomi",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "3. Søke- og titteltaksonomi"
+      ],
+      "heading_level": 2,
+      "line_start": 223,
+      "line_end": 224,
+      "content_sha256": "984050398b5bc59132c375e1a4c961985e53d5c9c57987e89444fb825731d774",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#020-3-1-norsk-offentlig-sektor-og-helse",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "3. Søke- og titteltaksonomi",
+        "3.1 Norsk offentlig sektor og helse"
+      ],
+      "heading_level": 3,
+      "line_start": 225,
+      "line_end": 232,
+      "content_sha256": "dd4d7cc100da7d31e610f5a312d074190aace7e5a1af499c9c3527a588c0fa60",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#021-3-2-engelsk-og-privat-sektor",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "3. Søke- og titteltaksonomi",
+        "3.2 Engelsk og privat sektor"
+      ],
+      "heading_level": 3,
+      "line_start": 233,
+      "line_end": 236,
+      "content_sha256": "b2aca9e9987155eea842cb2255143bf128e522a2c7c32d9f3602b5d4dedcd232",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#022-3-3-prioritering-av-sokeord-med-hoy-verd",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "3. Søke- og titteltaksonomi",
+        "3.3 Prioritering av søkeord med høy verdi"
+      ],
+      "heading_level": 3,
+      "line_start": 237,
+      "line_end": 250,
+      "content_sha256": "d938734b13244ea8b5ea306200dcd0a54941be1a9a30814376d1bab4dc728d21",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#023-3-4-utvalgsrisiko-og-rutekorrigering",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "3. Søke- og titteltaksonomi",
+        "3.4 Utvalgsrisiko og rutekorrigering"
+      ],
+      "heading_level": 3,
+      "line_start": 251,
+      "line_end": 261,
+      "content_sha256": "8ea28ebfdb3803518a8f6feb27d66565dd9e69be425b1d5d1ac603ab14eb33be",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#024-4-ki-stottet-arbeidskompetanse",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "4. KI-støttet arbeidskompetanse"
+      ],
+      "heading_level": 2,
+      "line_start": 262,
+      "line_end": 263,
+      "content_sha256": "f0b30bc7524bbb0d01370b73b2743bb0265276ca8d2cf64f433238b185b40baa",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#025-4-1-forsvarlig-posisjonering",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "4. KI-støttet arbeidskompetanse",
+        "4.1 Forsvarlig posisjonering"
+      ],
+      "heading_level": 3,
+      "line_start": 264,
+      "line_end": 282,
+      "content_sha256": "2c9fddaddca0341c28e5cbbd536e32f4c3e94a56dd4eb2b79856321a1aeab71e",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "4. KI-støttet arbeidskompetanse",
+        "4.2 Repeterbar KI-arbeidsmodell"
+      ],
+      "heading_level": 3,
+      "line_start": 283,
+      "line_end": 297,
+      "content_sha256": "f6d7ee58204d8b07b602b5c03884c1321382cf8070b6e10853974d7c0bc80d77",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#027-4-3-konkret-evidens",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "4. KI-støttet arbeidskompetanse",
+        "4.3 Konkret evidens"
+      ],
+      "heading_level": 3,
+      "line_start": 298,
+      "line_end": 313,
+      "content_sha256": "6d8196bc24b15bd0c1d9ce93a588a1d14569f0f2e1cd231b575b3f6ec8d6ae5b",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#028-4-4-trygge-ki-pastander",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "4. KI-støttet arbeidskompetanse",
+        "4.4 Trygge KI-påstander"
+      ],
+      "heading_level": 3,
+      "line_start": 314,
+      "line_end": 322,
+      "content_sha256": "d128bb72e56ad423d7f3d72ba778555d919cb7c63630c22c86ec276697cec2bf",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#029-4-5-ki-grenser",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "4. KI-støttet arbeidskompetanse",
+        "4.5 KI-grenser"
+      ],
+      "heading_level": 3,
+      "line_start": 323,
+      "line_end": 335,
+      "content_sha256": "c40753935b94ef4fd08478d31afd9e23cf73bfb1f6f5219fbcb745e037d98587",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#030-4-6-intern-kalibrering",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "4. KI-støttet arbeidskompetanse",
+        "4.6 Intern kalibrering"
+      ],
+      "heading_level": 3,
+      "line_start": 336,
+      "line_end": 357,
+      "content_sha256": "090ff1e7385a056092036386a7735b18f65915d19366ad52fe096a7c8b772b74",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#031-5-sprak-tillitsverv-og-tjeneste",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "5. Språk, tillitsverv og tjeneste"
+      ],
+      "heading_level": 2,
+      "line_start": 358,
+      "line_end": 359,
+      "content_sha256": "828df031de730dd2ac014474009654bd26a3375bd8991472a21bfcd67862b095",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#032-5-1-sprak",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "5. Språk, tillitsverv og tjeneste",
+        "5.1 Språk"
+      ],
+      "heading_level": 3,
+      "line_start": 360,
+      "line_end": 366,
+      "content_sha256": "83f71eef87b0ee85d8fb078e17d573dca4ae2cee1eabd6673f899cd1530a4cd9",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#033-5-2-tillitsverv",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "5. Språk, tillitsverv og tjeneste",
+        "5.2 Tillitsverv"
+      ],
+      "heading_level": 3,
+      "line_start": 367,
+      "line_end": 374,
+      "content_sha256": "1672532316e1019300afabe9d38e5d682fb80d1f66f3aac01be9b753cabd0e3a",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#034-5-3-tjeneste-og-kurs",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "5. Språk, tillitsverv og tjeneste",
+        "5.3 Tjeneste og kurs"
+      ],
+      "heading_level": 3,
+      "line_start": 375,
+      "line_end": 381,
+      "content_sha256": "85b57a2097a165bb0c55030015299e49a390976b01c8a7bb134086f53fe58db1",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#035-6-overforbare-styrker-arbeidsstil-og-sel",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "6. Overførbare styrker, arbeidsstil og selvkalibrering"
+      ],
+      "heading_level": 2,
+      "line_start": 382,
+      "line_end": 383,
+      "content_sha256": "eb6979a851345abf9d6930660247fe20b93cf2f50028c830c54057d9900569fb",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#036-6-1-systemtenkning-og-kompleksitetsreduk",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "6. Overførbare styrker, arbeidsstil og selvkalibrering",
+        "6.1 Systemtenkning og kompleksitetsreduksjon"
+      ],
+      "heading_level": 3,
+      "line_start": 384,
+      "line_end": 387,
+      "content_sha256": "be86545c00f774686100f09038c33e5d0b7ba3c5aea9be24fbd932d468e6c8f5",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#037-6-2-analytisk-grundighet-og-etterprovbar",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "6. Overførbare styrker, arbeidsstil og selvkalibrering",
+        "6.2 Analytisk grundighet og etterprøvbarhet"
+      ],
+      "heading_level": 3,
+      "line_start": 388,
+      "line_end": 400,
+      "content_sha256": "f5112f0a30ac678a193689695608b22167c194c3956f8123e995e0ccc9be76d9",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "6. Overførbare styrker, arbeidsstil og selvkalibrering",
+        "6.3 Oversettelse mellom virksomhet og teknologi"
+      ],
+      "heading_level": 3,
+      "line_start": 401,
+      "line_end": 404,
+      "content_sha256": "3ab41ce001d8229e2df57889014dc1c815bcd5e26417c232d0cbb80d83531c03",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#039-6-4-selvstendig-teknisk-problemlosning",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "6. Overførbare styrker, arbeidsstil og selvkalibrering",
+        "6.4 Selvstendig teknisk problemløsning"
+      ],
+      "heading_level": 3,
+      "line_start": 405,
+      "line_end": 408,
+      "content_sha256": "6fd16327581c3495f345039b78bf475183c64ab5f90b647834ba4ce73b44211d",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#040-6-5-kvalitetsbevisst-pragmatisme",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "6. Overførbare styrker, arbeidsstil og selvkalibrering",
+        "6.5 Kvalitetsbevisst pragmatisme"
+      ],
+      "heading_level": 3,
+      "line_start": 409,
+      "line_end": 412,
+      "content_sha256": "b8ab7c608c65eb5cf2bccba261703d448ef3bfe0090e040859f65c75d5f94960",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "6. Overførbare styrker, arbeidsstil og selvkalibrering",
+        "6.6 Kommunikasjon og kompetanseoverføring"
+      ],
+      "heading_level": 3,
+      "line_start": 413,
+      "line_end": 416,
+      "content_sha256": "06f1d2cac13747fc54fe2d057bd0985e4d65758a4b25d44a92fa30593040913d",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#042-6-7-selvledelsesrisiko-og-mottiltak",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "6. Overførbare styrker, arbeidsstil og selvkalibrering",
+        "6.7 Selvledelsesrisiko og mottiltak"
+      ],
+      "heading_level": 3,
+      "line_start": 417,
+      "line_end": 432,
+      "content_sha256": "d21fcd0d952521a29965b5a600a51e9b97bce461a581215b74b5fb90c2142374",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#043-7-tverrfilstyring-av-evidens",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "7. Tverrfilstyring av evidens"
+      ],
+      "heading_level": 2,
+      "line_start": 433,
+      "line_end": 434,
+      "content_sha256": "f1edb8c396d8866530229596556b4102baeed3ae32b72cb92b460a37a76f012a",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#044-7-1-felteierskap",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "7. Tverrfilstyring av evidens",
+        "7.1 Felteierskap"
+      ],
+      "heading_level": 3,
+      "line_start": 435,
+      "line_end": 445,
+      "content_sha256": "e5549a0b2ea623cd1cd6cf83bd857e0bf5d8a6fda5ebe27ffd434920fd8345df",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#045-7-2-evidensstatus",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "7. Tverrfilstyring av evidens",
+        "7.2 Evidensstatus"
+      ],
+      "heading_level": 3,
+      "line_start": 446,
+      "line_end": 455,
+      "content_sha256": "559a7aeb9d3076f1e3074df6b177332f13a1eef0979f07153e1074430e25064f",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#046-7-3-ordforrad-for-bidrag-livslop-og-resu",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "7. Tverrfilstyring av evidens",
+        "7.3 Ordforråd for bidrag, livsløp og resultat"
+      ],
+      "heading_level": 3,
+      "line_start": 456,
+      "line_end": 471,
+      "content_sha256": "dfc464a6996885e072003c97f168a493e44daec902bde9f999a2efd970a0b273",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#047-7-4-trygge-transformasjoner",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "7. Tverrfilstyring av evidens",
+        "7.4 Trygge transformasjoner"
+      ],
+      "heading_level": 3,
+      "line_start": 472,
+      "line_end": 492,
+      "content_sha256": "e8edee42cdc9b1ec8f2b7160afe672597e723ac6e2cccc7974ac534f6ec76c59",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#048-7-5-handtering-av-aktuelle-korrigeringer",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "7. Tverrfilstyring av evidens",
+        "7.5 Håndtering av aktuelle korrigeringer"
+      ],
+      "heading_level": 3,
+      "line_start": 493,
+      "line_end": 496,
+      "content_sha256": "4744303bdb74719ba181880d0d02e2c21db31d306acf91fd334a4b41a93ec7c6",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#049-8-presentasjons-og-innholdspreferanser",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "8. Presentasjons- og innholdspreferanser"
+      ],
+      "heading_level": 2,
+      "line_start": 497,
+      "line_end": 498,
+      "content_sha256": "f1508196904de84bebc439e736c7c257cf3f14773561e38907b7103a8ef5de16",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#050-8-1-kompetansegrupper",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "8. Presentasjons- og innholdspreferanser",
+        "8.1 Kompetansegrupper"
+      ],
+      "heading_level": 3,
+      "line_start": 499,
+      "line_end": 508,
+      "content_sha256": "67c2a8763601591f33166842f04fb6133c361624b4421149c898f5c097463f88",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#051-8-2-cv-og-dokumentstandarder",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "8. Presentasjons- og innholdspreferanser",
+        "8.2 CV- og dokumentstandarder"
+      ],
+      "heading_level": 3,
+      "line_start": 509,
+      "line_end": 519,
+      "content_sha256": "465a9efdf28e2651b5c8370be1e3895860a9dd02344c3fa00fc4f4d2a8ab2521",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#052-8-3-presentasjonshierarki-for-ki",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "8. Presentasjons- og innholdspreferanser",
+        "8.3 Presentasjonshierarki for KI"
+      ],
+      "heading_level": 3,
+      "line_start": 520,
+      "line_end": 526,
+      "content_sha256": "64cad8328b1e2343c2b3532be15bc024a64d85202684c16bb78814f07e23159c",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#053-9-globalt-uavklartregister",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "9. Globalt uavklartregister"
+      ],
+      "heading_level": 2,
+      "line_start": 527,
+      "line_end": 540,
+      "content_sha256": "f22793a126fbf1ec20a16fefad68f81ddd4be9d76b4c5e0dc2346913b3025835",
+      "source_stated_ids": []
+    },
+    {
+      "evidence_id": "EV:OTHER#054-10-prioriteringer-for-sterkere-evidens",
+      "source_id": "OTHER",
+      "kind": "SECTION",
+      "heading_path": [
+        "Annen informasjon med høy verdi",
+        "10. Prioriteringer for sterkere evidens"
+      ],
+      "heading_level": 2,
+      "line_start": 541,
+      "line_end": 554,
+      "content_sha256": "87cdfc09cdbaf9cbcca6fd89cbf83df1b624f56bf0fecdbb3b027ec0c3f867e3",
+      "source_stated_ids": []
+    }
+  ]
+}

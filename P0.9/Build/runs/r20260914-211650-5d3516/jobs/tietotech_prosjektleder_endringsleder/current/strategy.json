@@ -1,0 +1,453 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "Tieto Tech Consulting ansetter to konsulenter til fagmiljøet for prosjekt- og endringsledelse. De skal plasseres i kundeoppdrag hos store virksomheter innen digitalisering, systeminnføring, modernisering og transformasjon. Uttalt i annonsen: teknologi er sjelden den største utfordringen; verdien avhenger av forståelse, eierskap og nye arbeidsmåter, og konsulenten skal sikre at nye løsninger faktisk tas i bruk, forankres og gir gevinst. Uttalte krav: minimum fem års erfaring som endringsleder, prosessleder eller prosjektleder innen IT, digitalisering eller transformasjon; forståelse for samspillet mellom teknologi, mennesker og prosesser; praktisk KI-forståelse og erfaring med å støtte innføring av KI-støttede arbeidsprosesser; evne til tillit, engasjement, fremdrift, forankring og gevinstrealisering; flytende norsk og engelsk; relevante sertifiseringer som plussfaktor. Slutning (ikke uttalt): beslutningen er om kandidaten kan settes inn hos en kunde og være troverdig både for ledere og for brukerne som skal endre arbeidsmåte, skape struktur i et uklart oppdrag og få en løsning over fra levert til brukt. At KI-innføring står som eget krav, tyder på at oppdragene i økende grad også gjelder KI i arbeidsprosesser.",
+  "selection_logic": "Uttalt filter: rollekategori og minst fem år (minimum), mennesker–teknologi–virksomhet, struktur i kompleksitet, forankring, brukeradopsjon og gevinstrealisering, KI-krav og språk; sertifiseringer er ønsket. Slutning: en leder i et endringsfagmiljø vil først skanne tittel og år, der kandidaten ikke treffer, og deretter lete etter bevis for at kandidaten har fått nye løsninger i faktisk bruk i en stor virksomhet og kan stå i kundedialog. Fordi minstekravet ikke er oppfylt, avhenger shortlist av at CV-toppen og brevet raskt viser konkret innførings- og gevinstarbeid i en stor, kompleks virksomhet, uttrykt gjennom handling, kontroll og bruk, ikke generell endringsretorikk eller teknisk dybde. KI-kravet er et av få uttalte krav der kandidaten har et konkret og uvanlig svar, og det bør få egen, kort plass.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver i økonomi og IKT ved Oslo universitetssykehus som gjennomfører og forankrer endringer i forretningskritiske arbeidsprosesser der teknologi, økonomiprosess og brukere møtes. Funksjonell innførings- og endringsrolle, ikke formell endringsleder- eller prosjektledertittel.",
+  "headline_hypothesis": "Rådgiver økonomi og IKT | Innføring av nye løsninger, arbeidsprosesser og gevinstarbeid",
+  "shortlist_thesis": "Kandidaten har inne i en stor, regulert offentlig virksomhet gjort det Tieto beskriver som kundenes egentlige utfordring: fått nye løsninger inn i faktisk bruk og gjort gevinstlogikk til felles standard. Han var i praksis eneste kodende utvikler da sykehusets forretningskritiske budsjetteringsverktøy ble modernisert i en bred interessentprosess på om lag 50 personer, laget controller-onboarding, og verktøyet ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027. Som én av fire videreutviklet han sykehusets rammeverk for gevinstrealisering, som ble innført som sykehusdekkende standard og fortsatt var i bruk om lag 2,5 år senere. Han har i tillegg en praktisk, menneskestyrt KI-støttet arbeidsmåte og en registrert KI-superbrukerrolle, som svarer direkte på KI-kravet.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Minimum fem års erfaring som endringsleder, prosessleder eller prosjektleder innen IT, digitalisering eller transformasjon.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:OTHER#018-2-5-rute-for-funksjonell-endringsledelse",
+        "EV:OTHER#005-0-3-ufravikelige-claim-kontroller"
+      ],
+      "note": "Ikke oppfylt. Relevant profesjonell erfaring er OUS fra mars 2023 (om lag 3,5 år) med formell tittel Rådgiver Økonomi og IKT. Støttet del: funksjonell innførings- og endringsrolle i digitaliseringsarbeid (PRJ-03, verktøy ved REGERP-overgangen i BAR, PRJ-04, PRJ-08) beskrevet gjennom prioritering, struktur, kontroll, onboarding og overlevering. Gjenstående grenser er to: varigheten er under fem år, og det finnes ikke formelt endringsleder-, prosessleder- eller prosjektledermandat. Tidligere roller 2013–2021 og studietid teller ikke med. CV-kronologien dokumenterer faktisk varighet; brevet skal verken antyde oppfyllelse eller skrive defensiv mangelprosa."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Erfaring med å lede endringer i skjæringspunktet mellom mennesker, teknologi og virksomhet; få organisasjoner til å lykkes med nye løsninger, arbeidsformer og endringer.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#041-6-6-digitalisering-og-prosessforbedring"
+      ],
+      "note": "Støttet: gjennomført endring av forretningskritisk arbeidsflyt med onboarding og sykehusdekkende bruk (PRJ-03), egeninitierte konverteringsverktøy tatt i bruk av økonomirådgivere i flere klinikker (BAR), medutviklet metode innført som sykehusdekkende standard (PRJ-04). Grense: «lede» i formell forstand er ikke etablert; i PRJ-03 hadde en annen gjennomføringsledelsen. Bærende i brevet via PRJ-03 og PRJ-04; BAR-verktøyene i CV."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "God forståelse for samspillet mellom teknologi, mennesker og prosesser.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Støttet gjennom arbeid i alle tre lag: produksjonsnær økonomiprosess med egenutviklet automatisering (BAR), modernisering der manuell kopiering av bemanningsdata ble erstattet og controllere fikk onboarding (PRJ-03), og observerte brukertester med fokuserte forbedringssprinter (PRJ-01). Vises gjennom bevisene, ikke som egen selvkarakteristikk."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Navigere i komplekse omgivelser med mange interessenter og skape struktur når veien frem er uklar.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Støttet: omsetter brede behov til avgrensede arkitekturer, arbeidspakker og kontroller (EMP-OUS-003); bredt og lett spesifisert oppdrag i PRJ-01; omforming av en ustøttet fordelingsforespørsel til transparent modell (PRJ-06); strukturert arbeidsinntak (PRJ-09, design og evaluering). Interessentskala: om lag 50 personer i PRJ-03 er deltakerskala, ikke kandidatens ledelse av interessentprosessen."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Bygge tillit, skape engasjement og samle mennesker med ulik kompetanse rundt felles mål.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Støttede handlinger: planla og fasiliterte workshops og arbeidsflater (PRJ-08), lærte opp teknisk personell i en annen rapporteringsorganisasjon gjennom flere arbeidsmøter (PRJ-02), ledet intern BI-workshop for økonomkolleger (PRJ-01), tilpasser kommunikasjon til ledere, controllere, fagpersoner og teknisk personell. Ikke dokumentert: målt engasjement, tillitsutfall eller formell ledelse av team. Bruk konkrete handlinger, ikke egenskapsord. Hører hjemme i CV og eventuelt i én setning i brevet."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Struktur og gjennomføringsevne som sikrer fremdrift, kombinert med forankring, brukeradopsjon og gevinstrealisering.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Kumulativt krav; svakeste ledd styrer. Gjennomføring og struktur: støttet (akseptansekriterier, risikoregister og differansekontroll i PRJ-03; oppgavehierarki og WIP i PRJ-08). Brukeradopsjon og forankring: støttet på leveransenivå gjennom controller-onboarding og sykehusdekkende bruk i to budsjettprosesser (PRJ-03). Gevinstrealisering: støttet som metode gjennom medutviklet sykehusdekkende standard (PRJ-04) og ferdigstilt fordelingsmodell overlevert til controllere (PRJ-06), ikke som realiserte gevinster fra et endringsprogram kandidaten ledet. PRJ-06s organisatoriske bruk er uavklart. Bærende i brevet via PRJ-03 og PRJ-04."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Praktisk forståelse for muligheter og begrensninger ved kunstig intelligens, og erfaring med å støtte innføring av KI-støttede arbeidsprosesser.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#028-4-4-trygge-ki-pastander",
+        "EV:OTHER#029-4-5-ki-grenser",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+        "EV:WORK#054-10-2-uavklart-utelat-eller-behold-smal-k",
+        "EV:EDU#030-4-3-uavklarte-punkter"
+      ],
+      "note": "Kumulativt krav. Første ledd (praktisk forståelse for muligheter og begrensninger) er støttet: menneskestyrt KI-støttet arbeidsflyt med kildepresedens, avgrenset delegering, tester, bevisforpliktelser og menneskelig ansvar, anvendt i det aktive prognoseprosjektet. Andre ledd (støtte innføring) er nærliggende: registrert KI-superbruker ved OUS i om lag tre år med tekniske svar i en Teams-kanal, og en etablert agentarbeidsflyt i eget prosjekt med kollega. Ikke etablert: organisasjonsomfattende innføring, antall brukere, formelt støtteansvar eller KI-styringsmandat. Pågående masterprogram i KI ved UiA er underordnet supplement. Egen kort bevisplass i brevet og synlig i CV-toppen."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Trygg i dialogen med toppledelse og ute i organisasjonen; erfaring med å jobbe tverrfaglig mellom forretning og teknologi.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Tverrfaglig mellom forretning og teknologi: støttet (formell tittel Rådgiver Økonomi og IKT; leveranser til ledere, controllere, fagmiljøer og teknisk personell). Ute i organisasjonen: støttet (økonomirådgivere i flere klinikker, controllere, månedsrapporter til klinikkledere i BAR). Plassering i Direktørens stab er faktum, men direkte dialog med eller fasilitering for toppledelse er ikke dokumentert og skal ikke påstås."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Være sentral rådgiver for ledere, fasilitere viktige beslutningsprosesser og omsette strategi til handling.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Støttet: beslutningsstøtte der kandidaten avviste falsk presisjon og utformet en transparent modell for controllere (PRJ-06); lederrapportering og oversettelse av tiltakslogikk til budsjett- og styringsspråk i BAR; workshopfasilitering (PRJ-08); bidrag til felles styringsmetode (PRJ-04). Ikke etablert: formell rådgiverrolle for toppledergrupper eller fasilitering av beslutningsprosesser på ledernivå hos eksterne kunder."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Lede og bidra inn i initiativer fra digitalisering og systeminnføringer til større transformasjons- og moderniseringsprogrammer, og sikre at nye løsninger tas i bruk.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#053-10-1-eksplisitt-forbudt"
+      ],
+      "note": "Alternativet «bidra inn i» er støttet: praktisk verktøy for overgangen til REGERP tatt i bruk på tvers av klinikker, og hovedimplementering i modernisering av forretningskritisk verktøy i sykehusdekkende bruk. «Lede» programmer er ikke etablert; ingen eierskap til ERP-programmet eller den sentrale REGERP-/Oracle-løsningen. Plattformpiloter (PRJ-07) er utforskning og skal ikke brukes som programerfaring."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Erfaring fra offentlig sektor og/eller større private virksomheter.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver"
+      ],
+      "note": "Alternativ, ikke kumulativt: offentlig sektor er støttet gjennom Oslo universitetssykehus HF fra 2023. Profesjonell prosjekterfaring fra større private virksomheter er ikke etablert; tidligere roller i privat sektor (2013–2021) er ikke prosjekt- eller endringsarbeid. Ikke påstå sykehusets skala som personlig myndighet."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Forståelse for forskjellene mellom offentlig og privat sektor, og evne til å tilpasse prosjektstyring, kommunikasjon og gjennomføring til ulike rammebetingelser.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Støttet del: tilpasser kommunikasjon og dybde til ulike mottakere, og gjennomførte modernisering under strenge kompatibilitets- og driftsrammer; samarbeid på tvers av organisasjoner (PRJ-02). Ikke etablert: sammenlignende erfaring med prosjektstyring i privat og offentlig sektor. Behold som åpent spørsmål; ikke konstruer sektorsammenligning."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Behersker norsk og engelsk flytende, muntlig og skriftlig (arbeidsspråk norsk og engelsk).",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:EDU#013-1-4-ernest-manning-high-school-calgary"
+      ],
+      "note": "Norsk morsmål; engelsk flytende skriftlig og muntlig, støttet av skolegang i Calgary. Dokumenteres i CV; trenger ikke plass i brevet."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Relevante sertifiseringer innen endringsledelse, prosjektledelse og smidige arbeidsformer (PRINCE2, PROSCI, PMP, SAFe, Lean, Scrum Master).",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:EDU#029-4-2-forbudte-oppgraderinger"
+      ],
+      "note": "Ingen sertifisering finnes i kandidatmyndighetene. Ikke antyd sertifisering eller formell ledelseskvalifikasjon. Ønsket, ikke minimum; ikke skriv mangelprosa. Arbeidsgiverens investering i sertifiseringer er arbeidsgiverinnhold og etablerer ingen kandidatplan."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Praktisk erfaring med smidige arbeidsformer og prosessutvikling (sertifiseringsområdene og annonsens ferdighetsord: prosessutvikling, implementering av systemer, Lean, SAFe).",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#041-6-6-digitalisering-og-prosessforbedring"
+      ],
+      "note": "Metodeerfaring, ikke sertifisering: utformet Scrum/Kanban, oppgavehierarki og WIP-strukturer i Analyseavdelingen (blanding av innført og foreslått); løpende prosessforbedring i produksjonsnære økonomiprosesser (BAR). Lean, SAFe, PRINCE2 og PMP-praksis er ikke dokumentert. Hold denne raden atskilt fra R14."
+    },
+    {
+      "requirement_id": "R16",
+      "text": "Leveranse i kundeoppdrag som rådgiver/konsulent, inkludert å bidra til å utvikle kunderelasjoner og nye oppdrag.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "note": "Rollens leveranseform er slutning fra oppgavebeskrivelsen. All støttet evidens er intern i én arbeidsgiver, med interne mottakere som ledere, controllere, økonomirådgivere i flere klinikker og en annen rapporteringsorganisasjon (PRJ-02). Ekstern konsulentleveranse, kundeansvar og salg eller utvikling av nye oppdrag er ikke etablert. Behovsavklaring og direkte salg i Sector Alarm (2013–2014) er gammel kundedialog og skal ikke gjøres til forretningsutvikling. Materielt arbeidsgiverspørsmål som bærende par ikke besvarer; håndteres i objections og eventuelt i motivasjonen som et bevisst skifte."
+    },
+    {
+      "requirement_id": "R17",
+      "text": "Bidra til fagmiljøet innen prosjekt- og endringsledelse.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Støttet som kompetansebygging: deltok i firepersoners etableringsgruppe for Analyseavdelingen, ledet intern BI-workshop, lærte opp teknisk personell på tvers av organisasjoner, besvarer tekniske KI-spørsmål som superbruker. Fagmiljøet det er vist bidrag til er analyse, BI og KI, ikke endringsledelse som fag."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser"
+      ],
+      "role": "Første bærende bevisenhet for forankring og brukeradopsjon under driftskrav: et forretningskritisk, om lag 20 år gammelt budsjetteringsverktøy ble modernisert slik at ansatt-, ansettelses- og bemanningsdata ikke lenger måtte kopieres manuelt fra en annen arbeidsbok. Kandidaten var i praksis eneste kodende utvikler i en bred interessentprosess på om lag 50 personer, styrte endringen med differansekontroll, akseptansekriterier og risikoregister, laget controller-onboarding, og verktøyet ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027. Dokumentert skjønn i samme post: han anbefalte bredere restrukturering, men gjennomførte den smale funksjon-for-funksjon-refaktoreringen som gjennomføringslederen krevde, med atferdsbevarende kontroll. Svarer på om kandidaten kan få en løsning over fra levert til brukt og respektere rammer andre eier.",
+      "claim_ceiling": "Ikke opphavsperson til verktøyet, ikke budsjetteier og ikke gjennomføringsleder eller prosjektleder for moderniseringen. Om lag 50 er deltaker- og interessentskala, ikke personlig ledelse av 50 personer. Ingen kvantifisert tids-, feil- eller kostnadsgevinst og ingen nulldefekt. Bruken i 2026 og 2027 er dokumentert bruk, ikke målt effekt. Ikke kall arbeidet en systeminnføring eller et endringsprogram kandidaten ledet.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Andre bærende bevisenhet for gevinstrealisering, styring og varig forankring av felles metode: ledelsen ba om forbedring av en eksisterende metodikk for gevinstrealisering og estimering; som én av fire i Analyseavdelingen bidro kandidaten med forskningssyntese og metodisk, økonomisk/strategisk og styringsmessig arbeid; rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere. Svarer direkte på arbeidsgiverens premiss om at investeringer skal gi faktisk verdi.",
+      "claim_ceiling": "Medutvikler i firepersonersteam: ikke eier, eneforfatter eller metodeleder. Individuell andel, navn, godkjenningsvei, antall prosjekter og brukere samt målt effekt er uavklart. Skriv «fortsatt i bruk om lag 2,5 år senere», ikke «i bruk i dag». Metoden beviser ikke realiserte gevinster i et prosjekt kandidaten ledet, og innføringen av metoden beviser ikke at kandidaten holdt opplæring eller workshops om den.",
+      "lifecycle": "IMPLEMENTED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#028-4-4-trygge-ki-pastander",
+        "EV:OTHER#029-4-5-ki-grenser",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "role": "Separat, kort bevis for KI-kravet, som de to bærende enhetene ikke besvarer: registrert KI-superbruker ved OUS i om lag tre år med tekniske svar i en Teams-kanal, og en etablert menneskestyrt arbeidsflyt for kodeagenter i det aktive prognoseprosjektet med prosjektinstruksjoner, sannhetspresedens, avgrenset delegering, tester, overleveringslogger og menneskelig beslutningsansvar. Viser praktisk forståelse for både hva KI kan gjøre i en arbeidsprosess og hvor mennesket må kontrollere. Pågående masterprogram i KI ved UiA er et underordnet CV-supplement.",
+      "claim_ceiling": "Ingen organisasjonsomfattende KI-innføring, KI-styringsmandat, formelt støtteansvar eller brukertall for superbrukerrollen. Ingen produksjons-LLM, RAG, finjustering, kvantifisert produktivitetsgevinst eller enterprise-KI. Prognoseprosjektet er i aktiv utvikling, ikke produksjonssatt, og implementeringen er fordelt mellom kandidaten, en kollega og kodeagenter. UiA-programmet omtales som pågående, uten studietakt, progresjon eller forventet fullføring. Superbrukerbetegnelsen beviser ikke leveranse av et KI-system."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser"
+      ],
+      "role": "CV-bevis for systemendring i brukernes daglige arbeid og rask overtakelse av en kontrollkritisk prosess: ved overgangen til REGERP utviklet kandidaten på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer, som ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen; han overtok hele den tildelte månedsoppgjørsflyten innen om lag tre måneder og rapporterte til ledere i klinikken. Kan gi én konkret setning i brevet hvis skribenten trenger et eksempel på systeminnføring sett fra brukersiden.",
+      "claim_ceiling": "Ikke den sentrale REGERP-/Oracle-løsningen, ikke ERP-programmet eller innføringsprosjektet. Ingen eksakt antall klinikker, brukere eller kjøringer og ingen tids- eller feilreduksjon. Månedsoppgjøret gjelder egen tildelt klinikkflyt, ikke hele OUS eller formelt regnskapsansvar.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "role": "CV-bevis for samhandling, fasilitering og kompetansebygging uten formell ledertittel: deltok i firepersoners etableringsgruppe for Analyseavdelingen og utformet teamstrukturalternativer, ansvar og avhengigheter, Scrum/Kanban, oppgavehierarki, WIP og Loop-arbeidsflater; planla og fasiliterte workshops; ledet intern BI-workshop; lærte opp teknisk personell i en annen rapporteringsorganisasjon. Svarer på kravene om å samle mennesker med ulik kompetanse og bygge kompetanse.",
+      "claim_ceiling": "Skill innførte praksiser fra forslag i PRJ-08. Ingen eneetablering, formelt organisasjonsdesignmandat, personalansvar eller linjeledelse. PRJ-02: ingen formelt opplæringsprogram, rapporteierskap, deltakertall eller nåværende støtte. Ingen sertifisering. Ingen dokumentert effekt av opplæring eller workshops.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "role": "Faglig skjønn for «skaper struktur når veien frem er uklar» og for brukerperspektiv, med to atskilte poster: da direkte bruksdata ikke bar en forsvarlig fordeling av gevinster fra steril logistikk per klinikk, avviste kandidaten falsk presisjon og utformet en transparent, vektet proxy-modell med synlige og justerbare forutsetninger, bevisst uten kjerne-VBA slik at controllere kunne inspisere den; modellen ble ferdigstilt og overlevert til controllere tidlig i 2026 (PRJ-06). I PRJ-01 gjennomførte han observerte tester med faktiske brukere og fokuserte forbedringssprinter. Brukes i brevet bare når det gir mer beslutningsverdi enn innholdet det fortrenger; ellers CV og intervju.",
+      "claim_ceiling": "PRJ-06: ingen organisatorisk bruk, realisert gevinst, ROI eller business case-beløp; ikke eierskap til klinikkestimater eller endelige vekter. PRJ-01: dashbordet ble avviklet rundt februar 2026, kandidaten var eier om lag august 2025–februar 2026 og har ikke nåværende eierskap; brukertestene dokumenterer ikke hvilken endring som betydde mest. Ikke overfør PRJ-04s innføring eller varighet til PRJ-06."
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach"
+      ],
+      "role": "Formelt grunnlag i CV: fullført master i samfunnsøkonomi (NTNU) og bachelor (UiB) forklarer hvorfor gevinst-, investerings- og styringslogikk er faglig forankret. Ikke et argument i brevet utover eventuelt yrkesankeret.",
+      "claim_ceiling": "Ingen formell ledelses- eller endringsledelseskvalifikasjon, ingen oppgavetema eller karakter. Emner beviser ikke praktisk mestring.",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIB_ECON",
+        "BL:EDU_UIA_AI"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Under fem års erfaring og ingen formell rolle som endringsleder, prosessleder eller prosjektleder; minstekravet er ikke oppfylt.",
+      "reframe": "Kandidaten har siden 2023 gjentatte ganger båret gjennomføringssiden av endringer i forretningskritiske prosesser i en stor, regulert virksomhet: modernisert budsjetteringsverktøy i sykehusdekkende bruk i to budsjettprosesser, medutviklet gevinstrealiseringsstandard som fortsatt var i bruk om lag 2,5 år senere, og egeninitierte verktøy tatt i bruk på tvers av klinikker ved en ERP-overgang. Den funksjonelle rollen beskrives gjennom struktur, kontroll, onboarding og overlevering.",
+      "honesty_note": "Ikke antyd fem år eller formell tittel, og ikke tell med tidligere roller eller studietid. CV-kronologien viser varigheten. Brevet trenger ikke en eksplisitt mangelsetning, men skal ikke skrive rundt kravet med formuleringer som låter som mangeårig endringsledelse."
+    },
+    {
+      "objection": "Ingen erfaring fra konsulentvirksomhet, eksterne kunder eller utvikling av nye oppdrag.",
+      "reframe": "Arbeidet har vært rådgivning og leveranse til mange interne mottakere med ulike behov: klinikkledere, controllere, økonomirådgivere i flere klinikker og en annen rapporteringsorganisasjon. Kandidaten tilpasser dybde og kommunikasjon til mottakeren. Overgangen til kundeoppdrag kan begrunnes i motivasjonen som et ønske om å bruke dette mønsteret hos flere virksomheter.",
+      "honesty_note": "Ikke kall interne mottakere kunder i CV-faktalinjer, og ikke gjør Sector Alarm-salg fra 2013–2014 til forretningsutvikling."
+    },
+    {
+      "objection": "Profilen kan leses som teknisk analytiker eller utvikler snarere enn som endrings- og innføringsrådgiver.",
+      "reframe": "Led med hva som ble tatt i bruk, av hvem og under hvilke rammer, og la verktøy fremstå som middel. Kodearbeidet i PRJ-03 er relevant fordi det gjorde en endring i en forretningskritisk prosess mulig uten å bryte driften.",
+      "honesty_note": "Ikke skjul det tekniske hovedbidraget; plasser det etter arbeidsgiververdien."
+    },
+    {
+      "objection": "Direkte dialog med toppledelse og fasilitering av viktige beslutningsprosesser er ikke dokumentert.",
+      "reframe": "Plassering i Direktørens stab, beslutningsstøtte for ledere og controllere, en transparent beslutningsmodell overlevert til controllere og selvstendig lederrapportering i klinikken viser erfaring med å gjøre komplekse spørsmål beslutningsklare for ledere.",
+      "honesty_note": "Ikke påstå møter med, presentasjoner for eller fasilitering av toppledergrupper."
+    },
+    {
+      "objection": "Ingen sertifiseringer innen endrings- eller prosjektledelse.",
+      "reframe": "Praktisk utforming av smidige arbeidsstrukturer (Scrum/Kanban, oppgavehierarki, WIP) i en ny analyseavdeling, med skille mellom innført og foreslått.",
+      "honesty_note": "Ønsket krav; ikke skriv mangelprosa og ikke lov sertifisering på kandidatens vegne."
+    }
+  ],
+  "motivation_bridge": "Tieto skriver at teknologi sjelden er hovedutfordringen, og at verdien avhenger av at nye arbeidsmåter faktisk tas i bruk. Det samsvarer med kandidatens dokumenterte arbeid fra innsiden av en stor virksomhet: moderniseringen av budsjetteringsverktøyet hadde verdi fordi controllere fikk onboarding og verktøyet ble brukt i sykehusets budsjettprosesser, og gevinstrammeverket hadde verdi fordi det ble felles standard og holdt seg i bruk. Motivasjonen kan forankres i å bruke dette mønsteret, sammen med praktisk erfaring med menneskestyrt KI-støttet arbeid, i digitaliserings- og KI-innføringer hos flere virksomheter og i et fagmiljø der endringsarbeid er hovedfaget. Formuler det som en begrunnet neste bruk av erfaringen, ikke som ros av Tieto eller gjengivelse av annonsens verdier.",
+  "cv_direction": {
+    "headline_direction": "Funksjonell yrkesoverskrift som plasserer kandidaten i innførings- og endringsarbeid der økonomi, prosess og teknologi møtes, for eksempel rådgiver i økonomi og IKT med innføring av nye løsninger og gevinstarbeid. Ikke «Endringsleder» eller «Prosjektleder» som tittel; formell tittel Rådgiver Økonomi og IKT står uendret i kronologien.",
+    "emphasis": [
+      "Profil som etablerer samfunnsøkonom og rådgiver ved OUS, deretter de to sterkeste signalene: modernisert forretningskritisk verktøy i sykehusdekkende bruk (2026 og 2027) og medutviklet gevinstrealiseringsstandard fortsatt i bruk om lag 2,5 år senere.",
+      "KI-støttet arbeidsmåte og registrert KI-superbrukerrolle synlig i toppsonen eller nøkkelkompetanser, fordi KI-innføring er et uttalt krav.",
+      "Nøkkelkompetanser ledet av innføring og forankring (onboarding, workshops, kompetanseoverføring), prosessforbedring, gevinstrealisering og styring, og tverrfaglig bro mellom virksomhet og teknologi; verktøy etter.",
+      "OUS-analysebullets omskrevet mot endringsgjennomføring: PRJ-03 med kontroll og onboarding, PRJ-04, PRJ-08 arbeidsmodell og workshops, PRJ-02 kompetanseoverføring på tvers av organisasjoner.",
+      "BAR-bullets som viser systemendring i praksis: egeninitierte konverteringsverktøy brukt av økonomirådgivere i flere klinikker ved REGERP-overgangen, og rask overtakelse av månedsoppgjør med lederrapportering.",
+      "Språk: norsk morsmål, engelsk flytende."
+    ],
+    "deprioritize": [
+      "DAX-, semantisk modell- og Power Query-detaljer ut over én linje som dokumenterer gjennomføringsevne.",
+      "Prognosemodellfamilier (XGBoost, GAM, SARIMAX) og repositoriestørrelse.",
+      "Plattformpiloter og lange verktøylister.",
+      "Detaljert regnskapsprosessordforråd (periodisering, reversering) ut over det som viser kontrollkritisk prosess.",
+      "Eldre roller 2013–2021 kompakt; tillitsverv kan stå kort."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Funksjonell innføring og forankring fra innsiden av en stor, kompleks virksomhet: kandidaten har fått nye løsninger og felles metode inn i faktisk bruk der forretningskritiske prosesser, teknologi og mange brukere møtes, og har i tillegg praktisk erfaring med menneskestyrt KI-støttet arbeid. Bæres av PRJ-03 (modernisering med kontroll, onboarding og sykehusdekkende bruk) og PRJ-04 (medutviklet gevinstrealiseringsstandard med varighet), med KI som separat kort bevis.",
+    "top_employer_problems": [
+      "Sikre at nye løsninger faktisk tas i bruk og forankres, ikke bare leveres.",
+      "Få investeringer i digitalisering til å gi dokumenterbar verdi gjennom gevinstrealisering og styring.",
+      "Støtte innføring av KI-støttede arbeidsprosesser med realistisk forståelse for muligheter og begrensninger.",
+      "Skape struktur og fremdrift i uklare oppdrag med mange interessenter."
+    ],
+    "structure_guidance": "Åpne med yrkesanker og hvorfor kandidaten søker seg til innførings- og endringsarbeid, koblet til annonsens konkrete premiss om at teknologi sjelden er hovedproblemet. Første hovedavsnitt: PRJ-03 som innføring under driftskrav, med personlig bidrag og teamramme nær påstanden, og gjerne det dokumenterte skjønnet om å gjennomføre den smale refaktoreringen gjennomføringslederen krevde. Andre hovedavsnitt: PRJ-04 som gevinstrealisering og varig felles standard, med firepersonersrammen i samme setning. Et kort avsnitt om KI: superbrukerrollen og den menneskestyrte arbeidsflyten, med vekt på kontroll og begrensninger. Avslutt med konkret bidrag i Tietos kundeoppdrag og invitasjon til samtale. BAR-verktøyene og PRJ-06 er tilgjengelige enkeltsetninger, ikke egne minicase."
+  },
+  "avoid_guidance": [
+    "Ikke skriv at kandidaten har ledet endringsprosjekter, vært prosjektleder eller endringsleder; i PRJ-03 hadde en annen gjennomføringsledelsen.",
+    "Ikke gjør om lag 50 personer i PRJ-03 til 50 personer kandidaten ledet eller forankret endringen hos.",
+    "Ikke overfør PRJ-04s sykehusdekkende innføring og varighet til PRJ-03 eller PRJ-06, og ikke overfør PRJ-03s bruk til PRJ-04.",
+    "Ikke skriv at kandidaten har ledet eller støttet KI-innføring i organisasjonen; superbrukerrollen er teknisk bistand i en Teams-kanal uten oppgitt omfang.",
+    "Ikke la KI eller prognosearbeid bli kandidatidentitet; KI svarer på ett uttalt krav og skal ikke fortrenge innføringsbevisene.",
+    "Ikke kall interne mottakere «kunder» som faktum, og ikke konstruer konsulent- eller salgserfaring.",
+    "Ikke skriv tilstedeværelse i møter med toppledelse eller fasilitering av ledergruppers beslutninger.",
+    "Ikke skriv at gevinstrammeverket har gitt realiserte gevinster, eller at PRJ-06-modellen er tatt i organisatorisk bruk.",
+    "Ikke skriv «brenner for endring» eller gjengi annonsens verdiliste som motivasjon."
+  ],
+  "counterfactual_route": {
+    "identity": "Samfunnsøkonom og rådgiver i gevinstrealisering, styring og transparente beslutningsmodeller for digitaliseringsinvesteringer.",
+    "rationale": "Annonsen løfter at investeringer skal gi faktisk verdi og nevner gevinstrealisering to ganger. En skribent som vil treffe dette premisset hardere, kan la PRJ-04 (sykehusdekkende gevinststandard, fortsatt i bruk om lag 2,5 år senere) og PRJ-06 (transparent proxy-modell for gevinstfordeling, ferdigstilt og overlevert til controllere) bære brevet, med samfunnsøkonomisk master som faglig anker. Ruten er sterkere på gevinst og styring, men svakere på brukeradopsjon og innføring i daglig arbeid, som er annonsens hovedfokus; PRJ-03 må da inn som CV-bevis.",
+    "evidence_refs": [
+      "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+      "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+      "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+    ]
+  },
+  "risk_notes": [
+    "Minstekravet på fem år er et reelt gap; shortlist avhenger av at arbeidsgiveren vekter dokumentert innføringsarbeid og KI-erfaring over tittel og år.",
+    "Konsulentrammen (kundeoppdrag, kunderelasjoner, nye oppdrag) står ubesvart av evidensen; motivasjonen må håndtere skiftet uten å oppfinne erfaring.",
+    "BI_DEFAULTING og AI_NOVELTY_BIAS: annonsen er endrings- og innføringsorientert, og teknisk dybde kan trekke identiteten feil vei.",
+    "LEADERSHIP_INFLATION: rollebetegnelsen i annonsen gjør det lett å skrive «ledet» der kilden sier gjennomførte, medutviklet eller utformet."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-01",
+      "plain_language_label": "Kartlegger systemet før han strukturerer løsningen",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "expression_ceiling": "Kan uttrykkes gjennom dokumenterte handlinger: rekonstruerte arkitekturen i et arvet verktøy før endring, og omformet en fordelingsforespørsel da datagrunnlaget ikke bar den. Ikke som egenskapsord om analytisk evne.",
+      "vacancy_relevance": "Annonsen ber om en som skaper struktur når veien frem er uklar og navigerer komplekse omgivelser.",
+      "intended_employer_interpretation": "Kan gå inn i et uklart kundeoppdrag og raskt gjøre det til en gjennomførbar plan med tydelige avhengigheter og kontroller.",
+      "misread_risk": "Analyse uten leveranse, eller en teoretisk rådgiver som ikke får ting gjennomført.",
+      "expression_guardrail": "Par alltid kartleggingen med det som ble levert og tatt i bruk (PRJ-03 i sykehusdekkende bruk; PRJ-06 ferdigstilt og overlevert)."
+    },
+    {
+      "facet_id": "PF-11",
+      "plain_language_label": "Bygger løsninger som andre kan bruke og vedlikeholde over tid",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "expression_ceiling": "Kan vises gjennom verktøy tatt i bruk av økonomirådgivere i flere klinikker, controller-onboarding og en standard som fortsatt var i bruk om lag 2,5 år senere. Ingen påstand om målt effekt eller varig verdi ut over dokumentert bruk.",
+      "vacancy_relevance": "Tieto vil skape varig verdi og sikre at endringer blir gjennomført og forankret.",
+      "intended_employer_interpretation": "Tenker på overlevering og bruk fra starten, ikke bare på levering.",
+      "misread_risk": "Overingeniørering eller verktøybygging for egen del.",
+      "expression_guardrail": "Knytt hvert eksempel til en konkret bruker og et konkret problem (manuell kopiering, ERP-overgang, felles metode)."
+    },
+    {
+      "facet_id": "PF-08",
+      "plain_language_label": "Tar utgangspunkt i hvordan brukerne faktisk arbeider",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "expression_ceiling": "Kan uttrykkes gjennom observerte brukertester med forbedringssprinter, en modell bevisst utformet slik at controllere kunne inspisere og justere den, og kommunikasjon tilpasset ulike mottakere. Ikke påstå generell empati, tillitsbygging eller at brukertestene endret løsningen mest.",
+      "vacancy_relevance": "Brukeradopsjon, forankring og tillit er kjernen i rollen; annonsen sier at utfordringen er forståelse og eierskap, ikke teknologi.",
+      "intended_employer_interpretation": "Forstår brukernes og mottakernes perspektiv godt nok til å designe for faktisk bruk.",
+      "misread_risk": "Kald eller rent teknisk orientering, gitt profilens tekniske tyngde.",
+      "expression_guardrail": "Vis perspektivet gjennom konkrete brukerhandlinger og designvalg, ikke gjennom følelsesord eller selvbeskrivelse."
+    }
+  ],
+  "writer_guidance": "Skriv for en leder i et endringsfagmiljø som leser etter bevis for at løsninger faktisk tas i bruk. Yrkesankeret er samfunnsøkonom og rådgiver i økonomi og IKT ved OUS, og det må stå før bredden. PRJ-03 er det sterkeste enkeltbeviset for innføring: skriv personlig bidrag (i praksis eneste kodende utvikler, kontroller, onboarding) og teamrammen (bred interessentprosess, en annen hadde gjennomføringsledelsen) i samme argument, og la sykehusdekkende bruk i 2026 og 2027 bære resultatet. Skjønnet om å gjennomføre den smale refaktoreringen etter å ha anbefalt bredere restrukturering er et nyttig signal for konsulentarbeid der kunden eier rammene; formuler det som en dokumentert avveining, ikke som motstand. PRJ-04 bærer gevinstrealisering og varighet; bruk firepersonersrammen og «fortsatt i bruk om lag 2,5 år senere». KI-avsnittet skal være kort og konkret og vise kontroll og begrensninger, fordi det er det mest særegne svaret på et uttalt krav. Konsulentskiftet bør begrunnes positivt i motivasjonen. Minstekravet håndteres gjennom presise påstander og korrekt kronologi, ikke gjennom unnskyldning eller omskriving av rollen.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260914-211650-5d3516",
+    "job_id": "tietotech_prosjektleder_endringsleder",
+    "employer": "Tieto Tech Consulting",
+    "title": "Prosjektleder & Endringsleder",
+    "manifest_sha256": "ee29c2c8f729ec0cd72833a8024fa6300299d4e07792a5f5783e47e77dcd1616",
+    "vacancy_sha256": "d91b8321a2ba2069f8006f8f9e65dea9cb0622e4a3c022f8b53fd112181ea6a5",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

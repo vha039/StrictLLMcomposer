@@ -1,0 +1,70 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver | gevinstrealisering, styringsmodeller og kontrollert digital endring",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver i Analyseavdelingen ved Oslo universitetssykehus, der jeg arbeider mellom økonomi, drift og teknologi i en kompleks og regulert virksomhet. En av fire som utviklet sykehusets reviderte metodikk for gevinstrealisering og estimering, innført som sykehusdekkende standard og i bruk om lag 2,5 år senere. Utformet en transparent fordelingsmodell for gevinster der direkte måling ikke var forsvarlig, ferdigstilt og overlevert til controllere. Hovedansvar for kodeendringene i moderniseringen av et forretningskritisk budsjetteringsverktøy, i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027. Tar i tillegg en master i kunstig intelligens ved Universitetet i Agder.",
+    "competencies": [
+      "Gevinstrealisering og verdivurdering av investeringer",
+      "Styringsmodeller og beslutningsgrunnlag for ledelsen",
+      "Kontrollert modernisering av forretningskritiske systemer",
+      "Prioritering, arbeidsinntak og avhengigheter på tvers",
+      "Fasilitering, workshops og kompetanseoverføring",
+      "Analyse, økonometri og prognoser",
+      "Power BI, semantisk modellering, SQL og Excel/VBA",
+      "Plattformutforsking: Microsoft Fabric, Power Platform, dbt og Pega"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Medutvikler, som en av fire, av sykehusets reviderte metodikk for gevinstrealisering og estimering: forskningssyntese, metodisk forbedring, økonomiske og strategiske vurderinger og standardisering. Innført som sykehusdekkende standard og i bruk om lag 2,5 år senere.",
+          "Utformet en vektet proxymodell for fordeling av gevinster i steril logistikk der direkte bruksregistrering ikke var tilstrekkelig: fire grenmodeller og en konsolideringsmodell, synlige og justerbare forutsetninger og vekter, skjemakontrollert overføring i Power Query og revisjoner for umappede rader og kontrollavvik. Ferdigstilt tidlig i 2026 og overlevert til controllere.",
+          "Hovedansvar for kodeendringene i moderniseringen av sykehusets forretningskritiske budsjetteringsverktøy (Excel/VBA, om lag 15 ark og 78 globale navn), innenfor en interessentprosess med rundt 50 deltakere. Vurderte VBA, Office Scripts, Python og KI-støttede alternativer mot kompatibilitet, driftsrisiko og vedlikeholdbarhet, og gjennomførte endringene med differansekontroll mot originalfunksjonene, akseptansekriterier og risikoregister. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Bidro til arbeidsmodellen i avdelingen: teamstrukturalternativer, ansvar og avhengigheter, Scrum/Kanban og oppgavehierarki, WIP-design og samhandlingsflater i Loop, dels innført og dels foreslått. Designet og evaluerte i tillegg arbeidsinntak, spørreskjemaer og kravstruktur med vurdering av Forms-, Loop-, Power BI-, Pega- og lavkodealternativer, brukt på prosjektnivå.",
+          "Hovedutvikler på backend i en styringsløsning for økonomi, bemanning, sykefravær og aktivitet/DRG: nesten hele den semantiske modellen, mesteparten av ETL i Power Query M og om lag 80-90 % av DAX. Kolleger ledet innhold og visuell utforming. Eide løsningen fra ca. august 2025 til februar 2026, da den ble avviklet. Ledet i tillegg en intern workshop om semantisk modellering, ETL, datakvalitet og ytelse.",
+          "Deltok i tidlig tilgang og piloter rundt Microsoft Fabric, Power Platform, dbt, Pega og Python, og vurderte mulighetene mot konkrete driftsbegrensninger i sykehuset."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, og gjennomførte mot slutten månedsoppgjøret selvstendig med kvalitetssikring, rapportering og distribusjon av månedsrapporten til klinikkledelsen.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP, brukt av økonomirådgivere i flere klinikker.",
+          "Koblet data fra blant annet JIT, ADI, REGERP, GAT og DRG-/aktivitetsrapporter, og utviklet kontroll- og valideringslogikk i arvede regnskaps- og rapporteringsarbeidsbøker.",
+          "Bidro i budsjettprosessen for 2024 og leverte seksjonsvise DRG-prognoser brukt i budsjett og planlegging, med aktivitetsdatapreparering og tidsseriemodellering i Stata, R og Power Query."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg er samfunnsøkonom og rådgiver i Analyseavdelingen ved Oslo universitetssykehus, der jeg arbeider i skjæringspunktet mellom økonomi, drift og teknologi. Et gjennomgående tema i arbeidet er avstanden mellom hva en investering ble begrunnet med og hva som senere lar seg vise. Den avstanden lukkes av at gevinstlogikken er avklart før pengene brukes, ikke av flere rapporter etterpå.",
+    "body_paragraphs": [
+      "Det første store oppdraget i Analyseavdelingen var å forbedre sykehusets metodikk for gevinstrealisering og estimering. Vi var fire som utviklet den reviderte metodikken sammen; jeg bidro med forskningssyntese, metodisk forbedring, økonomiske og strategiske vurderinger og standardisering. Den ble innført som sykehusdekkende standard og var i bruk om lag to og et halvt år etter innføringen.",
+      "Et senere oppdrag satte den logikken på prøve. Gevinstene fra en investering i steril logistikk skulle fordeles mellom klinikkene, men en direkte fordeling ville krevd en registrering av faktisk bruk som ikke fantes. Jeg avviste den og utformet i stedet en modell på vektede indirekte indikatorer, med forutsetninger og vekter synlige i selve modellen. VBA holdt jeg bevisst ute av kjernen, slik at controllere og fagansvarlige kunne justere forutsetningene uten å gå veien om en utvikler. Modellen ble ferdigstilt tidlig i 2026 og overlevert til controllerne.",
+      "Den andre halvdelen er å få endringen gjennomført i systemer virksomheten ikke kan miste. Sykehusets budsjetteringsverktøy er arvet, bygget i Excel og VBA, og over tjue år blitt forretningskritisk. I moderniseringen for 2025 var jeg i praksis eneste kodende utvikler, i en prosess der rundt femti personer deltok i arbeidsgrupper og kravdiskusjoner. Jeg vurderte VBA, Office Scripts, Python og KI-støttede alternativer mot kompatibilitet, driftsrisiko og vedlikeholdbarhet. Implementeringsleder ville ha en smal funksjon-for-funksjon-tilnærming der jeg hadde anbefalt en bredere omstrukturering; jeg gjennomførte den smale, med differansekontroll mot originalfunksjonene, akseptansekriterier og risikoregister. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+      "Avinor driver 43 lufthavner og flysikringstjenesten, og den nye enheten skal øke gjennomføringskraften i noe som allerede må virke hver dag. Den rammen kjenner jeg igjen. Et sykehus tåler heller ikke at systemene for økonomi, bemanning og aktivitet stopper mens de forbedres, og det har formet hvordan jeg arbeider: kontroller er det som gjør endring mulig, ikke det som utsetter den. Det jeg vil bidra med, er å gjøre verdiantakelsene bak et initiativ etterprøvbare før det prioriteres, og å holde beslutningsgrunnlaget konkret nok til at ledergruppen kan velge bort noe."
+    ],
+    "closing": "Jeg tar gjerne en samtale om hvordan enheten tenker å måle verdien av initiativene den skal prioritere mellom."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#041-6-6-digitalisering-og-prosessforbedring",
+    "EV:WORK#044-6-9-kommunikasjon-og-interessentarbeid",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach"
+  ],
+  "writer_note": "Rute: verdidisiplin og kontrollert endring, i tråd med strategien, men med annen intern arkitektur enn Huseierne-pakken i samme klynge. PRJ-04 og PRJ-06 er skrevet som ett argument over to avsnitt med hvert sitt lifecycle intakt: sykehusdekkende innføring og varighet gjelder bare rammeverket, ferdigstillelse og overlevering bare STE-modellen. PRJ-03 bærer gjennomføringsargumentet, og teknologivurderingen (VBA, Office Scripts, Python, KI-støttede alternativer mot kompatibilitet, driftsrisiko og vedlikeholdbarhet) er tatt inn i brevet fordi den er den mest direkte evidensen for annonsens punkt om hvordan teknologi kan skape forretningsverdi; strategiens rollebeskrivelse for PRJ-03 nevnte den ikke. PRJ-07 og PRJ-09 er lagt i CV-en utenfor strategiens evidensplan for å dekke plattformforståelse og arbeidsformer. Luftforsvaret er bevisst ikke overstyrt: baseline-punktet står nøytralt, og tjenesten brukes ikke som luftfartsnærhet. Ingen tittel- eller mandatoppgradering; senioritet vises gjennom omfang og skjønn."
+}

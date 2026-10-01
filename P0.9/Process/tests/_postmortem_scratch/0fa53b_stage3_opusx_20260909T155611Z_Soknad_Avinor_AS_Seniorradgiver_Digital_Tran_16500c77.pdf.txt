@@ -1,0 +1,57 @@
+ 
+VEGARD HÅLAND +47 905 26 886  ·  vegard-haaland@outlook.com 
+Oslo 
+ 
+ 
+Avinor AS 
+Digital Transformasjon 
+Oslo, 9. september 2026 
+Stilling: Seniorrådgiver Digital Transformasjon  
+Søknad: Seniorrådgiver Digital Transformasjon  
+Jeg søker stillingen som seniorrådgiver i Digital Transformasjon. Jeg er samfunnsøkonom og 
+rådgiver økonomi og IKT i Analyseavdelingen i direktørens stab ved Oslo universitetssykehus, og 
+arbeidet mitt har i hovedsak dreid seg om to spørsmål: hva et gevinstanslag kan bygge på når 
+datagrunnlaget er svakt, og hva som skal til for at en digital endring faktisk blir tatt i bruk. 
+Det første spørsmålet møtte jeg konkret i investerings- og gevinstgrunnlaget for steril logistikk. 
+Oppdraget var å fordele gevinstene direkte på klinikk, men bruksdataene var ikke gode nok til å 
+bære en slik fordeling. I stedet for å presentere indirekte tall som observert bruk, utformet jeg en 
+vektet proxymodell: fire grenmodeller og en konsolideringsmodell, med operative, økonomiske og 
+kvalitetsmessige mekanismer holdt fra hverandre, og med formler og vekter synlige og justerbare. 
+Kjerne-VBA holdt jeg bevisst utenfor, slik at controllere og fagansvarlige kunne inspisere og endre 
+forutsetningene uten å være avhengige av en utvikler. Modellen ble ferdigstilt tidlig i 2026 og 
+overlevert til controllerne. Hvilke gevinster som siden er realisert, kan jeg ikke svare for. Det 
+modellen gjør, er å vise hva anslagene hviler på. 
+Den samme vurderingen ligger under metodearbeidet avdelingen gjorde tidligere. 
+Analyseavdelingens første større oppdrag var å videreutvikle sykehusets metodikk for 
+gevinstrealisering og estimering, bestilt av ledelsen. Vi var fire som gjorde det arbeidet sammen, 
+og jeg bidro med forskningssyntese, metodisk forbedring, økonomisk og strategisk analyse og 
+standardisering. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk 
+om lag 2,5 år senere. Det er den formen for gevinstarbeid jeg kjenner best: metodikk som skal 
+holde når andre enn de som laget den, tar den i bruk. 
+Det andre spørsmålet har jeg arbeidet med i moderniseringen av sykehusets 
+budsjetteringsverktøy, et arvet Excel- og VBA-system på om lag 20 år som over tid var blitt 
+virksomhetskritisk. I 2025-runden var jeg i praksis eneste kodende utvikler, innenfor en prosess 
+med om lag 50 deltakere fra arbeidsgrupper og kravdiskusjoner. Hovedendringen var å hente 
+ansatt-, arbeidsforhold- og bemanningsdata inn i verktøyet i stedet for å kopiere dem fra en annen 
+arbeidsbok. Jeg anbefalte en bredere omstrukturering, men innføringsansvarlig krevde en smal, 
+funksjonsvis refaktorering, og om lag 80 prosent av endringene ble dermed atferdsbevarende én-
+til-én-endringer. Innenfor den rammen arbeidet jeg med paritetskontroll mot de opprinnelige 
+funksjonene, akseptansekriterier og risikoregister, og laget opplæringsmateriell for controllerne 
+som skulle bruke verktøyet. Den avsluttende moderniseringen for 2027 er ferdigstilt, og der hadde 
+jeg vesentlig større frihet. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 
+2027. 
+Det som gjør stillingen aktuell for meg, er at den samler de to sidene jeg til nå har arbeidet med 
+hver for seg: å begrunne hva en investering er verdt, og å få endringen gjennomført sammen med 
+dem som skal bruke den. Avinor driver infrastruktur der drift, sikkerhet og økonomi henger tett 
+sammen, og der en prioritering mellom initiativer får konsekvenser som merkes. Det jeg kan gå 
+ 
+VEGARD HÅLAND +47 905 26 886  ·  vegard-haaland@outlook.com 
+Oslo 
+ 
+ 
+rett inn i, er arbeidet med å gjøre beslutningsgrunnlag etterprøvbare: hva et anslag hviler på, 
+hvilke forutsetninger som er valgt, og hva som gjenstår før verdien kan kalles realisert. 
+Jeg stiller gjerne til samtale, og går da gjerne nærmere inn på hvordan en fordelingsmodell kan 
+settes opp når datagrunnlaget ikke bærer direkte måling. 
+Med vennlig hilsen 
+Vegard Håland 

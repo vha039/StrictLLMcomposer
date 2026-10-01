@@ -1,0 +1,126 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260828-213932-7f13b4",
+    "job_id": "huseierne_strategi_maalstyring",
+    "final_package_sha256": "475f3cec07301c426598e79f7f6fcb954245cd3c176ef95feb729314993f7c39",
+    "document_date": "2026-08-29",
+    "baseline_map_sha256": "3e5e8bdfe53f2e01b5399afe22930ab37d57eab8e6840b0958a40a6b0e1e04bf",
+    "cv_master_sha256": "80a41a751eb5bc11379a1bcd93b5e2f21f95ec84ad668a6f003cad81d1d7096a",
+    "letter_master_sha256": "aff96d15b7e11930d9ac790a983c79158a2573d6a023a2211b288ff4510c7c26",
+    "template_map_sha256": "a6d6297eb2cd49e924e8edeeccb33259e1ce434775c1bec0cbf27a84ecbbb7eb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": null
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "DEGRADED",
+    "letter_docx": "OK",
+    "letter_pdf": "DEGRADED",
+    "overall": "DEGRADED"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260828-213932-7f13b4\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+      "output_sha256": "dc7dd86beae4068af969ea29a13ebb598f7b1bc11524e133e68923711acf4e2a",
+      "bytes": 39998,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "DEGRADED",
+      "output_path": null,
+      "output_sha256": null,
+      "bytes": null,
+      "promotion": null,
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_goyhsbad\\export.ps1 C:\\Users\\veggi\\AppData\\Local\\Temp\\.jb-huseierne_strate.fe3fo38l\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx C:\\Users\\veggi\\AppData\\Local\\Temp\\.jb-huseierne_strate.fe3fo38l\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.pdf",
+      "tool_version": null,
+      "exit_code": 1,
+      "diagnostics": [
+        "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_goyhsbad\\export.ps1 : Retrieving the COM class factory for component with ",
+        "Word COM export returned exit code 1."
+      ],
+      "page_count": null,
+      "checks": {},
+      "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+      "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF.",
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260828-213932-7f13b4\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+      "output_sha256": "40c8a05a0d10532d490703a01c6a3f091b9b871e41f58d734e31d888f12dd0b8",
+      "bytes": 38417,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "DEGRADED",
+      "output_path": null,
+      "output_sha256": null,
+      "bytes": null,
+      "promotion": null,
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_5r70ycbb\\export.ps1 C:\\Users\\veggi\\AppData\\Local\\Temp\\.jb-huseierne_strate.fe3fo38l\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx C:\\Users\\veggi\\AppData\\Local\\Temp\\.jb-huseierne_strate.fe3fo38l\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.pdf",
+      "tool_version": null,
+      "exit_code": 1,
+      "diagnostics": [
+        "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_5r70ycbb\\export.ps1 : Retrieving the COM class factory for component with ",
+        "Word COM export returned exit code 1."
+      ],
+      "page_count": null,
+      "checks": {},
+      "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+      "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF.",
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-08-29T08:42:47Z"
+}

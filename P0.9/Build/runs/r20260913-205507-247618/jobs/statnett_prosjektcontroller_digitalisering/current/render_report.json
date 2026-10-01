@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "statnett_prosjektcontroller_digitalisering",
+    "final_package_sha256": "69389043e206ae068058098f2e69fb110bedbf97342102c45720bd9eb817f0bb",
+    "document_date": "2026-09-13",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "84a069c32995b61353e3edcee53d2c5fab5d289148f0358c3b461338108a2acb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\CV_Statnett_Prosjekt_controller_digitalisering.docx",
+      "output_sha256": "bf55b73265cc53eef65418fb9d8df136b3bb5c27edd5f1b448aa0d29b6375a82",
+      "bytes": 40680,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\CV_Statnett_Prosjekt_controller_digitalisering.pdf",
+      "output_sha256": "faca6f8fab24d011d3cd409c97b8af50803ccae0ffb22c6a358c2f17a49497cb",
+      "bytes": 293668,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_6bqb5xrv\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\.rnd.62e8a9d8\\CV_Statnett_Prosjekt_controller_digitalisering.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\.rnd.62e8a9d8\\CV_Statnett_Prosjekt_controller_digitalisering.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\Soknad_Statnett_Prosjekt_controller_digitalisering.docx",
+      "output_sha256": "af82c2407214968591fc5fe1378498015b6e14aebbe58f698a68f9c35c706f74",
+      "bytes": 38654,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\Soknad_Statnett_Prosjekt_controller_digitalisering.pdf",
+      "output_sha256": "6b9987f93b051578f993a87a2c8006b8c8ccba1df5628636c5e5f94aafd57911",
+      "bytes": 195950,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_ve0833fh\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\.rnd.62e8a9d8\\Soknad_Statnett_Prosjekt_controller_digitalisering.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\statnett_prosjektcontroller_digitalisering\\out\\.rnd.62e8a9d8\\Soknad_Statnett_Prosjekt_controller_digitalisering.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-13T21:29:57Z"
+}

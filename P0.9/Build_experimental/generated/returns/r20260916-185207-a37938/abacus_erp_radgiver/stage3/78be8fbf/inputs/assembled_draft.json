@@ -1,0 +1,31 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "ASSEMBLED",
+  "cv": {
+    "headline": "Rådgiver økonomi og IKT",
+    "profile": "Rådgiver i økonomi og IKT; kjenner oppgjørsflyten ERP-en skal bære.",
+    "competencies": [
+      "Månedsoppgjør",
+      "Gevinstmetode",
+      "Datamodellering"
+    ],
+    "employment_overrides": [],
+    "tools_line": "Excel"
+  },
+  "letter": {
+    "opening": "Dette er et mekanisk prøvebrev.",
+    "body_paragraphs": [
+      "Prøven bekrefter publisering og binding."
+    ],
+    "closing": "Takk for tiden."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+  ],
+  "form_answers": [
+    {
+      "question": "Hvorfor søker du?",
+      "answer": "Fordi prosess og system møtes her."
+    }
+  ]
+}

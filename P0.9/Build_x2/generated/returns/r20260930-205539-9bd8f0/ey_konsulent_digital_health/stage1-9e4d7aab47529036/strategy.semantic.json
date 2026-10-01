@@ -1,0 +1,441 @@
+{
+  "employer_decision_problem": "Utlyst: EY vil ansette konsulenter som bruker helsesektorerfaring til digital transformasjon, analyser og beslutningsgrunnlag, prosjektstøtte, gevinstarbeid og samarbeid med klinikere, ledere og teknologimiljøer. Slutning: arbeidsgiver må kunne stole på at kandidaten forstår driften bak et forbedringstiltak og kan bidra til at en løsning blir gjennomført og forstått i et tverrfaglig oppdrag. Det er ikke opplyst at EY trenger en BI-spesialist eller en ferdig prosjektleder.",
+  "selection_logic": "En sterk plausibel konkurrent har sykehuserfaring kombinert med konsulentprosjekter, EPJ-innføring og klientkommunikasjon. Vegards dokumenterte svar er faktisk sykehusarbeid siden mars 2023: teamutviklet gevinstmetodikk innført som sykehusstandard, egne kodeendringer og controller-onboarding i budsjettmodernisering som er i bruk, samt opplæring av tekniske samarbeidspartnere. Dette gjør ham troverdig for bidrag til implementering og forbedring, uten å likestille bidragene med konsulentansiennitet eller EPJ-innføring. Velg gevinstarbeid for metodeforståelsen, budsjettarbeid for gjennomføring og brukerrettet overføring for samarbeidsoppgaven. STE tilfører selvstendig økonomisk skjønn når beslutningsgrunnlaget er svakt. Prognoser og BI gir relevant analysebredde i CV-en og et reelt alternativ i den lukkede pakken, men teknisk størrelse besvarer ikke hovedspørsmålet.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver for digitalisering og forbedring i helsesektoren",
+  "headline_hypothesis": "Samfunnsøkonom | Digitalisering i helsesektoren",
+  "shortlist_thesis": "Vegard kan bidra i Digital Health-oppdrag med praktisk OUS-forståelse, økonomisk og metodisk analyse og dokumentert arbeid med gjennomførte forbedringer, der egen implementering og tverrfaglig samskaping holdes tydelig fra hverandre.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Høyere utdanning innen helse, teknologi, helseinformatikk, digitalisering, økonomi eller tilsvarende",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "note": "Alternativer. Fullført master i samfunnsøkonomi dekker økonomisporet; pågående KI-program er et supplement, ikke fullført teknologigrad."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Minimum 1-2 års relevant erfaring fra helsesektoren, helseprosjekter eller teknologi-/digitaliseringsarbeid",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Alternative erfaringsinnganger. OUS-arbeid fra mars 2023, med operative plasseringer og konkrete leveranser, vises i CV."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Interesse for teknologi som forbedrer pasientbehandling, arbeidsprosesser og helseforvaltning",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "note": "Arbeidsprosesser er direkte dokumentert; pasientbehandling er en fremtidig relevans, ikke påstått klinisk effekt. Motivasjonen kobles til implementering som fungerer i helsedriften."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Gode norsk- og engelskkunnskaper muntlig og skriftlig",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak"
+      ],
+      "note": "Norsk morsmål, engelsk flytende. Mekanisk språkseksjon i CV."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Bidra i digitale transformasjonsprosjekter for helseforetak, kommuner og nasjonale helseaktører",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "note": "Direkte sykehusdigitalisering støtter helseforetaksdelen. Kommunal/nasjonal oppdrags- eller konsulenterfaring er ikke etablert; sektorene er mulige prosjektarenaer, ikke tre kumulative erfaringsminstekrav."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Støtte prosjektledelse, gevinstrealisering, prosessforbedring og organisasjonsutvikling",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "note": "Kumulative arbeidsoppgaver. Vis metodebidrag, leveransestruktur, prosessendring og teamarbeid; formell prosjektlederrolle og organisasjonsdesignmandat er ikke etablert. Ikke overfør budsjett-onboarding til gevinstprosjektet."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Gjennomføre analyser, kartlegginger og utarbeide beslutningsgrunnlag",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:EDU#019-2-5-selvstendig-arbeid-kommunikasjon-og"
+      ],
+      "note": "CV viser økonomisk/operativ analysebredde. STE kan gi brevet et konkret skjønn om forutsetninger, mottaker og overlevering."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Samarbeide med klinikere, ledere og teknologimiljøer for implementering",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Tekniske arbeidsmøter, opplæring, controller-onboarding, faktiske brukertester og lederrapportering gir konkrete samhandlingsbevis. Klinikerrettet implementeringssamarbeid er ikke detaljert nok til en særskilt historisk påstand."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Bidra til utvikling av EYs Digital Health-satsing",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Metodeutvikling og kompetanseoverføring er en troverdig fremtidig inngang; ingen dokumentert forretningsutvikling, salg eller EY-metodeerfaring."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Erfaring fra større sykehus eller spesialisthelsetjenesten",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "OUS-kontekst med økonomi, bemanning, aktivitet og klinikkdrift, ikke bare arbeidsgivernavn."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Kommunal helse- og omsorgserfaring",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "evidence_refs": [],
+      "note": "Ønsket alternativ blant ett eller flere områder, ikke minstekrav. Ingen slik erfaring i autoritetene."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Prosjektarbeid eller prosjektledelse innen IKT/digitalisering",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Prosjektarbeid er direkte støttet alternativ; formell prosjektledelse er ikke etablert."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "EPJ/journalsystemer som DIPS, Epic eller tilsvarende",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "evidence_refs": [],
+      "note": "Ønsket område. Helseøkonomi og datamodeller etablerer ikke EPJ-bruk eller innføring."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Analyse, gevinstrealisering, prosessforbedring eller endringsledelse",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Alternativer: analyse, gevinstmetode og prosessforbedring direkte. Funksjonelt endringsarbeid gjennom onboarding og brukerforbedring, ikke formell endringsleder."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Nysgjerrig, analytisk, samarbeidsorientert og motivert av konkrete forbedringer",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Vis egne handlinger, læring, felles metode og mottakertilpasning, ikke egenskapsliste."
+    },
+    {
+      "requirement_id": "R16",
+      "text": "Oslo som arbeidssted; reisevirksomhet kan forekomme",
+      "importance": "IMPORTANT",
+      "relation": "UNKNOWN",
+      "evidence_refs": [],
+      "note": "Oslo samsvarer med mekanisk bosted. Reisevillighet er ikke bekreftet; ikke oppfinn tilgjengelighet eller samtykke."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "role": "Arbeidskontekst og aktuell rådgiverbredde gjør erfaringen lesbar som helsesektorarbeid og etablerer mottakere.",
+      "claim_ceiling": "Rådgiver økonomi og IKT med økonomi, bemanning, aktivitet og beslutningsstøtte, prosjektvise leveranser til ledere, controllere, fagmiljøer og tekniske kolleger; ingen myndighet over hele OUS. Registrert KI-superbruker og Teams-bistand er ikke et KI-styringsmandat."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Bærende metode- og gevinstbevis: kan bidra i tverrfaglig forbedring av helsevirksomheters praksis.",
+      "claim_ceiling": "Medutviklet eksisterende gevinstmetodikk i et firepersoners team gjennom forskningssyntese, metodisk, økonomisk/strategisk og styringsmessig arbeid. Teamets rammeverk ble sykehusstandard og var aktivt om lag 2,5 år senere; individuelt komponentansvar, eksakt godkjenningsvei og målt effekt er uavklart.",
+      "lifecycle": "IMPLEMENTED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Bærende implementeringsbevis: konkrete kodeendringer, forsvarlig endring og controller-onboarding i en reell driftsprosess.",
+      "claim_ceiling": "Gjennomførte i praksis kodeendringene i 2025-moderniseringen, integrerte bemanningsdata, brukte differansekontroll og akseptansekriterier og laget onboardingmateriale innenfor en bred interessentprosess. Moderniserte versjoner i sykehusdekkende budsjettbruk for 2026/2027, 2027 ferdigstilt; ikke opphavsperson, budsjetteier eller eier av hele interessentprosessen. Ingen målt tids- eller feileffekt.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "role": "Konkrete samarbeidsmøter og opplæring svarer på om teknisk kunnskap kan bli nyttig for andre fagmiljøer.",
+      "claim_ceiling": "Gjennom flere arbeidsmøter lærte opp teknisk personell i Power BI og semantisk modellering og bidro vesentlig til en innledende driftsrapportkomponent; enhet, komponentdetaljer, release og nåstatus uavklart. Ikke eneutvikler eller rapport-/programansvarlig."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Økonomisk skjønn gir et selvstendig valg for analyser og beslutningsgrunnlag ved svake data.",
+      "claim_ceiling": "Avviste direkte gevinstfordeling på utilstrekkelige bruksdata, utformet en transparent proxy-modell med synlige vekter og forutsetninger og valgte inspiserbare regneark uten kjerne-VBA for controllere. Modellen ferdigstilt og overlevert tidlig 2026; organisatorisk bruk, endelige vekter og realisert gevinst er uavklart.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "role": "Praktisk forståelse av klinikkdrift, lederrapportering og forbedring rundt ERP-overgang.",
+      "claim_ceiling": "Overtok egen tildelt månedsoppgjørsflyt etter opplæring, kontrollerte og distribuerte rapporter til klinikkledere. Bygget konverterings-/valideringsverktøy brukt av økonomirådgivere i flere klinikker og et komplett budsjetthjelpeark; ikke hele OUS-oppgjøret, klinikkbudsjett eller sentrale REGERP/Oracle-systemer. Ingen kvantifiserte effekter.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "role": "Brukerrettet analyseleveranse, teknisk gjennomføring og workshop gir CV-bredde og alternativ implementeringsvinkel.",
+      "claim_ceiling": "Hovedutvikler av backend i et firepersoners BI-team, nesten hele semantisk modell, mest M/ETL og om lag 80-90 prosent av DAX. Månedlig drift, faktiske brukertester og forbedringer, egen workshop for økonomkolleger; kolleger ledet innhold/visualisering. Eier ca. august 2025-februar 2026, deretter avviklet; ingen nåeierskap eller målt effekt.",
+      "lifecycle": "DECOMMISSIONED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f"
+      ],
+      "role": "Levert operativ analyse er et nyttig alternativ til utviklingsprognosene.",
+      "claim_ceiling": "Anvendte Stata, R og Power Query for seksjonsvise DRG-estimater levert til budsjett og planlegging i BAR. Eksakt metodekadens og kodeforfatterskap uavklart; enkeltstående avrundet treff er ikke generell nøyaktighet.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "role": "Aktuell kapasitet-/pasientflytanalyse og kontrollert teknologibruk kan velges om EY-oppdraget vektlegger dette.",
+      "claim_ceiling": "Utformer arkitektur, orkestrering og automatisering, integrerer kollega-/KI-bidrag og utfordrer mål og validering i aktive 14-/90-/365-dagers prognoser. Kollega laget original XGBoost og mye data/features. Aktiv utvikling, ingen produksjonssetting eller verifisert modellgevinst.",
+      "lifecycle": "IN_DEVELOPMENT"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "role": "Workshop- og arbeidsmodellbidrag gir konkret organisasjons- og prosjektstøtte.",
+      "claim_ceiling": "Deltok i firepersoners etableringsgruppe, utformet arbeidsstrukturer, avhengigheter og samarbeidsflater og planla/fasiliterte workshops. Innførte og foreslåtte praksiser skilles; ikke eneetablering, organisasjonsdesignmandat eller personalledelse."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "role": "Behovsavklaring og kartlegging støtter rådgivning før løsning.",
+      "claim_ceiling": "Utformet strukturerte spørsmål om formål, brukere, beslutninger, data, risiko, prioritet og akseptanse; design/evaluering og prosjektnivåbruk, ikke virksomhetsutrulling eller formelt produkteierskap."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "role": "Relevant skriftlig levering og mottakertilpasning til ledere, controllere og teknikere.",
+      "claim_ceiling": "Lager beslutningsnotater, sammendrag, dokumentasjon og onboarding og tilpasser teknisk/økonomisk innhold; ingen dokumentert lederbeslutning eller opplæringseffekt følger automatisk."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "role": "Analyse- og implementeringsarbeid i regulert helsevirksomhet.",
+      "claim_ceiling": "Prosjektvise definisjoner, validering, endringskontroll og sensitivdatahensyn; ikke virksomhetsdekkende data-/KI-/sikkerhetsmyndighet."
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+        "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m"
+      ],
+      "role": "Formell økonomiutdanning og metodegrunnlag med korrekt status i CV.",
+      "claim_ceiling": "Fullført NTNU-master og UiB-bachelor i samfunnsøkonomi, kvantitative masterfag og pågående UiA-program i KI. Ingen fullført KI-grad, spesialisering, oppgavetema, karakter eller studietakt uten støtte."
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#019-2-5-selvstendig-arbeid-kommunikasjon-og"
+      ],
+      "role": "Selvstendig analyse og faglig skriving kan brukes i beslutningsgrunnlagsvinkelen.",
+      "claim_ceiling": "Akademisk selvstendig analyse, litteraturbruk, empirisk design og vedvarende skriving; ikke arbeidsgiverleveranse eller kjent oppgavetema."
+    },
+    {
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:OTHER#033-5-2-tillitsverv",
+        "EV:OTHER#034-5-3-tjeneste-og-kurs",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "role": "Hele CV-ens kronologi og støttefelter beholder egne faktakilder.",
+      "claim_ceiling": "Norsk morsmål og flytende engelsk, valgte studentboligverv og Sanitet nivå 2 samt fire tidligere jobber innenfor oppgitte arbeidsoppgaver; ingen faglig analyseerfaring eller profesjonell personalledelse utledes herfra."
+    },
+    {
+      "evidence_refs": [
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#029-4-5-ki-grenser"
+      ],
+      "role": "Kontrollert KI-støttet arbeidsmåte er tilgjengelig hvis et konkret Digital Health-bidrag gjør den relevant.",
+      "claim_ceiling": "Strukturert menneskestyrt kodeagentbruk med integrasjon og validering i aktiv prognoseutvikling; distribuert forfatterskap. Ingen produksjons-LLM, enterprise-KI eller kvantifisert produktivitet."
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Konsulent- og kundeoppdragserfaring er ikke etablert.",
+      "reframe": "Vis hvordan møter med rapporteringsmiljøet, controller-onboarding og metodearbeid i team gir relevante handlinger for tverrfaglige helseoppdrag.",
+      "honesty_note": "Arbeidsformens overførbarhet er en slutning. Ikke skriv tidligere konsulent, klientansvarlig eller rådgiver for eksterne helseforetak."
+    },
+    {
+      "objection": "EPJ- og kommunal helsesektorerfaring mangler.",
+      "reframe": "Velg annonsens direkte støttede spor: større sykehus, analyse, gevinstarbeid og digitaliseringsprosjekter.",
+      "honesty_note": "Annonsen ønsker ett eller flere områder, og gjør ikke disse to til minstekrav."
+    },
+    {
+      "objection": "Formell prosjektlederrolle og dokumentert klinikerrettet implementering er ikke etablert.",
+      "reframe": "Beskriv egen implementering, oppgavenedbryting, workshopbidrag og konkrete mottakere, som støtter prosjektledelse og tverrfaglig gjennomføring.",
+      "honesty_note": "Antall interessenter beviser ikke kontakt med alle; ikke utled EPJ eller formelt prosjektmandat."
+    }
+  ],
+  "motivation_bridge": "OUS-erfaringen gir en konkret faglig grunn til å søke EY: muligheten til å bruke forståelse av helseøkonomi, arbeidsprosesser og implementering i flere tverrfaglige helseoppdrag. Fremtidig bidrag kan være tydelig behovsavklaring, etterprøvbare analyser og forbedringer som brukerne kan forstå og overta. Det er en begrunnet videre bruk av dokumentert arbeid, ikke en historisk påstand om konsulentvirksomhet eller klinisk effekt.",
+  "cv_draft": {
+    "headline": "Samfunnsøkonom | Digitalisering i helsesektoren",
+    "profile": "Samfunnsøkonom og rådgiver innen økonomi og IKT ved Oslo universitetssykehus. Arbeider med analyse, digitale arbeidsprosesser og beslutningsstøtte i sykehusdrift. Medutviklet i et firepersoners team gevinstmetodikk som ble innført som sykehusstandard, og gjennomførte kodeendringer og laget opplæringsmateriale for controllere i modernisering av et budsjettverktøy i sykehusdekkende bruk. Kombinerer økonomisk analyse med praktisk implementering, brukertesting og kompetanseoverføring.",
+    "competencies": [
+      "Helsesektor og drift: økonomi, bemanning, aktivitet/DRG og beslutningsstøtte",
+      "Gevinstarbeid og forbedring: metodeutvikling i team, prosesskartlegging og transparente forutsetninger",
+      "Gjennomføring: behovsavklaring, akseptansekriterier, testing, dokumentasjon og onboarding",
+      "Samhandling: arbeidsmøter, workshops og opplæring av økonomer og teknisk personell",
+      "Analyse og verktøy: Power BI, Power Query, Excel/VBA og prosjektavhengig Stata, R og Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Medutviklet gevinstrealiserings- og estimeringsmetodikk i et firepersoners team, med forskningssyntese og økonomisk/metodisk analyse. Rammeverket ble sykehusstandard og var i bruk om lag 2,5 år senere.",
+          "Integrerte bemanningsdata og gjennomførte kodeendringer i modernisering av et arvet Excel/VBA-budsjettverktøy, med differansekontroll, akseptansekriterier og opplæringsmateriale for controllere. Moderniserte versjoner brukes sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Utviklet hoveddelen av datamodell, databehandling og DAX i et teamutviklet styringsdashbord. Driftet løsningen, gjennomførte brukertester og forbedringer før den ble avviklet i februar 2026.",
+          "Lærte opp teknisk personell i Power BI og modelloptimalisering gjennom arbeidsmøter med rapporteringsmiljøet og bidro vesentlig til en innledende driftsrapportkomponent.",
+          "Utformet en transparent modell for fordeling av gevinster i steril logistikk da direkte bruksdata ikke var tilstrekkelige. Gjorde forutsetninger og vekter synlige for controllere og overleverte den ferdige modellen tidlig i 2026.",
+          "Arbeider med arkitektur, automatisering og integrasjon i utvikling av pasientvolum- og kapasitetsprognoser, med kontroll av mål, datagrunnlag og validering."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring den tildelte månedsoppgjørsflyten og gjennomførte avstemming, resultatforklaring og kvalitetssikring. Distribuerte mot slutten månedsrapporter til klinikkledere.",
+          "Bygget på eget initiativ Excel/VBA-verktøy for konvertering og validering ved REGERP-overgangen. Verktøyene ble brukt av økonomirådgivere i flere klinikker.",
+          "Bidro i budsjett- og prosjektøkonomi og leverte seksjonsvise DRG-estimater til budsjett og planlegging med Stata, R og Power Query."
+        ]
+      },
+      {
+        "employment_id": "EMP_TKS_HEIS",
+        "bullets": [
+          "Sesong- og heltidsarbeid sammen med heismontører under studiene, med praktisk samarbeid i et sikkerhetssensitivt miljø."
+        ]
+      },
+      {
+        "employment_id": "EMP_AHLSELL",
+        "bullets": [
+          "Varemottak, lager, bestilling, salg og kundekontakt."
+        ]
+      },
+      {
+        "employment_id": "EMP_LUFTFORSVARET",
+        "bullets": [
+          "Vakthold, adgangskontroll og alarmrespons etter tydelige prosedyrer."
+        ]
+      },
+      {
+        "employment_id": "EMP_SECTOR_ALARM",
+        "bullets": [
+          "Behovsavklaring, pristilbud, direkte salg og kundedialog."
+        ]
+      }
+    ]
+  },
+  "application_direction": {
+    "backbone": "Helseforståelse som omsettes til gjennomførbare og forståelige forbedringer.",
+    "top_employer_problems": [
+      "Forstå helsevirksomhetens behov før teknologivalg",
+      "Bidra til implementering, prosjektstøtte og gevinstarbeid med riktig teamattribusjon",
+      "Gjøre analyse og teknisk kunnskap nyttig for mottakere"
+    ],
+    "structure_guidance": "CV viser helseøkonomisk og teknisk bredde, leveransestatus og kronologi. Brevet skal tolke metodearbeid og gjennomført modernisering som en konsulentinngang, med samarbeid synlig gjennom handling og mottaker. STE kan tilføre økonomisk skjønn dersom det besvarer spørsmålet om beslutningsgrunnlag bedre enn flere implementeringsdetaljer. Ikke gjenfortell hele CV-en eller skriv en teknologistabel."
+  },
+  "avoid_guidance": [
+    "Ikke gjør EPJ, kommunal erfaring, konsulentansiennitet eller formell prosjektledelse til kandidatfakta.",
+    "Gevinstmetodikken er teamutviklet; controller-onboarding fra budsjettarbeidet må ikke tilskrives metodeprosjektet.",
+    "Behold at budsjettverktøyet er arvet, BI-løsningen avviklet og prognosene under utvikling.",
+    "Klinikere som EY-mottakere er en utlyst oppgave, ikke bevis på hvem Vegard samarbeidet med i hvert case."
+  ],
+  "counterfactual_route": null,
+  "risk_notes": [
+    "Reisevillighet er ikke bekreftet.",
+    "Leveranse og bruk er støttet uten målt gevinst; ikke demp leveransene eller oppfinn effekt."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-08",
+      "plain_language_label": "Forstår mottakerens arbeidsbehov",
+      "intended_employer_interpretation": "Kan tilpasse teknisk bidrag til andre fagmiljøer i helseoppdrag.",
+      "vacancy_relevance": "EY krever tett tverrfaglig samarbeid og implementering.",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "expression_ceiling": "Opplæring av teknisk personell, faktiske brukertester og controller-onboarding viser mottakertilpasning.",
+      "expression_guardrail": "Bruk konkrete handlinger og mottakere; ikke tilskriv universell relasjonsevne, klinikerkontakt eller adopsjonseffekt.",
+      "misread_risk": "Teknisk solospiller eller udokumentert påstand om empati."
+    }
+  ],
+  "writer_guidance": "La helsearbeidet være yrkesankeret. Gjør egen handling i budsjettmodernisering og teamrollen i gevinstarbeid synlige. Samarbeid skal ha sitt konkrete innhold: arbeidsmøter/opplæring, brukertesting eller controller-onboarding. Brevet kan velge andre argumenter fra den brede pakken, men må beholde hver erfaring sin kontekst og status.",
+  "requires_source_inspection_observed": false
+}

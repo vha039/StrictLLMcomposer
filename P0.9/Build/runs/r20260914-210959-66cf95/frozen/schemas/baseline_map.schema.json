@@ -1,0 +1,148 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/baseline_map.schema.json",
+  "title": "BaselineMap",
+  "description": "Mechanical reference namespace for CV_BASELINE (DEC-34, Contract 11.2). MECHANICAL_BASELINE, never factual evidence authority: it owns stable employer/title/date/education identity, order and IDs for rendering. A validator must reject any factual used_evidence_ref that targets this namespace, and a baseline identifier never becomes factual evidence merely by being addressable.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "map_version",
+    "baseline_version",
+    "baseline_sha256",
+    "candidate",
+    "employments",
+    "educations",
+    "languages",
+    "sections",
+    "references_text"
+  ],
+  "properties": {
+    "artifact_role": { "const": "MECHANICAL_BASELINE" },
+    "map_version": { "const": "0.9.0" },
+    "baseline_version": { "type": "string", "minLength": 1 },
+    "baseline_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+
+    "candidate": {
+      "type": "object",
+      "description": "Static identity/contact rendered from the baseline. A model stage must never mutate these through a dynamic field (Spec 4.2, DEC-23).",
+      "additionalProperties": false,
+      "required": ["full_name", "phone", "email", "location"],
+      "properties": {
+        "full_name": { "type": "string", "minLength": 1 },
+        "phone": { "type": "string", "minLength": 1 },
+        "email": { "type": "string", "minLength": 1 },
+        "location": { "type": "string", "minLength": 1 },
+        "linkedin": { "type": ["string", "null"] }
+      }
+    },
+
+    "employments": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "ref",
+          "employment_id",
+          "sort_order",
+          "employer",
+          "formal_title",
+          "period",
+          "default_bullets",
+          "always_include"
+        ],
+        "properties": {
+          "ref": {
+            "type": "string",
+            "pattern": "^BL:EMP_[A-Z0-9_]+$",
+            "description": "Mechanical citation form. Visibly distinct from EV: factual refs."
+          },
+          "employment_id": { "type": "string", "pattern": "^EMP_[A-Z0-9_]+$" },
+          "sort_order": { "type": "integer", "minimum": 1 },
+          "employer": { "type": "string", "minLength": 1 },
+          "formal_title": { "type": "string", "minLength": 1 },
+          "unit": { "type": ["string", "null"] },
+          "location": { "type": ["string", "null"] },
+          "period": { "type": "string", "minLength": 1 },
+          "employment_group_period": { "type": ["string", "null"] },
+          "default_bullets": {
+            "type": "array",
+            "minItems": 1,
+            "items": { "type": "string", "minLength": 1 },
+            "description": "Used when the package supplies no override for this employment_id."
+          },
+          "always_include": { "type": "boolean" },
+          "baseline_provenance": {
+            "type": ["string", "null"],
+            "description": "Inert human-readable note recording where the baseline author took this row from. Carried from P0.7's authority_anchor. It is NOT resolvable as a factual evidence reference and never appears in used_evidence_refs (DEC-34, ACC-08)."
+          }
+        }
+      }
+    },
+
+    "educations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "ref",
+          "education_id",
+          "sort_order",
+          "institution",
+          "qualification",
+          "period",
+          "include_in_cv"
+        ],
+        "properties": {
+          "ref": { "type": "string", "pattern": "^BL:EDU_[A-Z0-9_]+$" },
+          "education_id": { "type": "string", "pattern": "^EDU_[A-Z0-9_]+$" },
+          "sort_order": { "type": "integer", "minimum": 1 },
+          "institution": { "type": "string", "minLength": 1 },
+          "qualification": { "type": "string", "minLength": 1 },
+          "field": { "type": ["string", "null"] },
+          "period": { "type": "string", "minLength": 1 },
+          "status": { "type": ["string", "null"] },
+          "details": { "type": "array", "items": { "type": "string" } },
+          "include_in_cv": { "type": "boolean" },
+          "baseline_provenance": { "type": ["string", "null"] }
+        }
+      }
+    },
+
+    "languages": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["language", "level"],
+        "properties": {
+          "language": { "type": "string", "minLength": 1 },
+          "level": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+
+    "sections": {
+      "type": "array",
+      "description": "Stable supporting sections (courses, positions of trust, ...).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["ref", "section_id", "heading", "items"],
+        "properties": {
+          "ref": { "type": "string", "pattern": "^BL:SEC_[A-Z0-9_]+$" },
+          "section_id": { "type": "string", "pattern": "^[A-Z0-9_]+$" },
+          "heading": { "type": "string", "minLength": 1 },
+          "items": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+        }
+      }
+    },
+
+    "references_text": { "type": "string" }
+  }
+}

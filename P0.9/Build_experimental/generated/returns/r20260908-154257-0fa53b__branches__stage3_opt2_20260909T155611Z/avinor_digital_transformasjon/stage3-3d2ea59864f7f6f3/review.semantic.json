@@ -1,0 +1,37 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken svarer på annonsens kjerne med tre dokumenterte erfaringer innenfor sine claim-tak: proxymodellen for gevinstfordeling (ferdigstilt og overlevert tidlig i 2026), det teamleverte gevinstrammeverket (innført som sykehusdekkende standard, i bruk om lag 2,5 år senere) og budsjettmoderniseringen (sykehusdekkende bruk i budsjettprosessene for 2026 og 2027).",
+      "recommended_action": "Les gjennom brevets tredje avsnitt og bekreft at skillet mellom 2025-runden og 2027-runden leses som tiltenkt.",
+      "priority": 1
+    },
+    {
+      "reason": "Konsernporteføljestyring, eierskap til strategiske konserninitiativer og realisert eller målt gevinsteffekt er ikke dokumentert og er ikke påstått noe sted i pakken. Gevinstrealisering som metodearbeid er derimot direkte dokumentert og er skrevet med full styrke.",
+      "recommended_action": "Ingen tekstendring nødvendig. Vær forberedt på intervjuspørsmål om målte effekter, som verken finnes eller er hevdet.",
+      "priority": 2
+    },
+    {
+      "reason": "Alle seks ansettelser står i kronologien. Overstyringer er skrevet for Analyseavdelingen og BAR, mens de fire eldre rollene bruker baselinepunktene og holdes kompakte.",
+      "recommended_action": "Kontroller i den rendrede CV-en at lengden holder seg innenfor ønsket sideomfang.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen realisert, kvantifisert eller målt gevinsteffekt er dokumentert fra kandidatens arbeid. Pakken påstår metode, leveranse, innføring og bruk, ikke målt verdi.",
+    "STE-modellens operative implementering per grenmodell, endelige vekter og organisatoriske bruk er uavklart. Pakken sier ferdigstilt og overlevert til controllere tidlig i 2026, ikke i bruk.",
+    "Gevinstrammeverkets individuelle bidragsfordeling, navn, godkjenningsvei og antall brukere eller prosjekter er uavklart. Bruken om lag 2,5 år senere er en tidsavgrenset observasjon, ikke en påstand om bruk i dag.",
+    "Erfaring med samlet konsernportefølje, investeringsbeslutninger og ledelse av strategiske konsernprosesser eller styringsgrupper er ikke dokumentert. Annonsen oppgir porteføljestyring som en fordel, ikke et minstekrav.",
+    "Kandidaten har ikke dokumentert luftfartserfaring. Tjenesten i Luftforsvaret er ikke brukt som luftfartsfaglig kvalifikasjon noe sted i pakken.",
+    "Bakgrunnssjekk, adgangskort og eventuell sikkerhetsklarering er nevnt av arbeidsgiver. Pakken erklærer ikke samtykke eller godkjenning på kandidatens vegne.",
+    "Prognosearbeidet er under aktiv utvikling. CV-en beskriver arkitektur- og integrasjonsansvar med fordelt implementering, uten produksjonssetting eller verifisert modellytelse."
+  ],
+  "material_strategy_change": "Rangeringen inne i den bærende bevisenheten er snudd. Strategien gjorde gevinstrammeverket til bærende bevis og STE-modellen til diagnostisk støtte. I finalen bærer STE-modellen argumentet, fordi Avinors utvelgelsesspørsmål er om kandidaten kan gjøre en verdipåstand etterprøvbar, og STE er kandidatens eget, individuelt attribuerbare skjønn under nettopp det presset, mens rammeverkets individuelle bidragsfordeling er uavklart. Rammeverket beholdes i samme argument som bevis for at slik metodikk blir felles standard og varer, med egen attribusjon og egen lifecycle. I tillegg er arbeidsgiverproblemet spisset: en ny sentral enhet må gjøre verdi- og prioriteringsvurderinger etterprøvbare og få gjennomslag uten linjemyndighet. Det gir tverrorganisatorisk kompetanseoverføring og den avtalte endringsrammen i budsjettmoderniseringen reell argumentvekt i stedet for å være generell bredde.",
+  "upstream_claim_repaired": "Understatement reparert. Strategien vurderer det sammensatte kravet «porteføljestyring, gevinstrealisering eller virksomhetsstyring» samlet som tilgrensende. Annonsen stiller leddene som alternativer, og gevinstrealiseringsleddet er direkte dokumentert: medutvikling av et rammeverk for gevinstrealisering som ble innført som sykehusdekkende standard, og utforming av en gevinstfordelings- og investeringsmodell. Finalen skriver derfor gevinstmetodikken med full styrke i CV-topp, kompetanser og brev, mens porteføljeansvar forblir usagt og ikke antydes som oppfylt. Motsatt retning er kontrollert samtidig: budsjettmoderniseringen er skrevet som hovedansvar for kodeendringene innenfor en interessentprosess med om lag 50 deltakere, ikke som eierskap til hele moderniseringen, og kandidaten er ikke opphav til det arvede verktøyet.",
+  "notes": [
+    "Personlighetsfasettene er brukt som uttrykksbetingelse, ikke som innhold. Den ene er realisert gjennom den dokumenterte avvisningen av direkte fordeling og de synlige forutsetningene, uten generell kontrollretorikk. Den andre er realisert gjennom controllerens innsyn i fordelingsmodellen og opplæringsmateriellet i budsjettarbeidet, holdt i hvert sitt prosjekt.",
+    "Den alternative ruten i strategien, med innføring og arbeidsformer som hovedspor, er vurdert og ikke valgt. Annonsen setter investeringsverdi og prioritering i sentrum gjentatte ganger, og arbeidsformer og teamdesign bærer derfor CV-en i stedet for brevet.",
+    "Ingen tankestrek eller lang tankestrek er brukt i arbeidsgivertekst, og ingen interne referanser, typologietiketter eller fasettkoder forekommer i CV eller brev.",
+    "Brevet er komprimert etter at en første rendering ga to sider mot det redaksjonelle ettsidesmålet. Komprimeringen tok ut casedetaljer som allerede står i CV-en, og en avsluttende lærdomssetning. Ingen mekanisme, claim-grense, lifecycle-opplysning eller støttet vurdering er fjernet, og argumentrekkefølgen er uendret."
+  ]
+}

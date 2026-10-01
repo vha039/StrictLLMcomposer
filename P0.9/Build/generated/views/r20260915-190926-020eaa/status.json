@@ -1,0 +1,63 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260915-190926-020eaa",
+  "derived_at": "2026-09-15T19:34:16Z",
+  "manifest_sha256": "b6e191dfe962c4ea9b3655ae3c9fe221ea99bdae61c8b464fc95a970c506e351",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 1,
+    "core": 1,
+    "exception": 0,
+    "semantic_final_available": 1,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 1,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 0,
+      "DEGRADED": 1,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "itera_head_of_data_ai",
+      "employer": "Itera Norway",
+      "title": "Head of Data & AI",
+      "cluster": "runh",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-15",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "DEGRADED",
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "OK",
+        "letter_pdf": "DEGRADED",
+        "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+        "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Ingen kjent materiell omskriving eller faktabekreftelse gjenstår i den leverte pakken. Teknisk ansvar, distribuerte bidrag og utviklingsstatus er avgrenset i teksten. Action: Les gjennom CV og brev før eventuell ekstern innsending. | Head-rollen innebærer et reelt sprang til personal- og kommersielt ansvar. Pakken viser overførbar prosjekterfaring uten å fremstille disse kravene som oppfylt. Action: Vurder om Itera kan være åpen for dette spranget, og forbered en konkret samtale om personalledelse, salg og kundeutvikling. | Sykehusdekkende bruk er dokumentert, men gir ikke grunnlag for å hevde målte eller kommersielle forretningsresultater. Action: Behold skillet mellom dokumentert bruk og økonomisk effekt i videre dialog. | Known limitation: Ingen dokumentert profesjonell personalledelse, bemanningsmyndighet, samlet rekrutteringsansvar eller ledergruppeerfaring. | Known limitation: Ingen dokumentert erfaring fra eksternt konsulentmiljø med kommersiell tjenesteutvikling, teknologisalg, kundevekst eller resultatansvar. Eldre direkte salg lukker ikke dette gapet. | Known limitation: Ingen godkjente målinger av økonomisk effekt, tidsbesparelse eller feilreduksjon fra moderniseringen. | Known limitation: Prognosearbeidet er under utvikling uten verifisert modellytelse eller produksjonssetting. KI-arbeidsformen er ikke en produksjonssatt generativ KI-tjeneste eller moden MLOps. | Known limitation: Ekstern faglig synlighet og markedsposisjonering er ikke dokumentert. KI-masterprogrammet er pågående.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260915-190926-020eaa\\jobs\\itera_head_of_data_ai\\out\\CV_Itera_Norway_Head_of_Data_AI.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260915-190926-020eaa\\jobs\\itera_head_of_data_ai\\out\\Soknad_Itera_Norway_Head_of_Data_AI.docx"
+      ]
+    }
+  ]
+}

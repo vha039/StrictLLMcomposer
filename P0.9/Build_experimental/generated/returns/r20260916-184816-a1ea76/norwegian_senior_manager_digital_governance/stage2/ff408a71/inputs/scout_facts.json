@@ -1,0 +1,312 @@
+{
+  "artifact_role": "SCOUT_FACTS",
+  "vacancy": {
+    "employer": "Norwegian Air Shuttle ASA",
+    "unit": "Group Digital & Regulatory Governance function within IT & Business Services",
+    "title": "Senior Manager Digital Governance Operations",
+    "deadline": "Snarest",
+    "reference": "FINN-kode: 475468828",
+    "language": "en",
+    "sector": "PRIVATE"
+  },
+  "requirements": [
+    {
+      "id": "Q01",
+      "quote": "Run and continuously improve the function's governance processes, working methods and follow-up structures",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ]
+    },
+    {
+      "id": "Q02",
+      "quote": "identifying recurring issues and turning them into better guidance, clearer ownership and more scalable solutions that reduce reliance on key individuals.",
+      "kind": "TASK",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q03",
+      "quote": "Translate regulatory requirements and governance priorities into practical roadmaps, implementation plans, processes and follow-up structures",
+      "kind": "TASK",
+      "relation": "ADJACENT",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ]
+    },
+    {
+      "id": "Q04",
+      "quote": "lead selected governance workstreams through implementation.",
+      "kind": "TASK",
+      "relation": "ADJACENT",
+      "refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    },
+    {
+      "id": "Q05",
+      "quote": "Advise on new business and digital initiatives by structuring assessments across relevant regulatory areas, identifying key requirements, bringing together the right specialists and helping drive pragmatic solutions from initial scoping through implementation and follow-up.",
+      "kind": "TASK",
+      "relation": "ADJACENT",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ]
+    },
+    {
+      "id": "Q06",
+      "quote": "Coordinate cross-functional governance and regulatory matters, provide senior operational guidance and act as an escalation point for colleagues and business stakeholders",
+      "kind": "TASK",
+      "relation": "GAP",
+      "refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ]
+    },
+    {
+      "id": "Q07",
+      "quote": "Develop dashboards, reporting and decision-support materials for management and relevant governance forums",
+      "kind": "TASK",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q08",
+      "quote": "take a leading functional role in improving governance tools and digital solutions, identifying opportunities to simplify, standardise and automate recurring work.",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ]
+    },
+    {
+      "id": "Q09",
+      "quote": "Act as the first operational coordination point for selected regulatory issues and incidents",
+      "kind": "TASK",
+      "relation": "GAP",
+      "refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ]
+    },
+    {
+      "id": "Q10",
+      "quote": "manage documentation and follow-up in selected matters involving regulatory authorities.",
+      "kind": "TASK",
+      "relation": "GAP",
+      "refs": []
+    },
+    {
+      "id": "Q11",
+      "quote": "Have relevant higher education in law, business, technology, risk management or a related field, or equivalent relevant experience.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ]
+    },
+    {
+      "id": "Q12",
+      "quote": "Bring solid experience from one or more relevant areas such as governance, regulatory affairs, compliance, risk, business operations, advisory or transformation, ideally from a complex or regulated organisation.",
+      "kind": "MUST",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ]
+    },
+    {
+      "id": "Q13",
+      "quote": "Experience with areas such as GDPR, NIS2/ Digitalsikkerhetsloven, AI governance or other digital regulation is an advantage.",
+      "kind": "NICE",
+      "relation": "GAP",
+      "refs": []
+    },
+    {
+      "id": "Q14",
+      "quote": "Have strong analytical skills and a track record of getting to the heart of complex or loosely defined matters, identifying what is needed and establishing clear next steps.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:OTHER#037-6-2-analytisk-grundighet-og-etterprovbar"
+      ]
+    },
+    {
+      "id": "Q15",
+      "quote": "Have experience translating requirements or strategic priorities into workable processes, roadmaps, implementation plans or cross-functional initiatives",
+      "kind": "MUST",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ]
+    },
+    {
+      "id": "Q16",
+      "quote": "understand how regulation, accountability and governance translate into effective execution and follow-through in complex organisations.",
+      "kind": "MUST",
+      "relation": "ADJACENT",
+      "refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ]
+    },
+    {
+      "id": "Q17",
+      "quote": "Are comfortable working with dashboards, systems and digital tools and can turn complex information into clear and useful management reporting and decision support",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q18",
+      "quote": "identifying opportunities to improve how work is structured and delivered.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ]
+    },
+    {
+      "id": "Q19",
+      "quote": "Communicate confidently with senior stakeholders and are comfortable asking for the information you need, challenging constructively where needed and moving matters forward without relying on formal line authority.",
+      "kind": "MUST",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q20",
+      "quote": "You combine sound judgement with strong execution skills and are hands-on, independent and structured, with the maturity to balance pace, quality and stakeholder considerations.",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:OTHER#037-6-2-analytisk-grundighet-og-etterprovbar"
+      ]
+    }
+  ],
+  "thresholds": [
+    {
+      "id": "T1",
+      "quote": "Have relevant higher education in law, business, technology, risk management or a related field, or equivalent relevant experience.",
+      "dimension": "EDUCATION",
+      "required": "Relevant higher education in a listed or related field, or equivalent relevant experience",
+      "candidate": "Completed master's degree in economics; ongoing master's programme in artificial intelligence",
+      "status": "MEETS",
+      "refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ]
+    },
+    {
+      "id": "T2",
+      "quote": "Arbeidsspråk Engelsk, Norsk",
+      "dimension": "LANGUAGE",
+      "required": "English and Norwegian working languages",
+      "candidate": "Norwegian native; English fluent written and spoken",
+      "status": "MEETS",
+      "refs": [
+        "EV:OTHER#032-5-1-sprak"
+      ]
+    }
+  ],
+  "tracks": [],
+  "employer_facts": [
+    {
+      "fact": "The role joins a newly established group governance function.",
+      "quote": "you will join Norwegian's newly established Group Digital & Regulatory Governance function within IT & Business Services",
+      "conversion": "The operating model and follow-up structures are still being built, so practical structuring and implementation evidence are directly relevant."
+    },
+    {
+      "fact": "The function covers digital and regulatory governance across an international organisation.",
+      "quote": "building and running our Group-wide capability for digital and regulatory governance across a complex international organisation.",
+      "conversion": "Work must coordinate specialists and implementation across organisational and jurisdictional boundaries."
+    },
+    {
+      "fact": "The scope includes several named digital regulatory regimes.",
+      "quote": "Our scope includes GDPR and privacy, NIS2, Digitalsikkerhetsloven and related digital security regulation, the EU AI Act and AI governance, supplier and third-party governance, EASA Part-IS interfaces and other emerging digital regulation relevant to the Group.",
+      "conversion": "The role requires regulatory depth that cannot be replaced by generic project controls or digital-delivery experience."
+    },
+    {
+      "fact": "Norwegian Group owns two Nordic airlines.",
+      "quote": "The Norwegian group is a leading Nordic aviation company, owning two leading airlines in the Nordics: Norwegian Air Shuttle and Widerøe’s Flyveselskap.",
+      "conversion": "Governance solutions must work across more than one airline and operating context."
+    },
+    {
+      "fact": "The airlines serve European and rural regional networks.",
+      "quote": "Norwegian operates an extensive network connecting the Nordics with major European cities, while Widerøe primarily serves short-runway airports in rural Norway, providing vital regional connectivity.",
+      "conversion": "Governance choices sit inside operationally varied and connectivity-critical aviation services."
+    }
+  ],
+  "submission": {
+    "letter_requirement": "UNSPECIFIED",
+    "quote": "Click “Apply Now” and upload an updated copy of your CV.",
+    "route": "PORTAL",
+    "screening_questions": []
+  },
+  "reader_signals": [
+    {
+      "signal": "The reader needs an operational builder, not only a policy specialist.",
+      "quote": "you will be the senior operational lead for the function's prioritised governance and regulatory matters."
+    },
+    {
+      "signal": "The selection problem is turning requirements into coordinated execution.",
+      "quote": "You will help turn regulatory requirements and governance priorities into practical ways of working and drive coordinated implementation across the organisation."
+    },
+    {
+      "signal": "The role is expected to create momentum without formal line authority.",
+      "quote": "moving matters forward without relying on formal line authority."
+    },
+    {
+      "signal": "Reducing key-person dependency is an explicit operating concern.",
+      "quote": "more scalable solutions that reduce reliance on key individuals."
+    },
+    {
+      "signal": "Pace must be balanced with quality and stakeholder considerations.",
+      "quote": "with the maturity to balance pace, quality and stakeholder considerations."
+    }
+  ],
+  "notes": [
+    "The ad states no numeric years-of-experience threshold.",
+    "The record does not document formal enterprise governance, regulatory affairs, compliance leadership, regulatory incident ownership or authority contact.",
+    "The record does not document experience with GDPR, NIS2/Digitalsikkerhetsloven, the EU AI Act, AI governance, supplier governance or EASA Part-IS.",
+    "The FINN skills list is not used as employer-authored requirement evidence."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76",
+    "job_id": "norwegian_senior_manager_digital_governance",
+    "employer": "Norwegian Air Shuttle ASA",
+    "title": "Senior Manager Digital Governance Operations",
+    "evidence_fingerprint": "a274fe057d6c209ace7cb725c60866e60d1d268e54b25d70874f55ed444da261",
+    "policy_fingerprint": "aa4d64ac6552944b30ffeb3944de5f2cea9c07a2b46da3adb105283065ac6aa0",
+    "inputs": {}
+  }
+}

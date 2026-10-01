@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "nasjonalmuseet_forretningsutvikling",
+    "final_package_sha256": "c172628a59dc9f0a2f195d9a05ada226c8e9468ae8dba6531996dce1c5ed65d6",
+    "document_date": "2026-09-13",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "84a069c32995b61353e3edcee53d2c5fab5d289148f0358c3b461338108a2acb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\CV_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.docx",
+      "output_sha256": "de53a882473e3849a55df1270e8ddf4e5edef2f26a5584a70d7866ef44ca6c49",
+      "bytes": 40548,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\CV_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.pdf",
+      "output_sha256": "0d4860852ed2060fdcf42872b2d73eacd07c22a9b7fdb6cf18536e0bb7e6241b",
+      "bytes": 292589,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_ra_cs2xv\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\.rnd.9018dcc6\\CV_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\.rnd.9018dcc6\\CV_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\Soknad_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.docx",
+      "output_sha256": "f2fb6c63eeba4cf5fb2b09d52c6b0006a501188a2f28285ceab4b77a46ba1cf0",
+      "bytes": 38505,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\Soknad_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.pdf",
+      "output_sha256": "e4d799fe7ed0cd56498a874fd8eedba930fa14d4b9ab18b730d406457d0a8e0b",
+      "bytes": 196476,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_oz2dhovm\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\.rnd.9018dcc6\\Soknad_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260913-205507-247618\\jobs\\nasjonalmuseet_forretningsutvikling\\out\\.rnd.9018dcc6\\Soknad_Nasjonalmuseet_Seniorradgiver_forretningsutvikling.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-13T21:40:20Z"
+}

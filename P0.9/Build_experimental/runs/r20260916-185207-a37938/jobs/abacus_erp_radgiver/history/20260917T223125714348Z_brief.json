@@ -1,0 +1,75 @@
+{
+  "artifact_role": "BRIEF",
+  "position": {
+    "track": "ERP-rådgiver innen finans",
+    "thesis": "Kjenner økonomiprosessene systemet skal bære.",
+    "reader_need": "noen som forstår oppgjør før konfigurasjon",
+    "headline_intent": "økonomiprosess møter system"
+  },
+  "delivery": "LETTER_AND_CV",
+  "delivery_reason": "Mechanical fixture: verify downstream invalidation.",
+  "units": [
+    {
+      "id": "U1",
+      "refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "proves": "modellvalg under usikre data",
+      "employer_problem": "kunder med uklart datagrunnlag",
+      "ceiling": "Gjelder egen tildelt klinikkflyt, ikke hele OUS.",
+      "placement": "BOTH"
+    }
+  ],
+  "judgment": null,
+  "reserve": [],
+  "employer_fact": {
+    "fact": "BNXT",
+    "quote": "BNXT by Visma",
+    "conversion": "produktet må læres, prosessen er kjent"
+  },
+  "stances": [
+    {
+      "req": "Q01",
+      "relation": "MEETS",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+    }
+  ],
+  "distinctiveness": {
+    "facets": [],
+    "motive": "vil jobbe der prosess og system møtes",
+    "opening_move": "EMPLOYER_FACT",
+    "closing_move": "QUESTION"
+  },
+  "letter_plan": {
+    "word_target": 380,
+    "paragraphs": [
+      {
+        "job": "vis modellvalget",
+        "unit_ids": [
+          "U1"
+        ],
+        "refs": [
+          "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "phrase": "moderniserte",
+      "ceiling": "ingen eneeierskap"
+    }
+  ],
+  "binding": {
+    "run_id": "r20260916-185207-a37938",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "059912cc1e5cf1873262090d1af819f14789c1d8d003495bc08f0570c2a6f250",
+    "policy_fingerprint": "fd1983375eeef6e089e266616f394d7b7f1fffe287aec654f88a0f063a9e2d67",
+    "inputs": {
+      "scout": "d7fccc0a3b9aebf19a503820ee73d30d790ae1c7c5a3ff8ef910ed4818c5f3fb"
+    }
+  }
+}

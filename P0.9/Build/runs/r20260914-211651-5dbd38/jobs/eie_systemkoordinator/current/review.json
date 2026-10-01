@@ -1,0 +1,37 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Pakken svarer på brukerhenvendelser, opplæring, utprøving av verktøy og praktisk KI med kildestøttede case og bruker annonsens økonomi-/IT-inngang. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning. Søknadsfristen er «Snarest», og prosessen ledes av branchy rekruttering."
+    },
+    {
+      "priority": 2,
+      "reason": "Systemoppsett og leverandørkoordinering ved nye kontorer, Core/EIE 365, eiendomsmegling og brukerstøtte i en fast sakskø er ikke dokumentert. Pakken antyder ikke slik erfaring og formulerer kontoroppstart bare som fremtidig bidrag.",
+      "recommended_action": "Ingen redigering. Forbered et intervjusvar om hvordan fagsystemene og meglerprosessen læres."
+    },
+    {
+      "priority": 3,
+      "reason": "Stillingen er et toårig vikariat med fortløpende tiltredelse; tilgjengelig startdato og ønske om vikariat er ikke omtalt.",
+      "recommended_action": "Ingen endring i pakken. Avklares av kandidaten før eller i samtale."
+    }
+  ],
+  "known_limitations": [
+    "Ingen eiendomsmeglerutdanning eller -erfaring; kvalifikasjonen bygger på økonomi- og IT-inngangen.",
+    "Ingen dokumentert erfaring med Core, EIE 365, kontoretablering eller leverandørkoordinert systemoppsett.",
+    "KI-superbrukerrollen dokumenterer tekniske svar i en Teams-kanal, ikke et formelt supportansvar; antall brukere og henvendelser er ukjent.",
+    "Ingen dokumentert fysisk brukeropplæring utover intern workshop og onboardingmateriell."
+  ],
+  "material_strategy_change": "REGERP-verktøyene ble løftet fra CV-støtte til første bærende case i brevet, fordi de viser praktisk hjelp ved en systemovergang med dokumentert bruk hos kolleger i flere klinikker. Tidlig plattformutprøving ble lagt til som svar på utprøving av nye verktøy, og det pågående KI-masterprogrammet ble synliggjort i toppsonen og brevet som supplement.",
+  "upstream_claim_repaired": "Strategiens tese sa at kandidaten besvarer «KI-henvendelser» i Teams; kilden sier tekniske henvendelser i en Teams-kanal knyttet til superbrukerrollen. Final bruker kildens formulering.",
+  "notes": [
+    "Tett kundedialog er besvart i CV-kronologien (Sector Alarm og Ahlsell), ikke i brevet, fordi brevets plass gikk til brukerhjelp og KI."
+  ],
+  "binding": {
+    "run_id": "r20260914-211651-5dbd38",
+    "job_id": "eie_systemkoordinator",
+    "final_package_sha256": "caac5e729430a63f3dba034b04f39230a38698b301febefbd3a3a3a43b54e94e"
+  }
+}

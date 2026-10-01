@@ -1,0 +1,228 @@
+{
+  "artifact_role": "RUN_MANIFEST",
+  "run_id": "r20260828-184051-6f84ff",
+  "parent_run_id": null,
+  "spec_revision": "0.9.0",
+  "schema_revision": "0.9.0",
+  "frozen_at": "2026-08-28T18:40:51Z",
+  "frozen_inputs": {
+    "authorities": {
+      "WORK": {
+        "path": "authorities/Work_experience.md",
+        "sha256": "0b39a5105f0d809d1bc9a917665bc69c619eb059253a779079b37304b49a2f9d",
+        "bytes": 92045
+      },
+      "EDU": {
+        "path": "authorities/Education.md",
+        "sha256": "75e238890215cbc02c3bc59cdaaeb43f467ae7d512e9b5a9c4723ccc0c4580f8",
+        "bytes": 25474
+      },
+      "OTHER": {
+        "path": "authorities/Other_high_value_information.md",
+        "sha256": "58a8f88f9eb627847152d684b19d7938c42da7d173a57a7fff58728a25ae5bf8",
+        "bytes": 31785
+      }
+    },
+    "cv_baseline": {
+      "path": "authorities/CV_BASELINE.md",
+      "sha256": "4061d69ae02b4d7414faa2d9dc1d080ef6a0e164e5792d5609835d8f0faf9555",
+      "bytes": 7328
+    },
+    "personality_profile": {
+      "path": "context/PERSONALITY_PROFILE.md",
+      "sha256": "a3e1b6fb9f519d55c82e09ec1114a4baed0877867fd8751922550e0e02e0b435",
+      "bytes": 43246
+    },
+    "personality_facet_index": {
+      "path": "policy/personality_facets.json",
+      "sha256": "1196aae7eab46f340d5beb0835d9f3862847027804035941e0c3bcf7c15b854d",
+      "bytes": 15077
+    },
+    "settings": {
+      "path": "policy/settings.toml",
+      "sha256": "753396833917216337b29ecd0a7f0cf34eea2820b07ebaa423c86e8cdb4eacf1",
+      "bytes": 3745
+    },
+    "stage_instructions": {
+      "stage1": {
+        "path": "policy/stages/stage1_decision_architecture.md",
+        "sha256": "ca3dea6f96a0383a47cebcdd5e3510aad4d8a02d1e0a84a6ed1ed70db1b92e34",
+        "bytes": 7682
+      },
+      "stage2": {
+        "path": "policy/stages/stage2_package_writer.md",
+        "sha256": "af745af5bef6b523a61632eaf79c0cff35e75fb9e204a323c2a648793d87b241",
+        "bytes": 4771
+      },
+      "stage3": {
+        "path": "policy/stages/stage3_final_writer_review.md",
+        "sha256": "10d50282a0fcbfbed0ecfbdb490ec0f4ffaf7902c24f6433ac312a7a43092320",
+        "bytes": 6097
+      }
+    },
+    "writing_policy": [
+      {
+        "path": "policy/writing/PERSUASION_CALIBRATION.md",
+        "sha256": "b8155b3ffce07bfddb99522d48d44344b43876e2e293879217da18dba98109b7",
+        "bytes": 3169
+      },
+      {
+        "path": "policy/writing/WRITING_DOCTRINE.md",
+        "sha256": "de4e46489546c8a1d9daa88100e39d18653b8a78f690af5052c7db84799fe6ac",
+        "bytes": 12853
+      }
+    ],
+    "schemas": [
+      {
+        "path": "schemas/baseline_map.schema.json",
+        "sha256": "3d35e3407948fefcd1eac361c0d81503211fdc6166acc93fb12423fbe768ae7b",
+        "bytes": 5571
+      },
+      {
+        "path": "schemas/evidence_index.schema.json",
+        "sha256": "d40ba08f8891b352c9597793e254de970d5269645e85a43ac3374c09502687c3",
+        "bytes": 4011
+      },
+      {
+        "path": "schemas/failure.schema.json",
+        "sha256": "7f91b4f7dd994cf773a25dd5d44c8f4ebfdfc06725adab11567d80a6000645e7",
+        "bytes": 3670
+      },
+      {
+        "path": "schemas/manifest.schema.json",
+        "sha256": "d4d908b667e55b23641a9add60d94dc66eac65dfb251f726daa580935b9059f2",
+        "bytes": 11619
+      },
+      {
+        "path": "schemas/package.schema.json",
+        "sha256": "67d4bc600289e929fb28c316a2b71a860a207a002b3cea5381b9fb3e8a42b1f8",
+        "bytes": 7913
+      },
+      {
+        "path": "schemas/render_report.schema.json",
+        "sha256": "8465e5c8c37dbac0d2cfb1f7ab8bdbac5495a0eed572a1cd68c51946c57cc08f",
+        "bytes": 6304
+      },
+      {
+        "path": "schemas/review.schema.json",
+        "sha256": "238fb961a9a1b43bb0413c0e7461ce3f119d59cb1182f4f9f7fcffc4004a6cb5",
+        "bytes": 3130
+      },
+      {
+        "path": "schemas/status.schema.json",
+        "sha256": "6c5c626d6fb0b5aac2a317f4edfe2a5b3720e8f12626e15c3b1ee785621ba46a",
+        "bytes": 6605
+      },
+      {
+        "path": "schemas/strategy.schema.json",
+        "sha256": "68ec1a6f8046bbfad39141e3e8c8ba04d92a40a95a851a6464c65ce57fbc5704",
+        "bytes": 10227
+      }
+    ],
+    "templates": {
+      "cv_master": {
+        "path": "templates/CV_MASTER.docx",
+        "sha256": "80a41a751eb5bc11379a1bcd93b5e2f21f95ec84ad668a6f003cad81d1d7096a",
+        "bytes": 39039
+      },
+      "letter_master": {
+        "path": "templates/APPLICATION_MASTER.docx",
+        "sha256": "aff96d15b7e11930d9ac790a983c79158a2573d6a023a2211b288ff4510c7c26",
+        "bytes": 37433
+      }
+    },
+    "template_map": {
+      "path": "templates/template_map.json",
+      "sha256": "a6d6297eb2cd49e924e8edeeccb33259e1ce434775c1bec0cbf27a84ecbbb7eb",
+      "bytes": 9297
+    },
+    "evidence_index": {
+      "path": "generated/evidence_index.json",
+      "sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+      "bytes": 75431
+    },
+    "baseline_map": {
+      "path": "generated/baseline_map.json",
+      "sha256": "3e5e8bdfe53f2e01b5399afe22930ab37d57eab8e6840b0958a40a6b0e1e04bf",
+      "bytes": 7006
+    }
+  },
+  "settings_snapshot": {
+    "language": "nb-NO",
+    "personality": {
+      "max_selected_facets": 3
+    },
+    "stages": {
+      "stage1": "SOL_CLASS",
+      "stage2": "TERRA_CLASS",
+      "stage3": "SOL_CLASS",
+      "role_mapping": {
+        "SOL_CLASS": "",
+        "TERRA_CLASS": ""
+      }
+    },
+    "recovery": {
+      "mechanical_correction_attempts": 1,
+      "retry_start_stages": [
+        3
+      ]
+    },
+    "render": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_timeout_seconds": 180
+    }
+  },
+  "baseline_reconciliation": {
+    "reviewed_by": "Vertical Slice",
+    "reviewed_at": "2026-08-28",
+    "authority_hashes_at_review": {
+      "WORK": "0b39a5105f0d809d1bc9a917665bc69c619eb059253a779079b37304b49a2f9d",
+      "EDU": "75e238890215cbc02c3bc59cdaaeb43f467ae7d512e9b5a9c4723ccc0c4580f8",
+      "OTHER": "58a8f88f9eb627847152d684b19d7938c42da7d173a57a7fff58728a25ae5bf8"
+    },
+    "conflicts_known": []
+  },
+  "jobs": [
+    {
+      "job_id": "testetaten_radgiver",
+      "employer": "Testetaten HF",
+      "title": "Rådgiver økonomi og analyse",
+      "unit": "Økonomiavdelingen",
+      "reference": "2026/1234",
+      "deadline": "2026-09-15",
+      "job_class": "CORE",
+      "exception_note": null,
+      "cluster": "c1",
+      "sequence": 1,
+      "priority": "HIGH",
+      "source": {
+        "relpath": "jobs/testetaten_radgiver/source/testetaten_radgiver.md",
+        "sha256": "3c3866e5621a37844ab77820561b759fd8afa7806c2c00e826f58f1c622196bf",
+        "bytes": 1427,
+        "media_type": "text/markdown"
+      },
+      "requires_source_inspection": false
+    },
+    {
+      "job_id": "annen_etat_analytiker",
+      "employer": "Annen Etat",
+      "title": "Analytiker",
+      "unit": null,
+      "reference": null,
+      "deadline": null,
+      "job_class": "CORE",
+      "exception_note": null,
+      "cluster": "c1",
+      "sequence": 2,
+      "priority": "NORMAL",
+      "source": {
+        "relpath": "jobs/annen_etat_analytiker/source/annen_etat.md",
+        "sha256": "3c3866e5621a37844ab77820561b759fd8afa7806c2c00e826f58f1c622196bf",
+        "bytes": 1427,
+        "media_type": "text/markdown"
+      },
+      "requires_source_inspection": false
+    }
+  ]
+}

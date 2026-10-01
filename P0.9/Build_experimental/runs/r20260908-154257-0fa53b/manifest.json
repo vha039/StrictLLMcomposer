@@ -1,0 +1,206 @@
+{
+  "artifact_role": "RUN_MANIFEST",
+  "run_id": "r20260908-154257-0fa53b",
+  "parent_run_id": null,
+  "spec_revision": "0.9.3",
+  "schema_revision": "0.9.3",
+  "frozen_at": "2026-09-08T15:42:57Z",
+  "frozen_inputs": {
+    "authorities": {
+      "WORK": {
+        "path": "authorities/Work_experience.md",
+        "sha256": "03ebb948b03bb1f9c81b992ed748ca76dfad96308272f4d4de47804384ac2710",
+        "bytes": 87223
+      },
+      "EDU": {
+        "path": "authorities/Education.md",
+        "sha256": "d384ff8328da7127f79868e4eb49cfafd8bcde246457741c655456aa4104ae8f",
+        "bytes": 28307
+      },
+      "OTHER": {
+        "path": "authorities/Other_high_value_information.md",
+        "sha256": "0739f2a4c815c6dab9436816f1648c0346497f25414bea2760b1b4d2bb48c40a",
+        "bytes": 34412
+      }
+    },
+    "cv_baseline": {
+      "path": "authorities/CV_BASELINE.md",
+      "sha256": "c52b1631ea70fd226b57c103cadc4a43cb4f5df4829ec72777cdf39045a26529",
+      "bytes": 7294
+    },
+    "personality_profile": {
+      "path": "context/PERSONALITY_PROFILE.md",
+      "sha256": "199749d2b0b13182874085c710a9fc1390c91e2b529f0514a31ee445d43c03ea",
+      "bytes": 8433
+    },
+    "personality_facet_index": {
+      "path": "policy/personality_facets.json",
+      "sha256": "1196aae7eab46f340d5beb0835d9f3862847027804035941e0c3bcf7c15b854d",
+      "bytes": 15077
+    },
+    "settings": {
+      "path": "policy/settings.toml",
+      "sha256": "ec0561f2d872cdce229293881f7339b1e08e62d388e34a9e1a21cf561d3f88fb",
+      "bytes": 3558
+    },
+    "stage_instructions": {
+      "stage1": {
+        "path": "policy/stages/stage1_decision_architecture.md",
+        "sha256": "7209a8707013f65f0f7f929269f87c159dac4c45c6ff59758ba447e809d00033",
+        "bytes": 5854
+      },
+      "stage3": {
+        "path": "policy/stages/stage3_final_writer_review.md",
+        "sha256": "1bb79bd0c29f3d726cfa20cae48114b4dd8e720e1b33fadde95534d6f001fe50",
+        "bytes": 10672
+      }
+    },
+    "writing_policy": [
+      {
+        "path": "policy/writing/FORFATTERSTEMME.md",
+        "sha256": "939951733c0855db4b234f14b98c4acdf459d2ba93138102166e2c8844f36005",
+        "bytes": 8795
+      },
+      {
+        "path": "policy/writing/PERSUASION_CALIBRATION.md",
+        "sha256": "4d633f492a254b4ccf0ccd6d65682571c2d012339136b7c4cd482301ccede920",
+        "bytes": 6356
+      },
+      {
+        "path": "policy/writing/WRITING_DOCTRINE.md",
+        "sha256": "78c55890ecba0ef82531cb0391616b68c4a805879bd1c014f6280af3a77fca22",
+        "bytes": 20990
+      }
+    ],
+    "schemas": [
+      {
+        "path": "schemas/baseline_map.schema.json",
+        "sha256": "3d35e3407948fefcd1eac361c0d81503211fdc6166acc93fb12423fbe768ae7b",
+        "bytes": 5571
+      },
+      {
+        "path": "schemas/evidence_index.schema.json",
+        "sha256": "d40ba08f8891b352c9597793e254de970d5269645e85a43ac3374c09502687c3",
+        "bytes": 4011
+      },
+      {
+        "path": "schemas/failure.schema.json",
+        "sha256": "c78de4042fa0421da649280340fa6d443b9883552039268a5d90f612502bc3ae",
+        "bytes": 3737
+      },
+      {
+        "path": "schemas/manifest.schema.json",
+        "sha256": "f02c225a292cf0dcd29f77ef559d7260061c5351e7c2c8f2e213f45878a19cca",
+        "bytes": 11617
+      },
+      {
+        "path": "schemas/package.schema.json",
+        "sha256": "677a613739b85831a6f645f9ad265b617f3056f4c89b7037eb0df946b801ffaa",
+        "bytes": 7615
+      },
+      {
+        "path": "schemas/render_report.schema.json",
+        "sha256": "65a7ef89c69d85e844595fb6d39c7b96cee08521c4e3e6557e6565edaad908a2",
+        "bytes": 6371
+      },
+      {
+        "path": "schemas/review.schema.json",
+        "sha256": "6e79a9a19b01f6e45d0666958c789b2a4e38caf9d1acb443805c241c663c0aea",
+        "bytes": 3197
+      },
+      {
+        "path": "schemas/status.schema.json",
+        "sha256": "e820dda464a853fe7c10ebeeb12c809b66532469f9fed7180ebdaef7e17a6bb9",
+        "bytes": 6672
+      },
+      {
+        "path": "schemas/strategy.schema.json",
+        "sha256": "e7e79f18b6a8e3c6e3e9967affda371b6ff59aa6ae40ae7ba66d1c24d742999c",
+        "bytes": 10294
+      }
+    ],
+    "templates": {
+      "cv_master": {
+        "path": "templates/CV_MASTER.docx",
+        "sha256": "4eab17783800974c516cc4780aa33a3ef7c361af372774436cf95665479f963f",
+        "bytes": 39124
+      },
+      "letter_master": {
+        "path": "templates/APPLICATION_MASTER.docx",
+        "sha256": "3e41cf9667518b3fb37966e581358f538f69be0e6e8f1dd320da9f3509da112c",
+        "bytes": 37516
+      }
+    },
+    "template_map": {
+      "path": "templates/template_map.json",
+      "sha256": "a6d6297eb2cd49e924e8edeeccb33259e1ce434775c1bec0cbf27a84ecbbb7eb",
+      "bytes": 9297
+    },
+    "evidence_index": {
+      "path": "generated/evidence_index.json",
+      "sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+      "bytes": 71810
+    },
+    "baseline_map": {
+      "path": "generated/baseline_map.json",
+      "sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+      "bytes": 6972
+    }
+  },
+  "settings_snapshot": {
+    "language": "nb-NO",
+    "personality": {
+      "max_selected_facets": 3
+    },
+    "stages": {
+      "stage1": "SOL_CLASS",
+      "stage3": "SOL_CLASS",
+      "role_mapping": {
+        "SOL_CLASS": "Codex / GPT-5.6 Sol"
+      }
+    },
+    "recovery": {
+      "mechanical_correction_attempts": 1,
+      "retry_start_stages": [
+        3
+      ]
+    },
+    "render": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_timeout_seconds": 180
+    }
+  },
+  "baseline_reconciliation": {
+    "reviewed_by": "Vegard Håland",
+    "reviewed_at": "2026-09-08",
+    "authority_hashes_at_review": {
+      "WORK": "03ebb948b03bb1f9c81b992ed748ca76dfad96308272f4d4de47804384ac2710",
+      "EDU": "d384ff8328da7127f79868e4eb49cfafd8bcde246457741c655456aa4104ae8f",
+      "OTHER": "0739f2a4c815c6dab9436816f1648c0346497f25414bea2760b1b4d2bb48c40a"
+    },
+    "conflicts_known": []
+  },
+  "jobs": [
+    {
+      "job_id": "avinor_digital_transformasjon",
+      "employer": "Avinor AS",
+      "title": "Seniorrådgiver Digital Transformasjon",
+      "unit": "Digital Transformasjon",
+      "reference": null,
+      "deadline": "2026-09-13",
+      "job_class": "CORE",
+      "exception_note": null,
+      "cluster": "runavinor",
+      "sequence": 1,
+      "priority": "HIGH",
+      "source": {
+        "relpath": "jobs/avinor_digital_transformasjon/source/avinor_digital_transformasjon.md",
+        "sha256": "ae69b813eb68f7b224781f2438365e2853c7025290965dee6009876ddc13d7b7",
+        "bytes": 6398,
+        "media_type": "text/markdown"
+      },
+      "requires_source_inspection": false
+    }
+  ]
+}

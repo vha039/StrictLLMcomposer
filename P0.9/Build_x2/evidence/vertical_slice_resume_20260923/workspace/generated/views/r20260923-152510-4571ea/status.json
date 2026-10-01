@@ -1,0 +1,86 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260923-152510-4571ea",
+  "derived_at": "2026-09-23T15:25:18Z",
+  "manifest_sha256": "fffd2a8a3127fb15fd91f47a77b33e3e2f751a179634a1d6e963d5c62f3a790a",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 2,
+    "core": 2,
+    "exception": 0,
+    "semantic_final_available": 1,
+    "blocked_manual": 0,
+    "failed": 1,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 0,
+      "CHECK": 1,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 1,
+      "OK": 0,
+      "DEGRADED": 1,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "annen_etat_analytiker",
+      "employer": "Annen Etat",
+      "title": "Analytiker",
+      "cluster": "c1",
+      "sequence": 2,
+      "priority": "NORMAL",
+      "deadline": null,
+      "semantic_triage": null,
+      "production_state": "FAILED",
+      "highest_valid_stage": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Repair and revalidate: strategy.",
+      "output_paths": [],
+      "editorial_warnings": []
+    },
+    {
+      "job_id": "testetaten_radgiver",
+      "employer": "Testetaten HF",
+      "title": "Rådgiver økonomi og analyse",
+      "cluster": "c1",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-15",
+      "semantic_triage": "CHECK",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "DEGRADED",
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "OK",
+        "letter_pdf": "DEGRADED",
+        "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+        "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Utlysningen nevner prognosearbeid; pakken dekker det bare indirekte. Action: Bekreft om prognoseerfaringen er sterk nok til å nevnes. | Kontaktperson og frist er ikke omtalt i brevet. Action: Vurder én setning om frist dersom det er ønskelig. | Known limitation: Ingen dokumentert erfaring med prognosemodeller ut over budsjettarbeid.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\evidence\\vertical_slice_resume_20260923\\workspace\\runs\\r20260923-152510-4571ea\\jobs\\testetaten_radgiver\\out\\CV_Testetaten_HF_Radgiver_okonomi_og_analyse.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\evidence\\vertical_slice_resume_20260923\\workspace\\runs\\r20260923-152510-4571ea\\jobs\\testetaten_radgiver\\out\\Soknad_Testetaten_HF_Radgiver_okonomi_og_analyse.docx"
+      ],
+      "editorial_warnings": []
+    }
+  ]
+}

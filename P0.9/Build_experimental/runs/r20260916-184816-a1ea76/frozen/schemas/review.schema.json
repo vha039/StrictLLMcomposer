@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/review.schema.json",
+  "title": "Review",
+  "description": "Stage 3 (EDITOR) operator triage: a repair-scope recommendation, never a quality fact and never an apply/no-apply verdict. Two shapes: a published review binds the assembled final package; a RERUN review binds the advocacy layer it rejected and names the stage to re-run, so declining never requires publishing the rejected draft.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "binding",
+    "triage",
+    "reasons",
+    "known_limitations"
+  ],
+  "properties": {
+    "artifact_role": {
+      "const": "OPERATOR_TRIAGE"
+    },
+    "binding": {
+      "type": "object",
+      "description": "Written by the tool at submit.",
+      "additionalProperties": false,
+      "required": [
+        "run_id",
+        "job_id",
+        "employer",
+        "title",
+        "evidence_fingerprint",
+        "policy_fingerprint",
+        "inputs"
+      ],
+      "properties": {
+        "run_id": {
+          "type": "string",
+          "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}(?:/branches/[a-z0-9][a-z0-9_-]{0,31})?$"
+        },
+        "job_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$"
+        },
+        "employer": {
+          "type": "string",
+          "minLength": 2
+        },
+        "title": {
+          "type": "string",
+          "minLength": 2
+        },
+        "evidence_fingerprint": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "What this stage consumed as fact: frozen authorities, evidence index, baseline map, CV baseline, this vacancy and the upstream artifacts. Staleness is this hash recomputed."
+        },
+        "policy_fingerprint": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "Playbook plus consumed writing policy. Provenance only; a policy edit never invalidates an artifact."
+        },
+        "inputs": {
+          "type": "object",
+          "description": "Upstream artifact name -> artifact hash.",
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          }
+        }
+      }
+    },
+    "triage": {
+      "enum": [
+        "READY",
+        "CHECK",
+        "RERUN"
+      ],
+      "description": "READY: no known material repair remains beyond human skim. CHECK: one bounded local item. RERUN: upstream reconstruction is cheaper than editing; nothing is published."
+    },
+    "rerun_stage": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "enum": [
+        1,
+        2,
+        null
+      ],
+      "description": "Required when triage is RERUN."
+    },
+    "reasons": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "reason": {
+            "type": "string",
+            "minLength": 1
+          },
+          "recommended_action": {
+            "type": "string",
+            "minLength": 1
+          },
+          "priority": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "required": [
+          "reason",
+          "recommended_action"
+        ]
+      },
+      "minItems": 0,
+      "description": "Ordinarily three or fewer. Count never determines triage."
+    },
+    "known_limitations": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0
+    },
+    "material_strategy_change": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "upstream_claim_repaired": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0
+    }
+  }
+}

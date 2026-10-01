@@ -1,0 +1,31 @@
+{
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [
+    {
+      "reason": "Bolt-on-markøren Jeg har også var et reelt screen-out-signal i brevets bærende avsnitt.",
+      "recommended_action": "Ingen videre handling; setningen er integrert i samme oppdrag.",
+      "priority": 1
+    },
+    {
+      "reason": "Avsnitt 3 lukket med en lærdomssetning som ikke tilførte noe utover det avsnittet allerede viste.",
+      "recommended_action": "Ingen videre handling; fjernet.",
+      "priority": 2
+    },
+    {
+      "reason": "Tankestrek i CV-overskriften brøt Tegnsetting.",
+      "recommended_action": "Ingen videre handling; reparert lokalt.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Det første brødtekstavsnittet lukker med en overføringsbro (er en oppgave jeg vil fortsette med i en operativ styringsfunksjon), og avslutningen bærer et bidragsgrep. Begge er beholdt fordi avslutningen er klyngens eneste CONTRIBUTION-grep; en leser kan likevel oppfatte to overføringer i samme brev.",
+    "Etter dette laget teller CV 383 dynamiske ord og brevet 321 ord. Sidetallene (CV 2, brev 1) er målt på utkastet før laget og er ikke rendret på nytt.",
+    "Brevet bruker evidens utenfor briefen (EV:OTHER#032-5-1-sprak, EV:WORK#012), deklarert av Stage 2."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": null,
+  "notes": [
+    "Sporet er operations-siden, ikke regulatorisk fagdybde. Pussen endrer ikke det valget."
+  ]
+}

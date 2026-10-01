@@ -1,0 +1,58 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260916-185207-a37938/branches/sx_plan-reuse_20260918t010000",
+  "derived_at": "2026-09-17T22:43:07Z",
+  "manifest_sha256": "9e23532dd72c763f453b058201b12b715f8673bf882d42175c2837472e671886",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 1,
+    "core": 1,
+    "exception": 0,
+    "semantic_final_available": 1,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 1,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 1,
+      "OK": 0,
+      "DEGRADED": 0,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "abacus_erp_radgiver",
+      "employer": "Abacus IT AS",
+      "title": "Senior ERP-rådgivere og ERP-rådgivere",
+      "cluster": "smoke",
+      "sequence": 4,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "EDITOR",
+      "next_stage": null,
+      "rerun_stage": null,
+      "delivery": "LETTER_AND_CV",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "stale_reason": null,
+      "signals": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Run finalize then render.",
+      "output_paths": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "job_id": "visma_product_manager",
+  "stage": 2,
+  "cv_dynamic_words": 605,
+  "letter_words": 0,
+  "signals": [],
+  "documents": {
+    "cv": {
+      "pages": 2,
+      "tail_sections": {
+        "TIDLIGERE ERFARING": 2,
+        "TILLITSVERV": 2,
+        "SPRÅK": 2,
+        "SPRÅK OG KURS": 2,
+        "KURS": 2
+      },
+      "headline_lines": 2,
+      "warnings": []
+    }
+  },
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\visma_product_manage\\0916\\98728",
+  "render_state": "OK"
+}

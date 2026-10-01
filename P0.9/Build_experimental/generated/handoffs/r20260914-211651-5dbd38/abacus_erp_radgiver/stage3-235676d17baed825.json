@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260914-211651-5dbd38",
+  "job_id": "abacus_erp_radgiver",
+  "employer": "Abacus IT AS",
+  "title": "Senior ERP-rådgivere og ERP-rådgivere",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "27a1fc9d61dc13ae7270a472dd3789282ba7943ecd72197dc652b69e4d3ad8c8",
+  "upstream": {
+    "strategy_sha256": "5e0671a87a1437614b66d89d2ec2f8959a166c0d7fb738cfd59cc2b0d2ea01b2"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

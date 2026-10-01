@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260923-193222-838ddd",
+    "job_id": "nav_seniorradgiver_researchops",
+    "final_package_sha256": "8061a69f827aefdb28f00ca0077a9937e68193804d3739e82b5fec26791116aa",
+    "document_date": "2026-09-23",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "688732a32369e2e8718fbb556f0512509fc308d0a0fb43533e09c990c7934c4d",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "9591d19e76a03f767d8fd772090bef99c983d720d49454c12f3d6b3a64db4a48",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\nav_seniorradgiver_researchops\\out\\CV_Nav_Seniorradgiver.docx",
+      "output_sha256": "3c4d310706265e241f1d1771b311f259549dd8e07178deedce4fa69e1978c8c8",
+      "bytes": 40698,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\nav_seniorradgiver_researchops\\out\\CV_Nav_Seniorradgiver.pdf",
+      "output_sha256": "bb42695cf0f01e0182622bf6a29cb2e98e415d68e177c964b1cbe9a655aa4dc9",
+      "bytes": 290093,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_4z9s9cgl\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\nav_seniorradgiver_researchops\\out\\.rnd.56c9f6b4\\CV_Nav_Seniorradgiver.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\nav_seniorradgiver_researchops\\out\\.rnd.56c9f6b4\\CV_Nav_Seniorradgiver.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\nav_seniorradgiver_researchops\\out\\Soknad_Nav_Seniorradgiver.docx",
+      "output_sha256": "3aee4a403629b2ddaf07f87020d78603b2583a5040d32f7abbf9baf60749e434",
+      "bytes": 38808,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\nav_seniorradgiver_researchops\\out\\Soknad_Nav_Seniorradgiver.pdf",
+      "output_sha256": "d51e6dcc816c898b1c10c48a7fe5681cb76c9b4245641fce9fc79f5bf69056de",
+      "bytes": 192905,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_qfoqwicm\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\nav_seniorradgiver_researchops\\out\\.rnd.56c9f6b4\\Soknad_Nav_Seniorradgiver.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260923-193222-838ddd\\jobs\\nav_seniorradgiver_researchops\\out\\.rnd.56c9f6b4\\Soknad_Nav_Seniorradgiver.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-23T21:48:08Z"
+}

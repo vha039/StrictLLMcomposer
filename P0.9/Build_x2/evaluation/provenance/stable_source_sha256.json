@@ -1,0 +1,492 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 53,
+    "sha256": "10e3b7fe8282a8b8ae2db3977916a4b596db552accbc9286cba2d26339172aec",
+    "captured_at_utc": "2026-09-23T09:08:48.123878+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\.gitignore"
+  },
+  {
+    "path": ".python-version",
+    "bytes": 7,
+    "sha256": "5ab05f548328863dd73c057cc6bde305fc62a87522b3f28eadb9bbdd3b1409be",
+    "captured_at_utc": "2026-09-23T09:08:48.124573+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\.python-version"
+  },
+  {
+    "path": "authorities/CV_BASELINE.md",
+    "bytes": 7294,
+    "sha256": "c52b1631ea70fd226b57c103cadc4a43cb4f5df4829ec72777cdf39045a26529",
+    "captured_at_utc": "2026-09-23T09:08:48.129563+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\authorities\\CV_BASELINE.md"
+  },
+  {
+    "path": "authorities/Education.md",
+    "bytes": 28307,
+    "sha256": "d384ff8328da7127f79868e4eb49cfafd8bcde246457741c655456aa4104ae8f",
+    "captured_at_utc": "2026-09-23T09:08:48.134914+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\authorities\\Education.md"
+  },
+  {
+    "path": "authorities/Other_high_value_information.md",
+    "bytes": 34412,
+    "sha256": "0739f2a4c815c6dab9436816f1648c0346497f25414bea2760b1b4d2bb48c40a",
+    "captured_at_utc": "2026-09-23T09:08:48.140839+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\authorities\\Other_high_value_information.md"
+  },
+  {
+    "path": "authorities/Work_experience.md",
+    "bytes": 87223,
+    "sha256": "03ebb948b03bb1f9c81b992ed748ca76dfad96308272f4d4de47804384ac2710",
+    "captured_at_utc": "2026-09-23T09:08:48.145926+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\authorities\\Work_experience.md"
+  },
+  {
+    "path": "BUILDER_REPORT.md",
+    "bytes": 49348,
+    "sha256": "9f4056b408816ebc3117b50bf877f0fcc402978cd059ece0ac54b44939972274",
+    "captured_at_utc": "2026-09-23T09:08:48.151554+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\BUILDER_REPORT.md"
+  },
+  {
+    "path": "context/PERSONALITY_PROFILE.md",
+    "bytes": 8433,
+    "sha256": "199749d2b0b13182874085c710a9fc1390c91e2b529f0514a31ee445d43c03ea",
+    "captured_at_utc": "2026-09-23T09:08:48.157818+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\context\\PERSONALITY_PROFILE.md"
+  },
+  {
+    "path": "policy/personality_facets.json",
+    "bytes": 15077,
+    "sha256": "1196aae7eab46f340d5beb0835d9f3862847027804035941e0c3bcf7c15b854d",
+    "captured_at_utc": "2026-09-23T09:08:48.163645+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\policy\\personality_facets.json"
+  },
+  {
+    "path": "policy/RUNBOOK.md",
+    "bytes": 17809,
+    "sha256": "12abe8452f9d33339931192e3eb428a1a517314c6f51e74a37ddf2913fb2d103",
+    "captured_at_utc": "2026-09-23T09:08:48.169101+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\policy\\RUNBOOK.md"
+  },
+  {
+    "path": "policy/settings.toml",
+    "bytes": 3845,
+    "sha256": "969b04bb28f215d1883a23320ea891ea394ebc1b5324792a617f7fd23b4dfdf7",
+    "captured_at_utc": "2026-09-23T09:08:48.176811+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\policy\\settings.toml"
+  },
+  {
+    "path": "policy/stages/stage1_decision_architecture.md",
+    "bytes": 6683,
+    "sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d",
+    "captured_at_utc": "2026-09-23T09:08:48.184024+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\policy\\stages\\stage1_decision_architecture.md"
+  },
+  {
+    "path": "policy/stages/stage3_final_writer_review.md",
+    "bytes": 13628,
+    "sha256": "3b29e4540213373d6c7020e0d26818cd01da612755379dbf320727452fefe9d3",
+    "captured_at_utc": "2026-09-23T09:08:48.191466+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\policy\\stages\\stage3_final_writer_review.md"
+  },
+  {
+    "path": "policy/writing/FORFATTERSTEMME.md",
+    "bytes": 12752,
+    "sha256": "9b895f69340c491774bdf8fdd294d597aae1b76a22bc6c3ce9d91b7e999cc3ad",
+    "captured_at_utc": "2026-09-23T09:08:48.196524+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\policy\\writing\\FORFATTERSTEMME.md"
+  },
+  {
+    "path": "policy/writing/PERSUASION_CALIBRATION.md",
+    "bytes": 8436,
+    "sha256": "ea660850fa87ef759f25a75d2f5a19b7e022a967361adaacb26ba2bf8c30befe",
+    "captured_at_utc": "2026-09-23T09:08:48.200940+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\policy\\writing\\PERSUASION_CALIBRATION.md"
+  },
+  {
+    "path": "policy/writing/WRITING_DOCTRINE.md",
+    "bytes": 21728,
+    "sha256": "14574a65bccf93379bc72b9c7622f03ef5498d7bf0607d0c771002a84451ee75",
+    "captured_at_utc": "2026-09-23T09:08:48.206794+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\policy\\writing\\WRITING_DOCTRINE.md"
+  },
+  {
+    "path": "prompts/README.md",
+    "bytes": 1926,
+    "sha256": "346c212cb05575891fe55d8991fac7ee51aaf2c73d930c8de5ed92818b00e590",
+    "captured_at_utc": "2026-09-23T09:08:48.211104+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\prompts\\README.md"
+  },
+  {
+    "path": "prompts/STAGE1_PROMPT.md",
+    "bytes": 6648,
+    "sha256": "8e39f0f0ca927c5638e38bacbdc0500fbb35274c6ce76cfbe1d493b5d6f85e2e",
+    "captured_at_utc": "2026-09-23T09:08:48.216556+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\prompts\\STAGE1_PROMPT.md"
+  },
+  {
+    "path": "prompts/STAGE3_PROMPT.md",
+    "bytes": 10246,
+    "sha256": "fc295c296382c07389e7e137c97b215d1390fce85cc9ae1c7fa753f6ab565fb0",
+    "captured_at_utc": "2026-09-23T09:08:48.221705+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\prompts\\STAGE3_PROMPT.md"
+  },
+  {
+    "path": "pyproject.toml",
+    "bytes": 1078,
+    "sha256": "b94fac8d07773b0bc8059c06e2db92d2549f18d6adf776921a08ec1db4246d0e",
+    "captured_at_utc": "2026-09-23T09:08:48.222468+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\pyproject.toml"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5135,
+    "sha256": "90c13e14db5ac59e3afeb92a3e7b8d1c8d5d951d08ed78e9b0aeb03741e22f17",
+    "captured_at_utc": "2026-09-23T09:08:48.223147+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\README.md"
+  },
+  {
+    "path": "runtime/jobbsok/__init__.py",
+    "bytes": 544,
+    "sha256": "c5ec66466adf7e980145f3da144d22d1a96d1473363d6d0625c300008897b310",
+    "captured_at_utc": "2026-09-23T09:08:48.227936+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\__init__.py"
+  },
+  {
+    "path": "runtime/jobbsok/artifacts.py",
+    "bytes": 25775,
+    "sha256": "9293f98158bd4dd498939357f8881812930011cce46b6f8157d37726b5da2482",
+    "captured_at_utc": "2026-09-23T09:08:48.234445+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\artifacts.py"
+  },
+  {
+    "path": "runtime/jobbsok/atomicio.py",
+    "bytes": 7985,
+    "sha256": "85fb6566e38c442ab09458c85f81a3f65cdaefa348657ed4c21dd6ad645c2dcc",
+    "captured_at_utc": "2026-09-23T09:08:48.240661+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\atomicio.py"
+  },
+  {
+    "path": "runtime/jobbsok/baseline.py",
+    "bytes": 10190,
+    "sha256": "fab70185768fd8b1c038957818018c9b7fa6b09385cc70607775618384ebe5b3",
+    "captured_at_utc": "2026-09-23T09:08:48.246401+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\baseline.py"
+  },
+  {
+    "path": "runtime/jobbsok/batchinput.py",
+    "bytes": 8892,
+    "sha256": "09944783878b22555bb72f87dc51882bb687a6ab960260e3da5acb39de0cc451",
+    "captured_at_utc": "2026-09-23T09:08:48.252152+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\batchinput.py"
+  },
+  {
+    "path": "runtime/jobbsok/branch.py",
+    "bytes": 17114,
+    "sha256": "0ca1f111000d4ce2ca5dc46871daf9e0fd2ef138ac3872680b7add0fe75ed9c7",
+    "captured_at_utc": "2026-09-23T09:08:48.257469+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\branch.py"
+  },
+  {
+    "path": "runtime/jobbsok/cli.py",
+    "bytes": 57333,
+    "sha256": "e6a6f0f37c6951484845a5db98463c979b4d5615ee214bb2e945b97808fc751d",
+    "captured_at_utc": "2026-09-23T09:08:48.263622+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\cli.py"
+  },
+  {
+    "path": "runtime/jobbsok/docxfill.py",
+    "bytes": 18378,
+    "sha256": "c0fdc6ab4ef3772eb77abc082144ce026dff953faa2f656e146aa4de2beac3f0",
+    "captured_at_utc": "2026-09-23T09:08:48.271646+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\docxfill.py"
+  },
+  {
+    "path": "runtime/jobbsok/errors.py",
+    "bytes": 3803,
+    "sha256": "50772778de2106006309de9783b15c5fb790505352b011cf596979c95db9d883",
+    "captured_at_utc": "2026-09-23T09:08:48.276809+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\errors.py"
+  },
+  {
+    "path": "runtime/jobbsok/evidence_index.py",
+    "bytes": 18601,
+    "sha256": "f5c87238f7d62e1791dc5ed9643acfa445a5179c25680f4e505e5223a17950cc",
+    "captured_at_utc": "2026-09-23T09:08:48.281930+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\evidence_index.py"
+  },
+  {
+    "path": "runtime/jobbsok/failure.py",
+    "bytes": 4047,
+    "sha256": "91165a3121aa679e07cf7032584b179b6bc12fb8aea021dfda81b04a86489fc8",
+    "captured_at_utc": "2026-09-23T09:08:48.287635+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\failure.py"
+  },
+  {
+    "path": "runtime/jobbsok/hashing.py",
+    "bytes": 1652,
+    "sha256": "a0ecfd6de421729de247a1ae9e44e77b19c55e06a8837e2fa98dc31fcc1a0056",
+    "captured_at_utc": "2026-09-23T09:08:48.294366+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\hashing.py"
+  },
+  {
+    "path": "runtime/jobbsok/ioenc.py",
+    "bytes": 876,
+    "sha256": "ccbad43ece723977a0186d8542accaaabb7f1eabce56a9a7b5e27fdbce40dead",
+    "captured_at_utc": "2026-09-23T09:08:48.300977+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\ioenc.py"
+  },
+  {
+    "path": "runtime/jobbsok/leakage.py",
+    "bytes": 6969,
+    "sha256": "a1e1b4412903464ce35edaf0cc4b0eb674fe7d563c5b388a0170758dcea59458",
+    "captured_at_utc": "2026-09-23T09:08:48.308731+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\leakage.py"
+  },
+  {
+    "path": "runtime/jobbsok/manifest.py",
+    "bytes": 23629,
+    "sha256": "df8c17f5ff0868bbb29e65638473b1a1d209eee4eb5440029f5468b7de393d7e",
+    "captured_at_utc": "2026-09-23T09:08:48.315538+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\manifest.py"
+  },
+  {
+    "path": "runtime/jobbsok/merge.py",
+    "bytes": 3986,
+    "sha256": "8ca43f72d5c2c325d730b189e554cee6053a3cd4433c91a039d9ecec985e79f0",
+    "captured_at_utc": "2026-09-23T09:08:48.323392+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\merge.py"
+  },
+  {
+    "path": "runtime/jobbsok/paths.py",
+    "bytes": 15805,
+    "sha256": "9300e38e423277963fceaf94a2dd48981d011972baa155b810676ede7294880e",
+    "captured_at_utc": "2026-09-23T09:08:48.334048+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\paths.py"
+  },
+  {
+    "path": "runtime/jobbsok/pdf.py",
+    "bytes": 14771,
+    "sha256": "b141f7d4082bb6add146b5bfc196f4ed81047ab52060da7eb7e7d2b593b02c38",
+    "captured_at_utc": "2026-09-23T09:08:48.344449+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\pdf.py"
+  },
+  {
+    "path": "runtime/jobbsok/render.py",
+    "bytes": 44095,
+    "sha256": "a966c9801082c4c9fc2010f89985e7e4c9194fd55012d85fe08ff87038ebb73f",
+    "captured_at_utc": "2026-09-23T09:08:48.355461+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\render.py"
+  },
+  {
+    "path": "runtime/jobbsok/schemas.py",
+    "bytes": 5134,
+    "sha256": "4b8aa7610a6db8cebc84083da7768f79053fb52d697228e53e14833abef751fc",
+    "captured_at_utc": "2026-09-23T09:08:48.363885+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\schemas.py"
+  },
+  {
+    "path": "runtime/jobbsok/settings.py",
+    "bytes": 6159,
+    "sha256": "5b08189b1ef0b73ed790a1617f17b26699e7a0d23b8d944724231c168fe5382e",
+    "captured_at_utc": "2026-09-23T09:08:48.380392+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\settings.py"
+  },
+  {
+    "path": "runtime/jobbsok/status.py",
+    "bytes": 21806,
+    "sha256": "f5f0f304d2de878e5d2b89445e787dd3d2c29680dbc766922ecb96b43aeb5e98",
+    "captured_at_utc": "2026-09-23T09:08:48.388345+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\status.py"
+  },
+  {
+    "path": "runtime/jobbsok/vacancy.py",
+    "bytes": 9109,
+    "sha256": "dbfda96d0d2d579b140de8a7c0a63d80864ded549dcf5dd29889595f1647b381",
+    "captured_at_utc": "2026-09-23T09:08:48.396449+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\vacancy.py"
+  },
+  {
+    "path": "runtime/jobbsok/validate.py",
+    "bytes": 13741,
+    "sha256": "fce79167760ae9eb25bb9c452f9d1757cc81ed3e246d2bd6a524e6a53355a4dc",
+    "captured_at_utc": "2026-09-23T09:08:48.402186+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\jobbsok\\validate.py"
+  },
+  {
+    "path": "runtime/tests/conftest.py",
+    "bytes": 7301,
+    "sha256": "0c37a0995edaf643555fe23531b496873aefc6fe04e9111f86f31ac4bfbc9fb6",
+    "captured_at_utc": "2026-09-23T09:08:48.411752+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tests\\conftest.py"
+  },
+  {
+    "path": "runtime/tests/test_t01_t04_run_lifecycle.py",
+    "bytes": 41049,
+    "sha256": "1ad189deebd86effbcc7de9e9d2e9403fd607ea3a84ff58b6e72bf9b9a772236",
+    "captured_at_utc": "2026-09-23T09:08:48.420617+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tests\\test_t01_t04_run_lifecycle.py"
+  },
+  {
+    "path": "runtime/tests/test_t05_t08_ownership_schema_failure.py",
+    "bytes": 34290,
+    "sha256": "2ac87c6d8d4a6d2758731605b63b88efa7b53c53caf05eac6e1afb26b1a5002c",
+    "captured_at_utc": "2026-09-23T09:08:48.429649+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tests\\test_t05_t08_ownership_schema_failure.py"
+  },
+  {
+    "path": "runtime/tests/test_t09_t12_state_evidence.py",
+    "bytes": 18341,
+    "sha256": "ba4d09ff10dfe7716f694ca366d08524b3c59b6fbe64edf25eb4d830849556bb",
+    "captured_at_utc": "2026-09-23T09:08:48.439277+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tests\\test_t09_t12_state_evidence.py"
+  },
+  {
+    "path": "runtime/tests/test_t13_t15_merge_leakage_personality.py",
+    "bytes": 16925,
+    "sha256": "23714c4e5b9a9038fb17b2abbddf8f34278c437d4223273443036a6ca88986e2",
+    "captured_at_utc": "2026-09-23T09:08:48.447342+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tests\\test_t13_t15_merge_leakage_personality.py"
+  },
+  {
+    "path": "runtime/tests/test_t16_t18_containment_template.py",
+    "bytes": 28070,
+    "sha256": "cdacc22c913ee068a47a9b0e5852addac51e542a327618b6d93675462f31cde6",
+    "captured_at_utc": "2026-09-23T09:08:48.456888+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tests\\test_t16_t18_containment_template.py"
+  },
+  {
+    "path": "runtime/tests/test_t19_t23_render_security.py",
+    "bytes": 45572,
+    "sha256": "18c91fc860906961fe92b2b048c4b61b41187d4b3c0a2c52c28af9ec1e1c647d",
+    "captured_at_utc": "2026-09-23T09:08:48.468333+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tests\\test_t19_t23_render_security.py"
+  },
+  {
+    "path": "runtime/tests/test_traceability.py",
+    "bytes": 6992,
+    "sha256": "674a272ab8a074bd8f5374f4c0b1e66c0b1716af7694cb535d7459e276dd5181",
+    "captured_at_utc": "2026-09-23T09:08:48.476836+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tests\\test_traceability.py"
+  },
+  {
+    "path": "runtime/tools/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "captured_at_utc": "2026-09-23T09:08:48.477118+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tools\\__init__.py"
+  },
+  {
+    "path": "runtime/tools/fetch.py",
+    "bytes": 4741,
+    "sha256": "94531545b5c08135e85435fc8f9d0cc9e0b8eda110fc3aa0971d0473904c5dea",
+    "captured_at_utc": "2026-09-23T09:08:48.477856+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tools\\fetch.py"
+  },
+  {
+    "path": "runtime/tools/make_fixtures.py",
+    "bytes": 17418,
+    "sha256": "65f8438698d8e3f1aa4e937ddddc77f8ac9608778e009579f815b26a58507c7a",
+    "captured_at_utc": "2026-09-23T09:08:48.483581+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tools\\make_fixtures.py"
+  },
+  {
+    "path": "runtime/tools/prepare_masters.py",
+    "bytes": 30047,
+    "sha256": "f5180b69afda39dd17b34e0c020889a9b14959a1f5e5882af2b430846b8f439c",
+    "captured_at_utc": "2026-09-23T09:08:48.490871+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tools\\prepare_masters.py"
+  },
+  {
+    "path": "runtime/tools/vertical_slice.py",
+    "bytes": 15066,
+    "sha256": "ad50494be2409ebf2fe17aa01cfbab850c1174ad3e7990ebb0653bc37c993469",
+    "captured_at_utc": "2026-09-23T09:08:48.497097+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runtime\\tools\\vertical_slice.py"
+  },
+  {
+    "path": "schemas/baseline_map.schema.json",
+    "bytes": 5571,
+    "sha256": "3d35e3407948fefcd1eac361c0d81503211fdc6166acc93fb12423fbe768ae7b",
+    "captured_at_utc": "2026-09-23T09:08:48.502175+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\schemas\\baseline_map.schema.json"
+  },
+  {
+    "path": "schemas/evidence_index.schema.json",
+    "bytes": 4011,
+    "sha256": "d40ba08f8891b352c9597793e254de970d5269645e85a43ac3374c09502687c3",
+    "captured_at_utc": "2026-09-23T09:08:48.508615+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\schemas\\evidence_index.schema.json"
+  },
+  {
+    "path": "schemas/failure.schema.json",
+    "bytes": 3737,
+    "sha256": "c78de4042fa0421da649280340fa6d443b9883552039268a5d90f612502bc3ae",
+    "captured_at_utc": "2026-09-23T09:08:48.514520+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\schemas\\failure.schema.json"
+  },
+  {
+    "path": "schemas/manifest.schema.json",
+    "bytes": 11617,
+    "sha256": "f02c225a292cf0dcd29f77ef559d7260061c5351e7c2c8f2e213f45878a19cca",
+    "captured_at_utc": "2026-09-23T09:08:48.520260+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\schemas\\manifest.schema.json"
+  },
+  {
+    "path": "schemas/package.schema.json",
+    "bytes": 7615,
+    "sha256": "677a613739b85831a6f645f9ad265b617f3056f4c89b7037eb0df946b801ffaa",
+    "captured_at_utc": "2026-09-23T09:08:48.526059+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\schemas\\package.schema.json"
+  },
+  {
+    "path": "schemas/render_report.schema.json",
+    "bytes": 6371,
+    "sha256": "65a7ef89c69d85e844595fb6d39c7b96cee08521c4e3e6557e6565edaad908a2",
+    "captured_at_utc": "2026-09-23T09:08:48.531227+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\schemas\\render_report.schema.json"
+  },
+  {
+    "path": "schemas/review.schema.json",
+    "bytes": 3197,
+    "sha256": "6e79a9a19b01f6e45d0666958c789b2a4e38caf9d1acb443805c241c663c0aea",
+    "captured_at_utc": "2026-09-23T09:08:48.538432+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\schemas\\review.schema.json"
+  },
+  {
+    "path": "schemas/status.schema.json",
+    "bytes": 6672,
+    "sha256": "e820dda464a853fe7c10ebeeb12c809b66532469f9fed7180ebdaef7e17a6bb9",
+    "captured_at_utc": "2026-09-23T09:08:48.548355+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\schemas\\status.schema.json"
+  },
+  {
+    "path": "schemas/strategy.schema.json",
+    "bytes": 10294,
+    "sha256": "e7e79f18b6a8e3c6e3e9967affda371b6ff59aa6ae40ae7ba66d1c24d742999c",
+    "captured_at_utc": "2026-09-23T09:08:48.558798+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\schemas\\strategy.schema.json"
+  },
+  {
+    "path": "templates/APPLICATION_MASTER.docx",
+    "bytes": 37480,
+    "sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "captured_at_utc": "2026-09-23T09:08:48.569018+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\templates\\APPLICATION_MASTER.docx"
+  },
+  {
+    "path": "templates/CV_MASTER.docx",
+    "bytes": 39127,
+    "sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "captured_at_utc": "2026-09-23T09:08:48.577617+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\templates\\CV_MASTER.docx"
+  },
+  {
+    "path": "templates/template_map.json",
+    "bytes": 9429,
+    "sha256": "84a069c32995b61353e3edcee53d2c5fab5d289148f0358c3b461338108a2acb",
+    "captured_at_utc": "2026-09-23T09:08:48.586698+00:00",
+    "stable_source_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\templates\\template_map.json"
+  }
+]

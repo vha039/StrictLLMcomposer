@@ -1,0 +1,185 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "EIE trenger en synlig systemkoordinator som gjør digitale systemer og AI enklere å bruke for meglere: håndtere henvendelser, oversette behov til forbedringer, teste, dokumentere, lære opp og samhandle med et teknologiselskap og leverandører. Det er en bruker- og adopsjonsnær rolle; relevant teknisk struktur må kobles til konkrete brukere og overlevering, ikke bare til bygging.",
+  "selection_logic": "Velg digital arbeidsflyt og brukeraktivering som hovedrute. Nåværende OUS-arbeid og PRJ-02 dokumenterer teknisk bistand, kompetanseoverføring og oversettelse; PRJ-03 dokumenterer kontrollert modernisering, onboarding og en aktiv økonomisk arbeidsflyt; den KI-støttede arbeidsmodellen er en differensiator når den uttrykkes som menneskelig kontrollert forbedring. Eiendom, Core/EIE 365, leverandørkoordinering og ekstern kundesupport er reelle separate grenser.",
+  "primary_candidate_identity": "Rådgiver økonomi og IKT som forbedrer digitale arbeidsprosesser og gjør systemer brukbare gjennom kontroll, veiledning og overlevering.",
+  "headline_hypothesis": "Rådgiver økonomi og IKT | systemforbedring, brukeropplæring og AI-støttet arbeidsflyt",
+  "shortlist_thesis": "Vegard kan bidra med systemforståelse, praktisk problemløsing, dokumentasjon og opplæring når nye digitale verktøy skal fungere i hverdagen. Han er ikke eiendomsmegler, systemadministrator for EIEs systemer eller dokumentert leverandørkoordinator, og AI-bidraget må ikke utvides til påstått produksjonsløsning eller organisasjonstransformasjon.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Eiendomsmeglerbakgrunn eller økonomi-/IT-kompetanse/relevant utdanning.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "note": "Økonomimaster og dokumentert økonomi-/IKT-rolle dekker alternativet; ingen eiendomsmeglerbakgrunn."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Erfaring med arbeid i systemer og tett dialog med kunder/brukere.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Støtter intern bruker-/fagmiljødialog og teknisk veiledning; dokumenterer ikke support for eiendomskunder eller meglere."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Håndtere systemhenvendelser, løse utfordringer og følge opp etterpå.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Støtter teknisk bistand, feilsøking og kontrollert forbedring; ingen dokumentert ticket-/supportansvar eller SLA."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Teste nye verktøy og bidra til utviklingsretning for systemer.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "note": "Dokumenterer design/evaluering av verktøyalternativer og utforskende plattformarbeid, ikke produkteierskap eller leveransemandat."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Effektivisere meglernes hverdag med AI og ny teknologi.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens"
+      ],
+      "note": "Støtter menneskestyrt KI-assistert analyse/utvikling med kontroll og validering; ikke produksjons-LLM, AI-produkt eller dokumentert effekt i meglerarbeid."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Lage brukbare veiledninger og holde digital/fysisk brukeropplæring.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Kompetanseoverføring og controller-onboarding er dokumentert; ikke påstå opplæringsansvar for hele organisasjonen."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Sette opp systemer ved nye kontorer, koordinere leverandører og følge Core, EIE 365 og øvrige systemer.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "note": "Ingen dokumentert systemadministrasjon av disse systemene, kontoretablering eller leverandørkoordinering."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Interesse for hvordan digitalisering kan gjøre megler, kjøper og selger enklere.",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "note": "Ingen eiendomsmegler-, boligkjøper/-selger- eller meglerarbeidsflyterfaring."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Bærende bevis for å forbedre en kritisk digital arbeidsflyt uten å miste brukbarhet: rekonstruerte og endret et arvet budsjetteringsverktøy med kontroll, dokumentasjon og controller-onboarding.",
+      "claim_ceiling": "Ikke opphavsperson, budsjetteier, total moderniseringseier eller dokumentert tids-/feilgevinst; ikke bevis for EIE-systemadministrasjon.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "role": "Bærende bevis for brukernær teknisk oversettelse: beslutningsstøtte, workshops, overlevering samt rådgivning/opplæring om Power BI og semantisk modellering.",
+      "claim_ceiling": "Eksakt omfang, nåstatus og formelt støtteansvar i PRJ-02 er uavklart; ingen eksternt kundesenter- eller systemkoordinatorrolle.",
+      "lifecycle": "CONCEPT",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "EIEs systemer, eiendomsmegling og arbeidsflytene til meglere, boligkjøpere og selgere er ikke dokumentert.",
+      "reframe": "Vær konkret om en overførbar system- og brukeraktiveringskapasitet, ikke om bransjekunnskap.",
+      "honesty_note": "Ingen Core-, EIE 365- eller meglerfagpåstand."
+    },
+    {
+      "objection": "Kontoretablering, leverandørkoordinering og operativ systemadministrasjon er konkrete oppgaver uten direkte bevis.",
+      "reframe": "Ikke påstå dem. PRJ-03 kan vise kontrollert teknisk endring og onboarding, men ikke leverandør- eller driftsmandat.",
+      "honesty_note": "Ingen SLA, systemeierskap eller leverandøransvar."
+    },
+    {
+      "objection": "AI-oppgaven kan friste til produktpåstander.",
+      "reframe": "Bruk menneskestyrt, avgrenset KI-arbeidsflyt som relevant metode, parret med dokumentasjon og kvalitetssikring.",
+      "honesty_note": "Ingen produksjons-LLM, autonomi eller kvantifisert AI-effekt."
+    }
+  ],
+  "motivation_bridge": "EIEs oppgave er interessant fordi systemkoordinatoren står der teknologi enten blir friksjon eller faktisk gjør en arbeidshverdag enklere. Det er en naturlig arena for Vegards dokumenterte kombinasjon av systemforbedring, brukerorientert overlevering og kontrollert bruk av nye digitale muligheter.",
+  "cv_direction": {
+    "headline_direction": "Systemforbedring, brukeropplæring og AI-støttet arbeidsflyt som funksjonelt anker.",
+    "emphasis": [
+      "PRJ-03 for endring, kontroll og onboarding.",
+      "Nåværende OUS-rolle/PRJ-02 for teknisk veiledning og oversettelse.",
+      "KI-arbeidsmodell som metodisk supplement, ikke produktmeritt."
+    ],
+    "deprioritize": [
+      "Bred økonomianalyse, prognosearbeid og eID-lignende teknologipåstander.",
+      "Eiendom, Core/EIE 365, systemadministrasjon og leverandøransvar."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Teknologi skaper verdi når en bruker kan forstå, stole på og bruke den: avklar behov, forbedre kontrollert, dokumentere og lære opp.",
+    "top_employer_problems": [
+      "Gjøre digitale systemer og AI praktisk anvendelige for meglere.",
+      "Oversette henvendelser og brukerbehov til forbedringsarbeid.",
+      "Bevare avgrensningen mot EIE-spesifikk drift, leverandører og eiendomsfag."
+    ],
+    "structure_guidance": "Start med brukeraktivering og systemforbedring. La PRJ-03 bære kontrollert endring, og OUS/PRJ-02 bære veiledning; KI kommer etter den konkrete arbeidshverdagsverdien."
+  },
+  "avoid_guidance": [
+    "Ikke påstå eiendomsmeglerfag, Core/EIE 365-kompetanse, systemadministrasjon, SLA eller leverandørkoordinering.",
+    "Ikke gjøre intern teknisk bistand til ekstern kundesupport.",
+    "Ikke påstå AI-produkt, autonomi, organisasjonstransformasjon eller målt produktivitet.",
+    "Ikke la verktøyliste fortrenge dokumentasjon, opplæring og kontrollert forbedring."
+  ],
+  "counterfactual_route": null,
+  "risk_notes": [
+    "Derived view was readable; no platform-generated content was treated as an employer requirement.",
+    "The strongest fit is adoption-facing system improvement, while EIE-specific operations and real-estate context remain genuine gaps."
+  ],
+  "personality_facets": [],
+  "writer_guidance": "Keep the final package human and practical: a colleague who helps users through change, not an abstract AI evangelist. Use exact examples of onboarding, technical guidance and controlled modernization, and let the remaining system/vendor/domain gaps remain unsynthesized rather than papered over.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "eie_systemkoordinator",
+    "employer": "EIE eiendomsmegling",
+    "title": "Systemkoordinator",
+    "manifest_sha256": "d68a8bf0c96a0df58fcded9772503c06957c162c9f4762a03f049228eb60dc77",
+    "vacancy_sha256": "297d52a3417b3fb25542930633525245ce29c17165deb3328d559dfbf72a66a5",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

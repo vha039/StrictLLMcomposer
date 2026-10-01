@@ -1,0 +1,1 @@
+batch_id,cluster_id,stage,model,effort,jobs,credits_before,credits_after,elapsed_minutes,continuation_used,completed_jobs,blocked_jobs,material_omissions,strategy_changes,rewrite_severity,cross_job_leakage,manual_review_minutes,notes

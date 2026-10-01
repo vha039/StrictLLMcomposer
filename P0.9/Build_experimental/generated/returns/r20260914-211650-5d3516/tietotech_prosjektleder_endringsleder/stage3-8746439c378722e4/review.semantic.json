@@ -1,0 +1,31 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Minstekravet om fem års erfaring som endrings-, prosess- eller prosjektleder er ikke oppfylt (OUS fra mars 2023, formell tittel Rådgiver Økonomi og IKT). Pakken antyder ikke oppfyllelse; kronologien viser varigheten og brevet bruker bare dokumenterte verb.",
+      "recommended_action": "Ingen redigering. Vurder ved godkjenning om søknaden skal sendes med dette kjente gapet.",
+      "priority": 1
+    },
+    {
+      "reason": "Konsulentrammen (kundeoppdrag, kunderelasjoner, nye oppdrag) har ingen direkte evidens. Brevet behandler den som et bevisst skifte fra interne mottakere til flere virksomheter, uten å kalle interne mottakere kunder.",
+      "recommended_action": "Normal skumlesing av siste hovedavsnitt for tone.",
+      "priority": 2
+    },
+    {
+      "reason": "KI-kravet besvares med superbrukerrolle og en menneskestyrt agentarbeidsflyt i et prosjekt under utvikling, ikke med innføring av KI i organisasjonen.",
+      "recommended_action": "Ingen redigering; formuleringen holder seg innenfor kildegrensene.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Under fem års relevant erfaring og ingen formell endrings-, prosess- eller prosjektledertittel.",
+    "Ingen ekstern konsulent- eller kundeleveranse og ingen utvikling av nye oppdrag er dokumentert.",
+    "Ingen sertifiseringer (PRINCE2, PROSCI, PMP, SAFe, Lean, Scrum Master).",
+    "Direkte dialog med toppledelse og fasilitering av beslutningsprosesser på ledernivå er ikke dokumentert og er ikke påstått.",
+    "Sammenlignende erfaring med prosjektstyring i offentlig og privat sektor er ikke dokumentert.",
+    "STE-modellens organisatoriske bruk og realiserte gevinster er uavklart; brevet sier bare ferdigstilt og overlevert."
+  ],
+  "material_strategy_change": "Gevinstenheten i brevet ble bygget om: STE-modellen (avvist falsk presisjon, synlige forutsetninger bevisst uten kjerne-VBA for controllernes eierskap) ble løftet fra valgfri enkeltsetning til del av det bærende gevinstargumentet sammen med rammeverket, fordi den svarer direkte på annonsens premiss om eierskap og verdi. 2027-runden med vesentlig større frihet ble tatt inn i brevet, og observerte brukertester fra styringsdashbordet ble løftet inn i CV-en som adopsjonsatferd. Overskriften ble endret fra formell tittel pluss liste til samfunnsøkonom og rådgiver med innføring og gevinstarbeid.",
+  "upstream_claim_repaired": "Autoritetsdigesten for BAR sier at kandidaten gikk fra kvalitetssikring av andre til selvstendig gjennomføring; kilden sier at hans eget arbeid ble kvalitetssikret av andre i starten. CV-punktet følger kilden. Strategiens motivasjonsbro knyttet budsjettverktøyets verdi kausalt til onboarding; brevet stiller onboarding og bruk side om side uten årsakspåstand. Strategien underbrukte 2027-moderniseringen, som er ferdigstilt og i sykehusdekkende bruk; den er nå med.",
+  "notes": []
+}

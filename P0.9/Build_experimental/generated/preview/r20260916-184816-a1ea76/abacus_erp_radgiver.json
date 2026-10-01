@@ -1,0 +1,29 @@
+{
+  "job_id": "abacus_erp_radgiver",
+  "stage": 3,
+  "cv_dynamic_words": 345,
+  "letter_words": 365,
+  "signals": [],
+  "documents": {
+    "cv": {
+      "pages": 2,
+      "tail_sections": {
+        "VERKTØY": 1,
+        "TIDLIGERE ERFARING": 2,
+        "TILLITSVERV": 2,
+        "SPRÅK": 2,
+        "SPRÅK OG KURS": 2,
+        "KURS": 2
+      },
+      "headline_lines": 1,
+      "warnings": []
+    },
+    "letter": {
+      "pages": 1,
+      "tail_sections": {},
+      "warnings": []
+    }
+  },
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\abacus_erp_radgiver\\0917\\94108",
+  "render_state": "OK"
+}

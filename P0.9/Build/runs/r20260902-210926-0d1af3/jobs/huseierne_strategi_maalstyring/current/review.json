@@ -1,0 +1,36 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "known_limitations": [
+    "Praktisk OKR-erfaring er ikke dokumentert.",
+    "Den direkte relevante erfaringen med virksomhetsstyring starter i mars 2023 og oppfyller ikke annonsens krav om minst fem år.",
+    "Direkte erfaring fra en kommersiell medlems- eller produktorganisasjon og eierskap til en hel prognoseprosess er ikke dokumentert."
+  ],
+  "material_strategy_change": "Finalen fikk en kandidatdrevet åpning, et mindre defensivt argument og tydeligere dokumentroller. CV-en dokumenterer bredde og omfang, mens søknaden samler varig felles metode, faktisk budsjettbruk og styringsinformasjon rundt Huseiernes vekst- og prioriteringsbehov.",
+  "notes": [
+    "JobMatch-sidene i den skannede FINN-kilden ble behandlet som KI-generert innhold og ikke brukt som arbeidsgiverkrav eller kandidatbevis."
+  ],
+  "reasons": [
+    {
+      "reason": "Pakken gir en tydelig og arbeidsgiverspesifikk forklaring på hvordan kandidaten kan bidra til at mål, prioriteringer og styringsinformasjon blir brukt i praksis.",
+      "recommended_action": "Gjennomfør normal menneskelig skim og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "De to bærende casene viser både varig felles metode og gjennomføring i en kritisk økonomiprosess, med korrekt teamramme, livsløp og bruk.",
+      "recommended_action": "Behold denne bevisrekkefølgen i den endelige menneskelige gjennomgangen.",
+      "priority": 2
+    },
+    {
+      "reason": "Formalgapene i OKR-praksis og antall relevante år er ikke skjult gjennom overclaim, og de skaper ingen lokal tekstfeil som kan repareres med tilgjengelig evidens.",
+      "recommended_action": "Vurder gapene som del av ordinær søknadsbeslutning, ikke som en tekstlig reparasjon.",
+      "priority": 3
+    }
+  ],
+  "triage": "READY",
+  "upstream_claim_repaired": "Utkastets formulering om at gevinstrealiseringsrammeverket var 'rapportert i bruk' undersolgte en etablert opplysning. Finalen sier at det var i bruk om lag to og et halvt år senere, samtidig som den ikke hevder at det er i bruk i dag.",
+  "binding": {
+    "run_id": "r20260902-210926-0d1af3",
+    "job_id": "huseierne_strategi_maalstyring",
+    "final_package_sha256": "645633a4d6e7ab58f5a940513c704cc12425a1a07af13992a877d65ec022b82c"
+  }
+}

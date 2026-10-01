@@ -1,0 +1,32 @@
+{
+  "job_id": "amesto_ai_transformasjon",
+  "stage": 2,
+  "cv_dynamic_words": 591,
+  "letter_words": 471,
+  "signals": [
+    "«søker … fordi»",
+    "identity opening",
+    "bolt-on marker"
+  ],
+  "documents": {
+    "cv": {
+      "pages": 2,
+      "tail_sections": {
+        "TIDLIGERE ERFARING": 2,
+        "TILLITSVERV": 2,
+        "SPRÅK": 2,
+        "SPRÅK OG KURS": 2,
+        "KURS": 2
+      },
+      "headline_lines": 1,
+      "warnings": []
+    },
+    "letter": {
+      "pages": 1,
+      "tail_sections": {},
+      "warnings": []
+    }
+  },
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\amesto_ai_transforma\\0916\\55948",
+  "render_state": "OK"
+}

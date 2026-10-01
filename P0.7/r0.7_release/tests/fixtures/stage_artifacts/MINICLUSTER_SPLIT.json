@@ -1,0 +1,9 @@
+{
+  "macro_cluster_id": "B01_C01_process",
+  "A": [
+    "B01_J001_raadgiver"
+  ],
+  "B": [
+    "B01_J002_controller"
+  ]
+}

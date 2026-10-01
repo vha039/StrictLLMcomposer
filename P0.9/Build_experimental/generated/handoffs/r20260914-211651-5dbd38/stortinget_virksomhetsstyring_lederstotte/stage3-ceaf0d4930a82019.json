@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260914-211651-5dbd38",
+  "job_id": "stortinget_virksomhetsstyring_lederstotte",
+  "employer": "Stortinget",
+  "title": "seniorrådgiver/rådgiver",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "27a1fc9d61dc13ae7270a472dd3789282ba7943ecd72197dc652b69e4d3ad8c8",
+  "upstream": {
+    "strategy_sha256": "accfe34ecdee196d630ce154f4e7adafe368d24c3d407921a345ad34d6932d5e"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

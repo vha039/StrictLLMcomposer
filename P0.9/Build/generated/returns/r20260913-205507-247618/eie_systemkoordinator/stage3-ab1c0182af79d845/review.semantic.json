@@ -1,0 +1,29 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken leder med den registrerte KI-superbrukerrollen og tekniske henvendelser fra kolleger, en kontrollert KI-arbeidsmåte, verktøy tatt i bruk av mange brukere med opplæringsmateriell, og kundedialog fra Sector Alarm. Dette svarer på minstekravene om økonomi- eller IT-kompetanse, systemarbeid og kundedialog. Ingen kjent ustøttet påstand gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Eiendomsmegling, Core, EIE 365, oppsett av systemer ved nye kontorer og leverandørkoordinering er ikke dokumentert. Avslutningen sier kort at bransjen og systemene må læres.",
+      "recommended_action": "Ingen endring nødvendig.",
+      "priority": 2
+    },
+    {
+      "reason": "KI-superbrukerrollen har ikke oppgitt antall brukere eller formelt støtteansvar, og KI-arbeidet er metode i analyse og utvikling, ikke et KI-produkt eller målt effektivisering. Teksten holder seg innenfor dette.",
+      "recommended_action": "Behold avgrensningen hvis teksten redigeres.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert eiendomsmeglerbakgrunn eller erfaring med meglernes arbeidsflyt.",
+    "Ingen dokumentert systemadministrasjon, leverandørkoordinering eller ansvar for en supportfunksjon.",
+    "Kundedialogen er fra salgsarbeid i 2013 til 2014; nyere dialog er med interne brukere og kolleger.",
+    "Ingen dokumentert effekt av KI-bruk i form av sparte timer eller produktivitet."
+  ],
+  "material_strategy_change": "Løftet KI fra metodisk supplement til hovedspor, fordi annonsen sier at en stor del av hverdagen handler om KI og KI-superbrukerrollen med tekniske henvendelser i Teams er den nærmeste dokumenterte parallellen til å håndtere systemhenvendelser. La til konverteringsverktøyene ved ERP-overgangen, som ble tatt i bruk i flere klinikker, som bevis på brukernær systemendring, og kundedialogen fra Sector Alarm for minstekravet om kundedialog.",
+  "upstream_claim_repaired": "Understatement: strategien vurderte kravet om tett dialog med kunder som bare tilgrensende og dokumentert kun gjennom intern dialog, men arbeidsforholdet i Sector Alarm dokumenterer behovsavklaring, pristilbud, direkte salg og kundedialog. Strategien plasserte også KI-superbrukerrollen, som er uttrykkelig bekreftet, bak mer generelle bevis for veiledning.",
+  "notes": []
+}

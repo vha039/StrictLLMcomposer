@@ -1,0 +1,62 @@
+{
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#033-5-3-rekrutteringsstotte",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach"
+  ],
+  "cv": {
+    "headline": "Samfunnsøkonom | Bemanningsgrunnlag og teamstruktur",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver Økonomi og IKT ved Oslo universitetssykehus. Har arbeidet med årsverks- og bemanningsgrunnlag i budsjett og lederrapportering, og bygget ansatt-, ansettelses- og bemanningsdata inn i sykehusets budsjetteringsverktøy, i sykehusdekkende bruk for 2026 og 2027. Arbeider i og med tverrfaglige tekniske team, har bidratt til teamstruktur, ansvar og oppgaveflyt i en ny analyseavdeling, og har deltatt i innledende screening av søkere med anbefalinger til ansvarlig leder.",
+    "competencies": [
+      "Bemannings-, årsverks- og kapasitetsgrunnlag",
+      "Teamstruktur, roller, ansvar og avhengigheter",
+      "Koordinering av parallelle prosesser og mange interessenter",
+      "Kandidatvurdering og vurderingskriterier",
+      "Onboarding, opplæring og overlevering",
+      "Forståelse av system- og dataarbeid i tverrfaglige team",
+      "Power BI, Excel/VBA, SQL, R/Python og Git"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Bygget ansatt-, ansettelses- og bemanningsdata inn i sykehusets om lag 20 år gamle budsjetteringsverktøy, i stedet for manuell kopiering fra en egen arbeidsbok. I praksis eneste kodende utvikler i en prosess med om lag 50 involverte på tvers av arbeidsgrupper; laget onboarding for controllere. I sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Deltok i etableringsgruppen på fire for Analyseavdelingen og utarbeidet alternativer for teamstruktur, ansvar, avhengigheter og beslutningsrett, samt praktiske Scrum/Kanban-strukturer, WIP-grenser og arbeidsflater i Loop; en del er innført, en del foreslått.",
+          "Har ansvaret for samlet arkitektur og integrasjon i et prognoseprosjekt under aktiv utvikling, der arbeidet er fordelt mellom en kollega som eier opprinnelig modell, features og datavalidering, kodeagenter og egen arkitektur- og integrasjonsrolle.",
+          "Deltok i innledende screening av søkere, anbefalte lovende kandidater til ansvarlig leder og utviklet en analytisk metode for å utlede kriterier og vekter fra stillingsannonser og sammenligne dem med CV og søknad.",
+          "Utformet strukturerte bestillingsskjemaer som får frem formål, brukere, avhengigheter, risiko, prioritet og akseptansekriterier før arbeid starter.",
+          "Hovedutvikler av datamodell og beregninger i et styringsdashbord for økonomi, bemanning, sykefravær og aktivitet; lærte opp teknisk personale i en annen rapporteringsorganisasjon i Power BI og datamodellering."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Bidro i budsjettprosessen for 2024 med registrering av årsverk og kvalitetssikring av bemannings-, UTA- og vaktgrunnlag.",
+          "Sammenstilte økonomi-, bemannings- og aktivitetsgrunnlag til klinikkens lederrapportering, blant annet estimert ekstern innleie, og sendte månedsrapportene til lederne selv mot slutten av perioden.",
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, avstemming og kvalitetssikring, og utviklet på eget initiativ Excel/VBA-verktøy som i perioden etter overgangen til REGERP ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Ved Oslo universitetssykehus har jeg arbeidet med begge delene en bemanningsansvarlig skal holde sammen: tallene for bemanning og kapasitet, og de tverrfaglige teamene som trenger folk med riktig kompetanse. Det er den koblingen jeg vil bidra med i Politiets IT-enhet.",
+    "body_paragraphs": [
+      "I Barne- og ungdomsklinikken registrerte jeg årsverk og kvalitetssikret bemannings-, UTA- og vaktgrunnlag i budsjettet for 2024, og estimert ekstern innleie var en del av lederrapporteringen jeg sendte klinikkens ledere. Senere bygget jeg ansatt-, ansettelses- og bemanningsdata inn i sykehusets budsjetteringsverktøy, som tidligere krevde manuell kopiering fra en egen arbeidsbok. Jeg var i praksis eneste kodende utvikler, men arbeidet gikk gjennom en prosess med om lag 50 involverte i flere arbeidsgrupper, og jeg laget onboarding for controllerne. Verktøyet er i bruk i hele sykehuset for 2026 og 2027.",
+      "Hvordan arbeid fordeles mellom roller i et teknisk utviklingsprosjekt, kjenner jeg fra eget arbeid. I prognoseprosjektet jeg har arkitekturansvaret for, eier en kollega den opprinnelige modellen, mye av datavalideringen og kontakten med dataleverandøren, mens jeg står for arkitektur og integrasjon, og kodeagenter gjør avgrensede deler av implementeringen. Da Analyseavdelingen ble etablert, var jeg en av fire i etableringsgruppen og utarbeidet alternativer for teamstruktur, ansvar og avhengigheter, i tillegg til praktiske oppgavestrukturer med Scrum, Kanban og WIP-grenser.",
+      "Kandidatvurdering har jeg arbeidet med i avgrenset form: jeg har deltatt i innledende screening av søkere og sendt anbefalinger til ansvarlig leder, og jeg har utviklet en analytisk metode for å hente kriterier og vekter ut av en stillingsannonse og sammenligne dem med CV og søknad. Samfunnsøkonomi fra NTNU og Universitetet i Bergen gir meg grunnlaget for å se kapasitet, kostnad og prioritering i sammenheng.",
+      "Jeg vil gjerne bruke erfaringen med bemanningsdata og teamstruktur til å gi ledere og team i IT-enheten et tydelig bilde av behov og kapasitet, slik at teamene har riktig kompetanse når de trenger den. Å gjøre det for et politi som bygger sterkere digitale fagmiljøer, er en meningsfull neste bruk av den erfaringen."
+    ],
+    "closing": "Jeg forteller gjerne mer i et intervju."
+  },
+  "writer_note": "Minstekravet om erfaring fra bemannings-, ressurs- og rekrutteringsprosesser er bare tilgrensende dokumentert. Pakken avgrenser screeningen presist og påstår ikke anskaffelser, intervjukoordinering eller HR-onboarding."
+}

@@ -1,0 +1,439 @@
+{
+  "employer_decision_problem": "Amesto AccountHouse leverer driftskritiske kjernefunksjoner innen regnskap, lønn og HR til kunder i Norden og er midt i en større teknologisk transformasjon. Uttalt: et lite transformasjonsteam med stort mandat skal, sammen med Group Transformation Director, identifisere muligheter, utfordre etablerte arbeidsmåter og drive automatiserings- og teknologiprosjekter innen regnskap og lønn fra idé og analyse til implementering; videreutvikle løsninger på data fra datavarehus, API-er og fagsystemer; utforske AI; og gjøre gode piloter om til løsninger som fungerer for mange kunder. Personen trenger ikke være utvikler, men må forstå hvordan teknologi, data og forretning henger sammen, kunne diskutere arkitektur og se logikken i databaser og API-er. Det viktigste er forretningsforståelse og forståelse av konsekvensene av teknologiske valg, erfaring med å drive prosjekter eller forbedringsinitiativ, rask læring, og evnen til å gå fra «dette burde vi gjøre» til «nå er det gjort». Erfaring fra regnskap, lønn eller compliance- og transaksjonstunge virksomheter er interessant. Slutning (ikke uttalt): annonsen tar avstand fra AI-prat uten gjennomføring. Arbeidsgiveren vil unngå både en strateg som ikke får noe implementert og en tekniker som ikke ser hva en automatisering betyr for kontroll og etterlevelse i en regnskaps- og lønnsleveranse.",
+  "selection_logic": "Uttalt: seks «det viktigste»-punkter, regnskap/lønn/compliance som interessant pluss, norsk og engelsk; bakgrunn kan være konsulent, finans, større virksomhet i transformasjon eller teknologi i regnskapsbransjen. Plattformens «85% match» er ikke arbeidsgiverinformasjon og ignoreres. Slutning: Group Transformation Director og rekrutteringsrådgiver vil skanne etter levert automatisering i økonomi- eller transaksjonsprosesser, teknisk flyt i data og arkitektur, og konkret KI-praksis som ikke er buzzwords. Kandidaten har uvanlig direkte evidens: operativ regnskapsnær produksjon og egeninitiert automatisering ved en ERP-overgang som ble tatt i bruk på tvers av klinikker. Den bør lede. KI og arkitektur skal fremstå som praktisk gjennomføringsevne med kontroll, ikke som identitet, selv om stillingstittelen inneholder AI.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver i økonomi og IKT som automatiserer og moderniserer kontrollkritiske økonomiprosesser fra behov til bruk, med praktisk forståelse av data, løsningsarkitektur og menneskestyrt KI-støttet utvikling.",
+  "headline_hypothesis": "Rådgiver økonomi og IKT | Automatisering av økonomiprosesser, data og KI",
+  "shortlist_thesis": "Kandidaten har sett en regnskapsnær prosess fra innsiden og automatisert den selv. I klinikkstaben ved OUS overtok han hele den tildelte månedsoppgjørsflyten innen om lag tre måneder, og ved overgangen til REGERP utviklet han på eget initiativ konverterings- og valideringsverktøy som økonomirådgivere i flere klinikker brukte. Senere var han i praksis eneste kodende utvikler da sykehusets forretningskritiske budsjetteringsverktøy fikk integrert ansatt- og bemanningsdata, etter at alternativer var veid mot driftsrisiko og vedlikehold; verktøyet ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027. I dag eier han arkitekturen, orkestreringen og integrasjonen i et prognoseprosjekt som bygges med en menneskestyrt arbeidsflyt for kodeagenter. Det er kombinasjonen Amesto etterlyser: forretnings- og kontrollforståelse, teknisk vurdering og faktisk gjennomføring.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Forstår forretning og konsekvensene av teknologiske valg.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Støttet med dokumenterte valg: vurderte VBA, Office Scripts, Python og KI-støttede tilnærminger mot kompatibilitet, driftsrisiko og vedlikehold i et forretningskritisk verktøy (PRJ-03); unngikk bevisst kjerne-VBA i en beslutningsmodell slik at controllere kunne inspisere og justere uten varig utvikleravhengighet (PRJ-06); forretningsforståelse fra operativ økonomiproduksjon (BAR). Bæres i brevet av PRJ-03 og en PRJ-06-setning."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Erfaring med å drive prosjekter eller forbedringsinitiativ fremover.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Alternativet «forbedringsinitiativ» er støttet: egeninitierte verktøy fra behov til bruk (BAR), hovedimplementør i modernisering (PRJ-03), eier av arkitektur og orkestrering i aktivt prognoseprosjekt (PRJ-05), livsløpseier med fokuserte forbedringssprinter (PRJ-01, om lag august 2025–februar 2026). Formell prosjektlederrolle er ikke etablert og skal ikke påstås."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Teknisk nysgjerrig og lærer nye ting raskt.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "note": "Støttet: lærte VBA fra grunnen gjennom et egeninitiert verktøybehov og overtok månedsoppgjørsflyten innen om lag tre måneder (BAR); tidlig tilgang og piloter rundt Fabric, Power Platform, dbt, Pega og Python (PRJ-07); pågående masterprogram i KI ved UiA. Annonsen sier at evnen til å lære veier tyngst; vis det gjennom BAR-forløpet, ikke som egenskap."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Forstår nok teknologi til å utfordre, diskutere og ta gode valg; kan diskutere arkitektur, forstå hvordan systemer snakker sammen og se logikken i en database eller et API.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+        "EV:WORK#045-7-teknologi-og-metodeinventar"
+      ],
+      "note": "Arkitektur og systemsammenheng er støttet: eier samlet teknisk arkitektur, repository og orkestrator i PRJ-05; stjerneskjema, nøkler og relasjoner i PRJ-01; fem-arbeidsbokarkitektur med skjemakontrollert overføring i PRJ-06; praktisk integrasjon av JIT, ADI, REGERP, GAT og lønns-/personellgrunnlag; gjentatt praktisk SQL- og skjemaarbeid. API-arbeid er ikke dokumentert og skal ikke påstås; avansert SQL-optimalisering er ubekreftet."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Liker å gå fra «dette burde vi gjøre» til «nå er det gjort».",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Støttet med levert status: egeninitierte verktøy tatt i bruk på tvers av klinikker (BAR), modernisert verktøy i sykehusdekkende bruk i 2026 og 2027 (PRJ-03), beslutningsmodell ferdigstilt og overlevert til controllere (PRJ-06). Hver post beholder sin egen status."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Trives med frihet, variasjon og et miljø som ikke er ferdig rigget.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Støttet gjennom kontekst og handling: deltok i firepersoners etableringsgruppe for Analyseavdelingen og utformet arbeidsmodellen (blanding av innført og foreslått), og bygget styrings-BI fra grunnen på et bredt og lett spesifisert oppdrag. Ikke eneetablering eller avdelingsledelse."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Erfaring med regnskap, lønn eller andre compliance- og transaksjonstunge virksomheter (interessant).",
+      "importance": "DESIRED",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+        "EV:EDU#007-0-5-finance-process-role-bridge",
+        "EV:WORK#053-10-1-eksplisitt-forbudt"
+      ],
+      "note": "Alternativer. Regnskap er støttet gjennom operativ klinikkøkonomi: månedsoppgjør med periodisering, reversering, avsetninger, bilagsflyt, avstemming og resultatforklaring, prosjektøkonomi med fakturering og kontokontroller, i et regulert miljø. Lønn er ikke etablert som produksjonserfaring: lønns- og personellgrunnlag var datakilde og kostnadsgrunnlag. Ikke regnskapsbyrå, årsoppgjør eller formelt regnskapsansvar. Rammes positivt, ikke gjennom det som mangler."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Behersker norsk og engelsk godt.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:EDU#013-1-4-ernest-manning-high-school-calgary"
+      ],
+      "note": "Norsk morsmål; engelsk flytende skriftlig og muntlig. CV."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Lede og drive frem automatiseringsprosjekter innen regnskap og lønn fra idé og analyse til implementering.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#039-6-4-programmering-automatisering-og-impl"
+      ],
+      "note": "Drive frem automatisering fra behov til bruk i regnskapsnære prosesser er støttet (konverterings- og valideringsverktøy ved REGERP-overgangen; integrasjon av bemanningsdata i budsjetteringsverktøy). «Lede» prosjekter med team er ikke etablert, og lønnsautomatisering er ikke dokumentert. Første bærende bevisenhet i brevet."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Videreutvikle løsninger basert på data fra datavarehus, API-er og fagsystemer.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "note": "Fagsystemer er støttet: praktisk sammenkobling av JIT, ADI, REGERP, GAT, lønns-/personellgrunnlag og aktivitetskilder i kontrollkritiske økonomiprosesser, med SQL, Power Query og Excel/VBA. Datavarehus er nærliggende (SAS-uttrekk, SQL Server, utforskning av Fabric og lakehouse-konsepter uten produksjonsbevis). API-integrasjon er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Utforske hvordan AI og nye teknologier kan gjøre prosessene smartere.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#028-4-4-trygge-ki-pastander",
+        "EV:OTHER#029-4-5-ki-grenser",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#054-10-2-uavklart-utelat-eller-behold-smal-k",
+        "EV:EDU#030-4-3-uavklarte-punkter"
+      ],
+      "note": "Utforskning er støttet: menneskestyrt KI-støttet analyse og utvikling med kodeagenter, registrert KI-superbruker i om lag tre år, vurdering av KI-støttede tilnærminger i PRJ-03, plattformpiloter (PRJ-07), pågående KI-master. Grense: KI er brukt i analyse- og utviklingsarbeid, ikke dokumentert i automatiserte regnskaps- eller forretningsprosesser; ingen produksjons-LLM, organisasjonsomfattende KI eller kvantifisert gevinst. Andre bærende bevisenhet i brevet."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Utfordre dagens arbeidsmåter og identifisere helt nye muligheter.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "note": "Støttet: avviste en ustøttet direktefordeling og omformet oppdraget (PRJ-06), identifiserte moderniseringsmuligheter mot sykehusbegrensninger (PRJ-07), så behovet for konverteringsverktøy og bygget dem (BAR), utfordrer etablerte tilnærminger i workshops. PRJ-07 er utforskning og argumentasjon, ikke levert modenhetsveikart."
+    },
+    {
+      "requirement_id": "R13",
+      "text": "Jobbe tett med fagspesialister, teknologiressurser og ledelsen.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Kumulativt. Fagspesialister er støttet (controllere, økonomirådgivere, helseøkonomer). Teknologiressurser er støttet (integrerer kollegas patcher og kodeagentbidrag i PRJ-05; opplæring av teknisk personell i en annen rapporteringsorganisasjon). Ledelsen er nærliggende: månedsrapporter til klinikkledere og beslutningsstøtte; tett samarbeid med toppledelse er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R14",
+      "text": "Gjøre gode piloter om til løsninger som faktisk fungerer for mange kunder.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Løsninger som fungerer for mange brukere er støttet: verktøy brukt av økonomirådgivere i flere klinikker, modernisert verktøy i sykehusdekkende bruk, medutviklet metode innført som sykehusdekkende standard. Overgang fra pilot til skalert løsning er ikke dokumentert (PRJ-07-pilotene er utforskning), og brukerne er interne, ikke eksterne kunder."
+    },
+    {
+      "requirement_id": "R15",
+      "text": "Bidra til å bygge opp transformasjonsmiljøet videre.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Nærliggende: deltok i etableringen av en ny analyseavdeling og utformet arbeidsmodell, oppgavehierarki og WIP; ledet intern BI-workshop; tekniske KI-svar som superbruker. Miljøet var et analysemiljø, ikke et transformasjonsteam."
+    },
+    {
+      "requirement_id": "R16",
+      "text": "Teamlederrolle der personalansvar kan bli aktuelt over tid.",
+      "importance": "DESIRED",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:OTHER#033-5-2-tillitsverv",
+        "EV:OTHER#005-0-3-ufravikelige-claim-kontroller"
+      ],
+      "note": "Personalansvar er ikke et nåværende krav, men en mulig utvikling. Kandidaten har ikke personal- eller linjeansvar. Funksjonell ledelse er støttet gjennom arkitektur, prioritering, integrasjon av andres bidrag og overlevering. Valgte tillitsverv i studentbolig (inkludert styreleder) er ikke profesjonell personalledelse og skal ikke brukes som ledererfaring."
+    },
+    {
+      "requirement_id": "R17",
+      "text": "Bakgrunn fra konsulentvirksomhet innen digitalisering/teknologi/prosessforbedring, fra bank, forsikring, fintech eller inkasso, fra en større virksomhet som har vært gjennom omfattende transformasjon, eller fra teknologi og prosessutvikling i regnskapsbransjen.",
+      "importance": "DESIRED",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "note": "Eksempler, ikke krav. Nærmeste alternativ: større virksomhet (Oslo universitetssykehus HF) med dokumentert ERP-overgang til REGERP og modernisering av økonomiverktøy. At sykehuset som helhet har gjennomgått en omfattende transformasjon er ikke fastslått i kilden. Ingen konsulent-, finans- eller regnskapsbransjebakgrunn."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser"
+      ],
+      "role": "Første del av første bærende bevisenhet (automatisering av økonomiprosesser fra innsiden): i klinikkstaben overtok kandidaten innen om lag tre måneder hele den tildelte månedsoppgjørsflyten med periodisering, reversering, avsetninger, bilagsflyt, avstemming og resultatforklaring, først kvalitetssikret av andre og til slutt selvstendig. Ved overgangen til REGERP utviklet han på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer, lærte VBA fra grunnen underveis, og verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen. Han dokumenterte arbeidssteg, bygget kontroll- og valideringslogikk og koblet data fra JIT, ADI, REGERP, GAT og lønns-/personellgrunnlag. Svarer på om kandidaten forstår en transaksjons- og kontrolltung prosess godt nok til å automatisere den, og om han går fra idé til bruk.",
+      "claim_ceiling": "Egen tildelt klinikkflyt, ikke hele OUS, formelt regnskapsansvar eller årsoppgjør. Lønns-/personellgrunnlag var datakilde, ikke lønnskjøring eller lønnsproduksjon. Ikke den sentrale REGERP-/Oracle-løsningen eller ERP-programmet. Ingen tall for klinikker, brukere eller kjøringer og ingen tids- eller feilreduksjon. Verktøyene var ikke en pilot som ble skalert, og ikke en automatiseringsplattform. Ikke eier av arvede arbeidsbøker.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser"
+      ],
+      "role": "Andre del av første bærende bevisenhet, egen post med egen kontekst: sykehusets forretningskritiske, om lag 20 år gamle budsjetteringsverktøy krevde manuell kopiering av ansatt-, ansettelses- og bemanningsdata fra en annen arbeidsbok. Kandidaten rekonstruerte arkitekturen fra VBA-kode, metadata og formler, vurderte VBA, Office Scripts, Python og KI-støttede tilnærminger mot kompatibilitet, driftsrisiko og vedlikehold, og var i praksis eneste kodende utvikler i en bred interessentprosess på om lag 50 personer. Endringen ble styrt med differansekontroll, akseptansekriterier og risikoregister, og verktøyet ble brukt sykehusdekkende i budsjettprosessene for 2026 og 2027. Svarer på «konsekvensene av teknologiske valg» og på å få en automatisering til å fungere for mange brukere i en prosess som ikke tåler feil.",
+      "claim_ceiling": "Ikke opphavsperson, budsjetteier eller gjennomføringsleder; gjennomføringslederen krevde en smal funksjon-for-funksjon-refaktorering, og kilden sier ikke at kandidatens teknologivurdering avgjorde løsningen. Om lag 50 er interessentskala. Ingen kvantifisert tids-, feil- eller kostnadsgevinst. Ansatt- og bemanningsdata i et budsjettverktøy er ikke lønns- eller HR-systemerfaring. Ikke overfør denne bruken til BAR-verktøyene eller omvendt.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:OTHER#028-4-4-trygge-ki-pastander",
+        "EV:OTHER#029-4-5-ki-grenser",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "role": "Andre bærende bevisenhet (arkitektur og KI i praksis): i et aktivt prognoseprosjekt eier kandidaten samlet teknisk arkitektur, repository og orkestratoren som kobler data, features, modeller, evaluering og output, implementerer det meste av automatiseringen rundt, integrerer en kollegas patcher og utfordrer måldefinisjon og valideringsvalg. Implementeringen skjer i en menneskestyrt arbeidsflyt for kodeagenter med prosjektinstruksjoner, sannhetspresedens, avgrenset delegering, tester, bevisforpliktelser og overleveringslogger, der mennesket beholder gjennomgang og ansvar. Han er registrert KI-superbruker ved OUS i om lag tre år og tar et pågående masterprogram i KI. Svarer på at teknologi ikke kan overlates til IT, at kandidaten kan diskutere arkitektur og systemsammenheng, og at KI-utforskning skjer med kontroll og ikke som prat.",
+      "claim_ceiling": "Aktiv utvikling, ikke produksjonssatt, ingen verifisert modellytelse. Kollega laget opprinnelig XGBoost og mye av datavaskingen; om lag 40 000 linjer har fordelt forfatterskap og er ikke kandidatens manuelle arbeid. KI er brukt i analyse og utvikling, ikke i regnskaps- eller lønnsprosesser; ingen produksjons-LLM, RAG, finjustering, enterprise-KI, KI-styringsmandat eller kvantifisert produktivitetsgevinst. Ingen brukertall for superbrukerrollen. UiA: pågående, uten progresjon eller forventet fullføring. Ikke led med modellfamilier.",
+      "lifecycle": "IN_DEVELOPMENT",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE",
+        "BL:EDU_UIA_AI"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "role": "Dokumentert teknologivalg med forretningskonsekvens, fra en egen post: i en beslutningsmodell for gevinstfordeling i steril logistikk unngikk kandidaten bevisst kjerne-VBA og holdt formler og vekter synlige og konfigurerbare, med Power Query-overføring med skjemakontroll og revisjoner for umappede rader og avvik, slik at controllere og fagfolk kunne inspisere og justere uten varig avhengighet av en utvikler. Modellen ble ferdigstilt og overlevert til controllere tidlig i 2026. Kan gi én presis setning i brevet om vedlikeholdbarhet og eierskap som del av et teknologivalg.",
+      "claim_ceiling": "Ingen organisatorisk bruk, realisert gevinst, ROI eller business case-beløp dokumentert. Kandidaten eier rammeverksdesignet, ikke klinikkestimater eller endelige vekter. Ikke knytt PRJ-06 til regnskaps- eller lønnsautomatisering.",
+      "lifecycle": "COMPLETED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+        "EV:WORK#045-7-teknologi-og-metodeinventar",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "role": "CV-bevis for data- og systemforståelse som svarer på ferdighetsordene datavarehus, databanksystemer og automatisering: ETL- og pipelineresonnement på tvers av Excel, Power Query M, SQL, R/Python og SAS-uttrekk; skjemaharmonisering og konsolidering på tvers av kilder; datakvalitet og avstemming; utforskning av Fabric, Power Platform, dbt og Pega mot konkrete begrensninger.",
+      "claim_ceiling": "Ingen produksjonseierskap av cloud-, lakehouse- eller datavarehusplattform. API-utvikling er ikke dokumentert. Avansert SQL-optimalisering er ubekreftet. PRJ-07 er pilot og utforskning, ikke plattformadopsjon eller administrasjon.",
+      "lifecycle": "PILOT"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+      ],
+      "role": "CV-bevis for å bygge et nytt miljø og drive arbeid uten ferdig rigg: deltok i firepersoners etableringsgruppe for Analyseavdelingen og utformet teamstrukturalternativer, ansvar og avhengigheter, oppgavehierarki, Scrum/Kanban, WIP og Loop-arbeidsflater, og planla og fasiliterte workshops. Svarer på «miljø som ikke er ferdig rigget» og «bygge opp transformasjonsmiljøet».",
+      "claim_ceiling": "Skill innførte praksiser fra forslag. Ingen eneetablering, formelt organisasjonsdesignmandat, personalansvar eller linjeledelse.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+        "EV:EDU#024-3-3-okonomi-og-driftsroller"
+      ],
+      "role": "CV-grunnlag: fullført master i samfunnsøkonomi (NTNU) og bachelor (UiB) med bedriftsøkonomisk grunnlag i regnskap, budsjett og kontrollsystemer, koblet til praktisk økonomiprosesserfaring fra BAR. Pågående KI-master som teknologisk supplement.",
+      "claim_ceiling": "Akademisk regnskap og kontroll er ikke regnskapsbyrå-, lønns-, årsoppgjørs- eller revisjonserfaring. Emnet ECON263 har historisk tittelavvik. Ingen AI-ingeniørkvalifikasjon.",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIB_ECON"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Stillingen heter Team Lead, men kandidaten har ikke formell team-, prosjektleder- eller personalrolle.",
+      "reframe": "Annonsen beskriver en rolle som driver initiativer i et lite team, med personalansvar som mulig utvikling over tid. Kandidaten har drevet egne initiativer til bruk, eier arkitektur og integrasjon av en kollegas og kodeagenters bidrag i PRJ-05, og var livsløpseier for en styrings-BI-løsning.",
+      "honesty_note": "Ikke bruk teamleder- eller lederbetegnelse om kandidaten, og ikke bruk tillitsverv som personalledelse."
+    },
+    {
+      "objection": "Ingen lønnserfaring og ingen bakgrunn fra regnskapsbyrå eller regnskapsbransjen.",
+      "reframe": "Direkte operativ erfaring med regnskapsnær produksjon (månedsoppgjør, avstemming, bilagsflyt) og automatisering av en ERP-overgang i et regulert miljø; lønns- og personellgrunnlag som datakilde i økonomiprosessene. Annonsen vekter læringsevne først.",
+      "honesty_note": "Ikke påstå lønnsproduksjon. Ikke åpne med fravær av byrå-, lønns- eller årsoppgjørserfaring."
+    },
+    {
+      "objection": "KI er ikke dokumentert i produksjon eller i automatiserte forretningsprosesser.",
+      "reframe": "Praktisk og kontrollert KI-bruk i eget analyse- og utviklingsarbeid, med tydelige grenser for delegering og menneskelig gjennomgang, som passer Amestos avstand til AI-prat uten gjennomføring. Automatiseringsbevisene står på egne ben.",
+      "honesty_note": "Ikke påstå AI-løsninger i drift, AI-automatisering av prosesser eller organisasjonsomfattende AI."
+    },
+    {
+      "objection": "API-er og datavarehus er ikke dokumentert som praktisk erfaring.",
+      "reframe": "Integrasjon av flere fagsystemer i kontrollkritiske økonomiprosesser, SQL- og skjemaarbeid, skjemakontrollerte overføringer og repository- og orkestratorarkitektur; plattformutforskning rundt Fabric og dbt.",
+      "honesty_note": "Ikke skriv API-utvikling eller datavarehuseierskap."
+    },
+    {
+      "objection": "Erfaringen er fra offentlig sykehus, ikke fra en kommersiell leverandør med mange eksterne kunder.",
+      "reframe": "Løsningene har fungert for mange brukere i en stor virksomhet (økonomirådgivere i flere klinikker; sykehusdekkende budsjettprosess), og kandidaten har arbeidet i et nytt, ikke ferdig rigget miljø.",
+      "honesty_note": "Ikke kall interne brukere kunder og ikke påstå privat eller kommersiell transformasjonserfaring."
+    }
+  ],
+  "motivation_bridge": "Amesto skal automatisere regnskaps- og lønnsprosesser som er driftskritiske for mange kunder, og vil gjøre noe med AI i stedet for å snakke om det. Kandidatens erfaring har gått samme vei inne i én virksomhet: fra å gjennomføre en kontrollkritisk økonomiflyt, via å bygge verktøyene som gjorde en ERP-overgang håndterbar for økonomirådgivere, til å modernisere et forretningskritisk økonomiverktøy og nå bygge arkitektur med menneskestyrt KI-støttet utvikling. Motivasjonen kan forankres i å samle disse tre strengene i en rolle der automatisering av transaksjonstunge prosesser er hovedoppgaven og der løsningene skal virke for mange kunder. Knytt det til oppgaven, ikke til Amestos innovasjonskåring, trippel bunnlinje eller gründerkultur.",
+  "cv_direction": {
+    "headline_direction": "Yrkesoverskrift som plasserer kandidaten i automatisering av økonomiprosesser med data- og KI-forståelse, for eksempel rådgiver i økonomi og IKT med automatisering, data og KI. Ikke «AI Team Lead», «teamleder» eller «utvikler»; formell tittel Rådgiver Økonomi og IKT står uendret i kronologien.",
+    "emphasis": [
+      "Profil som etablerer samfunnsøkonom og rådgiver i økonomi og IKT, deretter de to sterkeste signalene: egeninitiert automatisering ved ERP-overgang brukt på tvers av klinikker, og modernisert forretningskritisk økonomiverktøy i sykehusdekkende bruk.",
+      "KI og arkitektur i toppsonen som praksis: arkitektur, orkestrering og integrasjon med menneskestyrt KI-støttet utvikling; registrert KI-superbrukerrolle; pågående KI-master.",
+      "BAR-bullets omskrevet mot regnskapsnær prosess og automatisering: månedsoppgjør, kontroll- og valideringslogikk, sammenkobling av JIT, ADI, REGERP og GAT.",
+      "Nøkkelkompetanser ledet av prosessautomatisering i økonomi, dataintegrasjon og løsningsarkitektur, regnskapsnære prosesser og kontroll, KI-støttet utvikling og analyse, og gjennomføring fra behov til bruk; verktøy (Excel/VBA, Power Query, SQL, R/Python) som dokumentasjon.",
+      "Teknologivalg for vedlikeholdbarhet (PRJ-06) og etablering av ny avdeling (PRJ-08) som sekundære punkter."
+    ],
+    "deprioritize": [
+      "DRG-, pasientflyt- og helsedomenedetaljer ut over det som forklarer konteksten.",
+      "Dashboard-visualisering og DAX-detaljer.",
+      "Prognosemodellfamilier (XGBoost, GAM, SARIMAX) og repositoriestørrelse.",
+      "Gevinstrealiseringsrammeverket (PRJ-04) kort.",
+      "Eldre roller 2013–2021 kompakt; tillitsverv kort eller utelatt."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_BAR",
+      "BL:EMP_OUS_ANALYSE"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Automatisering av kontrollkritiske økonomiprosesser fra behov til bruk, bygget på prosessforståelse fra innsiden og kombinert med praktisk arkitektur- og KI-kompetanse. Bæres av én integrert bevisenhet med to atskilte poster (BAR-verktøy ved REGERP-overgangen; PRJ-03-modernisering i sykehusdekkende bruk) og én enhet for arkitektur og menneskestyrt KI (PRJ-05 med KI-arbeidsflyt og superbrukerrolle).",
+    "top_employer_problems": [
+      "Drive automatisering av regnskaps- og lønnsprosesser fra idé til implementering uten å svekke kontroll og etterlevelse.",
+      "Ta teknologivalg med forståelse for forretningskonsekvenser, uten å være utvikler og uten å overlate teknologien til IT.",
+      "Utforske AI på en måte som faktisk gir løsninger, ikke bare prat.",
+      "Gjøre løsninger robuste nok til å fungere for mange brukere og kunder."
+    ],
+    "structure_guidance": "Åpne med yrkesanker og den konkrete koblingen til automatisering av transaksjonstunge prosesser, uten å gjenta annonsens retorikk om AI-prat. Første hovedavsnitt: BAR, der kandidaten først lærte prosessen ved å gjennomføre den og deretter bygget verktøyene økonomirådgivere tok i bruk; la PRJ-03 følge som egen erfaring om å endre et forretningskritisk verktøy etter å ha veid teknologialternativer mot driftsrisiko, med sykehusdekkende bruk. En setning om PRJ-06s bevisste valg for vedlikeholdbarhet kan styrke «konsekvenser av teknologiske valg». Andre hovedavsnitt: arkitektur og menneskestyrt KI i prognoseprosjektet, med fordelt forfatterskap og kontrollpunkter i samme argument. Kort motivasjon knyttet til oppgaven og en naturlig invitasjon. Denne søknaden leder med økonomiprosess og automatisering; den skal ikke åpne med endringsforankring eller strategisk rådgivning."
+  },
+  "avoid_guidance": [
+    "Ikke skriv at kandidaten har jobbet med lønn, lønnskjøring eller lønnsautomatisering; lønns- og personellgrunnlag var datakilde.",
+    "Ikke beskriv BAR-verktøyene som en pilot som ble skalert, en automatiseringsplattform eller en del av ERP-programmet.",
+    "Ikke overfør sykehusdekkende bruk fra PRJ-03 til BAR-verktøyene, eller bruk på tvers av klinikker fra BAR til PRJ-03.",
+    "Ikke påstå API-utvikling, datavarehuseierskap eller produksjonsplattform.",
+    "Ikke påstå KI i drift, KI-automatiserte prosesser eller at prognoseprosjektet er produksjonssatt; ikke gjør om lag 40 000 linjer til personlig forfatterskap.",
+    "Ikke kall kandidaten teamleder, prosjektleder eller utvikler; annonsen søker en forretnings- og teknologiprofil som kan gjennomføre.",
+    "Ikke la stillingstittelens «AI» gjøre KI til hovedidentitet foran automatiseringsbevisene.",
+    "Ikke bruk FINN-plattformens matchprosent eller tips som arbeidsgiverkrav."
+  ],
+  "counterfactual_route": {
+    "identity": "Domenetung rådgiver for menneskestyrt KI-støttet utvikling og løsningsarkitektur, med økonomiprosesserfaring som forankring.",
+    "rationale": "Stillingstittelen og nøkkelordene fremhever AI. En skribent kan la PRJ-05 (arkitektur, orkestrering, integrasjon og kontrollert delegering til kodeagenter), den registrerte KI-superbrukerrollen og pågående KI-master bære brevet, med BAR-automatiseringen som domeneforankring i CV-en. Ruten er mer særegen på AI og arkitektur, men svakere på levert automatisering i regnskapsnære prosesser, som annonsens løpende tekst vekter høyest, og kan utløse AI_NOVELTY_BIAS.",
+    "evidence_refs": [
+      "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+      "EV:OTHER#027-4-3-konkret-evidens",
+      "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+      "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+      "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+    ]
+  },
+  "risk_notes": [
+    "LEADERSHIP_INFLATION: tittelen «Team Lead» og muligheten for personalansvar gjør det lett å skrive ledelse kandidaten ikke har.",
+    "AI_NOVELTY_BIAS: tittel og nøkkelord kan trekke KI foran de mer direkte automatiseringsbevisene.",
+    "Lønn og API/datavarehus er ferdighetsord i annonsen uten dokumentert praksis; risiko for at skribenten lukker gapene med nærliggende ord.",
+    "Helsedomenevokabular (DRG, kurdøgn) kan gjøre profilen fremmed for en regnskapsleverandør; oversett til økonomiprosess og kontroll."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-10",
+      "plain_language_label": "Lærer et nytt fagfelt ved å gjøre arbeidet",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "expression_ceiling": "Kan vises gjennom overtakelse av hele den tildelte månedsoppgjørsflyten innen om lag tre måneder og VBA lært fra grunnen for å bygge verktøy økonomirådgivere tok i bruk. Ikke påstå ekspertise i lønn, regnskapsbransjen eller områder uten erfaring.",
+      "vacancy_relevance": "Amesto skriver at de først og fremst tror på evnen til å lære, og ønsker en som lærer nye ting raskt.",
+      "intended_employer_interpretation": "Kan sette seg inn i regnskaps- og lønnsprosessene hos Amesto raskt nok til å automatisere dem forsvarlig.",
+      "misread_risk": "Overdrivelse av eksisterende fagdybde i regnskap og lønn.",
+      "expression_guardrail": "Skill tydelig mellom læringsforløpet i BAR og ekspertise kandidaten ikke har; la tidsangivelsen være omtrentlig."
+    },
+    {
+      "facet_id": "PF-11",
+      "plain_language_label": "Bygger verktøy som fjerner manuelt arbeid for andre",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "expression_ceiling": "Kan vises gjennom egeninitierte konverteringsverktøy brukt av økonomirådgivere i flere klinikker og integrasjon av bemanningsdata som erstattet manuell kopiering i et verktøy i sykehusdekkende bruk. Ingen kvantifisert tids- eller feilbesparelse.",
+      "vacancy_relevance": "Rollen handler om automatiseringsprosjekter som skal virke for mange kunder.",
+      "intended_employer_interpretation": "Ser hvor manuelt arbeid kan automatiseres og følger det til en løsning andre faktisk bruker.",
+      "misread_risk": "Verktøybygging for egen del eller overingeniørering.",
+      "expression_guardrail": "Knytt hvert verktøy til brukeren og det konkrete manuelle steget det erstattet."
+    },
+    {
+      "facet_id": "PF-05",
+      "plain_language_label": "Delegerer arbeid med tydelige kontrollpunkter",
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "expression_ceiling": "Kan uttrykkes gjennom avgrenset delegering til kodeagenter med instruksjoner, tester og bevisforpliktelser, integrasjon av en kollegas patcher i arkitekturen, og akseptansekriterier og differansekontroll i PRJ-03. Ikke som ledererfaring, personalansvar eller KI-styringsmandat.",
+      "vacancy_relevance": "Et lite AI- og transformasjonsteam må få mye gjort gjennom kolleger, teknologiressurser og KI uten å miste kontroll i driftskritiske prosesser.",
+      "intended_employer_interpretation": "Kan skalere egen gjennomføring gjennom andre og gjennom KI og samtidig holde kvaliteten etterprøvbar.",
+      "misread_risk": "Byråkratisk, kontrollerende eller mikrostyrende.",
+      "expression_guardrail": "Vis kontrollene som lette og knyttet til reell risiko, og vis at delegeringen faktisk ga fremdrift."
+    }
+  ],
+  "writer_guidance": "Skriv for en transformasjonsdirektør som vil ha noen som får automatisering gjennomført i regnskaps- og lønnsleveranser. Den mest diagnostiske evidensen er BAR: kandidaten gjennomførte selv den kontrollkritiske flyten før han automatiserte delen av den som ERP-overgangen gjorde tung, og verktøyene ble brukt av andre. Det skiller ham fra AI-søkere uten prosessforståelse, og bør komme tidlig. PRJ-03 er en egen erfaring med egen status; bruk den for teknologivalg mot driftsrisiko og for sykehusdekkende bruk. KI og arkitektur skal fremstå som praktisk arbeid med kontrollpunkter og fordelt forfatterskap nær påstanden, ikke som interesse eller ekspertstatus. Oversett helsevokabular til økonomiprosess, kontroll og data. Personalansvar og teamlederrolle skal ikke adresseres som noe kandidaten har; la funksjonell gjennomføring tale.",
+  "requires_source_inspection_observed": false
+}

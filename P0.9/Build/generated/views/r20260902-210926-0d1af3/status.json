@@ -1,0 +1,93 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260902-210926-0d1af3",
+  "derived_at": "2026-09-02T21:57:57Z",
+  "manifest_sha256": "dbef5facd9e75f0c0df5b558bf10c382be9bdf87b47010e758da7c91ea76096c",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 2,
+    "core": 2,
+    "exception": 0,
+    "semantic_final_available": 2,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 2,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 0,
+      "DEGRADED": 2,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "huseierne_strategi_maalstyring",
+      "employer": "Huseiernes Landsforbund",
+      "title": "Strategi- og målstyringsrådgiver",
+      "cluster": "runb",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "DEGRADED",
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "OK",
+        "letter_pdf": "DEGRADED",
+        "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+        "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken gir en tydelig og arbeidsgiverspesifikk forklaring på hvordan kandidaten kan bidra til at mål, prioriteringer og styringsinformasjon blir brukt i praksis. Action: Gjennomfør normal menneskelig skim og godkjenning. | De to bærende casene viser både varig felles metode og gjennomføring i en kritisk økonomiprosess, med korrekt teamramme, livsløp og bruk. Action: Behold denne bevisrekkefølgen i den endelige menneskelige gjennomgangen. | Formalgapene i OKR-praksis og antall relevante år er ikke skjult gjennom overclaim, og de skaper ingen lokal tekstfeil som kan repareres med tilgjengelig evidens. Action: Vurder gapene som del av ordinær søknadsbeslutning, ikke som en tekstlig reparasjon. | Known limitation: Praktisk OKR-erfaring er ikke dokumentert. | Known limitation: Den direkte relevante erfaringen med virksomhetsstyring starter i mars 2023 og oppfyller ikke annonsens krav om minst fem år. | Known limitation: Direkte erfaring fra en kommersiell medlems- eller produktorganisasjon og eierskap til en hel prognoseprosess er ikke dokumentert.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-210926-0d1af3\\jobs\\huseierne_strategi_maalstyring\\out\\CV_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-210926-0d1af3\\jobs\\huseierne_strategi_maalstyring\\out\\Soknad_Huseiernes_Landsforbund_Strategi_og_malstyringsradgiver.docx"
+      ]
+    },
+    {
+      "job_id": "avinor_digital_transformasjon",
+      "employer": "Avinor AS",
+      "title": "Seniorrådgiver Digital Transformasjon",
+      "cluster": "runb",
+      "sequence": 2,
+      "priority": "NORMAL",
+      "deadline": "2026-09-13",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "DEGRADED",
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "OK",
+        "letter_pdf": "DEGRADED",
+        "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+        "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken gir et Avinor-spesifikt argument om digital gjennomføring i samfunnskritisk drift, med faktisk bruk som første bevis. Action: Gjennomfør normal menneskelig skim og godkjenning. | Gevinststyring, tverrfaglig strukturering og trygg endring er fremstilt med riktige bidrags-, livsløps- og effektgrenser. Action: Behold den nøkterne avgrensningen mot formelt konsern- og porteføljemandat. | Luftfartsgapet og fraværet av formelt transformasjonsmandat er reelle utvalgsforhold, men det gjenstår ingen navngitt lokal tekstlig reparasjon. Action: Vurder disse forholdene som del av ordinær søknadsbeslutning, ikke som grunnlag for CHECK. | Known limitation: Formelt ansvar for konserntransformasjon, program, digital portefølje, produkt eller personell er ikke dokumentert. | Known limitation: Direkte erfaring fra luftfart, flyplassdrift og sikkerhetskritisk luftfartsteknologi er ikke dokumentert. | Known limitation: Den relevante transformasjons- og digitaliseringserfaringen starter i 2023, og individuelt realiserte eller kvantifiserte gevinster er ikke dokumentert.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-210926-0d1af3\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260902-210926-0d1af3\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Transformasjon.docx"
+      ]
+    }
+  ]
+}

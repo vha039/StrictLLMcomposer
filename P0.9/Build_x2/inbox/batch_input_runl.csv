@@ -1,0 +1,5 @@
+job_id,employer,title,job_class,cluster,sequence,priority,source,unit,reference,deadline,exception_note
+ey_konsulent_digital_health,EY,Konsulent Digital Health,CORE,runl,1,HIGH,vacancies/EY - Konsulent.pdf,Digital Health,475349219,2026-09-30,
+statnett_seniorradgiver_operativ_balansering,Statnett,Seniorrådgiver Operativ balansering,CORE,runl,2,HIGH,vacancies/Statnett - Seniorrådgiver Operativ balansering.pdf,,475960172,2026-09-30,
+hafslund_kraft_radgiver_administrerende_direktor,Hafslund,Rådgiver administrerende direktør - Hafslund Kraft,CORE,runl,3,HIGH,vacancies/Hafslund Kraft - Rådgiver administrerende direktør.pdf,Hafslund Kraft,475888587,2026-09-30,
+asko_kundemasterdataansvarlig,ASKO NORGE AS,Kundemasterdataansvarlig,CORE,runl,4,HIGH,vacancies/Asko - Kundemasterdataansvarlig.txt,ASKO Servering,476964682,2026-09-30,

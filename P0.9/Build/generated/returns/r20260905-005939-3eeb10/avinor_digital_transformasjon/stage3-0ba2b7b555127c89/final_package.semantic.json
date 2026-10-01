@@ -1,0 +1,64 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom | digitalisering, gevinstrealisering og virksomhetsstyring",
+    "profile": "Samfunnsøkonom som arbeider med digitalisering og virksomhetsstyring i Direktørens stab ved Oslo universitetssykehus, i en drift med lav toleranse for feil. Jeg gjennomførte moderniseringen av sykehusets virksomhetskritiske budsjetteringsverktøy fram til faktisk bruk i budsjettprosessen for 2026, og var én av fire som utviklet sykehusets reviderte metodikk for gevinstrealisering, innført som sykehusdekkende standard og fortsatt i bruk om lag to og et halvt år senere. Arbeidet mitt ligger der teknologi, økonomi og organisasjon møtes: styringsmodeller, beslutningsgrunnlag og kontrollert innføring. Master i samfunnsøkonomi fra NTNU.",
+    "competencies": [
+      "Gjennomføring av digital endring i virksomhetskritiske systemer under kontinuitetskrav",
+      "Gevinstrealisering: felles metodikk, gevinstlogikk og fordelingsmodeller for investeringsstøtte",
+      "Styringsmodeller, beslutningsprosesser og strukturert arbeidsinntak",
+      "Beslutningsgrunnlag, analyser og presentasjoner for ledelse og styringsgrupper",
+      "Kontrollert modernisering: differansetesting, akseptansekriterier og risikoregister",
+      "Fasilitering av workshops, onboarding og kompetanseoverføring på tvers av fagmiljøer",
+      "Styringsinformasjon og semantisk modellering på tvers av økonomi, bemanning og aktivitet",
+      "Power BI, SQL, Excel/VBA, R og Python etter prosjektbehov"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Moderniserte sykehusets om lag tjue år gamle, virksomhetskritiske budsjetteringsverktøy som i praksis eneste kodende utvikler i en interessentprosess med om lag 50 involverte. Rekonstruerte arkitekturen fra kilden, integrerte bemannings- og lønnsdata som tidligere måtte kopieres manuelt, og sikret innføringen med differansesammenligning, akseptansekriterier og risikoregister. Versjonen ble brukt til å utarbeide budsjettet for 2026.",
+          "Var én av fire som utviklet sykehusets reviderte metodikk for gevinstrealisering og estimering. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et halvt år senere.",
+          "Utformet en vektet fordelings- og investeringsmodell på indirekte indikatorer, med åpne og justerbare forutsetninger, der direkte måling av tjenestebruk ikke var mulig. Modellen er utformet; innføring og endelige vekter er ikke avklart.",
+          "Hadde hovedansvaret for backend i sykehusets styringsløsning på tvers av økonomi, bemanning, sykefravær og aktivitet: semantisk modell, transformasjonslogikk og beregninger. Testet med faktiske brukere og kjørte avgrensede forbedringsrunder.",
+          "Deltok i firepersoners oppstartsgruppe som etablerte Analyseavdelingen, og utformet arbeidsformer, oppgavehierarki, WIP-styring og strukturert arbeidsinntak med formål, avhengigheter, risiko og akseptansekriterier.",
+          "Planla og gjennomførte workshops, onboarding av controllere og teknisk dokumentasjon, og lærte opp teknisk personell i en annen rapporterings- og dataorganisasjon i semantisk modellering.",
+          "Arbeider med fremskrivning av pasientvolum og kapasitetsbehov i R og Python: løsningsarkitektur, orkestrering, automatisering og tidsbasert validering. Prosjektet er under aktiv utvikling."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok i løpet av omtrent tre måneder hele den tildelte månedsoppgjørsflyten, og kvalitetssikret, rapporterte og distribuerte månedsrapporteringen til klinikkens ledere selv mot slutten av perioden.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til nytt ERP-system. Verktøyene ble brukt av økonomirådgivere i flere klinikker.",
+          "Sammenstilte og forklarte økonomi-, bemannings- og aktivitetsgrunnlag til lederrapportering, blant annet DRG og plantall, ventelister, kurdøgn og estimert innleie.",
+          "Leverte seksjonsvise DRG-estimater til budsjett og planlegging ved bruk av Stata, R og Power Query."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker stillingen som seniorrådgiver i Digital Transformasjon. Jeg er samfunnsøkonom og arbeider med digitalisering og virksomhetsstyring i Direktørens stab ved Oslo universitetssykehus, i en drift som ikke tåler at ting slutter å virke mens de forbedres.",
+    "body_paragraphs": [
+      "Sykehusets budsjetteringsverktøy var om lag tjue år gammelt og virksomhetskritisk, og logikken lå spredt mellom formler, navngitte områder og makrokode i kopier som hadde vokst fra hverandre. Jeg rekonstruerte arkitekturen fra kilden, integrerte bemannings- og lønnsdata som tidligere måtte kopieres manuelt fra en annen arbeidsbok, og var i praksis eneste kodende utvikler i en prosess med om lag 50 involverte. Jeg anbefalte en bredere restrukturering, men innføringsansvarlig krevde en smal tilnærming der én funksjon ble tatt om gangen, og omtrent 80 prosent av endringene ble derfor atferdsbevarende én til én. Jeg tok den rammen og kjøpte forsvarligheten med kontroll i stedet for med omfang: differansesammenligning av original og omskrevet funksjon, akseptansekriterier, gap- og risikoregister og en uttalt forventning om null regresjon. Den moderniserte versjonen ble brukt til å utarbeide sykehusets budsjett for 2026.",
+      "Analyseavdelingens første store oppdrag var å forbedre sykehusets eksisterende metodikk for gevinstrealisering og estimering, ikke å erstatte den. Vi var fire som gikk gjennom forskningsgrunnlaget, diskuterte og utviklet den reviderte metodikken, og mitt bidrag lå i forskningssyntesen, i de økonomiske og styringsmessige vurderingene og i standardiseringen. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag to og et halvt år senere.",
+      "Der gevinsten ikke lar seg måle direkte, gjør jeg heller forutsetningen synlig enn å lage presisjon som ikke finnes. I en fordelings- og investeringsmodell for steril logistikk holdt ikke direkte målt tjenestebruk til å fordele gevinster forsvarlig mellom klinikker. Jeg utformet i stedet en vektet modell på indirekte indikatorer, med åpne og justerbare vekter, og bevisst uten makrokode, slik at controllere og fagansvarlige kunne endre forutsetningene uten å være avhengige av meg. Den modellen er utformet, ikke innført."
+    ],
+    "closing": "Det som gjør stillingen interessant for meg er at den ligger der jeg har arbeidet: mellom en løsning som er levert og en som faktisk er tatt i bruk, og mellom en beregnet gevinst og en som lar seg etterprøve. Jeg bidrar gjerne med gjennomføring under driftskrav og med gevinstlogikk som tåler ettersyn, og tar gjerne en samtale om hvordan den nye enheten arbeider nå."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Beholdt strategiens toenhetsarkitektur og draftens evidensvalg. Én substansiell endring: draftens fjerde avsnitt, som åpnet med «Jeg har ikke hatt formelt lederansvar», er fjernet. Det tilførte ingen ny erfaring, men gjenfortalte interessentprosessen fra avsnitt 1 og opplæringsarbeidet som allerede står i CV-en, og det brukte avsnittets sterkeste posisjon på en negasjon. Annonsen oppgir operasjonelt lederansvar som ett av flere alternative bakgrunnsspor, og pakken påstår ikke lederansvar noe sted. Gapet står i review. Brevet gikk fra fire til tre kroppsavsnitt. Fjernet også en dobbeltføring i CV-en der kontrollopplegget rundt moderniseringen sto som eget punkt i tillegg til hovedpunktet. Skjønnsatomet i avsnitt 3 er beholdt uendret: det har gevinstmåling som felles emne med avsnitt 2, er formulert som gjeldende faglig regel pluss en separat observert beslutning med egen status, og er ikke koblet kausalt til rammeverkets varighet."
+}

@@ -1,0 +1,114 @@
+{
+  "artifact_role": "CURRENT_FAILURE",
+  "run_id": "r20260905-005939-3eeb10",
+  "job_id": "avinor_digital_transformasjon",
+  "operation": "STAGE1",
+  "classification": "FAILED",
+  "applies_to_hashes": {},
+  "violations": [
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/0/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A01'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/1/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A02'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/2/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A03'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/3/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A04'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/4/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A05'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/5/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A06'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/6/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A07'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/7/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A08'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/8/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A09'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/9/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A10'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/10/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A11'",
+      "severity": "ERROR"
+    },
+    {
+      "contract_id": "CTR-04",
+      "file": "strategy.json",
+      "location": "/material_requirements/11/requirement_id",
+      "expected": "pattern: '^R[0-9]{2,3}$'",
+      "observed": "'A12'",
+      "severity": "ERROR"
+    }
+  ],
+  "diagnostic_summary": "Semantic stage return failed mechanical validation.",
+  "attempts_used": 0,
+  "retry_position": null,
+  "mechanical_corrections_used": 0,
+  "semantic_attempt": null,
+  "last_successful_stage": null,
+  "recommended_next_action": "Correct the reported mechanical defects once in the same session and resubmit with the same handoff.",
+  "recorded_at": "2026-09-05T01:12:49Z"
+}

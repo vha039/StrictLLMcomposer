@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260823-050000-fea486",
+    "job_id": "testetaten_radgiver",
+    "final_package_sha256": "74e87c0e65ea74754aed00712ab63e27884e2a93f93413e930cde7a7f88ffe25",
+    "document_date": "2026-08-23",
+    "baseline_map_sha256": "3e5e8bdfe53f2e01b5399afe22930ab37d57eab8e6840b0958a40a6b0e1e04bf",
+    "cv_master_sha256": "a8f90a50f3c0801dc4d2e57f0685f64fab6dcd4d2fb46bd9707c363e461a8b26",
+    "letter_master_sha256": "aff96d15b7e11930d9ac790a983c79158a2573d6a023a2211b288ff4510c7c26",
+    "template_map_sha256": "a6d6297eb2cd49e924e8edeeccb33259e1ce434775c1bec0cbf27a84ecbbb7eb",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260823-050000-fea486\\jobs\\testetaten_radgiver\\out\\CV_Testetaten_HF_Radgiver_okonomi_og_analyse.docx",
+      "output_sha256": "f56934f272674a193c123a52d89d4979bd1af6d890e5db584d938a1f1b39907e",
+      "bytes": 39641,
+      "promotion": "FORCED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260823-050000-fea486\\jobs\\testetaten_radgiver\\out\\CV_Testetaten_HF_Radgiver_okonomi_og_analyse.pdf",
+      "output_sha256": "d18251e27baf97bd18b279e33f33ec07e4d8ecc780fd1d07aaf1dccd5f71a948",
+      "bytes": 292943,
+      "promotion": "REPLACED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_1rt92qcq\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260823-050000-fea486\\jobs\\testetaten_radgiver\\out\\.render-testetaten_radgiver.h6dcaw6n\\CV_Testetaten_HF_Radgiver_okonomi_og_analyse.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260823-050000-fea486\\jobs\\testetaten_radgiver\\out\\.render-testetaten_radgiver.h6dcaw6n\\CV_Testetaten_HF_Radgiver_okonomi_og_analyse.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260823-050000-fea486\\jobs\\testetaten_radgiver\\out\\Soknad_Testetaten_HF_Radgiver_okonomi_og_analyse.docx",
+      "output_sha256": "e11a80b2233d4dd3f8dea4e817b2b6316b0147f3ace011e9ab2f00fc35fc90a1",
+      "bytes": 37892,
+      "promotion": "REPLACED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260823-050000-fea486\\jobs\\testetaten_radgiver\\out\\Soknad_Testetaten_HF_Radgiver_okonomi_og_analyse.pdf",
+      "output_sha256": "187f34a645b76b74687923ac58ed2a176abba96ea1c60793f30c7afb2d896fdd",
+      "bytes": 192400,
+      "promotion": "REPLACED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_6phymco0\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260823-050000-fea486\\jobs\\testetaten_radgiver\\out\\.render-testetaten_radgiver.h6dcaw6n\\Soknad_Testetaten_HF_Radgiver_okonomi_og_analyse.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260823-050000-fea486\\jobs\\testetaten_radgiver\\out\\.render-testetaten_radgiver.h6dcaw6n\\Soknad_Testetaten_HF_Radgiver_okonomi_og_analyse.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-08-23T02:19:19Z"
+}

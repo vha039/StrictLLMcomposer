@@ -1,0 +1,96 @@
+{
+  "cv": {
+    "headline": "Rådgiver: digitale verktøy og brukeropplæring",
+    "profile": "Rådgiver økonomi og IKT ved Oslo universitetssykehus, med mastergrad i samfunnsøkonomi og pågående masterprogram i kunstig intelligens. Arbeider i skjæringspunktet mellom brukere og systemer: gjennomførte veiledede tester med faktiske brukere, observerte hvor de kom skjevt ut og kjørte målrettede forbedringsrunder på funnene. Underviste tekniske kolleger i Power BI og semantisk modellering på tvers av organisasjoner, og har i om lag tre år vært registrert som superbruker for kunstig intelligens, med tekniske svar i en Teams-kanal. Lager både detaljert referansemateriell og korte veiledninger, tilpasset mottakeren.",
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Gjennomførte veiledede tester med faktiske brukere av en styrings-BI-løsning (eid om lag august 2025 til februar 2026, senere avviklet), observerte hvor interaksjonen forvirret dem, kjørte målrettede forbedringsrunder på funnene og var primær feilsøker.",
+          "Ledet en intern workshop for økonomi- og helseøkonomikolleger om prosesskartlegging, datamodellering, ytelse og datakvalitet, og underviste tekniske kolleger i Power BI og semantisk modellering på tvers av organisasjoner.",
+          "Er registrert som superbruker for kunstig intelligens og svarer på tekniske henvendelser i en Teams-kanal; arbeider etter en fast arbeidsflyt der KI får avgrensede oppgaver mot definert kilderekkefølge, med krav om tester og avstemming og et menneskelig beslutningspunkt før konsekvensrike handlinger.",
+          "Vurderte VBA, Office Scripts, Python og KI-assisterte tilnærminger mot kompatibilitet, driftsrisiko og vedlikeholdbarhet i moderniseringen av sykehusets budsjetteringsverktøy, og laget onboarding- og presentasjonsmateriell for controllere.",
+          "Deltok i tidlig tilgang og piloter rundt Fabric, Power Platform, dbt, Pega og Python, og vurderte mulighetene mot konkrete driftsbegrensninger i virksomheten."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP, og lærte VBA fra grunnen gjennom arbeidet; verktøyene ble i perioden kort etter overgangen brukt relativt hyppig av økonomirådgivere i flere klinikker.",
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten, dokumenterte arbeidsstegene og forbedret arvede arbeidsbøker med kontroll- og valideringslogikk."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "body_paragraphs": [
+      "I arbeidet med en styrings-BI-løsning undersøkte jeg brukeropplevelsen gjennom veiledede tester. Jeg så hvor faktiske brukere ble forvirret, samlet tilbakemeldinger og fulgte opp med målrettede forbedringsrunder. Det ga konkrete observasjoner å arbeide ut fra, fremfor å ta min egen forståelse av systemet som mål på hvor forståelig det var. I en intern workshop for økonomikolleger koblet jeg prosesskartlegging til datamodellering og datakvalitet. I samarbeid med en annen organisasjons rapporteringsmiljø underviste jeg tekniske kolleger i modellering og optimalisering, og bidro vesentlig til den første komponenten i en driftsrapport. Detaljnivået i materiellet tilpasser jeg mottakeren: den som skal vedlikeholde en modell, trenger noe annet enn den som skal bruke svaret i sitt daglige arbeid.",
+      "Den samme vurderingen av bruk og ansvar ligger bak KI-arbeidsformen min. I superbrukerrollen svarer jeg på tekniske spørsmål i en Teams-kanal. I eget arbeid avgrenser jeg oppgaven, angir hvilke kilder som skal veie tyngst og kontrollerer resultatet før det går videre. Konsekvensrike handlinger beholder et menneskelig beslutningspunkt. I arbeidet med sykehusets budsjettverktøy vurderte jeg teknologialternativer opp mot kompatibilitet, risiko og vedlikehold, og laget materiell for controllerne som skulle bruke verktøyet. En ny mulighet må kunne beskrives som en konkret oppgave brukeren kan utføre og kontrollere. Core og EIE 365 er systemene jeg skal inn i, og selve systemkunnskapen tilegner jeg meg raskt. Tregere går det å finne ut hvor en bruker faktisk står fast, og nettopp det arbeidet kommer jeg fra."
+    ]
+  },
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "Konverteringen av arbeidsgiverfaktumet: fire ulike fagflyter gjør at veiledningen må skrives for hver brukergruppe og ikke for gjennomsnittet. Den bærer åpningen og hele U1. Uendret."
+    },
+    {
+      "id": "K2",
+      "disposition": "KEPT",
+      "reason": "Skjønnsatomet i brukertestene: observasjon fremfor egen systemforståelse som mål på forståelighet. Det er fasett PF-08 vist som handling og svarer direkte på annonsens innrømmelse om at veiledninger ikke blir lest. Uendret."
+    },
+    {
+      "id": "K3",
+      "disposition": "REWORDED",
+      "reason": "Funksjonen GAP_TURN og hele innholdet er uendret. Kløyvingen «det som tar tid, er …» var preview-signalet cleft motive; setningen er ført tilbake til briefens egen NAME_ONCE-ordlyd, som deler den i to aktive setninger og dropper semikolonet. Fortsatt én gang, fortsatt bare i brevet."
+    },
+    {
+      "id": "K4",
+      "disposition": "KEPT",
+      "reason": "Avslutningen er klyngens NEXT_STEP-grep og er konkret for EIE: følge meglerhenvendelser fra spørsmål til løsning, og bruke dem til å velge hva som skal forklares, testes eller tas videre med Brokio. Uendret."
+    }
+  ],
+  "changes": [
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TIC",
+      "note": "Avsnitt 2, K3: kløyvingen «det som tar tid, er å finne ut …» ført tilbake til briefens NAME_ONCE-ordlyd «Tregere går det å finne ut …». Dette var preview-signalet cleft motive. Setningen blir samtidig to aktive setninger i stedet for én med semikolon."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "De to avsnittene hadde identisk indre rytme: maksime med kolon, så bevis, så to generaliserende sluttsetninger. Signposten «Opplæringen må også treffe den som skal overta:» og «Også ved vurdering av nye verktøy må driften være med:» er fjernet. Begge annonserte et poeng beviset like etter viser selv, og symmetrien kom fra malen og ikke fra argumentet."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TONE",
+      "note": "Avsnitt 1: «Jeg tilpasser detaljnivået i materiell til mottakeren. En som skal vedlikeholde en modell, trenger noe annet enn en som skal bruke svaret …» er slått sammen til én setning. To setninger der den andre bare utdypet den første. Avsnitt 2: «For meg hører derfor utprøving og forklaring sammen» er fjernet som ren selvtolkning; setningen etter bærer poenget konkret."
+    },
+    {
+      "field": "letter.body_paragraphs",
+      "reason": "TRUTH",
+      "note": "Avsnitt 1: «bidro til en første rapportkomponent» til «bidro vesentlig til den første komponenten i en driftsrapport». Kortet for PRJ-02 sier «vesentlig bidrag til en første komponent i en driftsrapport»; «bidro til» ga bort styrken kilden faktisk bærer. Taket om ingen eneutvikling og intet rapporteierskap er fortsatt respektert."
+    },
+    {
+      "field": "cv.profile",
+      "reason": "TRUTH",
+      "note": "Understatement: superbrukerrollen sto uten varighet. Kortet oppgir om lag tre år med betegnelsen, og det er en godkjent opplysning. Dette er den ene jobben i klyngen der KI er ruten, så varigheten hører hjemme i toppsonen. Brukerantall, organisasjonsomfattende støtteansvar og styringsmandat er fortsatt ikke nevnt."
+    },
+    {
+      "field": "cv.headline",
+      "reason": "TIC",
+      "note": "Tankestrek byttet mot kolon. WRITING_DOCTRINE, Tegnsetting: tankestrek skal ikke forekomme i arbeidsgivertekst. Overskriften renderer fortsatt på én linje, som briefens headline_intent ba om."
+    },
+    {
+      "field": "cv.employment_overrides",
+      "reason": "TIC",
+      "note": "EMP_OUS_ANALYSE, BI-punktet sluttet på «senere avviklet», mønsteret playbooken navngir som tic. Livsløpet er flyttet inn i en parentes rett etter løsningen, så punktet slutter på feilsøkerrollen. Ingen opplysning er fjernet."
+    },
+    {
+      "field": "cv.employment_overrides",
+      "reason": "TRUTH",
+      "note": "EMP_OUS_BAR, punkt 1: periodeavgrensningen «i perioden kort etter overgangen» lagt tilbake på bruken av konverteringsverktøyene. Den er del av den godkjente bruken i måltallstabellen; uten den leses bruken som varig."
+    }
+  ],
+  "writer_note": "Ingen evidens utenfor briefen er hentet inn. Åpningen og avslutningen står uendret, så klyngens PROBLEM- og NEXT_STEP-grep er intakt. Tre av fire keystones er beholdt ordrett; K3 er ført tilbake til briefens egen NAME_ONCE-ordlyd. Ingen omtale av eiendomsmegling, Core eller EIE 365 ut over den ene NAME_ONCE-setningen, i tråd med briefens felle 4."
+}

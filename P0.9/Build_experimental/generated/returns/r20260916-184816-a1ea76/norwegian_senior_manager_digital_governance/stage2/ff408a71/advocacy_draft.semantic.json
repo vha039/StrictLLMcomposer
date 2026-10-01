@@ -1,0 +1,42 @@
+{
+  "letter": {
+    "opening": "Datagrunnlaget for å fordele gevinster fra steril logistikk mellom klinikker bar ikke en direkte fordeling. Jeg avviste den tilnærmingen og utformet i stedet en modell med vektede, indirekte indikatorer og synlige forutsetninger. Jeg valgte bevisst bort kode i kjernen som ville gjort controllere avhengige av en utvikler for å justere vurderingene. Fagansvarlige skulle kunne undersøke hva et svar bygget på. Norwegians funksjon for digital og regulatorisk styring er nyopprettet. Da blir arbeidet med inntak, ansvar og oppfølging en del av selve leveransen mens funksjonen bygges.",
+    "body_paragraphs": [
+      "Jeg deltok i firepersonersgruppen som etablerte Analyseavdelingen ved Oslo universitetssykehus, og har utformet arbeidsinntak og arbeidsmodell for et tverrfaglig miljø. I inntaket setter jeg beslutningsbehovet sammen med brukere, avhengigheter og akseptansekriterier. Hensikten er å avklare hva en leveranse faktisk må svare på før den får form som et verktøy eller en rapport. Jeg har også utformet forslag til ansvar og beslutningsrettigheter, og strukturer for prioritering og pågående arbeid. En oppgaveliste alene viser ikke hvem som må bidra, eller hva som må avklares før neste steg. Derfor arbeider jeg med både oppgaven og sammenhengene rundt den. Å gjøre slike sammenhenger håndterbare for fagpersonene som skal gjennomføre arbeidet, er en oppgave jeg vil fortsette med i en operativ styringsfunksjon.",
+      "Gjennomføring krever samtidig at vurderingene tåler å bli kontrollert. I moderniseringen av sykehusets budsjetteringsverktøy gjennomførte jeg kodeendringene innenfor en interessentprosess med om lag 50 personer. Jeg sammenlignet endret og opprinnelig funksjon, undersøkte logikkavvik og brukte akseptansekriterier og risikoregister. Kontrollarbeidet ga et konkret grunnlag for å vurdere om en endring holdt seg innenfor den avtalte rammen. I prosjektene mine skiller jeg mellom fakta, anbefalinger og forventet gevinst, og vurderer eksponering av sensitive data. Det er særlig viktig når et kort beslutningsgrunnlag skal være lett å lese uten å skjule usikkerheten bak konklusjonen. Modellen for gevinstfordeling og arbeidet med budsjettverktøyet viser to sider av samme faglige krav: forutsetningene må være tilgjengelige for vurdering, og gjennomføringen må kunne kontrolleres."
+    ],
+    "closing": "Hos Norwegian vil mitt bidrag være å omsette avklarte krav til konkrete oppgaver, samle de nødvendige faglige bidragene og holde beslutninger, ansvar og oppfølging samlet gjennom gjennomføringen."
+  },
+  "keystones": [
+    {
+      "id": "K1",
+      "text": "Jeg valgte bevisst bort kode i kjernen som ville gjort controllere avhengige av en utvikler for å justere vurderingene.",
+      "document": "LETTER",
+      "function": "JUDGMENT"
+    },
+    {
+      "id": "K2",
+      "text": "Da blir arbeidet med inntak, ansvar og oppfølging en del av selve leveransen mens funksjonen bygges.",
+      "document": "LETTER",
+      "function": "EMPLOYER_FACT"
+    },
+    {
+      "id": "K3",
+      "text": "Hos Norwegian vil mitt bidrag være å omsette avklarte krav til konkrete oppgaver, samle de nødvendige faglige bidragene og holde beslutninger, ansvar og oppfølging samlet gjennom gjennomføringen.",
+      "document": "LETTER",
+      "function": "CLOSE"
+    }
+  ],
+  "used_evidence_refs": [
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+  ],
+  "outside_brief_refs": [],
+  "notes": [
+    "CV arvet uten erstatningsfelt. Brevet bruker modellens begrunnelse, mens ferdigstillelse og overlevering står i CV-en. Nyopprettet funksjon tolkes som strukturarbeid under oppbygging, ikke som dokumentasjon på at Norwegian mangler en driftsmodell. CV-overskriftens tankestrek overlates til Editor."
+  ]
+}

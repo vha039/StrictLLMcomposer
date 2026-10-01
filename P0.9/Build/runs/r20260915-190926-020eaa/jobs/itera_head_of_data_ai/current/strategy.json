@@ -1,0 +1,355 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "application_direction": {
+    "backbone": "Presenter Vegard som en gjennomføringsnær data- og KI-rådgiver som kan sette teknisk retning, gjøre uklare behov om til kontrollerte leveranser og bygge gjenbrukbar kompetanse rundt dem. La aktiv prognosearkitektur og den menneskestyrte KI-arbeidsformen vise data-/KI-tyngde, mens moderniseringen av budsjetteringsverktøyet viser overgang fra teknisk problem til en løsning som er tatt i sykehusdekkende bruk. Ruten skal være en sannferdig stretch mot Head-ansvaret, ikke en påstand om at han allerede er en dokumentert kommersiell linjeleder.",
+    "top_employer_problems": [
+      "Bygge et Data & AI-miljø som kombinerer faglig retning, kompetanseutvikling, leveransekvalitet og strukturer som andre kan arbeide videre i.",
+      "Gjøre data, analyse og KI om til forståelige og anvendelige leveranser med tydelig virksomhetsverdi, ikke bare teknisk kapasitet.",
+      "Forene et krevende kommersielt og personalmessig ledermandat med troverdig teknisk dybde og samarbeid på tvers av fagmiljøer."
+    ],
+    "structure_guidance": "Åpne med det konkrete byggeroppdraget og Vegards yrkesanker, ikke med stillingstittelen eller en verktøyliste. Bruk prognose-/KI-arbeidet til å vise retning, arkitektur og kontrollert integrasjon av bidrag, og bruk budsjetteringsmoderniseringen til å vise gjennomføring, bred interessentflate, onboarding og dokumentert bruk. La kompetanseoverføring og arbeidsmodell være korte bevis på miljøbygging. Formell personalledelse, konsulentsalg, kundeutvikling og forretningsområderesultat skal ikke antydes; dersom ledergapet omtales, gjør det én gang og koble det direkte til den støttede funksjonelle og tekniske ledererfaringen."
+  },
+  "avoid_guidance": [
+    "Ikke bruk Head-, linjeleder- eller personallederformuleringer om Vegards tidligere ansvar; den dokumenterte ledelsen er funksjonell og teknisk.",
+    "Ikke gjør deltakelsen i etableringen av en firepersoners analyseavdeling eller bidrag til teamdesign om til at han bygget eller ledet avdelingen.",
+    "Ikke gjør det aktive prognosearbeidet eller kodeagentstrukturen om til en produksjonssatt KI-plattform, et LLM-produkt, moden MLOps eller dokumenterte modellresultater.",
+    "Ikke presenter Fabric, Power Platform, dbt eller andre plattformpiloter som produksjonsdybde, plattformeierskap eller ledet adopsjon.",
+    "Ikke gjøre sykehusdekkende bruk av budsjetteringsverktøyet om til målt forretningsresultat, kommersiell gevinst, budsjetteierskap eller soloeierskap til moderniseringen.",
+    "Ikke bruk eldre direkte salg eller avgrenset kandidatscreening som bevis på aktuell konsulentsalgserfaring, kundeutvikling, bemanningsansvar eller rekrutteringsmyndighet.",
+    "Ikke kopier Iteras verdier eller påstanden om å bygge Norges mest relevante miljø som motivasjon; knytt motivasjonen til det faktiske arbeidet med tjenester, mennesker, struktur og virksomhetsverdi.",
+    "Ikke la en bred verktøyliste, sykehusterminologi eller teknisk detaljrikdom fortrenge argumentet om retning, brukbarhet, kompetansebygging og kontrollert gjennomføring."
+  ],
+  "counterfactual_route": {
+    "identity": "Samfunnsøkonom og virksomhetsnær teknologirådgiver som gjør data- og teknologiinvesteringer etterprøvbare og anvendelige",
+    "rationale": "Hvis Itera legger større vekt på forretningsforståelse og kundeverdi enn på modellnær KI-dybde, kan søknaden ledes av økonomisk skjønn, gevinstmetodikk, transparent beslutningsstøtte og kontrollert modernisering i bruk. KI-arbeidsformen blir da en differensiator, ikke hovedidentiteten. Ruten reduserer ikke gapene i profesjonelt tjenestesalg, kundeutvikling eller personalledelse.",
+    "evidence_refs": [
+      "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+      "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+      "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+      "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+    ]
+  },
+  "cv_direction": {
+    "headline_direction": "Rådgiver innen data, analyse og KI-støttet leveranse",
+    "emphasis": [
+      "Etabler yrkesankeret med den formelle rådgiverrollen, fullført master i samfunnsøkonomi og pågående KI-program, med korrekt studiestatus.",
+      "Plasser aktiv prognosearkitektur, orkestrering, modellintegrasjon og valideringsansvar høyt, med distribuert forfatterskap og utviklingsstatus synlig.",
+      "Vis modernisering av et forretningskritisk budsjetteringsverktøy gjennom personlig kodeansvar, kontrollmekanismer, controller-onboarding og sykehusdekkende bruk i 2026- og 2027-prosessene.",
+      "Bruk greenfield BI, brukerobservasjon og tverrorganisatorisk kompetanseoverføring som skannbare bevis på datafaglig dybde og evne til å gjøre fag forståelig for andre.",
+      "Vis bidrag til arbeidsmodell, prioritering, workshops og etablering av en firepersoners analyseavdeling som funksjonell ledelse, med tydelig grense mot personalansvar.",
+      "La kommunikasjon mellom ledere, controllere, fagpersoner og tekniske miljøer komme frem gjennom konkrete mottakere og handlinger, ikke gjennom generell selvkarakteristikk."
+    ],
+    "deprioritize": [
+      "Detaljert sykehusøkonomi og full teknologistakk som ikke løser Iteras utvelgelsesproblem.",
+      "Plattformnavn fra utforskende piloter uten produksjonsansvar.",
+      "Eldre salgs- og servicejobber utover kompakt kronologi; Sector Alarm kan bare være intervjureserve for tidlig kundedialog.",
+      "Dype modell- og kodeimplementasjonsdetaljer som skjuler retning, samarbeid, kontroll og overlevering."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "employer_decision_problem": "Itera må avgjøre om kandidaten kan ta et helhetlig lederansvar for et Data & AI-miljø der faglig retning bare er én del av oppgaven: miljøet skal også utvikle mennesker og tjenester, levere med kvalitet, vinne og utvikle kunder og skape kommersiell vekst. Den sentrale usikkerheten er derfor ikke om Vegard kan arbeide dypt med data, analyse og KI, men om hans dokumenterte funksjonelle og tekniske ledelse, kompetansebygging og virksomhetsnære leveranser er tilstrekkelig overførbare til et formelt personal-, kunde- og resultatansvar han ikke tidligere har hatt.",
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "role": "Bærende bevis for at Vegard kan sette teknisk retning i et sammensatt data-/KI-arbeid: han eier løsningsarkitektur, orkestrering, automatisering og integrasjon i et aktivt prognoseprosjekt og har etablert en vedvarende, menneskestyrt arbeidsform for kodeagenter med eksplisitte kontroll- og overleveringspunkter. Dette skal redusere usikkerheten om faglig tyngde og evnen til å strukturere distribuert gjennomføring.",
+      "claim_ceiling": "Prosjektet er i aktiv utvikling. Ikke påstå produksjonssetting, verifisert modellytelse, opprinnelig XGBoost-arbeid, alle data/features, manuelt soloforfatterskap, ferdig modellportefølje, moden MLOps, produksjons-LLM eller formelt KI-styringsmandat. Det pågående KI-programmet er et supplement, ikke en fullført grad eller profesjonell KI-ingeniørkvalifikasjon.",
+      "lifecycle": "IN_DEVELOPMENT",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE",
+        "BL:EDU_UIA_AI"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Bærende bevis for å omsette teknologi til en brukbar virksomhetsleveranse: Vegard rekonstruerte arkitekturen og var i praksis eneste kodende utvikler for endringene i et forretningskritisk verktøy, innenfor en bred interessentprosess, med differansekontroll, akseptansekriterier, risikostyring og controller-onboarding. Den moderniserte løsningen er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+      "claim_ceiling": "Han skapte ikke originalverktøyet og eide ikke budsjettprosessen eller hele moderniseringen. Interessentomfanget er kontekst, ikke personal- eller kundemyndighet. Ingen tidsbesparelse, feilreduksjon, nullfeil, kommersiell effekt eller målt forretningsgevinst er dokumentert.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "role": "CV- og støttebevis for sterk data-/analysekompetanse og avgrenset livsløpsansvar: hovedbidrag i semantisk modell, ETL/M og DAX, månedlig drift, faktisk brukerobservasjon, forbedringsarbeid og intern workshop i en greenfield BI-leveranse.",
+      "claim_ceiling": "Dashbordet er avviklet, og eierskapet var avgrenset til omtrent august 2025–februar 2026. Kollegene ledet innhold og visualisering. Ikke påstå nåværende eierskap, all løsning, kvantifisert adopsjon eller effekt, eksakt brukerskala eller virksomhetsarkitekturmyndighet.",
+      "lifecycle": "DECOMMISSIONED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "role": "Støttebevis for å utvikle faglig kapasitet og oversette mellom tekniske og virksomhetsnære mottakere: opplæring og rådgivning om Power BI, semantiske modeller og optimalisering på tvers av organisasjonsgrenser, samt dokumentert tilpasning til ledere, controllere, fagpersoner og tekniske miljøer.",
+      "claim_ceiling": "Eksakt enhet, deltakerantall, rapportkomponent, release- og nåstatus er uavklart. Ikke påstå et formelt opplæringsprogram, rapport- eller tjenesteeierskap, varig støtteansvar, målt kompetanseeffekt eller personalledelse.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "role": "Støttebevis for funksjonell ledelse og miljøbygging: deltakelse i etableringen av en firepersoners analyseavdeling, praktisk strukturering av ansvar, avhengigheter, arbeidsflyt og samarbeidsflater, samt workshops, prioritering og kunnskapsdeling. Beviset skal svare på om han kan skape retning og arbeidsstruktur uten å late som han allerede har hatt Head-mandatet.",
+      "claim_ceiling": "Skill innførte praksiser fra forslag. Ikke påstå ene-etablering, formelt organisasjonsdesignmandat, program-/produkteierskap, personalansvar, bemanningsmyndighet eller linjeledelse.",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "role": "CV-bevis for kombinasjonen av virksomhetsøkonomisk/kvantitativt skjønn og målrettet teknisk utvikling: fullført master i samfunnsøkonomi og et pågående masterprogram i kunstig intelligens.",
+      "claim_ceiling": "Utdanningen etablerer ikke kommersielle resultater, lederutdanning, profesjonell konsulenterfaring, produksjonsdybde i KI eller en fullført KI-grad. Studiestakt, progresjon og forventet fullføring er uavklart.",
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIA_AI"
+      ]
+    }
+  ],
+  "headline_hypothesis": "Data- og KI-rådgiver som bygger kontrollerte leveranser, arbeidsstruktur og kompetanse",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Sterk erfaring innen data, analyse, dataplattformer eller datadrevet transformasjon.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "note": "Alternativkravet er direkte støttet gjennom omfattende BI-/analysearbeid, dataarkitektur og datadrevet modernisering. Dataplattformsporet er bare pilot-/utforskende eksponering og skal ikke presenteres som produksjons- eller plattformeierskap."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Dokumentert evne til å omsette data og teknologi til konkrete forretningsresultater.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Han kan dokumentere ferdige eller brukte virksomhetsleveranser, blant annet et sykehusdekkende budsjetteringsverktøy og en sykehusdekkende gevinstmetodikk. Dette dokumenterer bruk og implementering, men ikke målte eller kommersielle forretningsresultater."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Erfaring fra konsulentmiljø, rådgivningsvirksomhet eller teknologileverandør.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Vegard har en formell rådgiverrolle og dokumentert intern og tverrorganisatorisk rådgivning, men ikke erfaring fra et eksternt konsulentmiljø eller en teknologileverandør med kunde- og resultatansvar."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Erfaring med å utvikle tjenester, salg og nye forretningsmuligheter.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "note": "Han har utviklet løsninger og arbeidsformer og har eldre direkte salgs- og kundedialogerfaring fra Sector Alarm. Kilden dokumenterer ikke utvikling av kommersielle konsulenttjenester, profesjonelt teknologisalg eller nye forretningsmuligheter; sammensatt krav er derfor ikke oppfylt."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Erfaring med å bygge, utvikle og lede team og fagmiljøer.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Funksjonell ledelse, arbeidsmodell, workshops, opplæring og deltakelse i etableringen av en liten analyseavdeling er støttet. Formelt personalansvar, linjeledelse og dokumentert helhetsansvar for å bygge et team eller fagmiljø mangler."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Komfortabel dialog med teknologer og forretningsledere, og evne til å gjøre komplekse data- og KI-temaer forståelige og relevante for beslutningstakere.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:OTHER#027-4-3-konkret-evidens"
+      ],
+      "note": "Arbeidsfakta støtter dialog og oversettelse mellom ledere, controllere, fagpersoner og tekniske miljøer, samt opplæring i komplekse BI-temaer. KI-evidensen gjelder teknisk bistand og en kontrollert arbeidsform; den dokumenterer ikke et eget program for lederrettet KI-rådgivning."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Lede Data & AI-teamet med ansvar for faglig retning, kompetanseutvikling, rekruttering, bemanning og leveransekvalitet.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#033-5-3-rekrutteringsstotte"
+      ],
+      "note": "Teknisk retning, prioritering, struktur, kompetanseoverføring og kvalitetskontroll er støttet. Rekrutteringserfaringen er begrenset til innledende vurdering og anbefalinger. Personalansvar, bemanningsmyndighet, ansettelser og samlet teamansvar er ikke dokumentert; det sammensatte lederkravet forblir et gap."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Skape vekst gjennom salg, kundeutvikling og strategisk viktige leveranser.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "note": "Strategisk viktige og bredt brukte leveranser er støttet, og eldre direkte salg/kundedialog finnes. Det er ikke dokumentert at han har skapt vekst gjennom konsulentsalg eller kundeutvikling, og leveransene kan ikke få et kommersielt resultat de ikke har."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Posisjonere Itera innen Data & AI gjennom faglig synlighet, sterke kundeengasjementer og samarbeid med øvrige fag- og sektormiljøer.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Samarbeid og kompetanseoverføring på tvers av faglige og organisatoriske grenser er støttet. Ekstern faglig synlighet, kundeengasjementer og markedsposisjonering er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Kombinere faglig tyngde med kommersiell forståelse og evne til å skape kommersielle resultater.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "note": "Data-/analysetyngde og økonomisk/virksomhetsmessig grunnlag er sterke, med eldre kundedialog som et svakt tillegg. Aktuelle kommersielle resultater eller resultatansvar i et konsulentmarked er ikke dokumentert."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Ta initiativ, se muligheter og omsette ideer til handling.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "note": "Støttes av selvstendig arkitektur- og implementeringsansvar, aktiv vurdering av nye plattformmuligheter mot reelle begrensninger og dokumentert gjennomføring i et moderniseringsløp som er i bruk."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Være en tydelig og trygg leder i Business Consulting-ledergruppen som skaper retning, tillit og ansvar for gjennomføring.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Retning og gjennomføring kan underbygges gjennom funksjonell ledelse, prioritering, arkitektur, workshops og overlevering. Ledergruppeerfaring, formelt strategisk mandat og linjelederansvar er ikke dokumentert."
+    }
+  ],
+  "motivation_bridge": "Motivasjonen bør knyttes til Iteras konkrete ambisjon om å gjøre data og KI til tjenester og leveranser som både teknologer, beslutningstakere og kunder kan bruke. Det er en naturlig videreføring av Vegards arbeid med å kombinere teknisk arkitektur, virksomhetsforståelse, kontrollert implementering, opplæring og overlevering i komplekse miljøer. Neste-steget kan beskrives som ønsket om å bruke denne byggerprofilen i et mer kunde- og markedsrettet Data & AI-miljø og ta større ansvar for faglig kapasitet—uten å fremstille konsulentsalg eller personalledelse som allerede dokumentert erfaring.",
+  "objections": [
+    {
+      "objection": "Ingen dokumentert tidligere Head-, forretningsområde- eller linjelederrolle med personal-, bemannings- og ledergruppeansvar.",
+      "reframe": "Vis den konkrete funksjonelle og tekniske ledelsen: arkitektur, prioritering, koordinering av distribuerte bidrag, arbeidsmodell, workshops, onboarding, kvalitetskontroll og overlevering. Dette er relevant lederatferd og et troverdig utviklingsgrunnlag, men ikke en erstatning for formell ledererfaring.",
+      "honesty_note": "Ikke kall ham personalleder eller antyd at han har hatt ansettelses-, bemannings-, resultat- eller linjemyndighet. Rekrutteringsstøtten var innledende vurdering og anbefaling, ikke ansettelsesansvar."
+    },
+    {
+      "objection": "Ingen dokumentert erfaring fra eksternt konsulentmiljø eller teknologileverandør med tjenesteportefølje, profesjonelt salg og kundeutvikling.",
+      "reframe": "Bruk den formelle rådgiverrollen, tverrorganisatorisk rådgivning, brede interessentprosesser og evnen til å gjøre behov om til brukbare leveranser som overførbar bro. Eldre direkte salg og kundedialog kan nevnes i reserve, men skal ikke bære argumentet.",
+      "honesty_note": "Ikke omtale interne mottakere som kunder eller interne løsninger som solgte konsulenttjenester. Gapet i kommersiell tjenesteutvikling og kundevekst er reelt."
+    },
+    {
+      "objection": "Kildene dokumenterer bruk, implementering og varighet, men ikke aktuelle kommersielle resultater eller kvantifisert forretningsverdi.",
+      "reframe": "Løft frem at den kontrollerte moderniseringen er tatt i sykehusdekkende bruk, at gevinstmetodikken ble innført som felles standard, og at leveransene er bygget for beslutningsstøtte og faktisk anvendelse. Det viser en sterk verdi- og bruksorientering uten å oppfinne resultatmålinger.",
+      "honesty_note": "Bruk 'i bruk', 'innført' og 'overlevert' der kildene støtter det. Ikke bruk 'målbar vekst', 'kommersiell effekt', besparelser eller realiserte gevinster som kandidatresultat."
+    },
+    {
+      "objection": "Data-/KI-erfaringen dokumenterer ikke produksjons-LLM, moden sky-/dataplattformledelse eller en ferdig produksjonssatt ML-portefølje.",
+      "reframe": "Posisjoner dybden i arkitektur, orkestrering, datakvalitet, modellintegrasjon, validering og menneskestyrt KI-leveranse, støttet av omfattende BI-arbeid og pågående formell KI-utdanning. Det er sterk teknisk og metodisk evidens for et gjennomføringsnært fagmiljø.",
+      "honesty_note": "Prognoseprosjektet er i aktiv utvikling, plattformarbeidet er utforskende, og KI-programmet er pågående. Ingen produksjonsplattform, enterprise-KI-transformasjon eller målt modellprestasjon skal antydes."
+    },
+    {
+      "objection": "Den dokumenterte profesjonelle senioriteten er en rådgiver-/tidlig funksjonell lead-profil, ikke en etablert kommersiell Head-profil.",
+      "reframe": "Gjør den uvanlige kombinasjonen av samfunnsøkonomi, data-/KI-arkitektur, praktisk implementering, høy konsekvensbevissthet og kompetanseoverføring til grunnen for samtale. Kandidaten kan tilføre en hands-on byggerevne og beslutningsdisiplin som utfyller et kommersielt miljø.",
+      "honesty_note": "Ikke skjul senioritetsforskjellen gjennom titteloppgradering eller ved å gjøre prosjektomfang til organisatorisk myndighet."
+    }
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-01",
+      "plain_language_label": "Systems mapping & causal decomposition",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se"
+      ],
+      "expression_ceiling": "Kan uttrykkes som at Vegard kartlegger avhengigheter, måldefinisjoner og kontrollbehov før han bygger, dokumentert i de to navngitte prosjektene. Det kan ikke generaliseres til at han har styrt en virksomhet, tjenesteportefølje eller kommersiell Data & AI-enhet.",
+      "vacancy_relevance": "Itera skal bygge mennesker, tjenester og struktur samtidig; evnen til å skape en forståelig leveransearkitektur i et uklart og sammensatt problem er derfor relevant.",
+      "intended_employer_interpretation": "En teknisk og virksomhetsnær bygger som kan skape retning og beslutningsstruktur i komplekse Data & AI-leveranser.",
+      "misread_risk": "Kan leses som analyse uten gjennomføring eller som en individuell arkitekt som ikke får andre med.",
+      "expression_guardrail": "Koble alltid systemkartleggingen til dokumentert implementering, bruk, controller-onboarding, distribuerte bidrag eller overlevering; ikke bruk generell systemspråk uten et konkret resultat eller lifecycle."
+    },
+    {
+      "facet_id": "PF-11",
+      "plain_language_label": "Leverage, toolmaking & durable-improvement orientation",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "expression_ceiling": "Kan uttrykkes som en orientering mot gjenbrukbare modeller, verktøy, arbeidsformer og kompetanseoverføring når de konkrete evidenspostene nevnes. Det dokumenterer ikke kommersiell tjenesteutvikling, skaleringsresultater eller eierskap til et fagmiljø.",
+      "vacancy_relevance": "Rollen skal utvikle både tjenester, mennesker og strukturkapital; dokumentert verktøybygging, brukerforbedring og kompetanseoverføring gir en relevant, men avgrenset bro.",
+      "intended_employer_interpretation": "En forbedringsorientert bygger som søker varig verdi ved å gjøre løsninger forståelige, brukbare og lettere å overta for andre.",
+      "misread_risk": "Kan leses som overutvikling, teknisk abstrahering eller verktøyfokus uten kunde- og markedsverdi.",
+      "expression_guardrail": "Prioriter mottaker, faktisk bruk, opplæring og virksomhetsproblem foran tekniske detaljer; ikke bruk skalering eller kommersiell verdi uten dokumentert effekt."
+    }
+  ],
+  "primary_candidate_identity": "Rådgiver innen data, analyse og menneskestyrt KI-leveranse, med samfunnsøkonomisk grunnlag og dokumentert funksjonell/teknisk ledelse",
+  "requires_source_inspection_observed": false,
+  "risk_notes": [
+    "Ruten kan bare være troverdig dersom Head-nivået behandles som et tydelig sprang; tittel- eller mandatoppgradering vil gjøre pakken mindre intervjuforsvarlig.",
+    "Uttrykket 'forretningsverdi' må knyttes til anvendelige beslutningsgrunnlag, implementering og dokumentert bruk, ikke til målt eller kommersiell effekt.",
+    "KI-differensiatoren er menneskestyrt arbeidsflyt, arkitektur, integrasjon og validering i et aktivt prosjekt; den er ikke en produksjonssatt LLM-tjeneste eller virksomhetsomfattende KI-transformasjon.",
+    "Fagmiljø- og teambygging må uttrykkes gjennom arbeidsstruktur, workshops, opplæring og etableringsbidrag, ikke som personalledelse eller dokumentert kultur-/retensjonseffekt.",
+    "Det eldste salgsbeviset og den avgrensede rekrutteringsstøtten har lav marginalverdi og bør ikke brukes som om de lukker de mest avgjørende kommersielle og personalmessige gapene."
+  ],
+  "selection_logic": "Velg en smal, gjennomføringsnær byggeridentitet fremfor å imitere en etablert konsulentdirektør. Første bærende enhet skal bevise data-/KI-tyngde og evne til å sette struktur rundt distribuert teknisk arbeid gjennom den aktive prognosearkitekturen og den menneskestyrte KI-arbeidsformen. Andre bærende enhet skal bevise at teknisk skjønn kan bli kontrollert, forståelig og faktisk brukt virksomhetsleveranse gjennom budsjetteringsmoderniseringen. BI-livsløp, kompetanseoverføring og arbeidsmodell tilfører de manglende signalene om brukerorientering og fagmiljø, men skal ikke vokse til egne minicase. Konsulentmarked, tjenestesalg, kundevekst, formell personalledelse, bemanning og ekstern faglig posisjonering er sentrale krav som evidensen ikke lukker; strategien skal gjøre overførbarheten tydelig uten å antyde at disse mandatene allerede er utført.",
+  "shortlist_thesis": "Vegard er interessant dersom Itera vil vurdere en uvanlig hands-on Data & AI-bygger som kombinerer samfunnsøkonomisk virksomhetsforståelse med arkitektur, implementering, menneskestyrt KI-arbeid, kontroll og kompetanseoverføring. Han kan dokumentere teknisk hovedansvar i komplekse leveranser og en modernisering som er tatt i sykehusdekkende bruk. Samtalen må samtidig avklare om denne funksjonelle lederprofilen kan bære overgangen til formelt personalansvar, konsulentsalg, kundeutvikling og resultatansvar.",
+  "writer_guidance": "Skriv for en arbeidsgiver som sannsynligvis ser mange kandidater med sterkere formell leder- og kommersiell historikk. Differensier på kombinasjonen av hands-on data-/KI-arkitektur, samfunnsøkonomisk skjønn, kontrollert gjennomføring og evnen til å gjøre arbeidsformen overtakbar for andre. Hold to bærende enheter tydelige: aktiv prognose-/KI-arkitektur for faglig retning, og budsjetteringsmodernisering i bruk for gjennomføring og virksomhetsrelevans. La CV-en dokumentere bredde, grader, BI, arbeidsmodell og kompetanseoverføring; la søknaden tolke hvorfor de to hovedenhetene er relevante for å bygge tjenester og faglig kapasitet. Bruk sterke personlige verb der kilden støtter dem, og legg team-/lifecycle-grensen tett på. Ikke forsøk å kompensere for manglende kommersiell og formell ledererfaring med verdiproposisjoner, generelle lederadjektiver eller overdrevet KI-språk.",
+  "binding": {
+    "run_id": "r20260915-190926-020eaa",
+    "job_id": "itera_head_of_data_ai",
+    "employer": "Itera Norway",
+    "title": "Head of Data & AI",
+    "manifest_sha256": "b6e191dfe962c4ea9b3655ae3c9fe221ea99bdae61c8b464fc95a970c506e351",
+    "vacancy_sha256": "4d41d5c44ff12b8cb686fe1e25f6347b2d92aa6df8463bf3de1863ee8c043a55",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

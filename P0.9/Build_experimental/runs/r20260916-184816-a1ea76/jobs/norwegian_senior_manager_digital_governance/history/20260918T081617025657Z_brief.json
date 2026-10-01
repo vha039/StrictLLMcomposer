@@ -1,0 +1,209 @@
+{
+  "artifact_role": "BRIEF",
+  "position": {
+    "track": "Operations-siden av stillingen. Annonsen utlyser ett nivå, så dette er ikke et nivåvalg: det er valget om å føre argumentet på «senior operational lead» og gjennomføring i stedet for på regulatorisk fagdybde, fordi det er der evidensen bærer og der annonsens utvelgelsesproblem ligger.",
+    "thesis": "Funksjonen er nyopprettet, og det som avgjør om den virker er om krav og prioriteringer blir til arbeidsformer, eierskap og oppfølging som holder på tvers av en sammensatt organisasjon, og det er nøyaktig det arbeidet Vegard har gjort i en regulert virksomhet siden 2023.",
+    "reader_need": "VP-en trenger en operativ bygger som kan ta et løst definert saksfelt, finne ut hva som faktisk kreves, hente inn rett fagperson og få saken til å bevege seg, uten linjemyndighet og mens driftsmodellen fortsatt bygges.",
+    "headline_intent": "Navngi rådgiverfunksjonen med styring og kontrollert gjennomføring som feltet, slik at leseren plasserer kandidaten som operativ bygger og ikke som BI-utvikler."
+  },
+  "delivery": "LETTER_AND_CV",
+  "delivery_reason": "Scoutens submission er letter_requirement UNSPECIFIED, rute PORTAL, med «Click «Apply Now» and upload an updated copy of your CV». Brev er ikke avvist, og rekrutteringssystemet tar imot begge. Men annonsen navngir bare CV-en, så CV-ens toppsone må bære argumentet alene, og brevet er den eneste kanalen for overføringen fra regulert sykehusdrift til digital governance.",
+  "units": [
+    {
+      "id": "U1",
+      "refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "proves": "Utformet strukturerte arbeidsinntak som fanger formål, brukere, beslutningsbehov, inn- og utdata, avhengigheter, risiko, prioritet og akseptansekriterier før arbeid starter, og bygget arbeidsmodell, oppgavehierarki, eierskap, avhengigheter og prioritering for et tverrfaglig fagmiljø.",
+      "employer_problem": "«Translate regulatory requirements and governance priorities into practical roadmaps, implementation plans, processes and follow-up structures»: funksjonen er ny, og noen må bygge inntaket, eierskapskartet og oppfølgingen mens saker allerede løper.",
+      "ceiling": "Kun design, evaluering og prosjektnivåbruk inntil ytterligere bevis etablerer utrulling; ingen virksomhetsutrulling, formelt produkteierskap eller organisasjonsdekkende adopsjon",
+      "placement": "BOTH"
+    },
+    {
+      "id": "U2",
+      "refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+      ],
+      "proves": "Gjennomførte kodeendringene i moderniseringen av et forretningskritisk verktøy innenfor en interessentprosess på om lag 50 personer, med differansekontroll, akseptansekriterier, risiko- og avviksregister og uttrykt nullregresjonskrav; arbeider gjennomgående med definisjoner, kildepresedens, sporbarhet, endringskontroll og vurdering av eksponering av sensitive data i en regulert virksomhet.",
+      "employer_problem": "«identifying opportunities to simplify, standardise and automate recurring work»: kan denne personen få endring gjennom i en sammensatt organisasjon uten at kontrollen ryker?",
+      "ceiling": "Ikke opphavsperson eller budsjetteier; ingen eierskap til hele moderniseringen eller budsjettprosessen; ingen besparelse tilsvarende budsjettskala, nulldefekt eller kvantifisert tids- og feilreduksjon; det foreligger ikke godkjente målinger av effekt",
+      "placement": "BOTH"
+    }
+  ],
+  "judgment": {
+    "refs": [
+      "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+    ],
+    "judgment": "Avviste direkte fordeling fordi datagrunnlaget ikke bar den, og omformet oppdraget til en transparent vektet proxy-modell med synlige og konfigurerbare forutsetninger. Valgte bort VBA i kjernen nettopp for at controllere og fagansvarlige selv skulle kunne inspisere og justere forutsetningene. Modellen ble ferdigstilt tidlig i 2026 og overlevert til controllere.",
+    "ceiling": "Ingen direkte måling, eierskap til klinikkestimater, realisert gevinst eller ROI-påstand; implementering per gren, endelige vekter, organisatorisk bruk og realiserte gevinster er fortsatt uavklart",
+    "integrate_into": "U2"
+  },
+  "reserve": [
+    {
+      "ref": "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+      "use_if": "Dashboard- og ledelsesrapporteringssaken trengs. Bare fortid, bare backend-rammen, eierskap aug. 2025 til feb. 2026, løsningen avviklet."
+    },
+    {
+      "ref": "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+      "use_if": "Standardisering med varig virksomhetsdekkende bruk trengs. Teamlevert; ingen eier- eller metodelederrolle."
+    },
+    {
+      "ref": "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse",
+      "use_if": "«Moving matters forward without relying on formal line authority» skal besvares eksplisitt: faglig pådriver, koordinerte, tok ansvar for; aldri lederrolle."
+    },
+    {
+      "ref": "EV:OTHER#037-6-2-analytisk-grundighet-og-etterprovbar",
+      "use_if": "Vokabularet for løst definerte saker trengs: dobbelttelling, feil granularitet, uvaliderte proxyer, skjulte avhengigheter. Arbeidsstil, ikke arbeidsevidens."
+    },
+    {
+      "ref": "EV:OTHER#027-4-3-konkret-evidens",
+      "use_if": "Konkret kontrollert KI-praksis mot AI Act-omfanget: kilderekkefølge, kjørelogger, menneskelig ansvar. Aldri KI-styringsmyndighet. Utenfor kjernen."
+    }
+  ],
+  "employer_fact": {
+    "fact": "Funksjonen for digital og regulatorisk styring er nyopprettet.",
+    "quote": "you will join Norwegian's newly established Group Digital & Regulatory Governance function within IT & Business Services",
+    "conversion": "Arbeidsbetingelsen er at driftsmodellen ikke finnes ennå: inntak, eierskap, oppfølging og eskalering må bygges mens saker allerede løper. Det gjør strukturarbeidet til leveransen i seg selv, ikke til forarbeid, og det er nøyaktig det U1 dokumenterer."
+  },
+  "stances": [
+    {
+      "req": "Q13",
+      "relation": "GAP",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+    },
+    {
+      "req": "Q12",
+      "relation": "PARTIAL",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+    },
+    {
+      "req": "Q16",
+      "relation": "ADJACENT",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+    },
+    {
+      "req": "Q04",
+      "relation": "ADJACENT",
+      "stance": "BRIDGE",
+      "via_ref": "EV:WORK#016-2-2-evidens-for-funksjonell-ledelse"
+    },
+    {
+      "req": "Q06",
+      "relation": "GAP",
+      "stance": "OMIT"
+    },
+    {
+      "req": "Q09",
+      "relation": "GAP",
+      "stance": "OMIT"
+    },
+    {
+      "req": "Q10",
+      "relation": "GAP",
+      "stance": "OMIT"
+    }
+  ],
+  "distinctiveness": {
+    "facets": [
+      {
+        "facet_id": "PF-01",
+        "behaviour": "Vis kartleggingen som første handling: definisjoner, aktører, avhengigheter, kildepresedens, risiko og akseptansekriterier skrives ned før arbeid settes i gang, slik at et løst formulert oppdrag blir et avgrenset sett neste steg i stedet for en runde til med avklaring.",
+        "refs": [
+          "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+          "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+        ]
+      },
+      {
+        "facet_id": "PF-05",
+        "behaviour": "Vis at kontrollen ligger i rammen og ikke i personen: forutsetninger og vekter ble holdt synlige og konfigurerbare, og kjerne-VBA ble valgt bort nettopp for at controllere skulle kunne justere modellen uten å gå veien om utvikleren.",
+        "refs": [
+          "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+          "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+        ]
+      }
+    ],
+    "motive": "Et nyopprettet funksjonsmiljø der krav må bli til arbeidsformer er den samme oppgaven som å bygge inntak, eierskap og kontroller for en ny analyseavdeling, men med regulatorisk ansvar som rammen i stedet for klinisk drift. Det er arbeid der strukturen er selve leveransen, og det er den bruken av erfaringen som gir mest igjen.",
+    "opening_move": "JUDGMENT_CASE",
+    "closing_move": "CONTRIBUTION"
+  },
+  "letter_plan": {
+    "word_target": 380,
+    "paragraphs": [
+      {
+        "job": "Åpne på skjønnsatomet som handling: avvisningen av direkte fordeling fordi datagrunnlaget ikke bar den, og den transparente modellen med synlige forutsetninger som andre kunne justere. Ingen stillingstittel, ingen «søker ... fordi». Knytt til at funksjonen er nyopprettet.",
+        "unit_ids": [],
+        "refs": [
+          "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+        ]
+      },
+      {
+        "job": "Bær U1: arbeidsinntak, eierskap, avhengigheter og oppfølging bygget for et tverrfaglig fagmiljø. Dette er svaret på «turn regulatory requirements and governance priorities into practical ways of working».",
+        "unit_ids": [
+          "U1"
+        ],
+        "refs": [
+          "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+          "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+        ]
+      },
+      {
+        "job": "Bær U2: gjennomføring med kontroller i en interessentprosess på om lag 50 personer, og den regulerte virksomhetens praksis for sporbarhet og sensitive data. Lukk med det konkrete bidraget til den nye funksjonen. Ingen påstand om linjeledelse, og ingen omtale av manglende regelverkserfaring.",
+        "unit_ids": [
+          "U2"
+        ],
+        "refs": [
+          "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+          "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end"
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "phrase": "«ledet funksjonen», «ledet arbeidsstrømmer», «hadde ansvar for styringen». Live fare fordi Q04 lyder «lead selected governance workstreams» og er gradert ADJACENT.",
+      "ceiling": "Do not convert this evidence into formal project-manager, product-owner, programme-owner or line-manager titles."
+    },
+    {
+      "phrase": "«eier en styrings-BI-løsning» eller dashboardet omtalt i presens",
+      "ceiling": "Do not claim all visuals/content, current ownership, multi-year ownership, quantified adoption/efficiency or enterprise-architecture authority."
+    },
+    {
+      "phrase": "«virksomhetsstyring», «AI governance» eller «sikkerhetsstyring» som egen myndighet",
+      "ceiling": "Project-level practice and regulated-environment awareness, not formal enterprise data/AI/security-governance authority."
+    },
+    {
+      "phrase": "Enhver antydning om erfaring med GDPR, NIS2, Digitalsikkerhetsloven, EU AI Act, leverandørstyring eller EASA Part-IS",
+      "ceiling": "The record does not document experience with GDPR, NIS2/Digitalsikkerhetsloven, the EU AI Act, AI governance, supplier governance or EASA Part-IS. Regelverksomfanget nevnes ikke som kandidatens erfaring, verken positivt eller som fravær."
+    }
+  ],
+  "outside_scout_refs": [
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#038-6-3-oversettelse-mellom-virksomhet-og-te",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+  ],
+  "notes": [
+    "Språk: brev og CV skrives på bokmål selv om annonsen er på engelsk og scoutens vacancy.language er «en». DEC-01 og DEC-04: to dokumenter, begge på bokmål, ingen språkgren i kjernen. Stage 2 skal ikke bytte språk.",
+    "Utfordrer til U1: det sykehusdekkende gevinstrammeverket har større rekkevidde og varig bruk, men er teamlevert metodikk uten personlig eierskap, og viser et ferdig rammeverk snarere enn arbeidet med å bygge inntak og oppfølging.",
+    "Utfordrer til U2: BI-posten er sterkere på dashboards, men er avviklet med avgrenset eierskapsvindu og kollegaledet innhold, og svarer på verktøy snarere enn på kontrollert gjennomføring.",
+    "Utfordrer til skjønnsatomet: posten om analytisk grundighet beskriver samme årvåkenhet, men er arbeidsstil, ikke en hendelse.",
+    "Ingen NAME_ONCE: Q13 er NICE og annonsens egne ord er «is an advantage», og MUST-kravet Q12 lister «business operations, advisory or transformation», som er dekket. Å navngi fraværet av GDPR- og NIS2-erfaring ville gjøre en ikke-diskvalifiserende preferanse om til et argument mot kandidaten.",
+    "Tittelen «Senior Manager» håndteres ved å avgrense påstanden, ikke ved å nevne den. Annonsen sier selv «moving matters forward without relying on formal line authority»."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76",
+    "job_id": "norwegian_senior_manager_digital_governance",
+    "employer": "Norwegian Air Shuttle ASA",
+    "title": "Senior Manager Digital Governance Operations",
+    "evidence_fingerprint": "872fa83ecbe3c245cd2020c5fc4d5219169ff8c5782ed1aa9bbee8f82d35d516",
+    "policy_fingerprint": "fd1983375eeef6e089e266616f394d7b7f1fffe287aec654f88a0f063a9e2d67",
+    "inputs": {
+      "scout": "ca14ab881c194104fa16ecdfb0cac5d81627ddb184d4afc7535dc161eff6feda"
+    }
+  }
+}

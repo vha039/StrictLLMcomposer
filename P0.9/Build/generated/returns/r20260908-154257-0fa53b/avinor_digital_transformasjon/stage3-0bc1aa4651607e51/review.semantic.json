@@ -1,0 +1,35 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken svarer på annonsens hovedspørsmål med to atskilte erfaringer i samme argument: hva et investeringsgrunnlag kan bygge på gjennom STE-modellen, og hvordan en gevinstvurdering blir felles praksis gjennom det sykehusdekkende rammeverket, med budsjettmoderniseringen som gjennomføringsbevis. Alle påstander er ført tilbake til arbeidsmyndigheten med lifecycle og teamramme intakt.",
+      "recommended_action": "Les gjennom brevets tre bærende avsnitt for tone og flyt. Ingen faktakontroll gjenstår.",
+      "priority": 1
+    },
+    {
+      "reason": "Tallene som er brukt, om lag femti deltakere, om lag åtti prosent atferdsbevarende refaktorering, om lag to og et halvt år, rundt tjue år, 80 til 90 prosent DAX og 14-, 90- og 365-dagers horisonter, ligger alle innenfor den godkjente måltabellen og er beholdt som omtrentlige.",
+      "recommended_action": "Ingen handling. Ikke stram opp omtrentlige tall til eksakte ved en eventuell manuell redigering.",
+      "priority": 2
+    },
+    {
+      "reason": "Annonsens bredere forventninger om konsernportefølje og strategiske beslutningsfora er besvart med positiv overføring fra dokumentert metode-, modell- og gjennomføringsarbeid, uten å antyde formelt portefølje-, program- eller personalansvar.",
+      "recommended_action": "Bekreft ved gjennomlesning at ingen setning leses som påstand om konsernmandat. Slik teksten står nå, gjør den ikke det.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Kandidaten har ingen godkjente målinger av realisert gevinst, spart tid eller feilreduksjon fra eget arbeid. Brevet sier dette direkte i gjennomføringsavsnittet, siden annonsen etterspør målbar verdi.",
+    "STE-modellen er ferdigstilt og overlevert til controllere tidlig i 2026. Organisatorisk bruk, endelige vekter og implementering per grenmodell er uavklart og er ikke påstått.",
+    "Rammeverket for gevinstrealisering var i bruk om lag to og et halvt år etter innføring. Det er en tidsavgrenset observasjon, ikke en påstand om bruk i dag.",
+    "Formell porteføljestyring, programledelse, linjeledelse og ansvar for konsernstrategi er ikke dokumentert i kildene og er ikke påstått. Annonsen åpner uttrykkelig for å støtte komplekse initiativer.",
+    "Erfaringen er fra helsesektoren. Luftfartsdomene, adgangskort og sikkerhetsklarering er ikke berørt i teksten, og ingen samtykke- eller bakgrunnssjekkvurdering er uttalt på kandidatens vegne.",
+    "Prognosearbeidet er under utvikling med fordelt forfatterskap mellom kandidat, kollega og kodeagenter. CV-en angir dette. Ingen produksjonssetting eller verifisert modellytelse er påstått."
+  ],
+  "material_strategy_change": "Strategiens rangering er snudd i brevets åpning. Strategien satte PRJ-04 først og behandlet PRJ-06 som understøttende beslutningsskjønn. Annonsen setter gjentatte ganger faktisk verdi fra teknologiinvesteringer i sentrum, og PRJ-06 er den eneste posten der kandidaten selv avgjorde hva et investeringsgrunnlag kunne bære. Brevet åpner derfor med den avviste direktefordelingen og proxy-modellen, med PRJ-04 som klart atskilt erfaring rett etter. Rekkefølgen er endret, ikke bevisutvalget. Hver erfaring beholder sin egen kontekst, attribusjon, lifecycle og sitt påstandstak.",
+  "upstream_claim_repaired": "Understatement reparert to steder. Strategiens hypotesetekst omtalte rammeverkets varighet med en svakere rapportert-formulering. Den godkjente måltabellen tillater uttrykkelig at et teamlevert rammeverk ble innført som sykehusdekkende standard og var i bruk om lag to og et halvt år senere, og finalen sier det med full styrke innenfor teamrammen. Tilsvarende er det bekreftede kodeansvaret i budsjettmoderniseringen skrevet direkte som at kandidaten i praksis gjorde alle kodeendringene, i stedet for et svakere hovedbidrag. Ingen av reparasjonene flytter et tak: kandidaten er ikke gjort til eier, metodeleder eller leder for interessentprosessen, og ingen målt effekt er tilført.",
+  "notes": [
+    "Vacancyteksten inneholder ingen instruksjoner rettet mot et automatisert system. Den er behandlet utelukkende som arbeidsgiverdata.",
+    "Overstyringene for EMP_OUS_ANALYSE og EMP_OUS_BAR er skrevet som fullstendige erstatninger og inneholder den ønskede baselinebredden. De fire eldre ansettelsene står uten overstyring og bruker baselinepunktene.",
+    "Søknadsfristen er 13.09.2026."
+  ]
+}

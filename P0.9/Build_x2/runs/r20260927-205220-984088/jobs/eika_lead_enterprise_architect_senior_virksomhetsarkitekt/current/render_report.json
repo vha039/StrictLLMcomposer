@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260927-205220-984088",
+    "job_id": "eika_lead_enterprise_architect_senior_virksomhetsarkitekt",
+    "final_package_sha256": "898e9543b4eb1d20e2ea7caa8b02a5a8c2d76035e2b66b8ecf8a1424b34c702e",
+    "document_date": "2026-09-27",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "688732a32369e2e8718fbb556f0512509fc308d0a0fb43533e09c990c7934c4d",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "9591d19e76a03f767d8fd772090bef99c983d720d49454c12f3d6b3a64db4a48",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\eika_lead_enterprise_architect_senior_virksomhetsarkitekt\\out\\CV_Eika_Lead_Enterprise_Architect_slash_Senior_c00dbaee.docx",
+      "output_sha256": "fc8444c2d83de3a5fe5fae50fdc7a48e1b9670a9d274623614640667bf41de75",
+      "bytes": 40751,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\eika_lead_enterprise_architect_senior_virksomhetsarkitekt\\out\\CV_Eika_Lead_Enterprise_Architect_slash_Senior_c00dbaee.pdf",
+      "output_sha256": "2c5c47860e11ba71e59d4ad6f7cff0ef481b60efde695a46f365633bd8b258ec",
+      "bytes": 290316,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_0hefn0um\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\eika_lead_enterprise_architect_senior_virksomhetsarkitekt\\out\\.rnd.955adac4\\CV_Eika_Lead_Enterprise_Architect_slash_Senior_c00dbaee.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\eika_lead_enterprise_architect_senior_virksomhetsarkitekt\\out\\.rnd.955adac4\\CV_Eika_Lead_Enterprise_Architect_slash_Senior_c00dbaee.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\eika_lead_enterprise_architect_senior_virksomhetsarkitekt\\out\\Soknad_Eika_Lead_Enterprise_Architect_slash_Senior_c00dbaee.docx",
+      "output_sha256": "bed5ff214bcad55176f9127a80b72b12c5b14a6b14b985119d3812c0305d4390",
+      "bytes": 38847,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\eika_lead_enterprise_architect_senior_virksomhetsarkitekt\\out\\Soknad_Eika_Lead_Enterprise_Architect_slash_Senior_c00dbaee.pdf",
+      "output_sha256": "37f9aaf8e752a7a839d75d14a7c140381515e652558e9f83a7d82ad6dc5dde88",
+      "bytes": 192452,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_prblj_i3\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\eika_lead_enterprise_architect_senior_virksomhetsarkitekt\\out\\.rnd.955adac4\\Soknad_Eika_Lead_Enterprise_Architect_slash_Senior_c00dbaee.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260927-205220-984088\\jobs\\eika_lead_enterprise_architect_senior_virksomhetsarkitekt\\out\\.rnd.955adac4\\Soknad_Eika_Lead_Enterprise_Architect_slash_Senior_c00dbaee.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-27T21:17:34Z"
+}

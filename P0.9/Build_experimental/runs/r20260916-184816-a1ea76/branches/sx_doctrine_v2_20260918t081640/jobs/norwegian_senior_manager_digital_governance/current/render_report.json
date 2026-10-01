@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "norwegian_senior_manager_digital_governance",
+    "final_package_sha256": "7a906dedfcdb0e7e07ebcde473e17b0a5e2e3c51fb18939feb2d4363a5815154",
+    "document_date": "2026-09-18",
+    "baseline_map_sha256": "513363e273559a00cf68694974e8ce869f0b3aa2efa804e10f7def15358bf9e9",
+    "cv_master_sha256": "b656c2d55f6c40e43f5cbac2a13404a61168c718a1830566a082cfb432cdd971",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "0ea47ee3a013072afc3799b36dae07df53c5c4f78d709f29631a9438a578b6bd",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\CV_Norwegia_5b5cf860.docx",
+      "output_sha256": "72ed0a23998f5e5d617898a9e07c06c6aae58713e55a24fb3049a1602b3817ef",
+      "bytes": 40517,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\CV_Norwegia_5b5cf860.pdf",
+      "output_sha256": "fe9a74bb5df60541667b996714541ac2c572d8dec8ede6d24e9e2ed7810eaf81",
+      "bytes": 296837,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_o9mv3s_s\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\.rnd.de19069e\\CV_Norwegia_5b5cf860.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\.rnd.de19069e\\CV_Norwegia_5b5cf860.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\Soknad_Norwegia_5b5cf860.docx",
+      "output_sha256": "edd892db593a6b40c55d2a13704cc934b0bad439b7d2206adefdd182ca3fbabd",
+      "bytes": 38375,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\Soknad_Norwegia_5b5cf860.pdf",
+      "output_sha256": "59a8ac62e5c329fa002b69348598c247d84f4216bc2cdf0f0019387ab0de1eff",
+      "bytes": 191417,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_z7iin0hy\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\.rnd.de19069e\\Soknad_Norwegia_5b5cf860.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\norwegian_senior_manager_digital_governance\\out\\.rnd.de19069e\\Soknad_Norwegia_5b5cf860.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-18T08:50:08Z"
+}

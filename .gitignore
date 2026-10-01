@@ -1,0 +1,5 @@
+
+**/out/
+
+**/.pytest_cache/
+/T/

@@ -1,0 +1,27 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Minstekravet om SAP-erfaring er ikke oppfylt, og SAP Business Partner, prisprosedyre, kondisjoner og pris-/rabattlogikk er ikke dokumentert. Brevet sier én gang, etter bevisene, at arbeidet har vært i REGERP og Excel-baserte økonomiverktøy, ikke i SAP.",
+      "recommended_action": "Vurder ved godkjenning om søknaden skal sendes med dette kjente gapet; ingen tekstreparasjon gjenstår."
+    },
+    {
+      "priority": 2,
+      "reason": "Pakken bygger på nærmeste støttede paralleller: egeninitierte konverterings- og valideringsverktøy ved en ERP-overgang med bruk i flere klinikker, nøkkel-, avrundings- og valideringslogikk i et sykehusdekkende budsjettverktøy, og skjemakontrollert innlesing med kontroller for umappede rader.",
+      "recommended_action": "Normal skumlesing; forbered et intervjusvar om læringsplan for SAP-prisområdet."
+    },
+    {
+      "priority": 3,
+      "reason": "Rådgivning om prismodeller og salgsprosesser og samarbeid med salg og eksterne leverandører er ikke dokumentert og er ikke påstått.",
+      "recommended_action": "Ingen."
+    }
+  ],
+  "known_limitations": [
+    "Ingen SAP-, masterdata-, pris-, kunde- eller leverandørforvaltningserfaring; ingen robotisering (RPA).",
+    "Ingen formell fagleder- eller prosjekteierrolle; funksjonelt ansvar er beskrevet gjennom konkrete handlinger.",
+    "Ingen målt tids- eller feilreduksjon fra verktøyene; bruk er dokumentert, effekt er ikke."
+  ],
+  "material_strategy_change": "SAP-gapet er nevnt én gang i brevet (etter bevisene) i stedet for bare i review, fordi et SAP-minstekrav i en SAP-spesifikk fagrolle ellers kunne leses som underforstått dekket av ERP-parallellen. PRJ-03-beviset er skjerpet mot Norturas oppgaver (periodiseringsnøkler, avrundings- og valideringslogikk, samlede konstanter og kommentert kode som dokumentasjon av regler), og PRJ-06 er brukt som innlesings- og mappingkontroll snarere enn som gevinstmodell. BAR-kildeintegrasjonen (JIT, ADI, REGERP, GAT, lønn, DRG) er lagt inn i CV.",
+  "upstream_claim_repaired": "cv_draft sa at REGERP-verktøyene ble brukt av økonomirådgivere i flere klinikker uten tidsavgrensningen 'relativt hyppig ... kort etter overgangen'; rettet. cv_draft understatet PRJ-03 ('gjennomførte kodeendringene') uten at kandidaten var i praksis eneste kodende utvikler i en prosess med om lag 50 deltakere; lagt inn. Et eget førsteutkast i denne stagen tilla PRJ-03 et designmål om at controllerne ikke skulle være avhengige av én person (kilden sier det om PRJ-06) og kalte Norturas manuelle arbeid 'for mye'; begge er fjernet."
+}

@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/review.schema.json",
+  "title": "Review",
+  "description": "Stage-3 operator triage (CTR-07, DEC-37). A repair-scope recommendation, not a quality fact.\n\nTriage is based on remaining repair scope, never on reason count (Spec 7.5, Contract 5.5). No numeric quality or confidence field is permitted. RERUN creates no fourth stage, no special schema, no state machine and no automatic action: the human chooses a normal restart point and initiates the corresponding standard stage.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["artifact_role", "binding", "triage", "reasons", "known_limitations"],
+  "properties": {
+    "artifact_role": { "const": "OPERATOR_TRIAGE" },
+
+    "binding": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["run_id", "job_id", "final_package_sha256"],
+      "properties": {
+        "run_id": { "type": "string", "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}$" },
+        "job_id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$" },
+        "final_package_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "Triage is current only while paired with the current final it names (Spec 7.1)."
+        }
+      }
+    },
+
+    "triage": {
+      "enum": ["READY", "CHECK", "RERUN"],
+      "description": "READY: no known material repair remains beyond normal human skim/approval. CHECK: bounded local confirmation or edit, no strategic reconstruction. RERUN: broader model reconstruction is more efficient than local editing. A known unsupported or inflated upstream claim must be repaired before final save and must never ship under CHECK (INV-06)."
+    },
+
+    "reasons": {
+      "type": "array",
+      "description": "Concise reasons with recommended actions. Reason count must not determine triage. A human view may show only the few highest-priority reasons, ordinarily about three, while preserving enough detail to act.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["reason", "recommended_action"],
+        "properties": {
+          "reason": { "type": "string", "minLength": 1 },
+          "recommended_action": { "type": "string", "minLength": 1 },
+          "priority": { "type": "integer", "minimum": 1 }
+        }
+      }
+    },
+
+    "known_limitations": {
+      "type": "array",
+      "description": "Limitations relevant to human approval.",
+      "items": { "type": "string", "minLength": 1 }
+    },
+
+    "material_strategy_change": {
+      "type": ["string", "null"],
+      "description": "Optional diagnostic when Stage 3 exercised its elasticity to change identity, evidence selection or route (INV-06)."
+    },
+
+    "upstream_claim_repaired": {
+      "type": ["string", "null"],
+      "description": "Optional diagnostic. A caught-and-repaired upstream defect is a process diagnostic, not a final failure (Spec 18.5)."
+    },
+
+    "notes": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+  }
+}

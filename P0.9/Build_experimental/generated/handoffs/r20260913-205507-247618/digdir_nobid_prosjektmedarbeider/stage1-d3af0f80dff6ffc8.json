@@ -1,0 +1,17 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260913-205507-247618",
+  "job_id": "digdir_nobid_prosjektmedarbeider",
+  "employer": "Digitaliseringsdirektoratet (Digdir)",
+  "title": "Prosjektmedarbeider NOBID",
+  "stage": 1,
+  "mode": "STRATEGY",
+  "expected_artifacts": [
+    "strategy"
+  ],
+  "stage_policy_sha256": "b7ac004b626778faa76178e0adfe002727ccd71617f418417bd5d51d50363acf",
+  "upstream": {},
+  "prior_current": {
+    "strategy": null
+  }
+}

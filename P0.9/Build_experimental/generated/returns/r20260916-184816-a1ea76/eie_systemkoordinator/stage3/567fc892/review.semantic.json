@@ -1,0 +1,24 @@
+{
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [
+    {
+      "reason": "Kløyvsetning i GAP_TURN var klyngens gjentatte grep og brevets eneste meldte signal.",
+      "recommended_action": "Ingen videre handling; skrevet om med et annet grep enn i Stortinget-brevet.",
+      "priority": 1
+    },
+    {
+      "reason": "Tankestrek i CV-overskriften brøt Tegnsetting.",
+      "recommended_action": "Ingen videre handling; reparert lokalt.",
+      "priority": 2
+    }
+  ],
+  "known_limitations": [
+    "Kandidaten har ikke eiendomsmeglerbakgrunn. Brevet fører argumentet på kvalifikasjonsruten økonomi og IT, og nevner Core og EIE 365 én gang som noe som skal læres. Om den ruten er god nok for EIE, er arbeidsgiverens vurdering.",
+    "Etter dette laget teller CV 381 dynamiske ord og brevet 356 ord. Sidetallene (CV 2, brev 1) er målt på utkastet før laget og er ikke rendret på nytt.",
+    "KI-avsnittet beskriver superbrukerrollen og egen arbeidsform; det hevder ingen målt effekt av KI-bruken."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": null,
+  "notes": []
+}

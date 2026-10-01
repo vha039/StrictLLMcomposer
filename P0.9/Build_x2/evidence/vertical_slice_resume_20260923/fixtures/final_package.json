@@ -1,0 +1,67 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "binding": {
+    "run_id": "r20260923-152510-4571ea",
+    "job_id": "testetaten_radgiver",
+    "employer": "Testetaten HF",
+    "title": "Rådgiver økonomi og analyse",
+    "manifest_sha256": "fffd2a8a3127fb15fd91f47a77b33e3e2f751a179634a1d6e963d5c62f3a790a",
+    "vacancy_sha256": "3c3866e5621a37844ab77820561b759fd8afa7806c2c00e826f58f1c622196bf",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "c62827fa003d8f654b2756090a4371d146e5443b34802df30bb58e6710c38094",
+    "strategy_sha256": "246faed6aa8673c46e877b6a18807e542a144383c61e4e0c24b2ce4fe1a05f0f",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3"
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#004-0-2-ous-kjerne",
+    "EV:EDU#003-0-1-gradskronologi",
+    "EV:OTHER#004-0-2-profesjonell-kjernetese"
+  ],
+  "cv": {
+    "headline": "Beslutningsstøtte for økonomi og aktivitet",
+    "profile": "Rådgiver i Analyseavdelingen ved Oslo universitetssykehus med arbeid innen beslutningsstøtte for økonomi, bemanning og aktivitet. Arbeidet omfatter både tallgrunnlag og rapporter: definisjoner, avstemming og dokumentasjon er det som gjør at ledere faktisk kan bruke tallene.",
+    "competencies": [
+      "Beslutningsstøtte og styringsinformasjon",
+      "Power BI, DAX og Power Query",
+      "SQL og datakvalitet",
+      "Økonomistyring og månedsoppgjør",
+      "Dokumentasjon og kompetanseoverføring"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utvikler og forbedrer beslutningsstøtte for økonomi, bemanning, aktivitet/DRG og pasientflyt i Power BI, DAX, Power Query, Excel/VBA og SQL.",
+          "Omsetter brede og uklare behov til avgrensede løsninger med kontroller, dokumentasjon og leveranser ledere og controllere kan bruke.",
+          "Bidrar til strukturering av leveranser, workshops og kompetanseoverføring i tverrfaglige oppdrag."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring den tildelte månedsoppgjørsflyten med periodisering, avstemming, kvalitetssikring og resultatforklaring.",
+          "Utviklet Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP, og bidro i budsjett og aktivitetsrapportering."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Dere beskriver et kjent problem: dataene finnes, men de blir ikke til beslutningsgrunnlag. Det er den oppgaven jeg har arbeidet med de siste årene i Analyseavdelingen ved Oslo universitetssykehus.",
+    "body_paragraphs": [
+      "I Analyseavdelingen ved Oslo universitetssykehus utvikler jeg beslutningsstøtte for økonomi, bemanning og aktivitet. Arbeidet starter sjelden med et ferdig krav: det starter med en leder som har et spørsmål, og min oppgave er å finne ut hvilket tallgrunnlag som faktisk svarer på det, og deretter bygge noe som kan brukes hver måned.",
+      "Før dette hadde jeg månedsoppgjørsflyten i Barne- og ungdomsklinikken, med periodisering, avstemming og resultatforklaring. Den erfaringen er grunnen til at jeg kvalitetssikrer datagrunnlaget før jeg bygger rapporten. Et tall som ikke lar seg avstemme, blir ikke brukt av noen.",
+      "Utlysningen nevner både forvaltning av rapporter og kompetanseoverføring til brukerne. Jeg har dokumentert løsninger og holdt workshops i tverrfaglige oppdrag, og jeg regner overlevering som en del av leveransen, ikke som noe som kommer etterpå."
+    ],
+    "closing": "Jeg stiller gjerne til intervju for å gå nærmere gjennom hvordan jeg har løst tilsvarende oppgaver."
+  },
+  "writer_note": "Strammet åpningen og spisset overskriften mot utlysningen.",
+  "finalization": {
+    "state": "DRAFT",
+    "document_date": null,
+    "finalized_at": null,
+    "finalized_by": null
+  }
+}

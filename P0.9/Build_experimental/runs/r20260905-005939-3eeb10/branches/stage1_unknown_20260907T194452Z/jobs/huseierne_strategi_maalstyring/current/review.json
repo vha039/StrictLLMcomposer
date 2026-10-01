@@ -1,0 +1,44 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Minstekravet om fem års relevant erfaring er ikke oppfylt. Dokumentert relevant arbeid løper fra mars 2023, og pakken viser dette åpent i CV-kronologien i stedet for å omskrive det.",
+      "recommended_action": "Godkjenn som den er dersom gapet er akseptabelt for denne søknaden. Ingen tekstreparasjon gjenstår; valget er om søknaden skal sendes.",
+      "priority": 1
+    },
+    {
+      "reason": "Praktisk OKR-erfaring finnes ikke i myndighetene. Brevet sier dette direkte og setter felles metodikkarbeid og workshopfasilitering som overføringsgrunnlag i stedet.",
+      "recommended_action": "Les avsnittet om OKR og bekreft at den åpne formuleringen er ønsket. Å stryke setningen er alternativet, men da kan metodikkargumentet leses som OKR-praksis.",
+      "priority": 2
+    },
+    {
+      "reason": "Flere av de sterkeste bevisene har levende grenser: gevinstrammeverket er teamlevert uten målt effekt, STE-modellen er ferdigstilt og overlevert uten dokumentert organisatorisk bruk, og styrings-BI-løsningen er avviklet. Alle tre er skrevet med grensene synlige i teksten.",
+      "recommended_action": "Kontroller ved gjennomlesing at grenseformuleringene står som ønsket i en søknadstekst, særlig om lag to og et halvt år senere og overlevert til controllerne.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Minimum fem års relevant erfaring er et uoppfylt minstekrav. Ingen omregning av studier, studentverv eller eldre praktisk arbeid er gjort.",
+    "OKR-metodikk og fasilitering av målsyklusene er ikke dokumentert erfaring, og er ikke påstått noe sted i pakken.",
+    "Eierskap til en samlet prognoseprosess og ledelse av månedlige styringsdialoger er ikke dokumentert. Brevet sier dette eksplisitt.",
+    "Gevinstrammeverket ble utviklet av fire personer. Individuell fordeling, navn, godkjenningsvei og målt effekt er uavklart, og varigheten gjelder om lag to og et halvt år senere, ikke i dag.",
+    "STE-fordelingsmodellen er ferdigstilt og overlevert til controllere. Endelige vekter, implementering per gren, organisatorisk bruk og realiserte gevinster er uavklart.",
+    "Fabric, Power Platform og dbt er utforsking mot sykehusets rammer, ikke produksjonserfaring eller plattformeierskap. Azure-produksjon er ikke berørt.",
+    "Styrings-BI-løsningen ble avviklet i februar 2026, og bidragsandelene er kandidatens egne anslag.",
+    "Kommersiell forretningsutvikling, produktorganisasjonserfaring og medlemsvekst som fagfelt er ikke dokumentert praksis.",
+    "Kildefilen ga null lesbare tegn. Arbeidsgiverfakta er lest fra de seks gjengitte sidene, og den originale annonsen er fasit ved tvil."
+  ],
+  "material_strategy_change": "Strategiens bærende par, felles gevinstmetodikk og skjønnet i STE-modellen, er beholdt, men tre ting er endret. Styrings-BI-arbeidet og kompetanseoverføringen til rapporteringsmiljøet er hentet fra CV-bredde inn i brevet som eget avsnitt, fordi annonsens bindeleddsoppgave mot dataplattformteamet er en selvstendig arbeidsgiverusikkerhet som ingen av de bærende enhetene løser. Studentboligvervene er tatt ut av motivasjonen, som strategien åpnet for: de gjør kandidaten gjenkjennelig uten å gjøre ham mer aktuell, og kan lese som en påstand om boligbransjeerfaring. De står fortsatt i CV-ens baselineseksjon. OKR-gapet er omtalt eksplisitt i brevet i stedet for bare unngått, siden hele hovedargumentet handler om metodikk som skal forankres.",
+  "upstream_claim_repaired": "To reparasjoner, én i hver retning. Understatement: strategien rangerer budsjettverktøyet ned som ren verktøyinnføring, mens annonsens sentrale bekymring er at planer faktisk blir omsatt til handling. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027 med bekreftet status, og er derfor skrevet inn i CV-en med full bekreftet bruksstatus og med rollen som i praksis eneste kodende utvikler innenfor en prosess med om lag 50 involverte, i stedet for et svakere bidragspunkt. Overklaim: strategien merker kravet om bindeledd mellom forretning og dataplattformteam som SUPPORTED. Evidensen dekker kompetanseoverføring til rapporteringsmiljøet og eget modellarbeid, ikke en stående bindeleddsrolle, så pakken beskriver de konkrete handlingene og påstår ingen slik rolle.",
+  "notes": [
+    "Kravet om høyere utdanning innen økonomi er dekket av fullført master i samfunnsøkonomi fra NTNU. Pågående masterprogram i kunstig intelligens står med korrekt status og uten antydning om fullføring.",
+    "Ingen intern terminologi, evidens- eller baselinereferanse, typologietikett eller reviewinnhold i arbeidsgivertekst, og ingen tankestrek.",
+    "CV-overstyringene erstatter baselinepunktene fullstendig for begge OUS-ansettelsene og inneholder den bredden som skal stå. Øvrige ansettelser bruker baselinepunktene."
+  ],
+  "binding": {
+    "run_id": "r20260905-005939-3eeb10/branches/stage1_unknown_20260907T194452Z",
+    "job_id": "huseierne_strategi_maalstyring",
+    "final_package_sha256": "12b37ecf6d158495643d9fcbf0d7b2d8c1659ffa932f6d5bfcb0fd6b94f0c9ba"
+  }
+}

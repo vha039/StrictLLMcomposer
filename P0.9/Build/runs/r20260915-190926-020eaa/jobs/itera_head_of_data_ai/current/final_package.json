@@ -1,0 +1,67 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Rådgiver innen data og analyse",
+    "profile": "Samfunnsøkonom og rådgiver ved Oslo universitetssykehus med teknisk hovedansvar i data- og analyseprosjekter. Har modernisert et budsjetteringsverktøy i sykehusdekkende bruk og utvikler arkitektur for pasient- og kapasitetsprognoser. Kombinerer praktisk implementering med kompetanseoverføring og strukturering av samarbeid. Fullført master i samfunnsøkonomi og pågående masterprogram i kunstig intelligens.",
+    "competencies": [
+      "Dataarkitektur, semantiske modeller og Power BI",
+      "Teknisk retning, integrasjon og leveransekontroll",
+      "Prognoseutvikling og tidsbasert modellvalidering",
+      "Menneskestyrt bruk av KI og kodeagenter",
+      "Virksomhetsnær modernisering med Excel/VBA",
+      "Workshops, kompetanseoverføring og beslutningsstøtte"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Var i praksis eneste kodende utvikler i 2025-moderniseringen av et eksisterende Excel/VBA-budsjetteringsverktøy, i en prosess med om lag 50 interessenter. Integrerte ansatt-, ansettelses- og bemanningsdata. Verktøyet er brukt sykehusdekkende i budsjettprosessene for 2026 og 2027; moderniseringen for 2027 er ferdigstilt.",
+          "Har ansvar for samlet teknisk arkitektur, orkestrering, automatisering og integrasjon i aktiv utvikling av pasient- og kapasitetsprognoser for 14, 90 og 365 dager. Implementeringen er fordelt mellom meg, en kollega og kodeagenter. Har lagt til GAM-modellering og arbeider med SARIMAX.",
+          "Utviklet nesten hele den semantiske modellen, mesteparten av Power Query-logikken og om lag 80-90 prosent av DAX i et styringsdashbord. Kollegene ledet innhold og visualisering. Hadde drifts- og eieransvar omtrent august 2025-februar 2026, med brukertesting og forbedringsarbeid. Dashbordet er avviklet.",
+          "Ledet intern BI-workshop og ga teknisk personell i en annen organisasjon opplæring og rådgivning om Power BI, semantiske modeller og optimalisering. Tilpasser beslutningsnotater, dokumentasjon og opplæring til ledere, controllere og tekniske miljøer.",
+          "Deltok i firepersonersgruppen som etablerte Analyseavdelingen. Utformet oppgavehierarkier, Kanban-strukturer og Loop-arbeidsflater, fasiliterte workshops og bidro med forslag til ansvar og avhengigheter."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker rollen som Head of Data & AI for å arbeide videre med å bygge tjenester og faglig kapasitet rundt konkrete virksomhetsbehov. Som samfunnsøkonom og rådgiver ved Oslo universitetssykehus kombinerer jeg teknisk gjennomføring med forståelse for beslutningene løsningene skal støtte. Hos Itera vil jeg bruke denne erfaringen til å utvikle leveranser som både kundene og fagmiljøet kan bygge videre på.",
+    "body_paragraphs": [
+      "I moderniseringen av sykehusets budsjetteringsverktøy var en konkret oppgave å få bemanningsdata inn i løsningen, slik at de ikke måtte kopieres fra en separat arbeidsbok. Jeg rekonstruerte arkitekturen og gjennomførte kodeendringene innenfor en bred interessentprosess. Jeg anbefalte en større omstrukturering, men fulgte implementeringsansvarliges ramme om avgrenset refaktorering. Jeg sammenlignet gammel og ny logikk og arbeidet med akseptansekriterier og risikooversikt. Jeg laget også opplærings- og presentasjonsmateriell for controllere. For Iteras tjenesteutvikling vil jeg ta med meg denne erfaringen med å tilpasse tekniske valg til en arbeidsprosess som skal fungere hos mottakeren.",
+      "I et pågående prognoseprosjekt har jeg ansvar for arkitekturen og for å koble data, modeller, evaluering og resultater sammen. Jeg har utfordret hva prognosene faktisk skal telle, kontrollert tidslekkasje og krevd tidsbaserte testperioder og sammenligning med referansemodeller. En kollega utviklet den opprinnelige XGBoost-modellen og mye av datagrunnlaget; jeg integrerer bidragene i den samlede løsningen. Kodeagenter inngår i utviklingen, med avgrensede oppgaver, eksplisitte kontrollkrav og menneskelig gjennomgang. Arbeidet er fortsatt under utvikling. Hos dere vil jeg bruke denne tilnærmingen til å gjøre premisser og kvalitet forståelige når fagmiljøet og kunden skal vurdere en data- eller KI-leveranse.",
+      "Jeg har også undervist teknisk personell utenfor egen avdeling i semantiske modeller og Power BI, og ledet en intern workshop for økonomifaglige kolleger. Den praktiske erfaringen med å utvikle faglig kapasitet vil jeg bruke i Iteras kompetanseutvikling og samarbeid mellom fagmiljøene."
+    ],
+    "closing": "Jeg tar gjerne en samtale om hvordan min tekniske og virksomhetsnære erfaring kan bidra i oppbyggingen av Data & AI-miljøet, og om overgangen fra funksjonelt ansvar i prosjekter til rollens personal- og kommersielle ansvar."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Innholdet prioriterer virksomhetsleveranse før aktiv KI-/prognoseutvikling. CV dokumenterer omfang og lifecycle; brevet utdyper avveining, kontroll og overførbarhet til tjenester og faglig kapasitet. Kun obligatoriske grenser og valgte evidensutdrag er hentet. Ingen fullstendige faktamyndigheter er åpnet.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-15",
+    "finalized_at": "2026-09-15T19:34:06Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260915-190926-020eaa",
+    "job_id": "itera_head_of_data_ai",
+    "employer": "Itera Norway",
+    "title": "Head of Data & AI",
+    "manifest_sha256": "b6e191dfe962c4ea9b3655ae3c9fe221ea99bdae61c8b464fc95a970c506e351",
+    "vacancy_sha256": "4d41d5c44ff12b8cb686fe1e25f6347b2d92aa6df8463bf3de1863ee8c043a55",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "3b29e4540213373d6c7020e0d26818cd01da612755379dbf320727452fefe9d3",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "ab66f83007c53400fcf9cd6b1838a58de3e118b85731a1bd5dbddba95bb1f46b"
+  }
+}

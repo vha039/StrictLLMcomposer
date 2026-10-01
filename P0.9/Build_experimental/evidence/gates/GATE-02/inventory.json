@@ -1,0 +1,143 @@
+{
+  "original_p07/CV_MASTER.docx": {
+    "sha256": "c3809748fe26dd5a7ae0a146d940a15e1b3326036ae5f7fac9fd2be02292e8c5",
+    "bytes": 40379,
+    "controls": {
+      "CV_CORE_COMPETENCE": 1,
+      "CV_CURRENT_ROLE_TOP_EVIDENCE": 1,
+      "CV_EARLY_ROLE_EVIDENCE": 1,
+      "CV_FUNCTIONAL_IDENTITY": 1,
+      "CV_OPTIONAL_LANGUAGES": 1,
+      "CV_OPTIONAL_PREVIOUS_EXPERIENCE": 1,
+      "CV_OPTIONAL_TRUST": 1,
+      "CV_PROFILE": 1,
+      "CV_RELEVANT_BACHELOR_SUBJECTS": 1,
+      "CV_RELEVANT_MASTER_SUBJECTS": 1,
+      "CV_SELECTED_EVIDENCE": 1,
+      "CV_SELECTED_EVIDENCE_HEADING": 1,
+      "CV_SUPPORT_SECTION_1": 1,
+      "CV_SUPPORT_SECTION_2": 1,
+      "CV_SUPPORT_SECTION_3": 1,
+      "CV_TOOLS_METHODS": 1,
+      "CV_VALUE_PROPOSITION": 1
+    },
+    "control_total": 17,
+    "bindings": {
+      "data_bindings": 0,
+      "doc_part_obj": 0,
+      "custom_xml_parts": 3
+    }
+  },
+  "original_p07/APPLICATION_MASTER.docx": {
+    "sha256": "dfd24125f921863da23932b8be3255df51cc8a4ee9a97c6a602a33dedb241409",
+    "bytes": 38733,
+    "controls": {
+      "APPLICATION_BODY": 1,
+      "APP_DATE": 1,
+      "APP_EMPLOYER": 1,
+      "APP_JOB_TITLE": 2,
+      "APP_REFERENCE_OPTIONAL": 1,
+      "APP_UNIT_OPTIONAL": 1
+    },
+    "control_total": 7,
+    "bindings": {
+      "data_bindings": 0,
+      "doc_part_obj": 0,
+      "custom_xml_parts": 3
+    }
+  },
+  "prepared/CV_MASTER.docx": {
+    "sha256": "a8f90a50f3c0801dc4d2e57f0685f64fab6dcd4d2fb46bd9707c363e461a8b26",
+    "bytes": 39056,
+    "controls": {
+      "CV_CORE_COMPETENCE": 1,
+      "CV_CURRENT_ROLE_TOP_EVIDENCE": 1,
+      "CV_EARLY_ROLE_EVIDENCE": 1,
+      "CV_FUNCTIONAL_IDENTITY": 1,
+      "CV_OPTIONAL_LANGUAGES": 1,
+      "CV_OPTIONAL_PREVIOUS_EXPERIENCE": 1,
+      "CV_OPTIONAL_TRUST": 1,
+      "CV_PROFILE": 1,
+      "CV_RELEVANT_BACHELOR_SUBJECTS": 1,
+      "CV_RELEVANT_MASTER_SUBJECTS": 1,
+      "CV_SELECTED_EVIDENCE": 1,
+      "CV_SELECTED_EVIDENCE_HEADING": 1,
+      "CV_SUPPORT_SECTION_1": 1,
+      "CV_SUPPORT_SECTION_2": 1,
+      "CV_SUPPORT_SECTION_3": 1,
+      "CV_TOOLS_METHODS": 1,
+      "CV_VALUE_PROPOSITION": 1
+    },
+    "control_total": 17,
+    "bindings": {
+      "data_bindings": 0,
+      "doc_part_obj": 0,
+      "custom_xml_parts": 3
+    }
+  },
+  "prepared/APPLICATION_MASTER.docx": {
+    "sha256": "aff96d15b7e11930d9ac790a983c79158a2573d6a023a2211b288ff4510c7c26",
+    "bytes": 37433,
+    "controls": {
+      "APPLICATION_BODY": 1,
+      "APP_DATE": 1,
+      "APP_EMPLOYER": 1,
+      "APP_JOB_TITLE": 2,
+      "APP_REFERENCE_OPTIONAL": 1,
+      "APP_UNIT_OPTIONAL": 1
+    },
+    "control_total": 7,
+    "bindings": {
+      "data_bindings": 0,
+      "doc_part_obj": 0,
+      "custom_xml_parts": 3
+    }
+  },
+  "avinor_optimization/CV_MASTER.docx": {
+    "sha256": "dc7e71b8afa8c08caa4c64bec04340a1c6a28afabcd5a30cca018f01443a9b99",
+    "bytes": 39127,
+    "controls": {
+      "CV_FUNCTIONAL_IDENTITY": 1,
+      "CV_VALUE_PROPOSITION": 1,
+      "CV_PROFILE": 1,
+      "CV_CORE_COMPETENCE": 1,
+      "CV_TOOLS_METHODS": 1,
+      "CV_CURRENT_ROLE_TOP_EVIDENCE": 1,
+      "CV_SELECTED_EVIDENCE_HEADING": 1,
+      "CV_SELECTED_EVIDENCE": 1,
+      "CV_EARLY_ROLE_EVIDENCE": 1,
+      "CV_RELEVANT_MASTER_SUBJECTS": 1,
+      "CV_RELEVANT_BACHELOR_SUBJECTS": 1,
+      "CV_OPTIONAL_PREVIOUS_EXPERIENCE": 1,
+      "CV_OPTIONAL_TRUST": 1,
+      "CV_OPTIONAL_LANGUAGES": 1,
+      "CV_SUPPORT_SECTION_1": 1,
+      "CV_SUPPORT_SECTION_2": 1,
+      "CV_SUPPORT_SECTION_3": 1
+    },
+    "control_total": 17,
+    "bindings": {
+      "data_bindings": 0,
+      "doc_part_obj": 0,
+      "custom_xml_parts": 3
+    }
+  },
+  "avinor_optimization/APPLICATION_MASTER.docx": {
+    "sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "bytes": 37480,
+    "controls": {
+      "APP_EMPLOYER": 1,
+      "APP_UNIT_OPTIONAL": 1,
+      "APP_DATE": 1,
+      "APP_REFERENCE_OPTIONAL": 1,
+      "APP_JOB_TITLE": 1,
+      "APPLICATION_BODY": 1
+    },
+    "control_total": 6,
+    "bindings": {
+      "data_bindings": 0,
+      "doc_part_obj": 0,
+      "custom_xml_parts": 3
+    }
+  }
+}

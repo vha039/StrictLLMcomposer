@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jobbsok"
+version = "0.9.3+x2b"
+description = "Jobbsok_26 isolated x2b trial with a Stage-1 CV draft and closed Stage-3 evidence packet"
+requires-python = ">=3.12"
+
+# Deliberately minimal. No dependency here has networking capability that
+# production commands invoke (Contract 15, ACC-19).
+#   jsonschema : pure Python schema validation
+#   pymupdf    : PDF verification (page count, extraction, block bboxes)
+# OOXML work uses stdlib zipfile + xml.etree.ElementTree; lxml and
+# python-docx are deliberately NOT dependencies (GATE-07 evidence).
+dependencies = [
+    "jsonschema==4.26.0",
+    "pymupdf==1.28.2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest==9.1.1"]
+
+[project.scripts]
+jobbsok = "jobbsok.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = "runtime" }
+
+[tool.setuptools.packages.find]
+where = ["runtime"]
+include = ["jobbsok*"]
+
+[tool.pytest.ini_options]
+testpaths = ["runtime/tests"]
+python_files = ["test_*.py"]
+addopts = "-ra"

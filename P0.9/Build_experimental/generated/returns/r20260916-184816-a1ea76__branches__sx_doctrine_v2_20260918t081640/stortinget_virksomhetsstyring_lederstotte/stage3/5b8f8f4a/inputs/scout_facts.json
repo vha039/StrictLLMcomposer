@@ -1,0 +1,349 @@
+{
+  "artifact_role": "SCOUT_FACTS",
+  "vacancy": {
+    "employer": "Stortinget",
+    "unit": "forvaltningsavdelingens stab",
+    "title": "seniorrådgiver/rådgiver",
+    "deadline": "2026-09-14",
+    "reference": "FINN-kode: 474832562",
+    "language": "nb",
+    "sector": "PUBLIC"
+  },
+  "requirements": [
+    {
+      "id": "Q01",
+      "quote": "sørge for at avdelingssjef og ledergruppen har stabsprosesser som sikrer god planlegging, koordinering og oppfølging av saker, møter og aktiviteter, blant annet ved bruk av Decisions og Planner",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ]
+    },
+    {
+      "id": "Q02",
+      "quote": "ansvar for praktisk planlegging, organisering og gjennomføring av samlinger",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q03",
+      "quote": "koordinere tverrgående prosesser og oppfølging av beslutninger og tiltak",
+      "kind": "TASK",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ]
+    },
+    {
+      "id": "Q04",
+      "quote": "skrive notater, saksgrunnlag og beslutningsstøtte",
+      "kind": "TASK",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q05",
+      "quote": "utrednings- og fagoppgaver innenfor avdelingens ansvarsområder",
+      "kind": "TASK",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ]
+    },
+    {
+      "id": "Q06",
+      "quote": "drive frem effektive arbeidsformer basert på nye digitale muligheter",
+      "kind": "TASK",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ]
+    },
+    {
+      "id": "Q07",
+      "quote": "følge opp store og små oppgaver for avdelingssjef og ledergruppen",
+      "kind": "TASK",
+      "relation": "ADJACENT",
+      "refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ]
+    },
+    {
+      "id": "Q08",
+      "quote": "relevant høyere utdanning, minimum bachelorgrad og gjerne innen administrasjon og ledelse eller samfunnsvitenskap",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ]
+    },
+    {
+      "id": "Q09",
+      "quote": "erfaring fra administrativ lederstøtte og stabsarbeid, gjerne i offentlig sektor",
+      "kind": "MUST",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q10",
+      "quote": "god organisasjonsforståelse og evne til å se sammenhenger på tvers av fagområder",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ]
+    },
+    {
+      "id": "Q11",
+      "quote": "god skriftlig og muntlig fremstillingsevne på norsk, og beherske engelsk",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q12",
+      "quote": "god digital kompetanse og erfaring med relevante samhandlings-, planleggings- og oppfølgingsverktøy",
+      "kind": "MUST",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ]
+    },
+    {
+      "id": "Q13",
+      "quote": "Den som ansettes, må kunne autoriseres for nivå HEMMELIG.",
+      "kind": "MUST",
+      "relation": "UNKNOWN",
+      "refs": [
+        "EV:OTHER#034-5-3-tjeneste-og-kurs"
+      ]
+    },
+    {
+      "id": "Q14",
+      "quote": "god kjennskap til M365",
+      "kind": "NICE",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ]
+    },
+    {
+      "id": "Q15",
+      "quote": "evne til å formidle og drive veiledning for medarbeidere og ledere",
+      "kind": "NICE",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q16",
+      "quote": "interesse og kompetanse for kontinuitetsplanlegging, sikkerhet og beredskap",
+      "kind": "NICE",
+      "relation": "ADJACENT",
+      "refs": [
+        "EV:WORK#031-5-1-styring-sikkerhet-og-kontrollert-end",
+        "EV:OTHER#034-5-3-tjeneste-og-kurs"
+      ]
+    },
+    {
+      "id": "Q17",
+      "quote": "arbeider strukturert, selvstendig og med god gjennomføringsevne",
+      "kind": "SHOULD",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    },
+    {
+      "id": "Q18",
+      "quote": "tar initiativ, skaper fremdrift og følger opp saker på en selvstendig og pålitelig måte",
+      "kind": "SHOULD",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    },
+    {
+      "id": "Q19",
+      "quote": "trives med å støtte og legge til rette for at andre skal lykkes",
+      "kind": "SHOULD",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:OTHER#041-6-6-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q20",
+      "quote": "samarbeider svært godt og bygger gode relasjoner på tvers av nivåer og fagmiljøer",
+      "kind": "SHOULD",
+      "relation": "PARTIAL",
+      "refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ]
+    },
+    {
+      "id": "Q21",
+      "quote": "er opptatt av kontinuerlig forbedring og læring",
+      "kind": "SHOULD",
+      "relation": "STRONG",
+      "refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ]
+    }
+  ],
+  "thresholds": [
+    {
+      "id": "T1",
+      "quote": "relevant høyere utdanning, minimum bachelorgrad",
+      "dimension": "EDUCATION",
+      "required": "Minimum bachelorgrad",
+      "candidate": "Fullført mastergrad i samfunnsøkonomi og fullført bachelorgrad i samfunnsøkonomi",
+      "status": "MEETS",
+      "refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ]
+    },
+    {
+      "id": "T2",
+      "quote": "For ansettelse som seniorrådgiver, kreves det minimum bachelorgrad, gjerne mastergrad og fortrinnsvis fem års relevant erfaring.",
+      "dimension": "YEARS",
+      "required": "Fortrinnsvis fem års relevant erfaring for seniorrådgiver",
+      "candidate": "Om lag 3,5 års dokumentert OUS-erfaring fra mars 2023 til søknadsfristen",
+      "status": "MISSES",
+      "refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver"
+      ]
+    },
+    {
+      "id": "T3",
+      "quote": "god skriftlig og muntlig fremstillingsevne på norsk, og beherske engelsk",
+      "dimension": "LANGUAGE",
+      "required": "God skriftlig og muntlig norsk; beherske engelsk",
+      "candidate": "Norsk morsmål; engelsk flytende skriftlig og muntlig",
+      "status": "MEETS",
+      "refs": [
+        "EV:OTHER#032-5-1-sprak"
+      ]
+    },
+    {
+      "id": "T4",
+      "quote": "Den som ansettes, må kunne autoriseres for nivå HEMMELIG.",
+      "dimension": "CLEARANCE",
+      "required": "Kunne autoriseres for nivå HEMMELIG",
+      "candidate": "Tidligere vakt- og sikringstjeneste er dokumentert, men autoriserbarhet for HEMMELIG er ikke dokumentert",
+      "status": "UNCLEAR",
+      "refs": [
+        "EV:OTHER#034-5-3-tjeneste-og-kurs"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "label": "seniorrådgiver",
+      "quote": "For ansettelse som seniorrådgiver, kreves det minimum bachelorgrad, gjerne mastergrad og fortrinnsvis fem års relevant erfaring.",
+      "fit": "STRETCH"
+    },
+    {
+      "label": "rådgiver",
+      "quote": "Stillingen lønnes som seniorrådgiver/rådgiver",
+      "fit": "STRONG"
+    }
+  ],
+  "employer_facts": [
+    {
+      "fact": "Administrasjonen støtter den parlamentariske virksomheten.",
+      "quote": "Stortingets administrasjon har som formål å støtte den parlamentariske virksomheten og sørge for gode rammebetingelser for representantenes arbeid.",
+      "conversion": "Arbeidet krever presis, tillitsverdig leder- og beslutningsstøtte i en samfunnskritisk institusjon."
+    },
+    {
+      "fact": "Administrasjonen forvalter og sikrer Stortingets verdier.",
+      "quote": "Vi arbeider med å formidle kunnskap om folkestyret og Stortingets virksomhet, forvalte og sikre Stortingets verdier, og ivareta og fornye Stortinget som institusjon.",
+      "conversion": "Forbedring og digitalisering må kombineres med kontroll, sikkerhet og institusjonell kontinuitet."
+    },
+    {
+      "fact": "Administrasjonen har rundt 520 medarbeidere i syv avdelinger.",
+      "quote": "Stortingets administrasjon har rundt 520 medarbeidere og er organisert i syv avdelinger.",
+      "conversion": "Stabsprosessene må fungere på tvers av flere fagmiljøer i en mellomstor, sammensatt organisasjon."
+    },
+    {
+      "fact": "Rollen er plassert i forvaltningsavdelingens stab tett på ledelsen.",
+      "quote": "Du vil få en sentral rolle i forvaltningsavdelingens stab og arbeide tett med avdelingens ledelse.",
+      "conversion": "Leveransene må veksle mellom praktisk koordinering, beslutningsgrunnlag og oppfølging for ledelsen."
+    },
+    {
+      "fact": "Rollen skal bruke digitale verktøy og kunstig intelligens i arbeidsprosessene.",
+      "quote": "aktivt drive frem gode strukturer og arbeidsprosesser basert på potensialet i digitale verktøy og kunstig intelligens.",
+      "conversion": "Digitale muligheter må omsettes til kontrollerte, anvendelige arbeidsformer for stab og ledergruppe."
+    }
+  ],
+  "submission": {
+    "letter_requirement": "REQUIRED",
+    "quote": "Søknad, CV og attester/vitnemål skal fortrinnsvis sendes elektronisk via denne siden «Søk stillingen» innen 14. september 2026.",
+    "route": "FINN",
+    "screening_questions": []
+  },
+  "reader_signals": [
+    {
+      "signal": "Leseren prioriterer struktur og trygg gjennomføring tett på ledergruppen.",
+      "quote": "Vi søker en strukturert, initiativrik og trygg medarbeider."
+    },
+    {
+      "signal": "Rollen skal få eksisterende stabs- og styringsprosesser til å henge sammen.",
+      "quote": "Du får avdelingens stabsprosesser til å fungere, og sikrer at avdelingen fungerer godt inn mot virksomhetens styringsprosesser og avdelingens årshjul."
+    },
+    {
+      "signal": "Selvstendig oppfølging og pålitelig fremdrift er et eksplisitt utvelgelsessignal.",
+      "quote": "tar initiativ, skaper fremdrift og følger opp saker på en selvstendig og pålitelig måte"
+    },
+    {
+      "signal": "Personlig egnethet er en tung del av vurderingen.",
+      "quote": "Personlig egnethet vil bli tillagt stor vekt."
+    }
+  ],
+  "notes": [
+    "FINNs AI-genererte ferdighetsliste er utelatt som krav og evidens.",
+    "Annonsen oppgir Decisions og Planner; kandidatens konkrete erfaring med disse to navngitte verktøyene er ikke dokumentert.",
+    "Evne til autorisasjon for nivå HEMMELIG er uavklart og kan ikke utledes av tidligere vakt- og sikringstjeneste."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "stortinget_virksomhetsstyring_lederstotte",
+    "employer": "Stortinget",
+    "title": "seniorrådgiver/rådgiver",
+    "evidence_fingerprint": "4bf13895d0a37df2a9915793f2d29a93030d34e9ca5c53140c176c7ec28c206a",
+    "policy_fingerprint": "aa4d64ac6552944b30ffeb3944de5f2cea9c07a2b46da3adb105283065ac6aa0",
+    "inputs": {}
+  }
+}

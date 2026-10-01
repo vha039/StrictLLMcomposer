@@ -1,0 +1,168 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "KPMG trenger rådgivere som kan strukturere krevende omstilling for kunder, få prosjekter frem og levere anbefalinger, implementering, gevinst og relasjoner. Kandidatens evidens er mest relevant for digitalisering, metode, kontroll og forbedring i en stor offentlig virksomhet; den dekker ikke konsulentleveranser, nedbemanning, salg eller formelt organisasjonsutviklingsmandat.",
+  "selection_logic": "Velg strategi-/gevinst- og kontrollert endringsrute. PRJ-04 viser teamutviklet felles metode med dokumentert implementering og PRJ-03 viser forbedring av kritisk arbeidsflyt i drift; PRJ-08 gir arbeidsstruktur, samhandling og workshop. Dette skaper en forsvarlig rådgiveridentitet rundt analyse, styring og gjennomføring, ikke en påstand om at Vegard allerede har vært transformasjonskonsulent eller ledet omstilling.",
+  "primary_candidate_identity": "Samfunnsøkonomisk rådgiver for analyse, forbedringsmetode og kontrollert digital endring.",
+  "headline_hypothesis": "Samfunnsøkonomisk rådgiver | transformasjon, analyse og gjennomføring",
+  "shortlist_thesis": "Vegard kan bidra med analytisk struktur, metode, transparent beslutningsstøtte og praktisk forbedring av arbeidsprosesser i komplekse organisasjoner. Strategien må være eksplisitt på at erfaringen ikke dokumenterer konsulentkundeansvar, nedbemanning, stor omstilling, salg eller formell prosjektledelse.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "2–10 års erfaring med transformasjonsprosjekter og organisasjonsutvikling fra konsulenthus eller strategisk arbeid i større virksomhet.",
+      "importance": "MINIMUM",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Større offentlig virksomhet og metode-/arbeidsmodellbidrag er dokumentert, ikke transformasjonsprosjekt- eller organisasjonsutviklingsrolle i ønsket omfang."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Prosjektleder- eller konsulenterfaring og strategisk rådgivning.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "note": "Ingen formell prosjektleder- eller konsulenterfaring; gi ikke funksjonell strukturering disse titlene."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Kartlegging, datadrevet analyse, rapporter/presentasjoner og tydelige beslutningsgrunnlag.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+      ],
+      "note": "Støtter analyse og transparent beslutningsstøtte; ikke markeds-/kundeanalyser eller klientanbefalinger."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Omstilling, ny organisasjonsstruktur, lønnsomhetsforbedring, nedbemanning og gevinstrealisering.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "note": "Ingen dokumentert nedbemanning, lønnsomhetsprogram, organisasjonsomlegging eller realiserte gevinster."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Fremdrift, kvalitet, implementering og kontinuerlig forbedring av leveranser.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Støtter kontrollert levering, risiko, prioritering og onboarding, men ikke full prosjekt- eller implementeringsansvar."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Sterke kunderelasjoner og bidrag i salgsprosesser.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "note": "Ingen dokumentert relevant kundesalg eller konsulentrelasjon."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Nysgjerrighet på teknologi og AI for bedre løsninger; gode norskkunnskaper.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#032-5-1-sprak"
+      ],
+      "note": "Støtter ansvarlig KI-arbeidsflyt og norsk som morsmål, ikke AI-transformasjon eller kommersiell effekt."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "role": "Bærende bevis for metode, analyse og felles praksis: del av firepersonsteam som videreutviklet en gevinstrealiserings-/estimeringsmetodikk til sykehusdekkende standard.",
+      "claim_ceiling": "Ikke soleierskap, metodelederrolle, eksakt individuell effekt eller bevis for kundetransformasjon.",
+      "lifecycle": "IMPLEMENTED",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "role": "Bærende bevis for kontrollert prosessforbedring i drift med krav, risiko, kontroll og onboarding.",
+      "claim_ceiling": "Ikke omstilling av organisasjon, lønnsomhetsprogram, prosjektledermandat eller målt gevinst.",
+      "lifecycle": "IN_USE",
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ]
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Konsulentarbeid, kunderelasjoner, salg og formell prosjektledelse er ikke dokumentert.",
+      "reframe": "Hold ruten på intern, offentlig rådgivnings- og forbedringspraksis; ikke bruk konsultative verb som erstatter manglende kundeoppdrag.",
+      "honesty_note": "Ingen klient-, salgs- eller prosjektlederansvar."
+    },
+    {
+      "objection": "Nedbemanning, omstilling av organisasjonsstruktur og lønnsomhetsrealisering er sentrale deler av KPMGs mandat uten direkte erfaring.",
+      "reframe": "PRJ-04/03 kan vise relevant analyse, styring og forbedring, men skal ikke omdøpes til omstillingsprogram.",
+      "honesty_note": "Ingen nedbemanning, organisasjonsendring eller realisert gevinst."
+    },
+    {
+      "objection": "Senior rådgiverposisjonering kan bli for sterk.",
+      "reframe": "La konkrete faglige beslutninger og teamramme bære rolig tyngde, uten å kreve senior tittel eller autoritet.",
+      "honesty_note": "Ingen linje-/programmyndighet."
+    }
+  ],
+  "motivation_bridge": "KPMGs vekt på å gjøre strategi operativ er faglig relevant fordi Vegards styrke ligger i å gjøre metoder, antakelser og digitale endringer brukbare i praksis. Dette er en motivasjonsbro til forbedringsarbeid, ikke bevis på at han allerede har gjort konsulentoppdraget KPMG beskriver.",
+  "cv_direction": {
+    "headline_direction": "Analyse, forbedringsmetode og kontrollert digital endring som rådgiveranker.",
+    "emphasis": [
+      "PRJ-04 for felles metode og styring.",
+      "PRJ-03 for forbedring i drift.",
+      "PRJ-06/01 selektivt for beslutningsgrunnlag."
+    ],
+    "deprioritize": [
+      "Konsulent-, salg-, omstillings- og prosjektlederidentitet.",
+      "KI som erstatning for dokumentert transformasjon."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Gode endringer trenger både klart beslutningsgrunnlag og kontrollert gjennomføring i praksis.",
+    "top_employer_problems": [
+      "Uklare strategiske problemstillinger som trenger struktur.",
+      "Felles metode, kontroll og forbedring.",
+      "Manglende konsulent- og omstillingsmandat."
+    ],
+    "structure_guidance": "Bruk PRJ-04 og PRJ-03 som to ulike bevisenheter. Ikke tilfør en tredje fiktiv kundehistorie for å dekke rådgivnings- og salgsaspektet."
+  },
+  "avoid_guidance": [
+    "Ikke påstå konsulentkundeansvar, salg, nedbemanning, lønnsomhetsprogram eller organisasjonsomlegging.",
+    "Ikke kalle teamarbeid metodeledelse eller prosjektledelse.",
+    "Ikke gjøre standardisering eller onboarding til målt gevinstrealisering."
+  ],
+  "counterfactual_route": null,
+  "risk_notes": [
+    "Derived view was readable; AI-generated labels were excluded.",
+    "Material gaps in consulting, organizational transformation and commercial work must not be collapsed into generic transformation vocabulary."
+  ],
+  "personality_facets": [],
+  "writer_guidance": "The final package should present a credible analyst-adviser with implementation discipline, not a synthetic KPMG consultant. Preserve PRJ-04 team ownership and the distinct lifecycle of every example.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "kpmg_transformasjon_omstilling",
+    "employer": "KPMG Norge",
+    "title": "Konsulent: Transformasjon og omstilling",
+    "manifest_sha256": "d68a8bf0c96a0df58fcded9772503c06957c162c9f4762a03f049228eb60dc77",
+    "vacancy_sha256": "86fe42889439105d40cb75de9f362c29c4d679afad8bf53587335d2d62af4e46",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

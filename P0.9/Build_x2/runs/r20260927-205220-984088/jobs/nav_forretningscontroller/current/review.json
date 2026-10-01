@@ -1,0 +1,33 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Nav ber uttrykkelig om utfyllende CV og svar på screeningspørsmål, ikke søknadsbrev. CV-en er gjort utfyllende og bærer hele controllerargumentet; brevet er komplett, men kort.",
+      "recommended_action": "Ved innsending: bruk CV-en og vurder selv om brevet skal legges ved. Screeningsvarene håndteres manuelt utenfor kjernen."
+    },
+    {
+      "priority": 2,
+      "reason": "Oppfølging av teknologi-, sky- og plattformkostnader (IaaS/PaaS/SaaS) er ikke dokumentert; pakken dekker kostnader knyttet til folk og aktivitet og vurdering av teknologivalg mot drift og vedlikehold, uten å påstå skykostnadserfaring.",
+      "recommended_action": "Ingen tekstendring; forbered et intervjusvar om hvordan bemannings- og aktivitetsanalyse overføres til teknologikostnader."
+    },
+    {
+      "priority": 3,
+      "reason": "Regnskapserfaringen er en tildelt klinikkflyt i ni måneder, ikke årsoppgjør eller budsjettansvar; formuleringene holder seg innenfor det.",
+      "recommended_action": "Normal skumlesing."
+    }
+  ],
+  "known_limitations": [
+    "Ingen formell controllertittel eller eget budsjettansvar; formell tittel er Rådgiver Økonomi og IKT.",
+    "Ingen dokumentert erfaring med skykostnader, FinOps eller teknologiporteføljeøkonomi.",
+    "Styrings-BI-et er avviklet; proxy-modellens organisatoriske bruk og gevinster er uavklart."
+  ],
+  "material_strategy_change": "BAR-arbeidet er gjort betydelig bredere i CV-en enn i strategiens utkast (full månedsoppgjørsflyt, lederrapportering med innleieestimat, budsjett 2024 og budsjetthjelpeark, prosjektøkonomi og fakturering), fordi Nav vurderer på CV og ber om regnskapsoppfølging, kostnader knyttet til folk og tett ledersparring. KI-superbrukerrollen er lagt til for kravet om å sette seg raskt inn i nye verktøy. PRJ-03-vurderingen av VBA/Office Scripts/Python mot drift og vedlikehold er brukt som nøktern bro til teknologivalg og kostnader over tid.",
+  "upstream_claim_repaired": "cv_draft koblet 'seksjonsvise DRG-estimater som ble brukt i budsjett og planlegging' riktig, men utelot REGERP-verktøyenes tidsavgrensning ('kort etter overgangen'); rettet. cv_draft understatet PRJ-03 ('gjennomførte kodeendringene') uten at kandidaten var i praksis eneste kodende utvikler i en prosess med om lag 50 deltakere og uten det manuelle kopieringsleddet som ble fjernet; lagt inn. Et eget førsteutkast i denne stagen daterte REGERP-verktøyene til 'samme høst' og DRG-estimatene til budsjett 2024; begge er rettet til det kilden faktisk bærer.",
+  "binding": {
+    "run_id": "r20260927-205220-984088",
+    "job_id": "nav_forretningscontroller",
+    "final_package_sha256": "a2dc161b8102c6bd07a6110733f2f73f28881bf176f5bb0ddedce7b87d6174a0"
+  }
+}

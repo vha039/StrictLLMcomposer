@@ -1,0 +1,63 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260908-154257-0fa53b/branches/stage3_solmed_20260909T160521Z",
+  "derived_at": "2026-09-09T16:13:28Z",
+  "manifest_sha256": "facfeb3b65f2040815a6397ee0c41b0a479e676b87bcb06c7f56984c5eecddda",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 1,
+    "core": 1,
+    "exception": 0,
+    "semantic_final_available": 1,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 1,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 0,
+      "DEGRADED": 1,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "avinor_digital_transformasjon",
+      "employer": "Avinor AS",
+      "title": "Seniorrådgiver Digital Transformasjon",
+      "cluster": "runavinor",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-13",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "DEGRADED",
+        "cv_docx": "OK",
+        "cv_pdf": "DEGRADED",
+        "letter_docx": "OK",
+        "letter_pdf": "DEGRADED",
+        "limitation": "Automated PDF conversion did not produce a verified PDF. The DOCX is valid and the semantic package is unaffected.",
+        "human_action": "Save/export the PDF manually for human submission use. Automated status remains DEGRADED unless the configured converter later produces a verified current PDF."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Pakken etablerer yrkesanker, utdanning, nåværende rolle og de to sterkeste Avinor-relevante bevisfunksjonene tidlig. Action: Gjennomfør normal menneskelig skim og godkjenning. | Personlig bidrag, teamramme og lifecycle er skilt for gevinststandarden, fordelingsmodellen og budsjettmoderniseringen. Action: Behold disse grensene ved eventuell lokal språkredigering. | Det bredere konsernmandatet som stillingen kan innebære, presenteres som overføring fra prosjekt- og metodearbeid, ikke som allerede oppfylt ansvar. Action: Bruk dette som et ærlig intervjutema, ikke som en tekstfeil. | Known limitation: Kildene dokumenterer ikke formelt konsernansvar for portefølje, program, strategiske beslutningsfora eller personalledelse. | Known limitation: Gevinstrammeverket ble innført, fordelingsmodellen ble ferdigstilt og overlevert, og budsjettverktøyet er i bruk, men det foreligger ikke dokumenterte mål på realisert økonomisk effekt. | Known limitation: Luftfartsdomene, utfallet av bakgrunnssjekk og eventuell sikkerhetsklarering er ikke dokumentert.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_solmed_20260909T160521Z\\jobs\\avinor_digital_transformasjon\\out\\CV_Avinor_AS_Seniorradgiver_Digital_Tr_16500c77.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260908-154257-0fa53b\\branches\\stage3_solmed_20260909T160521Z\\jobs\\avinor_digital_transformasjon\\out\\Soknad_Avinor_AS_Seniorradgiver_Digital_Tr_16500c77.docx"
+      ]
+    }
+  ]
+}

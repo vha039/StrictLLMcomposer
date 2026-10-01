@@ -1,0 +1,29 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken forankrer kandidaten i dokumenterte plasseringer i to stabsenheter i offentlig sektor, lederrapportering og behovsstyrte oppgaver i klinikkstaben, arbeidsstruktur og workshops i Analyseavdelingen, og en registrert KI-superbrukerrolle som svarer direkte på annonsens vekt på digitale verktøy og kunstig intelligens. Ingen kjent ustøttet påstand gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Administrativ lederstøtte i snever forstand (møte- og saksoppfølging for en ledergruppe, årshjul, samlinger, Decisions og Planner) er ikke dokumentert. Stabserfaringen er økonomi- og analysefaglig. Teksten påstår ikke mer.",
+      "recommended_action": "Ingen endring nødvendig; vær forberedt på spørsmål om dette i intervju.",
+      "priority": 2
+    },
+    {
+      "reason": "Autorisasjon for HEMMELIG og kompetanse i kontinuitetsplanlegging og beredskap kan ikke dokumenteres og er ikke omtalt i søknaden. Tidligere tjeneste som vakt- og sikringssoldat står i CV-en med baselinepunktet.",
+      "recommended_action": "Ingen endring i pakken; autorisasjon avgjøres i arbeidsgivers prosess.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert erfaring med Decisions, Planner, årshjul eller administrativ oppfølging av en ledergruppe.",
+    "Ingen dokumentert sikkerhetsklarering eller beredskapsfaglig kompetanse.",
+    "Seniorrådgivernivå forutsetter fortrinnsvis fem års relevant erfaring; relevant stabserfaring er fra mars 2023.",
+    "KI-superbrukerrollen har ikke oppgitt antall brukere, formelt organisasjonsomfattende støtteansvar eller styringsmandat."
+  ],
+  "material_strategy_change": "Endret yrkesankeret fra en generell rådgiver for arbeidsprosesser til de dokumenterte plasseringene i to stabsenheter (staben i Barne- og ungdomsklinikken og Analyseavdelingen i direktørens stab), og løftet KI-superbrukerrollen og den menneskestyrte KI-arbeidsmåten fra nedprioritert alternativ rute til bærende enhet, fordi annonsen uttrykkelig ber om arbeidsformer basert på digitale verktøy og kunstig intelligens. De behovsstyrte oppgavene i klinikkstaben er brukt som nærmeste dokumenterte parallell til lederstøtte.",
+  "upstream_claim_repaired": "Understatement: strategien sa at kilden ikke dokumenterer noen formell stabsrolle, men begge OUS-plasseringene er i stabsenheter i offentlig sektor. Kravet om stabsarbeid er delvis direkte oppfylt; bare den administrative lederstøtten er tilgrensende. Strategien nedprioriterte også KI selv om annonsen nevner kunstig intelligens uttrykkelig.",
+  "notes": []
+}

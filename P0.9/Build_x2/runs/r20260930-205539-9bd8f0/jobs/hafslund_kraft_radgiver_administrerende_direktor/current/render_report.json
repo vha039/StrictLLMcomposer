@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260930-205539-9bd8f0",
+    "job_id": "hafslund_kraft_radgiver_administrerende_direktor",
+    "final_package_sha256": "e3ab57e7964685b407f8dafc78b007ecc771d035effc8a46b00399b087377080",
+    "document_date": "2026-09-30",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "cv_master_sha256": "688732a32369e2e8718fbb556f0512509fc308d0a0fb43533e09c990c7934c4d",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "9591d19e76a03f767d8fd772090bef99c983d720d49454c12f3d6b3a64db4a48",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205539-9bd8f0\\jobs\\hafslund_kraft_radgiver_administrerende_direktor\\out\\CV_Hafslund_Radgiver_administrerende_direktor_Hafslund_Kraft.docx",
+      "output_sha256": "7cd62b289835322b29b56b5f830ef436fd4512f1ac0728e90a9dcd266bd58494",
+      "bytes": 40921,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205539-9bd8f0\\jobs\\hafslund_kraft_radgiver_administrerende_direktor\\out\\CV_Hafslund_Radgiver_administrerende_direktor_Hafslund_Kraft.pdf",
+      "output_sha256": "5f49a6f3f6a6c80bcab21f2b688914b9af9f440a55d2cd78f4bbb0f58d89e9c7",
+      "bytes": 290737,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_tp_efj3k\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205539-9bd8f0\\jobs\\hafslund_kraft_radgiver_administrerende_direktor\\out\\.rnd.9dd74556\\CV_Hafslund_Radgiver_administrerende_direktor_Hafslund_Kraft.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205539-9bd8f0\\jobs\\hafslund_kraft_radgiver_administrerende_direktor\\out\\.rnd.9dd74556\\CV_Hafslund_Radgiver_administrerende_direktor_Hafslund_Kraft.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205539-9bd8f0\\jobs\\hafslund_kraft_radgiver_administrerende_direktor\\out\\Soknad_Hafslund_Radgiver_administrerende_direktor_Hafslund_Kraft.docx",
+      "output_sha256": "81c545550f6cea65817381a53cdbf1eb564ce5b0641f7c3b612ccbe4b7878fd4",
+      "bytes": 38756,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205539-9bd8f0\\jobs\\hafslund_kraft_radgiver_administrerende_direktor\\out\\Soknad_Hafslund_Radgiver_administrerende_direktor_Hafslund_Kraft.pdf",
+      "output_sha256": "a1afc01481a106f0754604f31bc4a4ef68a58d8bcd62c26858e8aaa2bf493774",
+      "bytes": 197260,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_hb977b45\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205539-9bd8f0\\jobs\\hafslund_kraft_radgiver_administrerende_direktor\\out\\.rnd.9dd74556\\Soknad_Hafslund_Radgiver_administrerende_direktor_Hafslund_Kraft.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205539-9bd8f0\\jobs\\hafslund_kraft_radgiver_administrerende_direktor\\out\\.rnd.9dd74556\\Soknad_Hafslund_Radgiver_administrerende_direktor_Hafslund_Kraft.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-30T21:38:02Z"
+}

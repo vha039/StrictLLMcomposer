@@ -1,0 +1,83 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach"
+  ],
+  "cv": {
+    "headline": "Samfunnsøkonom | Økonomi, budsjett og styringsrapportering",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver Økonomi og IKT ved Oslo universitetssykehus, med praktisk erfaring fra både økonomiprosesser og styringsverktøy i en stor offentlig virksomhet. Overtok i Barne- og ungdomsklinikken den tildelte månedsoppgjørsflyten innen om lag tre måneder og kvalitetssikret og sendte månedsrapportene til klinikkens ledere. Har i Analyseavdelingen modernisert sykehusets budsjetteringsverktøy, som er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027, og laget onboarding for controllerne som bruker det.",
+    "competencies": [
+      "Budsjett, månedsoppgjør og økonomioppfølging",
+      "Styringsrapportering og resultatforklaring til ledere",
+      "Analyse og utredning",
+      "Sentrale budsjett- og styringsverktøy",
+      "Dokumentasjon, prosedyrer og opplæring",
+      "Avstemming, kontroll og kvalitetssikring",
+      "Power BI, Excel/VBA, SQL og R"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Moderniserte sykehusets om lag 20 år gamle budsjetteringsverktøy i Excel/VBA som i praksis eneste kodende utvikler, i en prosess med om lag 50 involverte: bemanningsdata ble bygget inn i stedet for å kopieres inn manuelt, endringene ble kontrollert mot akseptansekriterier, og controllere fikk onboarding og presentasjonsmateriell. Verktøyet er i sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Videreutviklet i et team på fire sykehusets metodikk for gevinstrealisering, med bidrag til forskningssyntese, metode, økonomisk analyse og styring. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Utredet fordeling av gevinster fra steril logistikk der direkte bruksdata ikke bar en direkte fordeling, og utformet i stedet en transparent vektet modell med synlige forutsetninger og kontroller. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Hovedutvikler av datamodell og beregninger i et styringsdashbord for økonomi, bemanning, sykefravær og aktivitet/DRG, bygget fra grunnen i en avdeling på fire; ansvarlig for løsningen fra aug. 2025 til den ble avviklet rundt feb. 2026.",
+          "Utvikler beslutningsstøtte for økonomi, bemanning og aktivitet med Power BI, Excel/VBA, SQL og prosjektavhengig R/Python, og lager dokumentasjon, workshops og onboarding for ledere, controllere og fagmiljøer."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter om lag halvannen måneds opplæring gradvis månedsavslutningen og hadde innen om lag tre måneder hele den tildelte oppgjørsflyten: prosjektnulling, periodisering, reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring. Gjennomførte den mot slutten selvstendig.",
+          "Sammenstilte og analyserte økonomi-, bemannings- og aktivitetsgrunnlag til klinikkens lederrapportering, blant annet DRG og plantall, ventelister, kurdøgn, gjestepasientoppgjør, medikamenter og innleie; kvalitetssikret og sendte månedsrapportene til lederne selv mot slutten av perioden.",
+          "Bidro i budsjettprosessen for 2024 med registrering av årsverk, kvalitetssikring av bemannings-, UTA- og vaktgrunnlag og forbedrede formler, bygget klinikkens budsjetthjelpeark og bidro i oppfølgingen av økonomiske tiltak i budsjett- og styringsspråk.",
+          "Leverte seksjonsvise DRG-prognoser med Stata, R og Power Query som ble brukt i budsjett og planlegging, og arbeidet etter behov med prosjektøkonomi, fakturering og prosjektavslutning.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering av konteringslinjer ved overgangen til REGERP; i perioden etter overgangen ble de brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Da jeg begynte i Barne- og ungdomsklinikken ved Oslo universitetssykehus, hadde jeg etter om lag tre måneder overtatt hele den tildelte månedsoppgjørsflyten, og mot slutten kvalitetssikret og sendte jeg månedsrapportene til klinikkens ledere selv. Å holde økonomiprosesser og rapportering til ledere i gang, pålitelig og i tide, er en stor del av det teamet for virksomhetsplan og rapportering har ansvar for i Bærum kommune, og det er arbeid jeg kan gå rett inn i.",
+    "body_paragraphs": [
+      "Arbeidet i klinikken gikk fra periodisering, avstemming og resultatforklaring til rapportering av DRG og plantall, ventelister, kurdøgn, gjestepasientoppgjør og innleie. Jeg bidro også i budsjettprosessen for 2024, blant annet med kvalitetssikring av bemannings- og vaktgrunnlag, og i oppfølgingen av økonomiske tiltak, der jeg oversatte tiltakenes logikk til budsjett- og styringsspråk. Det er de samme spørsmålene jeg venter å møte i konsernoppfølgingen av direktørområdene: hva som er brukt, hvorfor avvik oppstår og hva lederne trenger å vite.",
+      "Et felles verktøy som hele organisasjonen bruker i planarbeidet, har jeg arbeidet med i Analyseavdelingen. Sykehusets budsjetteringsverktøy er en om lag 20 år gammel Excel/VBA-løsning som budsjettprosessen i hele sykehuset bruker. I moderniseringen i 2025 var jeg i praksis eneste kodende utvikler i en prosess med om lag 50 involverte. Bemanningsdata som tidligere måtte kopieres inn manuelt, ble bygget inn, endringene ble kontrollert mot akseptansekriterier, og jeg laget onboarding og presentasjonsmateriell for controllerne. Verktøyet ble brukt i hele sykehuset i budsjettprosessen for 2026 og er i bruk igjen for 2027. Den erfaringen, med et felles verktøy mange skal bruke riktig og samtidig, tar jeg med inn i arbeidet med Framsikt, prosedyrer og opplæringsopplegg.",
+      "Analyse og utredning er den andre halvdelen av arbeidet mitt. I et team på fire videreutviklet vi sykehusets metodikk for gevinstrealisering, som ble innført som standard for hele sykehuset. Da datagrunnlaget ikke bar en direkte fordeling av gevinster fra steril logistikk mellom klinikkene, utformet jeg i stedet en vektet modell med synlige forutsetninger, for at controllerne skulle kunne se og etterprøve hva tallene hviler på. Master i samfunnsøkonomi fra NTNU og bachelor fra Universitetet i Bergen er det faglige grunnlaget for dette arbeidet.",
+      "Så langt har jeg arbeidet med økonomi og styring i et sykehus. I en kommune med over 130 000 innbyggere gjelder de samme spørsmålene om ressurser, aktivitet og prioritering på tvers av langt flere tjenester, og det er den bredden som gjør vikariatet interessant for meg."
+    ],
+    "closing": "Jeg forteller gjerne mer om erfaringen min i et intervju."
+  },
+  "writer_note": "Anker: samfunnsøkonom med operativ økonomiflyt, lederrapportering og sentralt budsjettverktøy. Framsikt og kommunal konsernoppfølging er ikke dokumentert; håndtert som overføring uten fraværspåstand.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-23",
+    "finalized_at": "2026-09-23T21:50:13Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260923-193222-838ddd",
+    "job_id": "baerum_radgiver_virksomhetsstyring",
+    "employer": "Bærum kommune",
+    "title": "Rådgiver/spesialrådgiver",
+    "manifest_sha256": "9732ebd7f1737303a790702bf6c5f4c29b745f45d547372141d3bccb4a8e3b8e",
+    "vacancy_sha256": "c50c63f969238a085c66d51e94701d8680e024963dc1447138dbea3b8c7c81b3",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "c62827fa003d8f654b2756090a4371d146e5443b34802df30bb58e6710c38094",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "a42004d870c18032f8f2ca5ca4cda842351f2534126718aebc5c5f2e515b38f2"
+  }
+}

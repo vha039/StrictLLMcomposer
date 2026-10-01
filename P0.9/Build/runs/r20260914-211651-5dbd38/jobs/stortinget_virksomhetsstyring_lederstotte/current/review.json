@@ -1,0 +1,37 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Pakken svarer på stabsarbeid, lederrapportering, strukturering av oppfølging, notater og digitale arbeidsformer med kildestøttede case. Ingen kjent ustøttet tekst eller lokal bekreftelse gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning. Søknadsfristen er 14.9.2026, samme dag som pakken ble laget."
+    },
+    {
+      "priority": 2,
+      "reason": "Administrativ ledergruppestøtte (møte- og saksflyt, Decisions/Planner, årshjul, samlingslogistikk) er ikke dokumentert. Pakken viser stabsarbeid med lederrapportering og arbeidsstruktur, og omtaler Decisions/Planner bare som fremtidig bidrag.",
+      "recommended_action": "Ingen redigering. Forbered et intervjusvar om overgangen fra økonomisk lederstøtte til administrativ stabsstøtte."
+    },
+    {
+      "priority": 3,
+      "reason": "Autorisasjon for HEMMELIG er et ansettelsesvilkår uten kildegrunnlag og er bevisst ikke omtalt i dokumentene.",
+      "recommended_action": "Ingen endring i pakken. Håndteres i arbeidsgiverens klareringsprosess."
+    }
+  ],
+  "known_limitations": [
+    "Seniorrådgivernivå: annonsen ønsker fortrinnsvis fem års relevant erfaring; OUS-erfaringen er fra mars 2023, om lag tre og et halvt år.",
+    "Autorisasjon for nivå HEMMELIG og sikkerhetsmessig egnethet er ukjent.",
+    "Erfaring med Decisions, Planner, ledergruppesekretariat, årshjul og praktisk ansvar for samlinger er ikke dokumentert.",
+    "Kontinuitetsplanlegging og beredskap (fordel) er ikke dokumentert utover tidligere vakt- og sikringstjeneste i CV-kronologien."
+  ],
+  "material_strategy_change": "KI-superbrukerrollen og menneskestyrt KI-bruk ble løftet fra kort differensiator til eget brevavsnitt, fordi arbeidsgiver selv setter digitale verktøy og KI i stillingens innledning. Arbeidsinntaksskjemaene, som ikke lå i strategiens evidensplan, ble lagt til som bro til saks- og tiltaksoppfølging. Gevinstmetodikken ble holdt i CV-en.",
+  "upstream_claim_repaired": "Strategien merket erfaring fra stabsarbeid og lederstøtte som tilgrensende. Begge OUS-plasseringer er stabsenheter, og selvstendig kvalitetssikring og utsending av månedsrapporter til klinikkledere er dokumentert, så stabsarbeid og økonomisk lederstøtte sies nå direkte. Grensen mot administrativ sekretariatsfunksjon er beholdt.",
+  "notes": [
+    "Søknadsfristen er dagens dato; pakken må godkjennes og sendes i dag for å nå fristen."
+  ],
+  "binding": {
+    "run_id": "r20260914-211651-5dbd38",
+    "job_id": "stortinget_virksomhetsstyring_lederstotte",
+    "final_package_sha256": "073e935597f986db3dd50a783bcb75f1398c9ee3fb37ebe2956a2a206cc3ff07"
+  }
+}

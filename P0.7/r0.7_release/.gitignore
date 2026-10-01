@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.tmp
+*.bak
+~$*.docx
+output/*
+!output/.gitkeep
+stg1_analyze/output/*
+!stg1_analyze/output/.gitkeep
+stg2_strategy/output/*
+!stg2_strategy/output/.gitkeep
+stg3_write/output/*
+!stg3_write/output/.gitkeep
+stg4_mirror/output/*
+!stg4_mirror/output/.gitkeep

@@ -1,0 +1,74 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom | Gevinstarbeid, beslutningsstøtte og digitalisering",
+    "profile": "Samfunnsøkonom og rådgiver innen økonomi og IKT ved Oslo universitetssykehus. Arbeider med å gjøre gevinstvurderinger, beslutningsgrunnlag og digitale endringer forståelige og brukbare for ledere, controllere, fagmiljøer og tekniske samarbeidspartnere. Har medutviklet en sykehusdekkende gevinststandard, utformet en etterprøvbar fordelingsmodell og modernisert et virksomhetskritisk budsjettverktøy som er i sykehusdekkende bruk.",
+    "competencies": [
+      "Gevinstrealisering og verdibegrunnede beslutningsgrunnlag",
+      "Digitalisering av økonomi- og virksomhetsprosesser",
+      "Kontrollert endring av driftsnære løsninger",
+      "Analyse, styringsinformasjon og økonomisk modellering",
+      "Workshoparbeid og tverrfaglig kompetanseoverføring",
+      "Power BI, Power Query, Excel/VBA, SQL, R og Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Medutviklet i et firepersoners team et rammeverk for gevinstrealisering og estimering. Bidro med forskningssyntese, metode, økonomisk og strategisk analyse, styring og standardisering. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Utformet en vektet modell for fordeling av gevinster da direkte bruksdata ikke ga et forsvarlig grunnlag. Gjorde forutsetninger og vekter synlige og konfigurerbare, ferdigstilte modellen og overleverte den til controllere tidlig i 2026.",
+          "Moderniserte et arvet Excel/VBA-verktøy for sykehusets budsjettprosess. Var i praksis eneste kodende utvikler for 2025-endringene i en bred interessentprosess, integrerte bemanningsdata og gjennomførte differansekontroll og controlleropplæring. Verktøyet ble brukt sykehusdekkende for 2026, og 2027-moderniseringen er ferdigstilt og i sykehusdekkende bruk.",
+          "Deltok i etableringsgruppen for en firepersoners analyseavdeling og bidro med oppgavestruktur, ansvar og avhengigheter, prioritering, samarbeidsflater og planlegging og fasilitering av workshops.",
+          "Gir opplæring og råd om Power BI, semantiske modeller og modelloptimalisering på tvers av organisasjoner. Har også vesentlig bidratt til en første komponent i en driftsrapport."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring den tildelte månedsoppgjørsflyten og gjennomførte kontroll, resultatforklaring og rapportering til klinikkledere.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP. Verktøyene ble brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker stillingen som seniorrådgiver fordi Avinors nye transformasjonsmiljø samler det jeg arbeider mest konkret med i dag: å gjøre verdi og prioriteringer etterprøvbare, og å få digitale endringer frem til løsninger som fagmiljøene kan bruke.",
+    "body_paragraphs": [
+      "Ved Oslo universitetssykehus fikk jeg ansvar for å utforme en modell for å fordele gevinster fra steril logistikk mellom klinikker. Direkte bruksdata var ikke gode nok til å bære en slik fordeling. Jeg valgte derfor en vektet proxy-modell med synlige forutsetninger og vekter, slik at controllere kunne undersøke og justere grunnlaget. Modellen ble ferdigstilt og overlevert tidlig i 2026. I et annet arbeid medutviklet jeg, som én av fire, et rammeverk for gevinstrealisering og estimering. Det ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere. Erfaringene har lært meg å skille tydelig mellom et beslutningsgrunnlag, en forventet gevinst og en effekt som faktisk er målt.",
+      "Jeg har også modernisert et arvet, virksomhetskritisk budsjettverktøy. I 2025 var jeg i praksis eneste kodende utvikler i en bred prosess med om lag 50 deltakere. Endringsrammen krevde at eksisterende funksjon ble bevart, samtidig som bemanningsdata og nye arbeidsflyter skulle inn. Jeg rekonstruerte arkitekturen, gjennomførte endringene med differanse- og funksjonskontroll og laget opplæring for controllere. Verktøyet ble brukt sykehusdekkende i budsjettprosessen for 2026. Den avsluttende moderniseringen for 2027 er ferdigstilt, og verktøyet er i bruk i den pågående budsjettprosessen.",
+      "Rollen min har vært prosjekt- og metodeorientert, ikke et formelt konsernmandat for portefølje- eller programledelse. Samtidig har den gitt meg praktisk erfaring med å strukturere arbeid, fasilitere workshops og overføre kompetanse på tvers av økonomi-, fag- og teknologimiljøer. I Avinor vil jeg bruke dette til å kvalifisere verdi- og prioriteringsgrunnlag, gjøre premisser synlige og hjelpe strategiske initiativer over i gjennomførbare leveranser."
+    ],
+    "closing": "Muligheten til å gjøre dette i en virksomhet der digitale valg får direkte betydning for drift, sikkerhet og samfunnsoppdrag, er grunnen til at jeg søker. Jeg tar gjerne en samtale om hvordan erfaringen min kan brukes i oppbyggingen av Digital Transformasjon."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Brevets hovedargument prioriterer etterprøvbar verdibegrunnelse og kontrollert gjennomføring. KI- og prognosearbeid ble utelatt fordi det hadde lavere marginalverdi for Avinors utvelgelsesproblem. Manglende formelt portefølje- og programmandat er uttrykkelig avgrenset.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-09",
+    "finalized_at": "2026-09-09T16:13:18Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260908-154257-0fa53b/branches/stage3_solmed_20260909T160521Z",
+    "job_id": "avinor_digital_transformasjon",
+    "employer": "Avinor AS",
+    "title": "Seniorrådgiver Digital Transformasjon",
+    "manifest_sha256": "facfeb3b65f2040815a6397ee0c41b0a479e676b87bcb06c7f56984c5eecddda",
+    "vacancy_sha256": "ae69b813eb68f7b224781f2438365e2853c7025290965dee6009876ddc13d7b7",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "1bb79bd0c29f3d726cfa20cae48114b4dd8e720e1b33fadde95534d6f001fe50",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "5c65b545a35bb5c8d612f15dfcc40d66ca481f52912c681ebac3f3e88b7d6f69"
+  }
+}

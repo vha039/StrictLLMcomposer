@@ -1,0 +1,17 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260920-212518-413d77",
+  "job_id": "sparebank1_omradearkitekt_kundetilbud_marked",
+  "employer": "SpareBank 1 Utvikling",
+  "title": "Områdearkitekt",
+  "stage": 1,
+  "mode": "STRATEGY",
+  "expected_artifacts": [
+    "strategy"
+  ],
+  "stage_policy_sha256": "307f5303893c34003910e0fa859ddec4fd25f1f18080aadba3ba2db2dea2cb9f",
+  "upstream": {},
+  "prior_current": {
+    "strategy": null
+  }
+}

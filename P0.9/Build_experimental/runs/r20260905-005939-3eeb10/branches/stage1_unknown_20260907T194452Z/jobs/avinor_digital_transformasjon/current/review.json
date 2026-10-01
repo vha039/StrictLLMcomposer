@@ -1,0 +1,46 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Rollen er en seniorrådgiverstilling, og kandidatens dokumenterte ansvar ligger i avgrensede leveranser og prosjekter, ikke i konsernportefølje eller programmandat. Pakken lar omfang, skjønn og tverrfaglig arbeid bære senioriteten og oppgir faktisk skala flere steder.",
+      "recommended_action": "Vurder om den faktiske skalaen, en firepersonsavdeling og en prosess med rundt femti involverte, er tilstrekkelig for Avinors seniorforventning. Ingen tekstreparasjon gjenstår.",
+      "priority": 1
+    },
+    {
+      "reason": "Annonsen ber om målbar verdi av digitale initiativer, mens det ikke finnes godkjente målinger av realisert økonomisk effekt. Pakken viser i stedet faktisk bruk av moderniseringen og metodikk for hvordan verdi skal begrunnes.",
+      "recommended_action": "Bekreft ved gjennomlesing at skillet mellom dokumentert bruk og målt gevinst er tydelig nok, særlig formuleringen om sykehusdekkende bruk i budsjettprosessene.",
+      "priority": 2
+    },
+    {
+      "reason": "Luftfart og Avinors interne forhold er ukjent terreng, og brevet sier dette direkte i motivasjonsavsnittet i stedet for å konstruere en bransjetilknytning.",
+      "recommended_action": "Les motivasjonsavsnittet og bekreft at den åpne formuleringen om manglende luftfartsbakgrunn er ønsket i denne søknaden.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Bakgrunnssjekk og eventuell sikkerhetsklarering er betingede ansettelsesforhold i annonsen. Status er ukjent og er ikke berørt i pakken. Tidligere militærtjeneste er ikke brukt som klareringsbevis.",
+    "Luftfartsdomene, Avinors interne prosesser og flysikkerhet er utenfor evidensen. Sykehuserfaringen er brukt som organisasjonskontekst, ikke som sikkerhetsfaglig kompetanse.",
+    "Konsernporteføljestyring, formelt programmandat, linjeledelse og ansvar for strategiske beslutningsfora eller styringsgrupper er ikke dokumentert og er ikke påstått.",
+    "Godkjente målinger av tidsbesparelse, feilreduksjon eller realisert økonomisk gevinst finnes ikke for budsjettverktøyet. Bruken er dokumentert, effekten er ikke målt.",
+    "Gevinstrammeverket er utviklet av fire personer. Individuell fordeling, navn, godkjenningsvei og effekt er uavklart, og varigheten gjelder om lag to og et halvt år senere, ikke i dag.",
+    "Fordelingsmodellen for steril logistikk er ferdigstilt og overlevert. Endelige vekter, implementering per gren, organisatorisk bruk og realiserte gevinster er uavklart.",
+    "Prognoseprosjektet er under aktiv utvikling med fordelt forfatterskap mellom kandidat, kollega og kodeagenter. Ingen produksjonssetting, verifisert modellytelse eller moden MLOps.",
+    "Superbrukerbetegnelsen for kunstig intelligens dokumenterer en registrert rolle og teknisk bistand i en Teams-kanal. Antall brukere, formelt organisasjonsomfattende støtteansvar og KI-styringsmandat er ikke oppgitt.",
+    "Pågående masterprogram i kunstig intelligens står uten studietakt, progresjon eller forventet fullføring, som myndigheten krever.",
+    "Kildefilen ga null lesbare tegn, og et fast banner dekker fragmenter av innledningen på sidene 2, 3, 5 og 6. Ansvars- og kvalifikasjonslistene er lest i sin helhet; originalannonsen er fasit ved tvil."
+  ],
+  "material_strategy_change": "Hovedruten fra strategien er beholdt: budsjettmoderniseringen bærer gjennomføringsargumentet, og gevinstarbeidet bærer verdiargumentet. Tre endringer. Brevet ledes av rammebetingelsen framfor leveransen, altså at kandidaten anbefalte en bredere ombygging enn rammen tillot og likevel leverte en atferdsbevarende endring som ble tatt i bruk. Det er den delen som svarer på annonsens uttrykte hovedkriterium om å forstå hvordan endring faktisk skjer. Etableringen av den firepersoners analyseavdelingen er hentet fra CV-bredde inn i brevet, fordi annonsen tilbyr å være med på å bygge opp et nytt transformasjonsmiljø og ingen annen evidens berører det. Prognoseprosjektet og den KI-støttede arbeidsmåten er holdt i CV-en selv om myndigheten oppfordrer til å vurdere dem som selvstendig differensiator, fordi de ville konkurrert med gjennomføringsargumentet i brevet.",
+  "upstream_claim_repaired": "Overklaim: strategien merker erfaring fra større transformasjons-, endrings- eller digitaliseringsinitiativer som SUPPORTED på grunnlag av budsjettmoderniseringen og gevinstmetodikken. Begge er reelle, men ingen av dem er større initiativer i Avinors konsernskala. Pakken oppgir derfor faktisk skala eksplisitt begge steder, en firepersonsgruppe og en prosess med rundt femti involverte, og brevet sier uttrykkelig at avdelingsetableringen var i langt mindre skala. Understatement, mer beskjeden: strategien omtaler den KI-støttede arbeidsmåten som en relevant ekstra evne som vurderes. Arkitektur-, orkestrerings- og automatiseringsansvaret i prognoseprosjektet er dokumentert eierskap med fordelt implementering, og er derfor skrevet inn i CV-en med det faktiske ansvaret og den faktiske statusen i stedet for en hedget omtale.",
+  "notes": [
+    "Annonsen setter ingen fast årsgrense. Strategiens advarsel mot å importere et femårskrav er fulgt, og pakken bruker faktisk kronologi fra mars 2023.",
+    "Formell tittel er beholdt som den er. Senioritet uttrykkes gjennom omfang, skjønn, kontroller og kompetanseoverføring, ikke gjennom tittelbruk.",
+    "Ingen intern terminologi, evidens- eller baselinereferanse, typologietikett eller reviewinnhold i arbeidsgivertekst, og ingen tankestrek.",
+    "CV-overstyringene erstatter baselinepunktene fullstendig for begge OUS-ansettelsene. Bevisutvalget og rekkefølgen er bevisst forskjellig fra den andre jobben i klyngen, styrt av at denne annonsen etterspør gjennomføring og teknologiverdi."
+  ],
+  "binding": {
+    "run_id": "r20260905-005939-3eeb10/branches/stage1_unknown_20260907T194452Z",
+    "job_id": "avinor_digital_transformasjon",
+    "final_package_sha256": "ba9eb952ca3126344112c11607fc053bf19c263b859d4d3b3323d5e56d5243f6"
+  }
+}

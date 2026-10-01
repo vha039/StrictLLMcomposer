@@ -1,0 +1,281 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/package.schema.json",
+  "title": "Assembled package",
+  "description": "The assembled CV and letter: cv_draft, then the advocacy layer, then the polish layer, merged field by field. Written by the tool at Stage-3 publish and the sole semantic source for rendering. letter is null when the brief chose CV-only delivery, and rendering then produces the CV alone. No numeric quality field.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "source_stage",
+    "binding",
+    "used_evidence_refs",
+    "cv",
+    "letter",
+    "finalization"
+  ],
+  "properties": {
+    "artifact_role": {
+      "const": "CURRENT_SEMANTIC_PACKAGE"
+    },
+    "source_stage": {
+      "const": "ASSEMBLED"
+    },
+    "binding": {
+      "type": "object",
+      "description": "Written by the tool at assemble.",
+      "additionalProperties": false,
+      "required": [
+        "run_id",
+        "job_id",
+        "employer",
+        "title",
+        "evidence_fingerprint",
+        "policy_fingerprint",
+        "inputs"
+      ],
+      "properties": {
+        "run_id": {
+          "type": "string",
+          "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}(?:/branches/[a-z0-9][a-z0-9_-]{0,31})?$"
+        },
+        "job_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$"
+        },
+        "employer": {
+          "type": "string",
+          "minLength": 2
+        },
+        "title": {
+          "type": "string",
+          "minLength": 2
+        },
+        "evidence_fingerprint": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "What this stage consumed as fact: frozen authorities, evidence index, baseline map, CV baseline, this vacancy and the upstream artifacts. Staleness is this hash recomputed."
+        },
+        "policy_fingerprint": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "Playbook plus consumed writing policy. Provenance only; a policy edit never invalidates an artifact."
+        },
+        "inputs": {
+          "type": "object",
+          "description": "Upstream artifact name -> artifact hash.",
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          }
+        }
+      }
+    },
+    "used_evidence_refs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "Union of every layer's refs. Resolvability only, never semantic support."
+    },
+    "cv": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "headline": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 70,
+          "description": "One rendered line, a function not a list. Uppercased at render."
+        },
+        "profile": {
+          "type": "string",
+          "minLength": 1
+        },
+        "competencies": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "employment_overrides": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "employment_id": {
+                "type": "string",
+                "pattern": "^EMP_[A-Z0-9_]+$"
+              },
+              "bullets": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "minItems": 0
+              }
+            },
+            "required": [
+              "employment_id",
+              "bullets"
+            ]
+          },
+          "minItems": 0,
+          "description": "Keyed by baseline employment_id. A present override fully replaces that employment's bullets; an empty array renders none."
+        },
+        "tools_line": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Optional VERKTOY line, so tool lists leave the bullets."
+        }
+      },
+      "required": [
+        "headline",
+        "profile",
+        "competencies",
+        "employment_overrides"
+      ]
+    },
+    "letter": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "opening": {
+              "type": "string",
+              "minLength": 1
+            },
+            "body_paragraphs": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 1
+            },
+            "closing": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "opening",
+            "body_paragraphs",
+            "closing"
+          ]
+        }
+      ]
+    },
+    "form_answers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "type": "string",
+            "minLength": 1
+          },
+          "answer": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "question",
+          "answer"
+        ]
+      },
+      "minItems": 0
+    },
+    "writer_note": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "maxLength": 2000
+    },
+    "finalization": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "state": {
+          "enum": [
+            "DRAFT",
+            "FINALIZED"
+          ]
+        },
+        "document_date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "finalized_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "finalized_by": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "state"
+      ],
+      "description": "The employer-facing document date becomes canonical at finalize and is preserved by a pure rerender."
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "finalization": {
+            "properties": {
+              "state": {
+                "const": "FINALIZED"
+              }
+            }
+          }
+        },
+        "required": [
+          "finalization"
+        ]
+      },
+      "then": {
+        "properties": {
+          "finalization": {
+            "required": [
+              "document_date"
+            ],
+            "properties": {
+              "document_date": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "artifact_role": "ADVOCACY_LAYER",
+  "letter": {
+    "opening": "BNXT er produktet jeg skal lære, og det er nettopp derfor jeg søker rådgiversporet og ikke seniorsporet: prosess- og implementeringsarbeidet tar jeg med meg, og produktdybden bygges raskest i reelle kundeprosjekter sammen med erfarne kolleger. Jeg vil arbeide med hele veien fra et økonomifaglig behov til en løsning som andre kan overta. Den veien kjenner jeg både fra den løpende regnskapsflyten og fra utviklingsarbeidet rundt den.",
+    "body_paragraphs": [
+      "I klinikkstaben ved Oslo universitetssykehus sto jeg selv for den tildelte månedsoppgjørsflyten. Ved overgangen til REGERP tok jeg initiativ til verktøy som konverterte og validerte gamle bilagslinjer mot det nye formatet. Her møttes to konkrete oppgaver: å forstå hva opplysningene betydde i regnskapet, og å få dem riktig over i en ny struktur. Jeg lærte VBA fra grunnen gjennom dette arbeidet. For meg begynner løsningsarbeidet med den sammenhengen mellom fag og system. Det innebærer også å utfordre premisset for en bestilling. I et senere oppdrag om gevinstfordeling i steril logistikk avviste jeg direkte fordeling fordi bruksdataene ikke ga et forsvarlig grunnlag. Alternativet ble en modell med indirekte indikatorer og uttrykkelige forutsetninger. Å gjøre usikkerheten synlig er en del av rådet, særlig når tallene skal brukes til å sammenligne alternativer.",
+      "Abacus er ISO-sertifisert innen kvalitet, miljø og informasjonssikkerhet. Jeg leser det som en forventning om at arbeidet skal kunne dokumenteres og etterprøves gjennom leveransen. Ved modernisering av sykehusets budsjetteringsverktøy gjennomførte jeg kodeendringene i en prosess med om lag 50 involverte. Sammenligning med opprinnelig funksjon og avtalte akseptansekriterier gjorde det mulig å undersøke om endringene holdt seg til forutsetningene. Jeg laget også onboarding- og presentasjonsmateriell for controllerne. I et separat samarbeid med en annen organisasjons rapporteringsmiljø underviste jeg tekniske kolleger i Power BI og modellering, og bidro til en første rapportkomponent. Det arbeidet krevde både teknisk forklaring og samarbeid om en konkret løsning. Jeg ser opplæring og dokumentasjon som deler av gjennomføringen: mottakeren skal ha et grunnlag for å bruke løsningen og forstå hva den bygger på."
+    ],
+    "closing": "Hos Abacus kan jeg utvikle produktkunnskapen mens jeg bruker erfaringen fra økonomiprosesser, kontrollert endring og overlevering i kundeprosjekter. Det er den sammenhengende rådgiveroppgaven som trekker meg hit: forstå arbeidet som skal forbedres, gjennomføre løsningen og følge den frem til dem som skal bruke den."
+  },
+  "keystones": [
+    {
+      "id": "K1",
+      "text": "BNXT er produktet jeg skal lære, og det er nettopp derfor jeg søker rådgiversporet og ikke seniorsporet: prosess- og implementeringsarbeidet tar jeg med meg, og produktdybden bygges raskest i reelle kundeprosjekter sammen med erfarne kolleger.",
+      "document": "LETTER",
+      "function": "TRACK_CHOICE"
+    },
+    {
+      "id": "K2",
+      "text": "Å gjøre usikkerheten synlig er en del av rådet, særlig når tallene skal brukes til å sammenligne alternativer.",
+      "document": "LETTER",
+      "function": "JUDGMENT"
+    },
+    {
+      "id": "K3",
+      "text": "Jeg leser det som en forventning om at arbeidet skal kunne dokumenteres og etterprøves gjennom leveransen.",
+      "document": "LETTER",
+      "function": "EMPLOYER_FACT"
+    },
+    {
+      "id": "K4",
+      "text": "Det er den sammenhengende rådgiveroppgaven som trekker meg hit: forstå arbeidet som skal forbedres, gjennomføre løsningen og følge den frem til dem som skal bruke den.",
+      "document": "LETTER",
+      "function": "MOTIVE"
+    }
+  ],
+  "used_evidence_refs": [
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+  ],
+  "outside_brief_refs": [],
+  "notes": [
+    "CV arvet uten erstatningsfelt; bruk, leveransestatus og omfang står der. ISO-faktumet er omgjort til kandidatens forventning til dokumentert leveranse, ikke påstand om Abacus sine konkrete interne prosedyrer. NAME_ONCE er åpningens sporbegrunnelse. CV-overskriftens tankestrek overlates til Editor."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "c6c908b0b0df4516ba409217ff8918e7bde511eba862e5f05bb4731b8a71aab7",
+    "policy_fingerprint": "eb46b36b2107b4a07e787b4ffa867e3a1ec66e13191088c1e2752982eaafed21",
+    "inputs": {
+      "scout": "9fe9b1a9afc451710f350033d9b09f2cdef2bbda2459672662fd79b41619f7bf",
+      "brief": "0cc55253e6b590e5d2874863e07a12a13088d393c6233c66ff8b710e7d916db7",
+      "cv_draft": "79c756c446e4069d6f5c57a723dcaac1be53905ad4e9da3bdd035e03806990e1"
+    }
+  }
+}

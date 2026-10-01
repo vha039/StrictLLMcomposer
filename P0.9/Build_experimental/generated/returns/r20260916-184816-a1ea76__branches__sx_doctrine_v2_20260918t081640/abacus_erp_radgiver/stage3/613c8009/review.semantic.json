@@ -1,0 +1,20 @@
+{
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [],
+  "known_limitations": [
+    "Modellen for gevinstfordeling i steril logistikk er skjønnsatom i to av klyngens fire brev: her og i norwegian_senior_manager_digital_governance. Det er et bevisst valg fra Stage 1, og de to brevene bruker saken til ulike poeng og med ulik ordlyd: der bærer den inspiserbarhet i en styringsfunksjon, her at en rådgiver må kunne si at tallgrunnlaget ikke holder. Briefen ber om menneskelig konvergenskontroll på gjenbruket.",
+    "Det finnes ingen dokumentert erfaring med BNXT by Visma. Produktet nevnes én gang, i åpningen, som det som skal læres og som begrunnelsen for rådgiversporet.",
+    "Kommersiell ERP-konsulenterfaring, ansvar for lønnsomme leveranser og strategisk kunderådgivning er ikke dokumentert. Det er grunnen til at seniorsporet ikke søkes, og pakken hevder ingen av delene.",
+    "Kandidaten utviklet ikke og eide ikke den sentrale REGERP- eller Oracle-løsningen eller ERP-overgangsprogrammet. Teksten holder seg til egne konverterings- og valideringsverktøy ved overgangen.",
+    "Budsjetteringsverktøyet står på dokumentert bruk. Det foreligger ingen godkjente målinger av tidsbesparelse eller feilreduksjon, og teksten sier «undersøke om endringene holdt seg innenfor forutsetningene», ikke at det var null regresjon.",
+    "Gevinstfordelingsmodellen er ferdigstilt og overlevert til controllere. Implementering per gren, endelige vekter, organisatorisk bruk og realiserte gevinster er uavklart, og brevet hevder ingen av delene.",
+    "SQL står oppført som del av stacken; avansert optimalisering og produksjonseierskap er ikke bekreftet. Git/GitLab er praktisk koordinering mellom to personer, ikke moden CI/CD."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": "Tre understatements er rettet. Brevet sa «sto jeg selv for den tildelte månedsoppgjørsflyten» der U1 og CV-punktet bærer «overtok hele … innen om lag tre måneder», og denne jobbens tese hviler nettopp på førstehåndsforståelsen. Forutsetningene i gevinstfordelingsmodellen sto som «uttrykkelige» der kortet bærer synlige og konfigurerbare for dem som skulle bruke dem. Kompetanseoverføringen sto som «bidro til» der kortet bærer «vesentlig bidrag», og det uttrykte nullregresjonskravet manglet ved siden av akseptansekriteriene.",
+  "notes": [
+    "Klyngeobservasjon: tankestreken i CV-overskriften er rettet her som i de tre andre jobbene i rung. Selve overskriftsformen er et Stage 1-mønster.",
+    "Brevet er 346 ord mot et plantall på 370. Det som gikk ut var signposter, lærdomssetninger og en frittstående motivasjonssetning som gjentok avslutningen."
+  ]
+}

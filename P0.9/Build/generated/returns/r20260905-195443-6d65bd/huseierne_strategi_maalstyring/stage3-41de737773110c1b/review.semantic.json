@@ -1,0 +1,32 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Pakken viser økonomifaglig grunnlag, felles metodikk, lederrapportering og gjennomføring med avgrenset eierskap. Ingen kjent materiell tekstreparasjon gjenstår.",
+      "recommended_action": "Les CV og søknad og ta ordinær menneskelig stilling til godkjenning."
+    },
+    {
+      "priority": 2,
+      "reason": "Fem års relevant erfaring og praktisk OKR-metodikk er ikke oppfylt eller dokumentert. Kronologien er korrekt, og gevinstarbeidet fremstilles ikke som OKR.",
+      "recommended_action": "Behold de faktiske grensene ved godkjenning; ikke tell eldre, irrelevante arbeidsforhold som styringserfaring."
+    },
+    {
+      "priority": 3,
+      "reason": "Konseptet for gevinstfordeling og den avviklede BI-løsningen har eksplisitt status. Innføring og varighet tilskrives bare de prosjektene som har slik dekning.",
+      "recommended_action": "Bevar statusskillene og teamrammene i eventuell menneskelig redigering."
+    }
+  ],
+  "known_limitations": [
+    "Relevant erfaring ved OUS fra mars 2023 er om lag tre og et halvt år, mot annonsens femårskrav; ingen konsulentbakgrunn er dokumentert.",
+    "Praktisk OKR-erfaring og gjennomført nedbrytning av virksomhetsstrategi til avdelings- og teammål er ikke dokumentert.",
+    "Formelt eierskap til forretningsmessig prognoseprosess eller månedlige styringsdialoger er ikke dokumentert. Prognosebeviset gjelder klinisk aktivitet til budsjett og planlegging.",
+    "Ingen direkte erfaring fra produktorganisasjon eller med medlemsvekst og produktinntekter. Ingen målte gevinst-, tids- eller feilreduksjonsresultater er påstått."
+  ],
+  "material_strategy_change": "Erstattet annonserefererende åpning og varighetsmaksime med kandidatens konkrete kvalifikasjon og Huseiernes måloppfølging. Månedsoppgjør, DRG-prognoser og datasamarbeid flyttet til CV, der de dokumenterer bredde uten et tredje leveranseargument i brevet. Beholdt den faglige avvisningen som del av måleargumentet med selvstendig konseptstatus; budsjettcaset viser gjennomføring innen en besluttet ramme.",
+  "upstream_claim_repaired": "Nedjustert utkastets «manuelt avstemmingsledd falt bort» til kildebelagt erstatning av kopiering fra separat arbeidsbok, og «50 controllere og ledere» til rundt 50 involverte. Presisert BI-bidrag som hovedutvikling av datamodell/databehandling med kollegenes innholdsansvar, og gjeninnført avvikling rundt februar 2026. Rettet «i det løpende arbeidet» om BAR til historisk erfaring i korrekt CV-periode. Oppjustert «deltok» i gevinstarbeidet til dokumentert medutvikling med konkret bidrag, og gjenvunnet REGERP-verktøyenes egeninitierte opphav og bruk i flere klinikker.",
+  "notes": [
+    "READY/CHECK ble vurdert mot femårs- og OKR-gapene. De er kjente kvalifikasjonsgap, ikke en ubesvart faktabekreftelse eller avgrenset redigeringsoppgave. Derfor READY; menneskelig godkjenning gjenstår.",
+    "Tjuesekunderstesten, dyplesningen, begge byttetestene, kravhåndtering og CV/brev-komplementaritet anvendt. Siste uttrykkspuss beholdt faglig avvisning, kontroll, teamgrenser og lifecycle."
+  ]
+}

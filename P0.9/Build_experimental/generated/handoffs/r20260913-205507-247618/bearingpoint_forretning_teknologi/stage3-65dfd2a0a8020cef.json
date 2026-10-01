@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260913-205507-247618",
+  "job_id": "bearingpoint_forretning_teknologi",
+  "employer": "BearingPoint Norway AS",
+  "title": "Konsulent forretning- og teknologirådgivning",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "850cf837d9417c86a85dbf7896b28550b5d4d70b173cb06ea15621d2acf7ea05",
+  "upstream": {
+    "strategy_sha256": "e92bbd352ef0fcfe04d13755f20079af26dcb7c1122104b87c1b91545fa06dbd"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

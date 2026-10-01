@@ -1,0 +1,143 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260914-211650-5d3516",
+  "derived_at": "2026-09-14T22:02:42Z",
+  "manifest_sha256": "ee29c2c8f729ec0cd72833a8024fa6300299d4e07792a5f5783e47e77dcd1616",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 4,
+    "core": 4,
+    "exception": 0,
+    "semantic_final_available": 4,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 4,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 0,
+      "OK": 2,
+      "DEGRADED": 0,
+      "FAILED": 2
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "tietotech_prosjektleder_endringsleder",
+      "employer": "Tieto Tech Consulting",
+      "title": "Prosjektleder & Endringsleder",
+      "cluster": "runf",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Minstekravet om fem års erfaring som endrings-, prosess- eller prosjektleder er ikke oppfylt (OUS fra mars 2023, formell tittel Rådgiver Økonomi og IKT). Pakken antyder ikke oppfyllelse; kronologien viser varigheten og brevet bruker bare dokumenterte verb. Action: Ingen redigering. Vurder ved godkjenning om søknaden skal sendes med dette kjente gapet. | Konsulentrammen (kundeoppdrag, kunderelasjoner, nye oppdrag) har ingen direkte evidens. Brevet behandler den som et bevisst skifte fra interne mottakere til flere virksomheter, uten å kalle interne mottakere kunder. Action: Normal skumlesing av siste hovedavsnitt for tone. | KI-kravet besvares med superbrukerrolle og en menneskestyrt agentarbeidsflyt i et prosjekt under utvikling, ikke med innføring av KI i organisasjonen. Action: Ingen redigering; formuleringen holder seg innenfor kildegrensene. | Known limitation: Under fem års relevant erfaring og ingen formell endrings-, prosess- eller prosjektledertittel. | Known limitation: Ingen ekstern konsulent- eller kundeleveranse og ingen utvikling av nye oppdrag er dokumentert. | Known limitation: Ingen sertifiseringer (PRINCE2, PROSCI, PMP, SAFe, Lean, Scrum Master). | Known limitation: Direkte dialog med toppledelse og fasilitering av beslutningsprosesser på ledernivå er ikke dokumentert og er ikke påstått. | Known limitation: Sammenlignende erfaring med prosjektstyring i offentlig og privat sektor er ikke dokumentert. | Known limitation: STE-modellens organisatoriske bruk og realiserte gevinster er uavklart; brevet sier bare ferdigstilt og overlevert.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\tietotech_prosjektleder_endringsleder\\out\\CV_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\tietotech_prosjektleder_endringsleder\\out\\CV_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\tietotech_prosjektleder_endringsleder\\out\\Soknad_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\tietotech_prosjektleder_endringsleder\\out\\Soknad_Tieto_Tech_Consulting_Prosjektleder_Endringsleder.pdf"
+      ]
+    },
+    {
+      "job_id": "bearingpoint_forretning_teknologi",
+      "employer": "BearingPoint Norway AS",
+      "title": "Konsulent forretning- og teknologirådgivning",
+      "cluster": "runf",
+      "sequence": 2,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "FAILED",
+        "limitation": "Render receipt is not current: [ERROR  ] DEC-21 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\bearingpoint_forretning_teknologi\\out\\CV_BearingPoint_Norway_AS_Konsulent_forretning_og_teknologiradgivning.pdf:-\n          expected: current output present\n          observed: missing",
+        "human_action": "Rerender from the current eligible semantic final."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Konsulenterfaring, som er foretrukket, mangler. Formalkravet (master og 2 til 4 års erfaring) er oppfylt med om lag 3,5 år ved OUS og står i åpningen. Action: Ingen redigering. Vurder ved godkjenning om motivasjonsavsnittet håndterer skiftet slik du ønsker. | Tett arbeid med toppledelse er ikke dokumentert og er ikke påstått; brevet knytter nærhet til ledelse til et fremtidig bidrag, ikke til historikk. Action: Normal skumlesing. | AI-dimensjonen besvares med egen praksis (agentarbeidsflyt, målutfordring og valideringskrav i et prosjekt under utvikling, superbrukerrolle, pågående KI-master), ikke med AI-adopsjon i en virksomhet. Action: Ingen redigering; formuleringene holder seg innenfor kildegrensene. | Known limitation: Ingen erfaring fra konsulentrollen eller med eksterne kunder. | Known limitation: Ingen erfaring med anskaffelser eller vurdering og utvelgelse av strategiske IT-partnere. | Known limitation: Direkte rådgivning for toppledelse er ikke dokumentert. | Known limitation: STE-modellens bruk i faktiske investeringsbeslutninger og realiserte gevinster er uavklart; pakken sier tiltenkt bruk, ferdigstilt og overlevert. | Known limitation: Prognoseprosjektet er under utvikling uten verifisert modellytelse; implementeringen er delt med kollega og kodeagenter. | Known limitation: All profesjonell erfaring er fra én virksomhet i helsesektoren.",
+      "output_paths": []
+    },
+    {
+      "job_id": "amesto_ai_transformasjon",
+      "employer": "Amesto Accounthouse AS",
+      "title": "AI Team Lead – Transformasjon",
+      "cluster": "runf",
+      "sequence": 3,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "FAILED",
+        "limitation": "Render receipt is not current: [ERROR  ] DEC-21 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\amesto_ai_transformasjon\\out\\CV_Amesto_Accounthouse_AS_AI_Team_Lead_Transformasjon.pdf:-\n          expected: current output present\n          observed: missing",
+        "human_action": "Rerender from the current eligible semantic final."
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Stillingen heter AI Team Lead og nevner mulig personalansvar over tid; kandidaten har ingen team-, prosjektleder- eller personalrolle. Pakken bruker ingen lederbetegnelse og lar funksjonell gjennomføring tale. Action: Ingen redigering. Vær forberedt på spørsmål om ledererfaring i intervju. | Lønn, API-er og datavarehus står i annonsen uten dokumentert praksis hos kandidaten. Pakken påstår dem ikke; nærmeste evidens er integrasjon av data fra fagsystemer og personell- og lønnsuttrekk som datakilde. Action: Ingen redigering; normal skumlesing. | KI er dokumentert i eget analyse- og utviklingsarbeid (prosjekt under utvikling), ikke i automatiserte regnskaps- eller forretningsprosesser. Brevet formulerer KI i driftskritiske prosesser som fremtidig bidrag. Action: Ingen redigering. | Known limitation: Ingen personal-, team- eller prosjektlederrolle. | Known limitation: Ingen lønnsproduksjon, regnskapsbyrå- eller årsoppgjørserfaring; regnskapserfaringen er egen tildelt klinikkflyt. | Known limitation: API-integrasjon og datavarehuseierskap er ikke dokumentert. | Known limitation: Ingen dokumentert overgang fra pilot til skalert løsning og ingen eksterne kunder. | Known limitation: Ingen kvantifisert tids- eller feilbesparelse fra verktøyene. | Known limitation: Prognoseprosjektet er under utvikling med fordelt forfatterskap og uten verifisert modellytelse.",
+      "output_paths": []
+    },
+    {
+      "job_id": "visma_product_manager",
+      "employer": "Visma Enterprise AS",
+      "title": "Product Manager",
+      "cluster": "runf",
+      "sequence": 4,
+      "priority": "HIGH",
+      "deadline": null,
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Minstekravet om 3 til 5 års erfaring som Product Manager er ikke oppfylt, og kontinuerlig discovery og outcome-ansvar er ikke dokumentert. Pakken bruker ingen PM- eller produktbetegnelse og lar domene, brukertester og datadisiplin tale. Action: Ingen redigering. Vurder ved godkjenning om søknaden skal sendes med dette kjente gapet. | Arbeidsgiveren krever ikke søknadsbrev; vurderingen skjer på CV og skjemaspørsmål. CV-en er skrevet for å stå alene, og brevet er kort. Action: Last opp CV-en; bruk brevet bare hvis skjemaet gir plass til det. Skjemaspørsmålene besvares manuelt utenfor pakken. | Kommersiell forståelse, produkt-KPI-er og B2B SaaS er ikke dokumentert; nærmeste evidens er gevinstmetode, beslutningsmodell og samfunnsøkonomisk utdanning. Action: Ingen redigering; normal skumlesing. | Known limitation: Ingen erfaring som Product Manager, produkteier eller fra B2B SaaS. | Known limitation: Ingen erfaring fra produktteam med Product Designer, Tech Lead og andre Product Managers. | Known limitation: Ingen dokumentert produkteksperimentering, målt outcome eller kommersielt ansvar. | Known limitation: Lønns-, UTA- og vaktgrunnlag er kvalitetssikret som budsjettdata, ikke lønnskjøring eller turnusplanlegging. | Known limitation: Styringsdashbordet er avviklet; eierperioden var om lag august 2025 til februar 2026, og brukertestenes effekt er ikke målt. | Known limitation: KI-erfaringen gjelder utviklings- og analysearbeid, ikke AI-funksjoner i produkter.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\CV_Visma_Enterprise_AS_Product_Manager.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\CV_Visma_Enterprise_AS_Product_Manager.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\Soknad_Visma_Enterprise_AS_Product_Manager.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build\\runs\\r20260914-211650-5d3516\\jobs\\visma_product_manager\\out\\Soknad_Visma_Enterprise_AS_Product_Manager.pdf"
+      ]
+    }
+  ]
+}

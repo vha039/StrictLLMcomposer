@@ -1,0 +1,75 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE2_DRAFT",
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver økonomi og IKT — gevinstrealisering, styringsmodeller og digitalisering",
+    "profile": "Samfunnsøkonom (mastergrad fra NTNU) og rådgiver økonomi og IKT i direktørens stab ved Oslo universitetssykehus. Arbeider med gevinstrealisering, styringsmodeller og digitalisering i et samfunnskritisk og regulert driftsmiljø. Dokumentert erfaring med å omsette strategiske behov til felles metoder og leveranser som organisasjonen faktisk tar i bruk: deltok i et firepersonersteam som utviklet et sykehusdekkende rammeverk for gevinstrealisering og estimering, i bruk om lag 2,5 år senere, og ledet kodeendringene i sykehusets sentrale budsjettverktøy for 2026-prosessen i samspill med om lag 50 involverte. Kombinerer økonomisk verdisikring og forretningsforståelse med evne til å vurdere teknologi opp mot reelle drifts- og sikkerhetskrav.",
+    "competencies": [
+      "Gevinstrealisering og verdisikring",
+      "Styringsmodeller og beslutningsgrunnlag",
+      "Digitalisering og prosessforbedring",
+      "Tverrfaglig samarbeid og interessentdialog",
+      "Arbeidsformer og prioritering (Scrum/Kanban)",
+      "Virksomhetsforståelse og økonomistyring",
+      "Vurdering og anvendelse av datateknologi"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Deltok i et firepersonersteam som utviklet et rammeverk for gevinstrealisering og estimering, innført som sykehusdekkende standard og fortsatt i bruk om lag 2,5 år senere.",
+          "Hovedansvar for kodeendringene i sykehusets virksomhetskritiske budsjetteringsverktøy levert til 2026-prosessen; gjennomførte kontrollert modernisering med paritetstester og akseptansekriterier i en prosess med om lag 50 involverte, inkludert onboarding for controllere.",
+          "Designet en vektet flerindikatormodell for gevinstfordeling og investeringsstøtte med synlige og justerbare antakelser, tilpasset driftens behov uten varig utviklerbinding.",
+          "Deltok i etableringen av Analyseavdelingen; utformet ansvars- og arbeidsmodeller (Scrum/Kanban, WIP-begrensning, arbeidsinntak med akseptansekriterier) og fasiliterte felles workshops.",
+          "Overførte teknisk kompetanse og bisto i arbeidsmøter over organisasjonsgrensen mot den sentrale rapporterings- og dataorganisasjonen for å sikre relevante styringsdata.",
+          "Vurderte ny teknologi og plattformmuligheter (Fabric, Power Platform, dbt, Python) opp mot faktiske virksomhetsbegrensninger og driftsrisiko i et regulert miljø."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ verktøy i Excel/VBA for konvertering, validering og standardisering under overgangen til nytt ERP-system, som i etterkant ble tatt i bruk av rådgivere i flere klinikker.",
+          "Overtok den tildelte månedsoppgjørsflyten i klinikkstaben, og fulgte opp og analyserte økonomiske tiltak med oversettelse av tiltakslogikk til budsjett- og styringsspråk."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Opprettelsen av en egen enhet for Digital Transformasjon i Avinor svarer på en velkjent utfordring i store driftsorganisasjoner: å sikre at teknologiske investeringer gir faktisk verdi for virksomheten, og at nye løsninger blir tatt i bruk av dem som står i den daglige driften. Som samfunnsøkonom og rådgiver økonomi og IKT i direktørens stab ved Oslo universitetssykehus har jeg erfart at verdisikring og endring bare lykkes når metodene forankres i driftens egne behov og tåler etterprøving.",
+    "body_paragraphs": [
+      "I et tverrfaglig firepersonersteam deltok jeg i utviklingen av et rammeverk for gevinstrealisering og estimering som ble innført som sykehusdekkende standard, og som fortsatt var i bruk om lag 2,5 år senere. Oppdraget fra ledelsen var å forbedre en eksisterende metodikk slik at den fungerte som en felles standard på tvers av ulike kliniske og administrative fagmiljøer. Når verdipåstander skal holdes etterprøvbare, har jeg lagt til grunn en prinsipiell faglig regel om å skille mellom hva som faktisk kan måles og hva som er antakelser: Da direkte måling av tjenestebruk i et annet prosjekt ikke ga forsvarlig grunnlag for fordeling mellom klinikker, avviste jeg en direkte gevinstfordeling som falsk presisjon. I stedet utformet jeg en vektet flerindikatormodell med eksplisitte antakelser og synlig usikkerhet, strukturert slik at controllere og fagansvarlige selv kan justere vektene uten å være avhengige av en systemutvikler.",
+      "Samme balanse mellom fornyelse og driftskontroll preget moderniseringen av sykehusets sentrale budsjetteringsverktøy for 2026-prosessen. Jeg overtok en om lag tjue år gammel, virksomhetskritisk modell preget av teknisk gjeld og spredte versjoner, og integrerte bemannings- og ansettelsesdata direkte slik at et manuelt avstemmingsledd falt bort. Prosessen involverte om lag 50 controllere og ledere på tvers av enheter. Da innføringsansvarlig overprøvde min faglige anbefaling om en bredere omstrukturering til fordel for en smalere, funksjon-for-funksjon-fornyelse, tilpasset jeg gjennomføringen til den operative rammen: Om lag 80 prosent av endringene ble gjort strengt atferdsbevarende, kombinert med systematiske paritetstester, eksplisitte akseptansekriterier og et risikoregister. Verktøyet ble levert og brukt i den årlige budsjettprosessen, understøttet av onboarding og materiell for controllerne.",
+      "I etableringen av Analyseavdelingen deltok jeg i en firepersonersgruppe som utformet avdelingens arbeidsmodell og ansvarsstrukturer, herunder prioritering etter WIP-begrensning og et strukturert arbeidsinntak som krever formål, beslutningsbehov, avhengigheter og akseptansekriterier før arbeid settes i gang. Min tilnærming til teknologi er preget av samme nøkternhet: I et samfunnskritisk driftsmiljø har jeg vurdert nyere plattformteknologi og automatiseringsmuligheter opp mot konkrete virksomhetsbegrensninger, driftsrisiko og kompatibilitet, for å sikre at teknologivalg løser reelle virksomhetsbehov og ikke blir et mål i seg selv.",
+      "Avinormodellen, der fellesskapet bærer ansvaret for enheter med svært ulike forutsetninger, har klare likhetstrekk med offentlig sykehusdrift: Beslutningsgrunnlag må tåle innsyn, prioriteringer må begrunnes på tvers av fagområder, og sikkerhet og drift har alltid forkjørsrett. Å få være med på å bygge opp en ny transformasjonsenhet motiverer meg fordi jeg har sett hva det krever å opparbeide faglig innflytelse uten formell linjemyndighet. Mitt bidrag vil være å styrke grunnlaget for hvordan verdipåstander bygges og prøves, og sikre at strategiske initiativer omsettes til strukturer og arbeidsformer som organisasjonen faktisk tar i bruk."
+    ],
+    "closing": "Jeg stiller gjerne til samtale for å drøfte hvordan denne erfaringen kan bidra inn i det videre arbeidet i Digital Transformasjon."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+    "EV:EDU#013-1-4-ernest-manning-high-school-calgary",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "writer_note": null,
+  "binding": {
+    "run_id": "r20260905-115243-93c621",
+    "job_id": "avinor_digital_transformasjon",
+    "employer": "Avinor AS",
+    "title": "Seniorrådgiver Digital Transformasjon",
+    "manifest_sha256": "2e9bdd1baea08644149e9db3114b5bb3e80ed2d7a8e24018bc414278c207edd8",
+    "vacancy_sha256": "c9330e49cc17f6b041c183a7324d54bccbf4be30dfabe908ba0efd4445d85d11",
+    "evidence_index_sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+    "stage_instruction_sha256": "2711e84ffe1072d25c8339f0a11fc8835b1d5a63a5d5f34cb70a8c7796f27595",
+    "baseline_map_sha256": "3f7353e62164f402e2c5edfd1ef4ea5ab24bf4031975fa8e88e8d1ca2776aaff",
+    "strategy_sha256": "844bb37b410826f3bcd96017120fc1f3755cc8b2ee5ca467d75779d77c8c9674"
+  }
+}

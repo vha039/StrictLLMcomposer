@@ -1,0 +1,325 @@
+{
+  "artifact_role": "INTERPRETIVE_CONTEXT_INDEX",
+  "governing_ids": [
+    "DEC-35",
+    "ACC-09",
+    "INV-07"
+  ],
+  "note": "Closed set of selectable personality facets, plus the narrow private token list. Mechanical validation enforces only the 0-3 bound, facet-id membership, evidence-ref presence and private-token absence. It never decides whether a trait is authentic, persuasive or relevant (Spec 10.3). The per-selection expression_ceiling is authored by Stage 1 in the strategy artifact and is required there; the fields below are reference guidance, not a substitute for it.",
+  "source_profile": "context/PERSONALITY_PROFILE.md",
+  "max_selected_facets": 3,
+  "facets": [
+    {
+      "facet_id": "PF-01",
+      "plain_language_label": "Systems mapping & causal decomposition",
+      "tags": [
+        "POSITIONING_LENS",
+        "EXPRESS_IF_EVIDENCED"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Ambiguity, strategy, architecture, complex problem solving",
+      "employer_expressible": true,
+      "meaning": "Starts by mapping definitions, actors, dependencies, constraints, source authority, failure modes, incentives, and leverage points; prefers causal/first-principles explanations.",
+      "desired_recruiter_read": "Can create decision structure in ambiguous, cross-functional, technically or organizationally complex environments.",
+      "misread_risk": "Analysis without delivery / over-intellectualization.",
+      "prevention": "Pair with evidence of implementation, decision, tool, outcome, or operational improvement.",
+      "source_expression_ceiling": "Describe systemic/analytical working style only where factual authorities show the behavior."
+    },
+    {
+      "facet_id": "PF-02",
+      "plain_language_label": "Exploratory breadth & option generation",
+      "tags": [
+        "POSITIONING_LENS",
+        "EXPRESS_IF_EVIDENCED"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Research, innovation, discovery, alternatives",
+      "employer_expressible": true,
+      "meaning": "Explores broadly, generates alternatives, compares counterfactuals, and expands option space before converging.",
+      "desired_recruiter_read": "Strong discovery, research, innovation, and alternative-generation capability.",
+      "misread_risk": "Indecisive, unfocused, unable to close.",
+      "prevention": "Pair with evidence of narrowing, prioritization, decision thresholds, or delivered outcomes."
+    },
+    {
+      "facet_id": "PF-03",
+      "plain_language_label": "Reversible action & evidence loops",
+      "tags": [
+        "POSITIONING_LENS",
+        "EXPRESS_IF_EVIDENCED"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Experimentation, iterative delivery, uncertainty",
+      "employer_expressible": true,
+      "meaning": "Acts at moderate certainty when action is reversible and informative; requires stronger evidence for irreversible/high-stakes decisions.",
+      "desired_recruiter_read": "Pragmatic experimenter who learns through controlled action rather than waiting for perfect certainty.",
+      "misread_risk": "Recklessness or excessive caution.",
+      "prevention": "Show calibrated risk handling, instrumentation, learning loops, or staged commitment."
+    },
+    {
+      "facet_id": "PF-04",
+      "plain_language_label": "Craft / integrity / usefulness-driven standards",
+      "tags": [
+        "POSITIONING_LENS",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Quality and rigor without “anxious perfectionist” framing",
+      "employer_expressible": true,
+      "meaning": "High standards arise primarily from craftsmanship, epistemic integrity, and usefulness rather than fear of mistakes or criticism.",
+      "desired_recruiter_read": "Produces credible, high-quality work for substantive reasons.",
+      "misread_risk": "Generic perfectionism, anxiety, slowness, inability to stop.",
+      "prevention": "Prefer evidence of materiality thresholds, prioritization, practical outcomes, and willingness to stop at 95–98% when residual work is immaterial."
+    },
+    {
+      "facet_id": "PF-05",
+      "plain_language_label": "Governance-based control & verified delegation",
+      "tags": [
+        "POSITIONING_LENS",
+        "EXPRESS_IF_EVIDENCED",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Ownership, leadership, program/project execution",
+      "employer_expressible": true,
+      "meaning": "Seeks clarity over objectives, standards, evidence, interfaces, checkpoints, and rollback—not personal execution of every task.",
+      "desired_recruiter_read": "Can create reliable execution systems and delegate without losing quality/control.",
+      "misread_risk": "Micromanaging, bureaucratic, controlling.",
+      "prevention": "Require evidence of delegation, interfaces, bounded autonomy, or governance that enabled others to execute."
+    },
+    {
+      "facet_id": "PF-06",
+      "plain_language_label": "High autonomy without reflexive opposition",
+      "tags": [
+        "POSITIONING_LENS",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Independent judgment, senior IC work",
+      "employer_expressible": true,
+      "meaning": "Evaluates advice by source, reasoning, stakes, and context; resists coercion or illegitimate authority but is not reflexively oppositional.",
+      "desired_recruiter_read": "Independent judgment and principled challenge.",
+      "misread_risk": "Difficult, anti-authority, non-collaborative.",
+      "prevention": "Pair with evidence of constructive disagreement, collaboration, or alignment after evaluation."
+    },
+    {
+      "facet_id": "PF-07",
+      "plain_language_label": "Promotion / expansion motivation",
+      "tags": [
+        "POSITIONING_LENS",
+        "EXPRESS_IF_EVIDENCED"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Growth, transformation, learning, capability building",
+      "employer_expressible": true,
+      "meaning": "Primarily pulled by opportunity, mastery, learning, capability expansion, and upside. QA/privacy/audit/rollback are guardrails, not core motives.",
+      "desired_recruiter_read": "Growth- and improvement-oriented; energized by building capability.",
+      "misread_risk": "Restlessness or novelty chasing.",
+      "prevention": "Pair with durable outcomes and sustained improvements."
+    },
+    {
+      "facet_id": "PF-08",
+      "plain_language_label": "Cognitive empathy / perspective taking",
+      "tags": [
+        "POSITIONING_LENS",
+        "EXPRESS_IF_EVIDENCED",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Stakeholders, consulting, product, cross-functional work",
+      "employer_expressible": true,
+      "meaning": "Defaults to understanding other people's beliefs, constraints, incentives, causes, and remedies; emotional accompaniment is less automatic, not absent.",
+      "desired_recruiter_read": "Strong stakeholder modeling and perspective-taking.",
+      "misread_risk": "Coldness, low empathy, purely technical orientation.",
+      "prevention": "Pair with evidence of stakeholder adaptation, negotiation, user/customer understanding, or cross-functional decision-making."
+    },
+    {
+      "facet_id": "PF-09",
+      "plain_language_label": "Precision-first evidence-backed communication",
+      "tags": [
+        "POSITIONING_LENS",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Decision quality, candor, analytical communication",
+      "employer_expressible": true,
+      "meaning": "Values literal interpretation, explicit assumptions, direct disagreement, evidence, and concrete definitions.",
+      "desired_recruiter_read": "Clear, rigorous, candid communicator.",
+      "misread_risk": "Abrasive, overly blunt, too technical, poor receptivity management.",
+      "prevention": "Do not claim universal communication excellence; prefer evidence of audience adaptation and adoption as well as correctness."
+    },
+    {
+      "facet_id": "PF-10",
+      "plain_language_label": "Rapid domain learning / practical competence acquisition",
+      "tags": [
+        "POSITIONING_LENS",
+        "EXPRESS_IF_EVIDENCED"
+      ],
+      "confidence": "HIGH",
+      "application_use": "New domains, steep learning curves",
+      "employer_expressible": true,
+      "meaning": "Strong tendency to enter unfamiliar domains, research aggressively, map them quickly, and become practically competent.",
+      "desired_recruiter_read": "Learns fast and transfers analytical methods across domains.",
+      "misread_risk": "Overclaiming expert depth.",
+      "prevention": "Distinguish rapid learning from pre-existing expertise and respect factual experience boundaries."
+    },
+    {
+      "facet_id": "PF-11",
+      "plain_language_label": "Leverage, toolmaking & durable-improvement orientation",
+      "tags": [
+        "POSITIONING_LENS",
+        "EXPRESS_IF_EVIDENCED"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Systems/process improvement, automation, enablement",
+      "employer_expressible": true,
+      "meaning": "Seeks disproportionate durable benefit from well-designed interventions; enjoys converting complexity into usable models, tools, frameworks, and decision support.",
+      "desired_recruiter_read": "Improvement-oriented builder seeking scalable leverage.",
+      "misread_risk": "Overengineering / abstraction without consumer value.",
+      "prevention": "Pair with concrete problem, consumer, outcome, or failure prevented."
+    },
+    {
+      "facet_id": "PF-12",
+      "plain_language_label": "Auditability / source-of-truth orientation",
+      "tags": [
+        "POSITIONING_LENS",
+        "EXPRESS_IF_EVIDENCED"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Governance, quality, regulated/technical settings",
+      "employer_expressible": true,
+      "meaning": "Distinguishes source-of-truth state from narratives about state; favors saved artifacts, tests, diffs, evidence, checkpoints, and inspectability.",
+      "desired_recruiter_read": "Reliable where traceability, quality, provenance, or decision rigor matters.",
+      "misread_risk": "Excess process/governance.",
+      "prevention": "Emphasize lightweight controls linked to real risk or quality."
+    },
+    {
+      "facet_id": "PF-13",
+      "plain_language_label": "Assertive ambivert / introverted recovery",
+      "tags": [
+        "INTERNAL_ONLY",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "MODERATE",
+      "application_use": "Prevent simplistic introvert/extravert assumptions",
+      "employer_expressible": false,
+      "meaning": "Can lead, debate, and engage energetically while recovering more through solitude/small-circle interaction than broad social stimulation."
+    },
+    {
+      "facet_id": "PF-14",
+      "plain_language_label": "Context-sensitive agreeableness / low appeasement",
+      "tags": [
+        "INTERNAL_ONLY",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "MODERATE",
+      "application_use": "Calibrate directness and collaboration interpretation",
+      "employer_expressible": false,
+      "meaning": "Friendly/cooperative when goals and reasoning are credible; low willingness to validate unsupported claims or perform ritual appeasement."
+    },
+    {
+      "facet_id": "PF-15",
+      "plain_language_label": "Analysis-as-stress-regulation tendency",
+      "tags": [
+        "RISK_PATTERN",
+        "INTERNAL_ONLY"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Restraint/review only",
+      "employer_expressible": false,
+      "meaning": "Under stress or uncertainty, analysis, research, modeling, and redesign intensify as a means of regaining control."
+    },
+    {
+      "facet_id": "PF-16",
+      "plain_language_label": "Scope expansion / continued comparison / novelty decay",
+      "tags": [
+        "RISK_PATTERN",
+        "INTERNAL_ONLY"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Prevent unsupported closure/execution claims",
+      "employer_expressible": false,
+      "meaning": "New possibilities can expand scope; adequate solutions can trigger further comparison; repetitive finishing work can lose novelty."
+    },
+    {
+      "facet_id": "PF-17",
+      "plain_language_label": "Social-temperature / receptivity miscalibration risk",
+      "tags": [
+        "RISK_PATTERN",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Prevent “brutally direct” caricature",
+      "employer_expressible": false,
+      "meaning": "Cognitive speed and precision can exceed others' processing or emotional readiness; correctness may be optimized before adoption."
+    },
+    {
+      "facet_id": "PF-18",
+      "plain_language_label": "Structured chaos: exploration with engineered convergence",
+      "tags": [
+        "POSITIONING_LENS",
+        "EXPRESS_IF_EVIDENCED",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Complex projects, research-to-delivery",
+      "employer_expressible": true,
+      "meaning": "Broad nonlinear exploration is followed by deliberate structure, consolidation, verification, and polish. J-like order is often engineered scaffolding around a strongly exploratory P-style mind.",
+      "desired_recruiter_read": "Can navigate ambiguity without remaining chaotic.",
+      "misread_risk": "Either “unstructured creative” or “rigid process person.”",
+      "prevention": "Show the full explore→structure→deliver loop."
+    },
+    {
+      "facet_id": "PF-19",
+      "plain_language_label": "Pro-change / experimentation stance with production guardrails",
+      "tags": [
+        "POSITIONING_LENS",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Prevent false change-averse inference",
+      "employer_expressible": true,
+      "meaning": "Pro-change and pro-experimentation; negative results retain information value. Production caution reflects validation discipline, not generalized change aversion."
+    },
+    {
+      "facet_id": "PF-20",
+      "plain_language_label": "Low status/conformity motivation",
+      "tags": [
+        "INTERNAL_ONLY",
+        "MISREAD_CONTROL"
+      ],
+      "confidence": "HIGH",
+      "application_use": "Motivation interpretation; usually not explicit copy",
+      "employer_expressible": false,
+      "meaning": "Status, hierarchy, convention, and visible recognition are weaker motives than mastery, truth, autonomy, impact, and usefulness."
+    }
+  ],
+  "private_typology_tokens": [
+    "MBTI",
+    "DISC",
+    "Enneagram",
+    "RIASEC",
+    "Big Five",
+    "HEXACO",
+    "Socionics",
+    "INTP",
+    "INTJ",
+    "ENTP",
+    "ENTJ",
+    "ISTJ",
+    "ISFJ",
+    "INFJ",
+    "INFP",
+    "ISTP",
+    "ISFP",
+    "ESTP",
+    "ESFP",
+    "ENFP",
+    "ENFJ",
+    "ESTJ",
+    "ESFJ",
+    "Ti-Ne",
+    "Ti-Si",
+    "Need for Cognition"
+  ],
+  "private_facet_id_pattern": "PF-[0-9]{2}"
+}

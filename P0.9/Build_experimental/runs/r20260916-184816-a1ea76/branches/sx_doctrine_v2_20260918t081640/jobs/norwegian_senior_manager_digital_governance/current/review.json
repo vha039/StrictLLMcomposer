@@ -1,0 +1,36 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [],
+  "known_limitations": [
+    "Annonsens regelverksomfang (GDPR, NIS2 og Digitalsikkerhetsloven, EU AI Act, leverandørstyring, EASA Part-IS) er ikke dokumentert erfaring. Pakken nevner det verken som erfaring eller som fravær. Det er et bevisst valg fra briefen: kravet er formulert som en fordel, og MUST-kravet om «business operations, advisory or transformation» er dekket. Leseren vil likevel se at regelverkslinjen ikke besvares direkte.",
+    "Stillingstittelen er Senior Manager. Pakken hevder ingen linjemyndighet, formelt produkteierskap eller lederrolle, i tråd med annonsens egen formulering om å drive saker fremover uten å støtte seg på formell linjemyndighet.",
+    "Gevinstfordelingsmodellen står på ferdigstillelse og overlevering til controllere. Implementering per gren, endelige vekter, organisatorisk bruk og realiserte gevinster er uavklart, og brevet hevder ingen av delene.",
+    "Arbeidsinntak og arbeidsmodell er utformet og evaluert med prosjektnivåbruk. Det finnes ikke belegg for virksomhetsutrulling eller organisasjonsdekkende adopsjon, og teksten går ikke lenger enn «utformet».",
+    "Styrings-BI-løsningen er avviklet, eierskapet varte fra om lag august 2025 til februar 2026, og kolleger ledet innhold og visualisering. Alle tre grensene står nå i CV-punktet.",
+    "Annonsen navngir bare CV-en ved innsending («upload an updated copy of your CV»). Brevet er produsert fordi portalen tar imot begge, men CV-ens toppsone må kunne bære argumentet alene hvis brevet ikke får plass."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": "Brevets åpning underdrev skjønnsatomet: den beskrev gevinstfordelingsmodellen som utformet, men utelot at den ble ferdigstilt tidlig i 2026 og overlevert til controllere. Kortet dokumenterer uttrykkelig en ferdigstilt og overlevert modell, og CV-en hadde det allerede. I tillegg manglet CV-ens BI-punkt både kortets bidragsskala og kollegagrensen; begge er lagt inn.",
+  "notes": [
+    "Brev og CV er på bokmål selv om annonsen er på engelsk og arbeidsspråket er oppgitt som engelsk og norsk. Det følger DEC-01 og DEC-04 og er ikke en redaksjonell forglemmelse.",
+    "Klyngeobservasjon: tankestreken i CV-overskriften er rettet her som i de andre jobbene i rung. Selve overskriftsformen er et Stage 1-mønster.",
+    "Brevet er kortere enn plantallet (292 mot 380 ord). Det som gikk ut var lærdomssetninger, generaliserende maksimer og en dobbel overføringsbro, ikke evidens; teksten er ikke fylt opp igjen for å treffe tallet."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "norwegian_senior_manager_digital_governance",
+    "employer": "Norwegian Air Shuttle ASA",
+    "title": "Senior Manager Digital Governance Operations",
+    "evidence_fingerprint": "aa4ac9c3cbee412113a076a03041f29922f29192747593c3185542abc2b69072",
+    "policy_fingerprint": "778d968544107da89d0199041d7dfd3a90cef53fc7d98fbe87a9af775ce5cd73",
+    "inputs": {
+      "scout": "2a903a6092ffe12b13ba324f01b52e6798bd285246139efd9c84c3f8bb93c43d",
+      "brief": "89122105f76177a513e37aa2c14bc5bd3b7e47e55fd0edff831fb5fbeef3e1e7",
+      "cv_draft": "caca587a3088153fe1acfe0cf1ed5f718c6b6df3e54272632353c507a3edcc1d",
+      "advocacy_draft": "2dfb4237ed79fd4f64991515832c288d550558bf81fae95a5dbbbabc6b79eca1",
+      "final_package": "7a906dedfcdb0e7e07ebcde473e17b0a5e2e3c51fb18939feb2d4363a5815154"
+    }
+  }
+}

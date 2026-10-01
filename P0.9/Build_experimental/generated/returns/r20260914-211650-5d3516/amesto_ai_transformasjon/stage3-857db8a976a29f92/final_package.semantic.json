@@ -1,0 +1,72 @@
+{
+  "cv": {
+    "headline": "Rådgiver i økonomi og IKT | Automatisering av økonomiprosesser",
+    "profile": "Rådgiver i økonomi og IKT ved Oslo universitetssykehus siden 2023, med master i samfunnsøkonomi fra NTNU. Startet i en klinikkstab med månedsoppgjør og regnskapsnær produksjon, og bygget der på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP, som økonomirådgivere i flere klinikker tok i bruk. Gjennomførte senere kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy, brukt sykehusdekkende i budsjettprosessene for 2026 og 2027, og har i dag ansvar for arkitektur, orkestrering og integrasjon i et prognoseprosjekt som utvikles med en menneskestyrt arbeidsflyt for kodeagenter. Registrert KI-superbruker ved OUS og tar masterprogram i kunstig intelligens ved Universitetet i Agder.",
+    "competencies": [
+      "Automatisering av økonomiprosesser fra behov til bruk",
+      "Regnskapsnære prosesser: månedsoppgjør, periodisering, avstemming og kontroll",
+      "Integrasjon av data fra fagsystemer som REGERP, ADI, GAT og JIT",
+      "Løsningsarkitektur, orkestrering og kontrollert endring",
+      "Vurdering av teknologivalg mot driftsrisiko og vedlikehold",
+      "KI-støttet utvikling med avgrenset delegering, tester og menneskelig gjennomgang",
+      "Excel/VBA, Power Query, SQL, R/Python og Power BI"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Gjennomførte kodeendringene i moderniseringen av sykehusets om lag 20 år gamle budsjetteringsverktøy i Excel/VBA, der ansatt-, ansettelses- og bemanningsdata ble bygget inn i stedet for å kopieres manuelt fra en annen arbeidsbok. Rekonstruerte arkitekturen fra VBA-kode, metadata og formler, vurderte VBA, Office Scripts, Python og KI-støttede tilnærminger mot kompatibilitet, driftsrisiko og vedlikehold, og styrte endringen med differansekontroll, akseptansekriterier og risikoregister. I praksis eneste kodende utvikler i en prosess med om lag 50 deltakere. Brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Ansvar for samlet arkitektur, repository, orkestrator og automatisering i et prognoseprosjekt for pasientvolum og sengebehov under utvikling, der data, features, modeller, evaluering og output kobles sammen. Integrerer en kollegas bidrag og arbeid fra kodeagenter i en menneskestyrt arbeidsflyt med prosjektinstruksjoner, tester og overleveringslogger.",
+          "Registrert KI-superbruker ved OUS i om lag tre år, med teknisk bistand i en Teams-kanal.",
+          "Omformet en forespørsel om å fordele gevinster fra steril logistikk per klinikk, da direkte bruksdata ikke bar en forsvarlig fordeling, til en vektet modell i fem arbeidsbøker med skjemakontrollert Power Query-overføring og kontroller for umappede rader og avvik. Unngikk bevisst kjerne-VBA slik at controllere skulle kunne inspisere og justere forutsetningene. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Hovedutvikler for backend i et nytt styringsdashbord med data fra økonomi, bemanning og aktivitet: stjerneskjema, Power Query og DAX. Eier av løsningen og den månedlige driften fra om lag august 2025 til avviklingen rundt februar 2026.",
+          "Designet og evaluerte løsninger for strukturert arbeidsinntak (Forms, Loop, Power BI, Pega og lavkode) som fanger formål, brukere, beslutningsbehov, avhengigheter, risiko og akseptansekriterier. Har deltatt i pilot- og utforskningsarbeid rundt Fabric, Power Platform, dbt og Pega.",
+          "Deltok i firepersoners etableringsgruppe for Analyseavdelingen og utformet arbeidsstrukturer med Scrum/Kanban, oppgavehierarki og WIP. Én av fire som videreutviklet sykehusets rammeverk for gevinstrealisering, innført som sykehusdekkende standard."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter om lag halvannen måneds opplæring gradvis oppgaver i månedsavslutningen, og innen om lag tre måneder hele den tildelte månedsoppgjørsflyten: prosjektnulling, periodisering, reversering, avsetninger, bilagsflyt, avstemming, feilsøk og resultatforklaring. Gikk fra arbeid som ble kvalitetssikret av andre til selvstendig gjennomføring og månedsrapportering til ledere i klinikken.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av gamle konterings- og bilagslinjer mot REGERP-format, og lærte VBA fra grunnen underveis. Verktøyene ble brukt relativt hyppig av økonomirådgivere i flere klinikker kort etter overgangen.",
+          "Koblet data fra JIT, ADI, REGERP, GAT, personell- og lønnsuttrekk og aktivitetsrapporter, dokumenterte arbeidssteg og bygget kontroll- og valideringslogikk i arvede regnskaps- og rapporteringsarbeidsbøker.",
+          "Arbeidet med prosjektøkonomi (opprettelse, ekstern finansiering, fakturering og avslutning) og bidro i budsjettprosessen for 2024, blant annet med et selvbygd budsjetthjelpeark."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg er rådgiver i økonomi og IKT ved Oslo universitetssykehus og samfunnsøkonom fra NTNU. Automatisering har jeg lært fra to sider: først som den som gjennomførte en regnskapsnær prosess, deretter som den som bygget verktøyene andre brukte i den.",
+    "body_paragraphs": [
+      "Da jeg begynte i staben ved Barne- og ungdomsklinikken i 2023, overtok jeg etter om lag halvannen måneds opplæring gradvis oppgaver i månedsavslutningen. Innen om lag tre måneder hadde jeg hele den tildelte månedsoppgjørsflyten, med periodisering, avsetninger, bilagsflyt og avstemming. I samme periode gikk sykehuset over til REGERP, og gamle konterings- og bilagslinjer måtte over i nytt format. På eget initiativ bygget jeg Excel/VBA-verktøy som konverterte, standardiserte og validerte linjene, og jeg lærte VBA fra grunnen for å få det til. Kort etter overgangen ble verktøyene brukt relativt hyppig av økonomirådgivere i flere klinikker. Å kjenne prosessen før jeg automatiserer den, er den rekkefølgen jeg vil ta med inn i regnskaps- og lønnsleveransene deres.",
+      "Sykehusets budsjetteringsverktøy er om lag 20 år gammelt, og ansatt- og bemanningsdata måtte kopieres manuelt inn fra en annen arbeidsbok. Da de skulle bygges inn, rekonstruerte jeg arkitekturen fra koden, formlene og navnene og vurderte VBA, Office Scripts, Python og KI-støttede tilnærminger mot kompatibilitet og driftsrisiko. Gjennomføringslederen valgte en smal refaktorering, funksjon for funksjon, og jeg styrte den med differansekontroll og akseptansekriterier. Om lag 50 personer deltok i prosessen, og i praksis var jeg den eneste som endret koden. Verktøyet ble brukt i hele sykehuset i budsjettprosessene for 2026 og 2027. I en modell for fordeling av gevinster fra steril logistikk valgte jeg bevisst bort kjerne-VBA, slik at controllerne skulle kunne inspisere og justere forutsetningene uten å være varig avhengige av en utvikler. Den modellen ble ferdigstilt og overlevert tidlig i 2026.",
+      "I dag har jeg ansvar for arkitekturen i et prognoseprosjekt for pasientvolum og sengebehov som fortsatt er under utvikling: repository, orkestratoren som kobler data, features, modeller og evaluering, og automatiseringen rundt. En kollega laget den opprinnelige modellen og mye av datavaskingen, og en del av implementeringen gjøres av kodeagenter. Jeg har bygget arbeidsstrukturen agentene jobber innenfor, med prosjektinstruksjoner, avgrensede oppgaver, tester og overleveringslogger, og jeg holder lokal validering atskilt fra kjøringer mot levende data som ikke er validert. Jeg er også registrert KI-superbruker ved OUS og tar masterprogram i kunstig intelligens ved Universitetet i Agder. I driftskritiske prosesser som regnskap og lønn er det den typen kontroll jeg vil bygge inn når KI tas i bruk.",
+      "Jeg søker fordi jeg vil ha automatisering som hovedoppgave, i prosesser der løsningene skal fungere for mange kunder og der prosessforståelse, teknologi og KI trengs samtidig. Fra Analyseavdelingen har jeg også erfaring med å starte noe nytt: jeg var med i gruppen på fire som etablerte avdelingen, og utformet arbeidsstrukturer for oppgaver og prioritering."
+    ],
+    "closing": "Jeg kommer gjerne til en samtale om hvordan dette kan brukes i transformasjonsarbeidet hos dere."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#038-6-3-data-engineering-og-integrasjon",
+    "EV:WORK#039-6-4-programmering-automatisering-og-impl",
+    "EV:WORK#046-8-godkjente-maltall-og-resultatgrenser",
+    "EV:WORK#053-10-1-eksplisitt-forbudt",
+    "EV:OTHER#005-0-3-ufravikelige-claim-kontroller",
+    "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+    "EV:OTHER#027-4-3-konkret-evidens",
+    "EV:OTHER#029-4-5-ki-grenser",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Vinkel: prosess før automatisering. Klinikkarbeidet leder (egen månedsoppgjørsflyt, deretter egeninitierte konverteringsverktøy brukt i flere klinikker), budsjettverktøyet og STE-modellens VBA-valg bærer teknologivalg og eierskap, prognoseprosjektet bærer arkitektur og KI med kontroll og fordelt forfatterskap. Lønn, API og datavarehus er ikke påstått. Ingen lederbetegnelse; tittelens Team Lead er ikke adressert."
+}

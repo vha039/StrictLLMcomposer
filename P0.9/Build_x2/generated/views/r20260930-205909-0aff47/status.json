@@ -1,0 +1,121 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260930-205909-0aff47",
+  "derived_at": "2026-09-30T21:27:52Z",
+  "manifest_sha256": "812bafdaaf5ba4bc56e19dae110937dfb40d8f5256836e48207b64d488aae489",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 3,
+    "core": 1,
+    "exception": 2,
+    "semantic_final_available": 1,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 1,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 2,
+      "OK": 1,
+      "DEGRADED": 0,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "joulia_product_manager_growth",
+      "employer": "Joulia",
+      "title": "Product Manager Growth",
+      "cluster": "runm",
+      "sequence": 2,
+      "priority": "HIGH",
+      "deadline": "2026-09-30",
+      "semantic_triage": "READY",
+      "production_state": "VALID",
+      "highest_valid_stage": "FINAL",
+      "semantic_final_available": true,
+      "render_state": {
+        "overall": "OK",
+        "cv_docx": "OK",
+        "cv_pdf": "OK",
+        "letter_docx": "OK",
+        "letter_pdf": "OK",
+        "limitation": null,
+        "human_action": null
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Paret viser økonomisk vurdering, egeninitiert levering og brukertesting med presist skille mellom intern bruk og kommersiell produktrolle. Action: Normal menneskelig gjennomlesning før eventuell innsending. | Known limitation: Ingen dokumentert kommersiell produktledelse, go-to-market, prising, pakketering eller abonnementsutvikling. Analytisk inngangsvei er støttet; kommersiell orientering er nærliggende, ikke etablert av sykehuserfaringen. | Known limitation: Ingen dokumentert erfaring med energitjenester, internasjonal markedsutvikling eller partnerskap. Faglig prisingsgrunnlag er akademisk. | Known limitation: Investeringsmodellen er ferdigstilt og overlevert; organisatorisk bruk og realisert gevinst er uavklart. Verktøybruk og metodeinnføring dokumenterer ikke målte økonomiske effekter.",
+      "output_paths": [
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205909-0aff47\\jobs\\joulia_product_manager_growth\\out\\CV_Joulia_Product_Manager_Growth.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205909-0aff47\\jobs\\joulia_product_manager_growth\\out\\CV_Joulia_Product_Manager_Growth.pdf",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205909-0aff47\\jobs\\joulia_product_manager_growth\\out\\Soknad_Joulia_Product_Manager_Growth.docx",
+        "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_x2\\runs\\r20260930-205909-0aff47\\jobs\\joulia_product_manager_growth\\out\\Soknad_Joulia_Product_Manager_Growth.pdf"
+      ],
+      "editorial_warnings": [
+        {
+          "code": "seeker_because",
+          "location": "letter.opening",
+          "excerpt": "Jeg søker rollen som Product Manager Growth fordi jeg vil arbeide med både vurderingen av et tilbud og det som skal til for at kunder velger og bruker det. Som samfunnsøkonom og rå"
+        },
+        {
+          "code": "title_restatement",
+          "location": "letter.opening",
+          "excerpt": "Jeg søker rollen som Product Manager Growth fordi jeg vil arbeide med både vurderingen av et tilbud og det som skal til for at kunder velger og bruker det. Som samfunnsøkonom og rå"
+        }
+      ]
+    },
+    {
+      "job_id": "vend_senior_product_analyst_recommerce",
+      "employer": "Vend",
+      "title": "Senior Product Analyst - ReCommerce",
+      "cluster": "runm",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-30",
+      "semantic_triage": null,
+      "production_state": "EXCEPTION",
+      "highest_valid_stage": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "exception_note": "English advert; current non-Bokmål classification rule. Candidate fit retained; CORE requires explicit classification amendment.",
+      "blocking": null,
+      "recommended_action": "Handle separately or manually. This never blocks a core job.",
+      "output_paths": [],
+      "editorial_warnings": []
+    },
+    {
+      "job_id": "strawberry_martech_specialist",
+      "employer": "Headquarter Oslo - Strawberry",
+      "title": "MarTech Specialist",
+      "cluster": "runm",
+      "sequence": 3,
+      "priority": "HIGH",
+      "deadline": "2026-09-30",
+      "semantic_triage": null,
+      "production_state": "EXCEPTION",
+      "highest_valid_stage": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "exception_note": "English advert; current non-Bokmål classification rule. Candidate fit retained; CORE requires explicit classification amendment.",
+      "blocking": null,
+      "recommended_action": "Handle separately or manually. This never blocks a core job.",
+      "output_paths": [],
+      "editorial_warnings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+# P0.9.2 pre-implementation registry - 22 manifest paths (MASTER_IMPLEMENTATION_PLAN sec 1)
+# One path is recorded ABSENT: it is created by this pass (E1).
+
+de4e46489546c8a1d9daa88100e39d18653b8a78f690af5052c7db84799fe6ac  policy/writing/WRITING_DOCTRINE.md
+b8155b3ffce07bfddb99522d48d44344b43876e2e293879217da18dba98109b7  policy/writing/PERSUASION_CALIBRATION.md
+ABSENT                                                            policy/writing/FORFATTERSTEMME.md
+ca3dea6f96a0383a47cebcdd5e3510aad4d8a02d1e0a84a6ed1ed70db1b92e34  policy/stages/stage1_decision_architecture.md
+af745af5bef6b523a61632eaf79c0cff35e75fb9e204a323c2a648793d87b241  policy/stages/stage2_package_writer.md
+10d50282a0fcbfbed0ecfbdb490ec0f4ffaf7902c24f6433ac312a7a43092320  policy/stages/stage3_final_writer_review.md
+fe1add828d46b842731f6e3b9f184495c1c90f24fabd80b216086307473f488a  policy/RUNBOOK.md
+4061d69ae02b4d7414faa2d9dc1d080ef6a0e164e5792d5609835d8f0faf9555  authorities/CV_BASELINE.md
+3e5e8bdfe53f2e01b5399afe22930ab37d57eab8e6840b0958a40a6b0e1e04bf  generated/baseline_map.json
+16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b  generated/evidence_index.json
+80a41a751eb5bc11379a1bcd93b5e2f21f95ec84ad668a6f003cad81d1d7096a  templates/CV_MASTER.docx
+aff96d15b7e11930d9ac790a983c79158a2573d6a023a2211b288ff4510c7c26  templates/APPLICATION_MASTER.docx
+46ee437154cac13a93844126d4b6fa6d0e046a85290caa210e42b78249f78a12  runtime/tools/prepare_masters.py
+c918cbe4eefcd2a7d73dfb3d623c12652a88b8e1770636c8b8a4c40795ea5cce  runtime/jobbsok/render.py
+9d2091cb7c5528c5c341bd62e7458a424b124954c8a0eda7a1e59edadad7b82e  runtime/jobbsok/atomicio.py
+a615fe38358aaf70a44c2b73f6faf15e7a199fb664f1437bc1ca0961fe2ec3fe  runtime/jobbsok/leakage.py
+b7e319ecdde6517783838613fda82810e935ece446db922df10960775b391ed7  runtime/tests/conftest.py
+cd5409ae422c32209f8d6b0f894da68fe21f6153904e5775e58b8ec96658b3e6  runtime/tests/test_t05_t08_ownership_schema_failure.py
+90c9b094835db3f943c01a78b70f136f27f2efc61dc9aa6caf81dd828560bd59  runtime/tests/test_t16_t18_containment_template.py
+52eaa0021e072a692b21a11fb851c5e54935ea8806253e74ca8d02f5e031fbb4  runtime/tests/test_t19_t23_render_security.py
+e532ed99956028a158888f7e5540112d83a8409f4be94b357790ec7f22985964  pyproject.toml
+ed1dc4696a617d3c710fc950a3872ca33b91356f7c85d4232c7929f84b542040  BUILDER_REPORT.md
+
+# Copied under source_tree/ but NOT one of the 22 manifest paths (human data, plan sec 9):
+4f869b8e6208b61f0b16668674c7791d637ef2be2e5812fc0c369c4aed9a0b5b  pilot/PILOT_LOG.csv

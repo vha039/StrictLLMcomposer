@@ -1,0 +1,121 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260930-205539-9bd8f0",
+  "derived_at": "2026-09-30T21:04:40Z",
+  "manifest_sha256": "4e7d82f0be62059a2a30f5837e5b7f78ef03e8f4cae22fbd4d896962dcc93a26",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 4,
+    "core": 4,
+    "exception": 0,
+    "semantic_final_available": 0,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 4,
+    "triage": {
+      "READY": 0,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 4,
+      "OK": 0,
+      "DEGRADED": 0,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "ey_konsulent_digital_health",
+      "employer": "EY",
+      "title": "Konsulent Digital Health",
+      "cluster": "runl",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-30",
+      "semantic_triage": null,
+      "production_state": "NOT_STARTED",
+      "highest_valid_stage": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Start Stage 1 for this job.",
+      "output_paths": [],
+      "editorial_warnings": []
+    },
+    {
+      "job_id": "statnett_seniorradgiver_operativ_balansering",
+      "employer": "Statnett",
+      "title": "Seniorrådgiver Operativ balansering",
+      "cluster": "runl",
+      "sequence": 2,
+      "priority": "HIGH",
+      "deadline": "2026-09-30",
+      "semantic_triage": null,
+      "production_state": "NOT_STARTED",
+      "highest_valid_stage": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Start Stage 1 for this job.",
+      "output_paths": [],
+      "editorial_warnings": []
+    },
+    {
+      "job_id": "hafslund_kraft_radgiver_administrerende_direktor",
+      "employer": "Hafslund",
+      "title": "Rådgiver administrerende direktør - Hafslund Kraft",
+      "cluster": "runl",
+      "sequence": 3,
+      "priority": "HIGH",
+      "deadline": "2026-09-30",
+      "semantic_triage": null,
+      "production_state": "NOT_STARTED",
+      "highest_valid_stage": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Start Stage 1 for this job.",
+      "output_paths": [],
+      "editorial_warnings": []
+    },
+    {
+      "job_id": "asko_kundemasterdataansvarlig",
+      "employer": "ASKO NORGE AS",
+      "title": "Kundemasterdataansvarlig",
+      "cluster": "runl",
+      "sequence": 4,
+      "priority": "HIGH",
+      "deadline": "2026-09-30",
+      "semantic_triage": null,
+      "production_state": "NOT_STARTED",
+      "highest_valid_stage": null,
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Start Stage 1 for this job.",
+      "output_paths": [],
+      "editorial_warnings": []
+    }
+  ]
+}

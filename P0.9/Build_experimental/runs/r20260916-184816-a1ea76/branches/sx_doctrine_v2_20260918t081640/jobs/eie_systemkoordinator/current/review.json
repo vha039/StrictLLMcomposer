@@ -1,0 +1,36 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "rerun_stage": null,
+  "reasons": [],
+  "known_limitations": [
+    "Det finnes ingen dokumentert erfaring fra eiendomsmegling og ingen bruk av Core eller EIE 365. Kravet nevnes én gang, i NAME_ONCE-setningen i brevet, som argument og ikke som mangel, og står ikke i CV-en. Leseren vil se at bransjeruten ikke er kandidatens.",
+    "Superbrukerrollen for kunstig intelligens er en registrert betegnelse med tekniske svar i en Teams-kanal, i om lag tre år. Antall brukere, formelt organisasjonsomfattende støtteansvar, KI-styringsmandat og målt produktivitetsgevinst er ikke oppgitt, og pakken hevder ingen av delene.",
+    "Den tverrorganisatoriske Power BI-overføringen har uavklart enhet, rapportnavn, datoer, deltakerantall, release- og nåstatus. Brevet sier «bidro vesentlig til den første komponenten» og går ikke til eneutvikling, rapporteierskap eller pågående støtte.",
+    "Styrings-BI-løsningen er avviklet, og eierskapet varte fra om lag august 2025 til februar 2026. Begge deler står i CV-punktet; brukertestene er historisk, levert arbeid, ikke nåværende ansvar.",
+    "Fabric, Power Platform, dbt, Pega og Python er tidlig tilgang, pilot og utforskning. Ingen plattformeierskap, adopsjonsledelse eller produksjonsdataengineering er hevdet.",
+    "Annonsen oppgir ikke hva som skal sendes inn. Brevet er produsert fordi prosessen ledes av en rekrutterer og brev da er normalt; det er ikke bekreftet at portalen har et felt for det."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": "To understatements er rettet. Brevet sa «bidro til en første rapportkomponent» der kortet for PRJ-02 bærer «vesentlig bidrag til en første komponent i en driftsrapport». CV-toppen oppga superbrukerrollen uten varighet, selv om om lag tre år er en godkjent opplysning, og dette er den ene jobben i klyngen der KI er ruten.",
+  "notes": [
+    "De to brevavsnittene hadde identisk indre rytme: en maksime med kolon, så bevis, så to generaliserende sluttsetninger. Symmetrien er brutt ved å fjerne signpostene, ikke ved å flytte bevis.",
+    "Klyngeobservasjon: tankestreken i CV-overskriften er rettet her som i de andre jobbene i rung. Overskriften renderer på én linje, slik briefens headline_intent ba om etter tidligere tolinjers overskrift på denne jobben.",
+    "Brevet er 331 ord mot et plantall på 350."
+  ],
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "eie_systemkoordinator",
+    "employer": "EIE eiendomsmegling",
+    "title": "Systemkoordinator",
+    "evidence_fingerprint": "bc74314c4368173e45773899c3c52d1fc0c806e1d6aeb2b4808e79730fc49b60",
+    "policy_fingerprint": "778d968544107da89d0199041d7dfd3a90cef53fc7d98fbe87a9af775ce5cd73",
+    "inputs": {
+      "scout": "8419e988670fcc304cd2bd1f4d5cfb5ec9b9b3694381a402469801b4d3c806f6",
+      "brief": "f8ab83eaae104810040b1d6775ac038c6c14688f4fb1a3d23d45f49ec17acad2",
+      "cv_draft": "93792fb945f94474f724639ead4d8e01b99a2f7962e1f3889ae6c4efcff210f2",
+      "advocacy_draft": "7986c02e7929e365d38b4b20825c9cfe6759ea2e11cc9a88485977a4c1fffb4e",
+      "final_package": "ba2c9796f68117b5c6a519434c369bb90d1dbbed8d53b09135ef728c306d9743"
+    }
+  }
+}

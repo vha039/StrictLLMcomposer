@@ -1,0 +1,43 @@
+{
+  "artifact_role": "ADVOCACY_LAYER",
+  "letter": {
+    "closing": "Takk for tiden.",
+    "body_paragraphs": [
+      "Prøven bekrefter publisering og binding."
+    ],
+    "opening": "Dette er et mekanisk prøvebrev."
+  },
+  "cv": {
+    "profile": "Rådgiver i økonomi og IKT; kjenner oppgjørsflyten ERP-en skal bære."
+  },
+  "form_answers": [
+    {
+      "question": "Hvorfor søker du?",
+      "answer": "Fordi prosess og system møtes her."
+    }
+  ],
+  "keystones": [
+    {
+      "function": "JUDGMENT",
+      "document": "LETTER",
+      "text": "Prøven bekrefter publisering og binding.",
+      "id": "K1"
+    }
+  ],
+  "used_evidence_refs": [
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+  ],
+  "binding": {
+    "run_id": "r20260916-185207-a37938/branches/sx_plan-reuse_20260918t010000",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "4f4094533cda3afdb928a9fd112d827b2dabc20654ac36f4a4f46bf928b2ee99",
+    "policy_fingerprint": "eb46b36b2107b4a07e787b4ffa867e3a1ec66e13191088c1e2752982eaafed21",
+    "inputs": {
+      "scout": "5ae74aa8c8089fdec5c537ac11a055d46e0175e64cefe84bdf74f59d80665054",
+      "brief": "166c8d2142129e45e569ea7f7036bb6a258dafea53de9f08136ca6d7a9ebc0d3",
+      "cv_draft": "8ae015187de4a74e59fa6ede5b616ca947e28a6e16b81bb5fbc34aa8e602047b"
+    }
+  }
+}

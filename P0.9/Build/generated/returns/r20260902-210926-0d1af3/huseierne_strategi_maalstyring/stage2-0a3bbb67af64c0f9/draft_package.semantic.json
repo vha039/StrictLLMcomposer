@@ -1,0 +1,55 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver innen virksomhetsstyring, analyse og gjennomføring",
+    "profile": "Samfunnsøkonom og rådgiver med erfaring fra å gjøre styrings- og analysebehov anvendelige i komplekse driftsmiljøer. Arbeider med beslutningsstøtte, felles metoder og kontrollerte forbedringer, og kobler økonomi, brukernes behov og teknisk gjennomføring. Har blant annet vært med på å utvikle et sykehusdekkende rammeverk for gevinstrealisering og modernisert et virksomhetskritisk budsjetteringsverktøy.",
+    "competencies": [
+      "Virksomhetsstyring, beslutningsgrunnlag og styringsinformasjon",
+      "Økonomisk analyse, avviksforståelse og rapportering",
+      "Felles metode, gevinstrealisering og forankring",
+      "Kravstrukturering, prioritering og workshopfasilitering",
+      "Kontrollert modernisering og innføring av arbeidsverktøy",
+      "Oversettelse mellom forretning, brukere og tekniske fagmiljøer"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utvikler og forbedrer beslutningsstøtte for økonomi, bemanning, aktivitet/DRG og pasientflyt, og omsetter brede behov til avgrensede leveranser, kontroller og dokumentasjon.",
+          "Var en av fire i teamet som videreutviklet et rammeverk for gevinstrealisering. Rammeverket ble innført som sykehusdekkende standard og var fortsatt rapportert i bruk om lag to og et halvt år senere.",
+          "Rekonstruerte og moderniserte et virksomhetskritisk Excel/VBA-budsjetteringsverktøy, integrerte bemanningsdata og utarbeidet kontroll- og onboardingmateriell. Den moderniserte versjonen ble brukt i sykehusets budsjettprosess for 2026.",
+          "Planlegger og fasiliterer workshops og bidrar til prioritering, kompetanseoverføring og samarbeid mellom ledere, controllere, fagmiljøer og tekniske kolleger."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring månedsoppgjørsflyt med periodisering, reversering, avstemming, kvalitetssikring, resultatforklaring og rapportering til ledere.",
+          "Bidro i budsjett, prosjektøkonomi og klinikkens økonomi- og aktivitetsrapportering, og utviklet Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Huseiernes neste steg i virksomhetsstyringen handler om mer enn å formulere mål. Det handler om å gjøre mål, prioriteringer og styringsinformasjon til en arbeidsmåte som faktisk hjelper ledere og produktmiljøer i en organisasjon i vekst. I dag arbeider jeg nettopp i skjæringspunktet mellom økonomisk forståelse, felles metode og praktisk gjennomføring, og søker derfor stillingen som strategi- og målstyringsrådgiver.",
+    "body_paragraphs": [
+      "I Analyseavdelingen ved Oslo universitetssykehus var jeg en av fire som videreutviklet et rammeverk for gevinstrealisering. Arbeidet omfattet forskningssyntese, metodisk forbedring samt økonomiske, strategiske og styringsmessige vurderinger. Rammeverket ble innført som sykehusdekkende standard og var fortsatt rapportert i bruk om lag to og et halvt år senere. Erfaringen har gitt meg et konkret bilde av hva som skal til for at en felles metode blir brukt over tid: den må være forståelig, knyttet til reelle prioriteringer og fungere i arbeidshverdagen.",
+      "Jeg har også rekonstruert og modernisert et virksomhetskritisk budsjetteringsverktøy med lang historikk og spredte versjoner. Som hovedutvikler på endringene integrerte jeg bemanningsdata, arbeidet med kontroller og dokumentasjon, og bidro med onboarding for controllere. Den moderniserte versjonen ble brukt i budsjettprosessen for 2026. Dette var ikke bare et teknisk arbeid, men en oppgave i å gjøre en sårbar økonomiprosess mer anvendelig under reelle drifts- og kompatibilitetskrav.",
+      "Jeg har ikke praktisk OKR-erfaring, og min direkte erfaring med virksomhetsstyring starter i 2023. Det jeg kan bringe inn fra start, er nærliggende erfaring med måle- og gevinstlogikk, styringsinformasjon, workshopfasilitering og strukturering av behov før leveranser settes i gang. Jeg er vant til å tilpasse teknisk og økonomisk innhold til ulike mottakere, og til å gjøre uklare problemstillinger om til prioriteringer, akseptansekriterier og gjennomførbare oppgaver.",
+      "For meg er Huseiernes rolle interessant fordi styringsarbeidet får en tydelig anvendelse i en medlemsorganisasjon i vekst. Å bidra til at ledelse, produktmiljøer og dataressurser kan arbeide mer samlet om mål, prioriteringer og forbedringer, er en meningsfull neste bruk av erfaringen min."
+    ],
+    "closing": "Jeg vil bruke denne erfaringen til å støtte utviklingen av en virksomhetsstyring som er presis nok for beslutninger og praktisk nok til å bli brukt."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "writer_note": null
+}

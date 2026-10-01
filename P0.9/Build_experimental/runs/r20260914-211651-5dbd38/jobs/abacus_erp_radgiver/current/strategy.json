@@ -1,0 +1,289 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "Abacus trenger kapasitet til å implementere og videreutvikle BNXT by Visma hos nye og eksisterende kunder. Rådgivere skal forstå økonomi-/logistikkprosesser, omsette behov til løsninger og følge leveransen sammen med kunder og kolleger. Annonsen skiller mellom en utviklingsrolle med ett til to års relevant erfaring og seniorrollen med solid ERP-leveranseerfaring. Min tolkning er at økonomiforståelse kombinert med praktisk systemendring er en troverdig inngang til rådgiversporet, mens BNXT-kunnskap må bygges.",
+  "selection_logic": "Velg ERP-rådgiver, finanssporet. BAR gir direkte økonomiprosessarbeid og egenutviklede konverterings-/valideringsverktøy ved REGERP-overgangen; PRJ-03 viser kontrollert endring, integrasjon og onboarding i et økonomiverktøy som faktisk brukes. Dette dekker annonsens alternative erfaringsinngang via økonomi/systemimplementering uten å påstå ERP-konsulenterfaring. PRJ-02 gir konkret kompetansedeling og teknisk samarbeid. Senior-, logistikk- og BNXT-spesialistposisjonering har svakere støtte.",
+  "primary_candidate_identity": "Samfunnsøkonom og rådgiver økonomi og IKT med praktisk økonomiprosess- og systemforbedringserfaring.",
+  "headline_hypothesis": "Samfunnsøkonom med erfaring i økonomisystemer og prosessforbedring",
+  "shortlist_thesis": "Vegard kjenner økonomiarbeidet fra innsiden og kan omsette prosessbehov til kontrollerbare systemendringer. Operativt månedsoppgjør, REGERP-hjelpeverktøy og modernisering av budsjettverktøy gir et konkret grunnlag for å utvikle seg som ERP-rådgiver innen finans sammen med Abacus' erfarne BNXT-miljø.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "ERP-rådgiver: ett til to års erfaring med ERP, økonomi, logistikk, systemimplementering eller tilsvarende.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Alternative fagområder: OUS fra mars 2023 med økonomi-/IKT-arbeid og praktisk systemforbedring gir relevant erfaring utover ett til to år. Dette er ikke ett til to års ERP-konsulentarbeid eller tilsvarende tid i BAR, som var mars–november 2023. Synlig kronologi i CV."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "God prosessforståelse innen økonomi, logistikk eller tilsvarende.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+      ],
+      "note": "Økonomialternativet er direkte støttet: periodisering, reversering, avstemming, fakturering, prosjektøkonomi, budsjett og lederrapportering. Velg finans. Ikke lønnsproduksjon, årsoppgjør eller logistikkspesialist; detaljerte akademiske emner er ikke arbeidserfaring."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Interesse for rådgiverrollen, videre utvikling og verdiskapende arbeid mellom mennesker, teknologi og forretning.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Praktisk rådgivning, økonomiske avklaringer og mottakertilpasset materiale gir grunnlag. Motivasjon kobles til å bruke økonomiprosessforståelsen i kundeimplementeringer, uten påstått tidligere BNXT-interesse."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Behovsanalyse og løsningsdesign; implementering og videreutvikling av BNXT fra start til slutt sammen med kunder og kolleger.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Kravstruktur, konvertering, validering og levert økonomiverktøyforbedring er relevante deler. BNXT/Visma-konfigurasjon og full ERP-implementering er ikke dokumentert. Rådgiversporet åpner for læring med erfarne kolleger; gapet beholdes i review."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Delta i eller lede implementerings-/forbedringsprosjekter avhengig av erfaring; sikre kvalitet, fremdrift og kundeopplevelse.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s"
+      ],
+      "note": "Egen kodeinnsats, kontroll, akseptansekriterier og onboarding dokumenterer deltakelse med selvstendig faglig bidrag. Ingen totalansvar for kommersielt ERP-prosjekt eller målt kundetilfredshet. Søknaden skal vise kontrollert gjennomføring, ikke låne prosjektledermandat."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Identifisere nye muligheter og videreutvikle kundeforhold gjennom rådgivning.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "note": "Egeninitiert prosessforbedring ved OUS og separat tidligere kundedialog/salg er relevant. Ikke dokumentert B2B-kontoansvar, mersalg av ERP eller kommersielle resultater. CV kan beholde Sector Alarm kort som behovs-/kundedialog."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Samarbeide med prosjektledere, salg og øvrige fagmiljøer; dele kompetanse og utvikle beste praksis.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for"
+      ],
+      "note": "Arbeidsmøter og modellveiledning for tekniske medarbeidere, controller-onboarding og felles metodearbeid er støttet. Samarbeid med ERP-salgsapparat er ikke dokumentert. PRJ-02 fyller en viktig menneskelig samhandlingsfunksjon i CV som økonomicasene alene ikke viser."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Holde seg oppdatert på teknologi, regelverk og nye funksjoner.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste"
+      ],
+      "note": "Teknologiutprøving, egen læring av VBA og pågående tekniske studier viser læring. Ingen dokumentert løpende regelverksovervåking eller BNXT-funksjonskunnskap."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "God kommunikasjon og samarbeid, strukturert arbeidsform, gjennomføring og fremdrift.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Selvstendig klinikkleveranse, kontrollert kodearbeid og konkret veiledning av kolleger gir atferdsbevis. Unngå generelle personlighetsetiketter."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Senior: solid erfaring med ERP-implementering og rådgivning samt faglig ledelse og strategisk kunderådgivning.",
+      "importance": "MINIMUM",
+      "relation": "GAP",
+      "evidence_refs": [],
+      "note": "Betinget minstekrav for seniorsporet, ikke rådgiversporet. Kildene dokumenterer ikke solid ERP-leveranse-/kundekonsulenterfaring. Velg rådgiver uten å gjenåpne søkebeslutningen."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Senior: sterk finans-/logistikkforståelse, komplekse saker, kvalitet, fremdrift og lønnsomme leveranser samt utvikling av kunder og fagmiljø.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "note": "Økonomiforståelse, kompleks systemendring og kompetansedeling er støttet. Kommersiell leveranselønnsomhet og senior ERP-kundeansvar er ikke etablert. Disse styrkene brukes innen rådgivernivået."
+    },
+    {
+      "requirement_id": "R12",
+      "text": "Norsk arbeidsspråk; Son eller annet Abacus-kontor kan være arbeidssted.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#032-5-1-sprak",
+        "EV:OTHER#003-0-1-last-identitet-og-kontakt"
+      ],
+      "note": "Norsk morsmål og bosted Oslo. Arbeidsgiver åpner andre kontorer; ikke lov bestemt kontor, pendling eller flytting."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR"
+      ],
+      "role": "Bærende finansargument: kandidaten har selv utført økonomiflyten han skal forstå som rådgiver, og bygget konverterings-/valideringsverktøy ved REGERP-overgang som økonomirådgivere i flere klinikker brukte. Koble faktisk prosessarbeid til praktisk endringsbehov.",
+      "claim_ceiling": "BAR mars–november 2023, egen tildelt månedsoppgjørsflyt. Verktøyene var hjelpeverktøy, ikke den sentrale ERP-/Oracle-løsningen eller hele migrasjonen. Ingen årsoppgjør, lønnsproduksjon, full regnskapsledelse eller målt tids-/feileffekt.",
+      "lifecycle": "COMPLETED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "Bærende leveranseargument: integrerte bemanningsdata i arvet budsjettverktøy, gjennomførte kodeendringer under funksjonsvise føringer, brukte kontroller og lagde controller-onboarding. Viser at økonomiprosessendringer kan følges til brukbar løsning.",
+      "claim_ceiling": "I praksis eneste koder for 2025-endringene innen bred interessentprosess; ikke originalforfatter, eier av hele innføringen eller ERP-konsulent. Brukt sykehusdekkende i budsjettprosessene for 2026 og 2027; 2027-modernisering ferdigstilt. Ingen målt effekt.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "CV dokumenterer faglig samarbeid og kunnskapsdeling: veiledet tekniske medarbeidere i en annen rapporteringsorganisasjon gjennom flere arbeidsmøter og bidro vesentlig til en rapportkomponent. Relevant for Abacus' samarbeid mellom konsulenter og fagmiljø.",
+      "claim_ceiling": "Ingen ERP-kunde, formell kursprogramledelse, rapporteierskap eller kjent nåværende støtteansvar; enhet/dato/omfang uavklart."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "CV viser strukturert behovsanalyse: formål, brukere, beslutningsbehov, inn-/utdata, avhengigheter og akseptansekriterier i utformede forespørselsoppsett. Dette dekker en egen oppgave før implementering.",
+      "claim_ceiling": "Utforming/evaluering og støttet prosjektnivåbruk; ikke utrullet ERP-innføringsmetode eller kundeworkshoputfall."
+    },
+    {
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit"
+      ],
+      "baseline_refs": [
+        "BL:EDU_NTNU_ECON",
+        "BL:EDU_UIB_ECON"
+      ],
+      "role": "CV forankrer yrkesidentiteten i fullført samfunnsøkonomisk master og relevant økonomigrunnlag; praktisk finansprosesskompetanse bæres av BAR.",
+      "claim_ceiling": "Bedriftsøkonomiske emner er bachelorgrunnlag, ikke masterspesialisering eller ERP-sertifisering. Ingen formell regnskapsfører-/revisorkvalifikasjon.",
+      "lifecycle": "COMPLETED"
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen BNXT-/Visma-erfaring eller full ERP-implementering dokumentert.",
+      "reframe": "Rådgiversporet aksepterer økonomi eller systemimplementering som inngang. Vis konkret regnskapsnær prosessforståelse og endringsleveranser som grunnlag for produktopplæring.",
+      "honesty_note": "REGERP-konverteringsverktøy er ikke eierskap til ERP-migrasjon. BNXT må forbli nytt fagprodukt."
+    },
+    {
+      "objection": "Seniorprofilens ERP- og strategiske kundeansvar mangler.",
+      "reframe": "Søk rådgiverrollen med selvstendig økonomi-/IKT-erfaring og konkret bidrag i prosjektteam.",
+      "honesty_note": "Ikke bruk generell senioritet eller teknisk hovedbidrag som erstatning for solid ERP-konsulentpraksis."
+    },
+    {
+      "objection": "Kommersiell rådgivning, leveranselønnsomhet og logistikkdybde er begrenset dokumentert.",
+      "reframe": "Velg finans og vis faktiske økonomiske avklaringer, veiledning og tidligere kundedialog separat.",
+      "honesty_note": "Ikke gjøre sykehusets budsjettskala til lønnsom kundeportefølje eller Ahlsell-lagerarbeid til ERP-logistikkekspertise."
+    }
+  ],
+  "motivation_bridge": "BNXT-implementeringer gjør det mulig å bruke erfaring med økonomiflyt, systemoverganger og kontrollert forbedring direkte i kunders arbeidsprosesser. Abacus' rådgiverspor med erfarne kolleger gir en konkret ramme for å lære produktet og samtidig bidra med praktisk forståelse av data, økonomibrukere og validering. Motivasjonen bør handle om å få økonomiarbeidet til å fungere gjennom hele endringen, ikke generell ERP-entusiasme eller udokumentert Visma-interesse.",
+  "cv_direction": {
+    "headline_direction": "Samfunnsøkonom med erfaring i økonomisystemer og prosessforbedring",
+    "emphasis": [
+      "Økonomimaster, operativ økonomiprosess og systemforbedring skal være de tre tydelige toppsignalene.",
+      "BAR viser oppgjør, kontroll, økonomiske avklaringer og selvbygde REGERP-hjelpeverktøy.",
+      "Analyseavdelingen prioriterer budsjettmodernisering, kontroll og controller-onboarding.",
+      "Kravstruktur og tverrorganisatorisk veiledning dekker behovsanalyse og samarbeid.",
+      "Tidligere kundedialog holdes kort, med riktig kontekst; pågående KI-studium står korrekt som supplement."
+    ],
+    "deprioritize": [
+      "KI som hovedidentitet og avanserte prognosemodeller.",
+      "Gevinst-/strategimetodikk foran direkte økonomiprosessbevis.",
+      "Logistikkspesialist- og senior ERP-titler."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Praktisk økonomiforståelse kombinert med kontrollerbare systemendringer er kandidatens inngang til Abacus' ERP-rådgiverspor innen finans.",
+    "top_employer_problems": [
+      "Forstå kundens økonomiprosesser før løsningsvalg.",
+      "Følge behov gjennom implementering, kontroll og bruk.",
+      "Samarbeide og gjøre fagbrukere i stand til å bruke løsningen."
+    ],
+    "structure_guidance": "Gjør rådgivernivået og finansinngangen tydelig tidlig. La BAR bære prosessforståelse og REGERP-overgangshjelp; la budsjettmoderniseringen vise hvordan endringer gjennomføres og overleveres. Avslutt på BNXT-læring og bidrag i Abacus' prosjektmiljø uten defensiv katalog over mangler."
+  },
+  "avoid_guidance": [
+    "Ikke kalle kandidaten erfaren BNXT-/Visma-konsulent eller senior ERP-rådgiver.",
+    "Ikke gjøre konverteringsverktøy til sentral REGERP-implementering eller full migrasjon.",
+    "Ikke gjøre finans og logistikk til kumulative minstekrav; annonsen åpner alternative fagområder.",
+    "Ikke oversette personell-/lønnskostnadsgrunnlag til lønnsproduksjon eller tildelt månedsoppgjør til årsoppgjør."
+  ],
+  "counterfactual_route": null,
+  "risk_notes": [
+    "Produktopplæring og kommersiell prosjektpraksis gjenstår som overføringsbehov.",
+    "Arbeidssted og tiltredelse er ikke avtalt av strategien."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-10",
+      "plain_language_label": "Lærer gjennom praktisk leveranse",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl"
+      ],
+      "intended_employer_interpretation": "Kan bygge produktkompetanse i rådgiversporet med et allerede praktisk økonomigrunnlag.",
+      "vacancy_relevance": "Abacus beskriver gradvis utvikling sammen med erfarne kolleger.",
+      "expression_ceiling": "Lærte VBA gjennom egne konverteringsverktøy og overtok tildelt månedsoppgjør innen omtrent tre måneder etter opplæring.",
+      "expression_guardrail": "Vis denne konkrete læringshistorien; ikke gi garanti om BNXT-læringstakt eller påstå eksisterende ERP-ekspertise.",
+      "misread_risk": "Rask læring kan leses som ekspertise fra første dag; behold skillet mellom økonomipraksis og nytt produkt."
+    }
+  ],
+  "writer_guidance": "Den avgjørende prioriteringen er rådgiversporet innen finans, selv om annonsen også bruker senior. Gi full styrke til eget økonomiarbeid og kodebidrag; avgrens bare det som ellers ville fremstå som ERP-konsulent- eller totalimplementeringsansvar. Kundeverdien ligger i forståelige behov, korrekt dataflyt og brukbar overlevering.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260914-211651-5dbd38",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "manifest_sha256": "b755e5aa292f4ccc4c5ab42e27e51e889495ca56a7e85faf6a31d1755ffbf588",
+    "vacancy_sha256": "a8d89ed3dba07d31d1ccfcf48643893dccd185bb9758210aad50770e4ade7c3a",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

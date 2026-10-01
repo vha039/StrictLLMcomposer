@@ -1,0 +1,24 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Annonsen krever at alle kvalifikasjonskrav er oppfylt. Erfaring med bemannings-, ressurs- og rekrutteringsprosesser er bare delvis dokumentert: årsverks- og bemanningsgrunnlag, bemanningsdata i budsjettverktøy og innledende søkerscreening. Pakken antyder ikke mer.",
+      "recommended_action": "Ingen lokal reparasjon. Vurder om søknaden skal sendes med denne kjente avstanden.",
+      "priority": 1
+    },
+    {
+      "reason": "Søknadsfristen var 23.09.2026 og er passert.",
+      "recommended_action": "Sjekk om Jobbnorge fortsatt tar imot søknader før innsending.",
+      "priority": 2
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert konsulentanskaffelse, intervjukoordinering, HR-onboarding av nye ansatte eller ledelse av bemanningsprosesser.",
+    "Forståelse av IT-roller bygger på eget prosjekt og avdelingsetablering, ikke bred kompetansekartlegging i system- og produktutvikling.",
+    "Vandel og skikkethet avgjøres i politiets egen prosess og er ikke omtalt.",
+    "Annonsen ber om CV i Jobbnorges skjema; CV-en må overføres manuelt."
+  ],
+  "material_strategy_change": "Beholdt strategiens bro, men la til estimert ekstern innleie i BAR-rapporteringen som nærmeste signal for konsulentkapasitet, den analytiske metoden for vurderingskriterier fra stillingsannonser, og rollefordelingen i prognoseprosjektet som konkret bevis på forståelse av roller i teknisk utvikling.",
+  "upstream_claim_repaired": "Strategien merket PRJ-08/09 som IN_DEVELOPMENT; teksten skiller i stedet innførte og foreslåtte praksiser (PRJ-08) og beskriver PRJ-09 som utformet.",
+  "notes": []
+}

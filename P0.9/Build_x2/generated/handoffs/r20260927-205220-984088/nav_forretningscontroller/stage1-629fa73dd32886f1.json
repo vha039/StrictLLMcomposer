@@ -1,0 +1,17 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260927-205220-984088",
+  "job_id": "nav_forretningscontroller",
+  "employer": "NAV",
+  "title": "forretningscontroller",
+  "stage": 1,
+  "mode": "STRATEGY",
+  "expected_artifacts": [
+    "strategy"
+  ],
+  "stage_policy_sha256": "fb5ac077506e674e1d963924a29f2fa1fa5d161892975278add2548180192677",
+  "upstream": {},
+  "prior_current": {
+    "strategy": null
+  }
+}

@@ -1,0 +1,46 @@
+ 
+VEGARD HÅLAND +47 905 26 886  ·  vegard-haaland@outlook.com 
+Oslo 
+ 
+ 
+Avinor AS 
+Digital Transformasjon 
+Oslo, 8. september 2026 
+Stilling: Seniorrådgiver Digital Transformasjon  
+Søknad: Seniorrådgiver Digital Transformasjon  
+Jeg er samfunnsøkonom og rådgiver i Analyseavdelingen ved Oslo universitetssykehus, der jeg 
+arbeider i skjæringspunktet mellom økonomi, drift og teknologi. Et gjennomgående tema i 
+arbeidet er avstanden mellom hva en investering ble begrunnet med og hva som senere lar seg 
+vise. Den avstanden lukkes av at gevinstlogikken er avklart før pengene brukes, ikke av flere 
+rapporter etterpå. 
+Det første store oppdraget i Analyseavdelingen var å forbedre sykehusets metodikk for 
+gevinstrealisering og estimering. Vi var fire som utviklet den reviderte metodikken sammen; jeg 
+bidro med forskningssyntese, metodisk forbedring, økonomiske og strategiske vurderinger og 
+standardisering. Den ble innført som sykehusdekkende standard og var i bruk om lag to og et halvt 
+år etter innføringen. 
+Et senere oppdrag satte den logikken på prøve. Gevinstene fra en investering i steril logistikk skulle 
+fordeles mellom klinikkene, men en direkte fordeling ville krevd en registrering av faktisk bruk som 
+ikke fantes. Jeg avviste den og utformet i stedet en modell på vektede indirekte indikatorer, med 
+forutsetninger og vekter synlige i selve modellen. VBA holdt jeg bevisst ute av kjernen, slik at 
+controllere og fagansvarlige kunne justere forutsetningene uten å gå veien om en utvikler. 
+Modellen ble ferdigstilt tidlig i 2026 og overlevert til controllerne. 
+Den andre halvdelen er å få endringen gjennomført i systemer virksomheten ikke kan miste. 
+Sykehusets budsjetteringsverktøy er arvet, bygget i Excel og VBA, og over tjue år blitt 
+forretningskritisk. I moderniseringen for 2025 var jeg i praksis eneste kodende utvikler, i en 
+prosess der rundt femti personer deltok i arbeidsgrupper og kravdiskusjoner. Jeg vurderte VBA, 
+Office Scripts, Python og KI-støttede alternativer mot kompatibilitet, driftsrisiko og 
+vedlikeholdbarhet. Implementeringsleder ville ha en smal funksjon-for-funksjon-tilnærming der 
+jeg hadde anbefalt en bredere omstrukturering; jeg gjennomførte den smale, med 
+differansekontroll mot originalfunksjonene, akseptansekriterier og risikoregister. Verktøyet er i 
+sykehusdekkende bruk i budsjettprosessene for 2026 og 2027. 
+Avinor driver 43 lufthavner og flysikringstjenesten, og den nye enheten skal øke 
+gjennomføringskraften i noe som allerede må virke hver dag. Den rammen kjenner jeg igjen. Et 
+sykehus tåler heller ikke at systemene for økonomi, bemanning og aktivitet stopper mens de 
+forbedres, og det har formet hvordan jeg arbeider: kontroller er det som gjør endring mulig, ikke 
+det som utsetter den. Det jeg vil bidra med, er å gjøre verdiantakelsene bak et initiativ 
+etterprøvbare før det prioriteres, og å holde beslutningsgrunnlaget konkret nok til at ledergruppen 
+kan velge bort noe. 
+Jeg tar gjerne en samtale om hvordan enheten tenker å måle verdien av initiativene den skal 
+prioritere mellom. 
+Med vennlig hilsen 
+Vegard Håland 

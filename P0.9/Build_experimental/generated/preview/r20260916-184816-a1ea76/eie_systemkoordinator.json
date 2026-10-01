@@ -1,0 +1,31 @@
+{
+  "job_id": "eie_systemkoordinator",
+  "stage": 3,
+  "cv_dynamic_words": 381,
+  "letter_words": 362,
+  "signals": [
+    "cleft motive"
+  ],
+  "documents": {
+    "cv": {
+      "pages": 2,
+      "tail_sections": {
+        "VERKTØY": 1,
+        "TIDLIGERE ERFARING": 2,
+        "TILLITSVERV": 2,
+        "SPRÅK": 2,
+        "SPRÅK OG KURS": 2,
+        "KURS": 2
+      },
+      "headline_lines": 1,
+      "warnings": []
+    },
+    "letter": {
+      "pages": 1,
+      "tail_sections": {},
+      "warnings": []
+    }
+  },
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\eie_systemkoordinato\\0917\\52980",
+  "render_state": "OK"
+}

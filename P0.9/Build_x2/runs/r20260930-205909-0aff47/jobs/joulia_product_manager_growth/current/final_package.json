@@ -1,0 +1,91 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom | Analyse og gjennomføring",
+    "profile": "Samfunnsøkonom med master fra NTNU og erfaring fra økonomi- og teknologioppgaver ved Oslo universitetssykehus. Utformer økonomisk beslutningsstøtte og utvikler interne løsninger fra behov til bruk. Har ferdigstilt en investerings- og gevinstfordelingsmodell for controllere, medutviklet en sykehusdekkende gevinstmetode og modernisert budsjettverktøy i bred bruk. Kombinerer økonomiforståelse med praktisk utvikling, brukertesting og opplæring.",
+    "competencies": [
+      "Gevinstvurdering og investeringsstøtte med tydelige forutsetninger",
+      "Budsjett, resultatforklaring og prosjektøkonomi",
+      "Behovsavklaring, prioritering og akseptansekriterier",
+      "Brukertesting, forbedringsarbeid og opplæring",
+      "Dataanalyse og verktøyutvikling med Power BI, Power Query og Excel/VBA",
+      "Akademisk grunnlag i næringsøkonomi, konkurranse og investering fra UiB"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utformet en modell for gevinstfordeling og investeringsvalg i steril logistikk med indirekte indikatorer, justerbare vekter og kontroller i fem arbeidsbøker. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Medutviklet en metode for gevinstrealisering og gevinstestimering i et team på fire, med bidrag i metode og økonomisk analyse. Innført som sykehusdekkende standard og fortsatt i bruk om lag 2,5 år senere.",
+          "Var i praksis eneste kodende utvikler i moderniseringen av et arvet Excel/VBA-budsjettverktøy i 2025, i en interessentprosess med om lag 50 personer. Integrerte bemanningsdata, kontrollerte endringer mot tidligere funksjonalitet og laget opplæringsmateriell. Moderniserte versjoner brukt sykehusdekkende i budsjettprosessene for 2026 og 2027.",
+          "Hovedutvikler av datamodell og beregninger i et styringsdashbord for økonomi, bemanning og aktivitet. Kolleger ledet innhold og visualisering. Eier med månedlig drift og brukertester fra om lag august 2025 til avviklingen rundt februar 2026.",
+          "Planla og fasiliterte workshops om arbeidsform i Analyseavdelingen. Utformet oppgavestruktur og forslag til prioritering og ansvarsdeling; deltok i avdelingens etableringsgruppe på fire.",
+          "Lærte opp teknisk personale i en annen rapporterings- og dataorganisasjon i Power BI og modellering gjennom flere arbeidsmøter, og bidro til en første komponent i en driftsrapport."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP. Brukt av økonomirådgivere i flere klinikker kort etter overgangen.",
+          "Overtok hele den tildelte månedsoppgjørsflyten innen om lag tre måneder. Gjennomførte etter hvert oppgjør, avstemming, resultatforklaring og rapportering til klinikkledere selvstendig.",
+          "Bidro i budsjettarbeidet for 2024, bygget et budsjetthjelpeark og arbeidet med prosjektøkonomi og fakturering etter behov. Leverte seksjonsvise aktivitetsprognoser med Stata, R og Power Query til budsjett og planlegging."
+        ]
+      },
+      {
+        "employment_id": "EMP_SECTOR_ALARM",
+        "bullets": [
+          "Kartla kundebehov, utarbeidet pristilbud og gjennomførte direkte salg og kundedialog."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg søker rollen som Product Manager Growth fordi jeg vil arbeide med både vurderingen av et tilbud og det som skal til for at kunder velger og bruker det. Som samfunnsøkonom og rådgiver innen økonomi og IKT ved Oslo universitetssykehus har jeg utviklet beslutningsgrunnlag for investeringer og verktøy som er tatt i bruk i flere klinikker. Hos Joulia ønsker jeg å bruke denne kombinasjonen til å utvikle ladetjenester med et tydelig kundebehov og en økonomi som holder.",
+    "body_paragraphs": [
+      "Da gevinster fra steril logistikk skulle fordeles mellom klinikker, var dataene om faktisk bruk for svake til å forsvare en direkte fordeling. Jeg valgte i stedet en modell med vektede, indirekte indikatorer og synlige forutsetninger. Jeg holdt beregningene åpne og unngikk VBA i kjernen, slik at controllere kunne undersøke og justere antakelsene selv. Modellen ble ferdigstilt og overlevert tidlig i 2026. I arbeidet med business case hos dere vil jeg være opptatt av nettopp hva vurderingen bygger på, og hvilke antakelser som må undersøkes før en ny tjeneste skaleres.",
+      "Jeg liker også å løse det praktiske problemet bak tallene. Under overgangen til REGERP utviklet jeg på eget initiativ verktøy som konverterte og validerte gamle konteringslinjer til det nye formatet. Jeg lærte VBA fra grunnen gjennom arbeidet, og økonomirådgivere i flere klinikker tok verktøyene i bruk. Senere gjennomførte jeg kodeendringene i moderniseringen av sykehusets budsjetteringsverktøy i 2025, innenfor en bred prosess med fagmiljøer og en egen implementeringsleder. Her integrerte jeg bemanningsdata som tidligere måtte kopieres fra en annen arbeidsbok, og laget opplæringsmateriell for controllere.",
+      "For et styringsdashbord gjennomførte jeg veiledede tester med faktiske brukere, observerte hvor de ble usikre og brukte tilbakemeldingene i avgrensede forbedringsrunder. Jeg hadde hovedansvar for datamodellen og beregningene, mens kolleger ledet innhold og visuell utforming. Jeg har også ledet en intern BI-workshop og gitt teknisk opplæring på tvers av organisasjoner."
+    ],
+    "closing": "Det som trekker meg mot Joulia, er muligheten til å følge økonomiske vurderinger helt ut i et kundetilbud, i tett samarbeid med salg, finans, produktutvikling og drift. Jeg vil gjerne bidra til at nye muligheter blir konkrete nok til å prøve ut, vurdere og gjennomføre."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:WORK#013-1-2-tidligere-arbeidsforhold",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach",
+    "EV:EDU#015-2-1-universitetet-i-bergen-okonomi-polit",
+    "EV:EDU#016-2-2-kvantitative-metoder-okonometri-og-m",
+    "EV:EDU#010-1-1-universitetet-i-agder-pagaende-maste",
+    "EV:WORK#042-6-7-prosjekt-produkt-og-leveranse",
+    "EV:OTHER#032-5-1-sprak"
+  ],
+  "writer_note": "Brevet forklarer økonomisk skjønn, initiativ og brukerdrevet forbedring; CV-en bærer leveranseomfang og varighet. Innholdslåst uttrykkspuss og sosialregister 2 anvendt.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-30",
+    "finalized_at": "2026-09-30T21:24:47Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260930-205909-0aff47",
+    "job_id": "joulia_product_manager_growth",
+    "employer": "Joulia",
+    "title": "Product Manager Growth",
+    "manifest_sha256": "812bafdaaf5ba4bc56e19dae110937dfb40d8f5256836e48207b64d488aae489",
+    "vacancy_sha256": "7cb02815fb80467bb213ee352a250864819a148dacd807a1a45d07274468df32",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "6c577e3204ba670f95fa56642d3b86df371edcbd6b193c32da98efa5b498842d",
+    "baseline_map_sha256": "a73fefbc8d28ae0a979c79abdd950c0291e1199ed2593f9e03bf2ec098d74ec3",
+    "strategy_sha256": "3cf347a63efe2c37174d56ae0c4c77691608e8efc33dcc6945f8456381e9610e"
+  }
+}

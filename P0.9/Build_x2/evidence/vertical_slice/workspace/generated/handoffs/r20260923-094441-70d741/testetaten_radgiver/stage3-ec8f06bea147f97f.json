@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260923-094441-70d741",
+  "job_id": "testetaten_radgiver",
+  "employer": "Testetaten HF",
+  "title": "Rådgiver økonomi og analyse",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "06fdb4451f34da714a72ed995e9f1eb31bb52738fc6107eeca0b705277a12ff8",
+  "upstream": {
+    "strategy_sha256": "ae8d813c609f7edadf76a5d19a05e5bcd21be6f928cfc7bf29ba429aa42034f8"
+  },
+  "prior_current": {
+    "final_package": "b3c4d5d2253e2ee16c29be041366d3efc2ff32b3bf5d7ea3c5af6302954b67d0",
+    "review": "71c35ad2d8f07f7c48df2475273b2e69619fa77d2030de63e24d41fde6b5513e"
+  }
+}

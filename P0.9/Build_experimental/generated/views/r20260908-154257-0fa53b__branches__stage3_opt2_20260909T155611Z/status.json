@@ -1,0 +1,54 @@
+{
+  "artifact_role": "DERIVED_VIEW",
+  "run_id": "r20260908-154257-0fa53b/branches/stage3_opt2_20260909T155611Z",
+  "derived_at": "2026-09-09T16:01:16Z",
+  "manifest_sha256": "c0defe939f12d1b1915669990e7063b3d26f7f3f40d503c85266086887ac038a",
+  "integrity": {
+    "ok": true,
+    "mismatches": []
+  },
+  "counts": {
+    "approved_total": 1,
+    "core": 1,
+    "exception": 0,
+    "semantic_final_available": 0,
+    "blocked_manual": 0,
+    "failed": 0,
+    "stale": 0,
+    "not_started": 0,
+    "triage": {
+      "READY": 0,
+      "CHECK": 0,
+      "RERUN": 0
+    },
+    "render": {
+      "NOT_RENDERED": 1,
+      "OK": 0,
+      "DEGRADED": 0,
+      "FAILED": 0
+    }
+  },
+  "jobs": [
+    {
+      "job_id": "avinor_digital_transformasjon",
+      "employer": "Avinor AS",
+      "title": "Seniorrådgiver Digital Transformasjon",
+      "cluster": "runavinor",
+      "sequence": 1,
+      "priority": "HIGH",
+      "deadline": "2026-09-13",
+      "semantic_triage": null,
+      "production_state": "VALID",
+      "highest_valid_stage": "STRATEGY",
+      "semantic_final_available": false,
+      "render_state": {
+        "overall": "NOT_RENDERED"
+      },
+      "stale_scope": [],
+      "exception_note": null,
+      "blocking": null,
+      "recommended_action": "Run Stage 3.",
+      "output_paths": []
+    }
+  ]
+}

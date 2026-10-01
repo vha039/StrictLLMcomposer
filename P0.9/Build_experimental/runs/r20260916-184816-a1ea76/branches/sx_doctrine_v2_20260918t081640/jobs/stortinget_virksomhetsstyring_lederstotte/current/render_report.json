@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "stortinget_virksomhetsstyring_lederstotte",
+    "final_package_sha256": "83ff9391c267c789cfc2b28f49181c5b5afc33ac14a7bf68b2da2751c9aaa6fa",
+    "document_date": "2026-09-18",
+    "baseline_map_sha256": "513363e273559a00cf68694974e8ce869f0b3aa2efa804e10f7def15358bf9e9",
+    "cv_master_sha256": "b656c2d55f6c40e43f5cbac2a13404a61168c718a1830566a082cfb432cdd971",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "0ea47ee3a013072afc3799b36dae07df53c5c4f78d709f29631a9438a578b6bd",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\CV_Stortinget_e8d73122.docx",
+      "output_sha256": "6c5d1cb1ea79d67975c24de28e5fd92c9bf158b80c3231be533c77de144a0ced",
+      "bytes": 40502,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\CV_Stortinget_e8d73122.pdf",
+      "output_sha256": "98377f054fa46409690743ff652f775380921171135e44e7e180ed487f14f478",
+      "bytes": 295170,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_7jwzks67\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\.rnd.c838bedf\\CV_Stortinget_e8d73122.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\.rnd.c838bedf\\CV_Stortinget_e8d73122.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\Soknad_Stortinget_e8d73122.docx",
+      "output_sha256": "f781be27f4f09e3d8b49a2327ed1df56e6f24069b72c472f5af08812e78944e5",
+      "bytes": 38377,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\Soknad_Stortinget_e8d73122.pdf",
+      "output_sha256": "8823aef96e73d5d0d238b1a7c61072c3a8d69b6746df0ed1daf13c05cbf4f66d",
+      "bytes": 189100,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_hqp8yi6u\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\.rnd.c838bedf\\Soknad_Stortinget_e8d73122.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\stortinget_virksomhetsstyring_lederstotte\\out\\.rnd.c838bedf\\Soknad_Stortinget_e8d73122.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-18T08:44:15Z"
+}

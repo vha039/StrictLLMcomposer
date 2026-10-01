@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260930-205909-0aff47",
+  "job_id": "joulia_product_manager_growth",
+  "employer": "Joulia",
+  "title": "Product Manager Growth",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "edfea1ea60f2dbf86f446f244cf46782deee3582f9812d2dca5be66b14388877",
+  "upstream": {
+    "strategy_sha256": "3cf347a63efe2c37174d56ae0c4c77691608e8efc33dcc6945f8456381e9610e"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

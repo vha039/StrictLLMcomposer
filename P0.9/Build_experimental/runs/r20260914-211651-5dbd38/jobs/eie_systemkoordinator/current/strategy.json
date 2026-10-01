@@ -1,0 +1,277 @@
+{
+  "artifact_role": "STRATEGY_HYPOTHESIS",
+  "authority": "NON_FACTUAL_NON_FINAL",
+  "elasticity": "ELASTIC",
+  "final_writer_may_reconstruct": true,
+  "source_escape_permitted": true,
+  "employer_decision_problem": "EIE trenger en praktisk systemressurs tett på meglerne: løse og følge opp henvendelser, lære opp brukere, lage nyttige veiledninger, prøve KI og nye verktøy sammen med Brokio og koordinere systemoppsett ved kontoretableringer. Min tolkning er at brukernes hverdag og tilgjengelig hjelp er den samlende beslutningen; utviklingsdybde har verdi når den gjør meglerne mer selvhjulpne.",
+  "selection_logic": "Velg brukerrettet teknisk rådgivning og praktisk KI-bruk som inngang. Registrert KI-superbruker med Teams-bistand gir direkte kontaktflate; PRJ-01 viser feilsøking, brukertesting og forbedring, mens PRJ-02 og PRJ-03 viser veiledning og onboarding. KI-arbeidsflyten gir en selvstendig differensiator fordi arbeidsgiver eksplisitt gjør KI til en stor del av hverdagen. Økonomikompetanse er en alternativ kvalifikasjonsvei til meglerutdanning. Behold gap i eiendomsmegling, Core/EIE 365 og leverandørstyrt kontoretablering.",
+  "primary_candidate_identity": "Rådgiver økonomi og IKT med praktisk systemforbedring, brukerveiledning og KI-støttet arbeid ved OUS.",
+  "headline_hypothesis": "Rådgiver innen systemforbedring og brukerveiledning",
+  "shortlist_thesis": "Vegard kan kombinere teknisk problemløsning med hjelp som brukerne forstår: han har feilsøkt og forbedret styringsverktøy, veiledet fagbrukere og tekniske kolleger og besvarer KI-henvendelser i Teams. Økonomibakgrunnen gir en virksomhetsnær inngang til EIEs digitale meglerhverdag, med nye fagsystemer og bransje som læringsbehov.",
+  "material_requirements": [
+    {
+      "requirement_id": "R01",
+      "text": "Eiendomsmegler eller økonomi-/IT-kompetanse eller annen relevant utdanning.",
+      "importance": "MINIMUM",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "note": "Økonomimaster og praktisk IKT-arbeid dekker den alternative inngangen. Ingen meglerutdanning eller meglererfaring. Vis økonomi og systemarbeid i CV-toppen."
+    },
+    {
+      "requirement_id": "R02",
+      "text": "Erfaring med arbeid i systemer og tett kundedialog.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "note": "Systemarbeid og brukerobservasjon ved OUS; kundedialog og behovsavklaring fra Sector Alarm og Ahlsell. Hold ekstern kundedialog og intern brukerkontakt atskilt. Ingen bolighandelsrådgivning."
+    },
+    {
+      "requirement_id": "R03",
+      "text": "Håndtere innkommende systemhenvendelser fra meglere, løse utfordringer og følge opp.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Tekniske KI-svar i Teams og feilsøking, drift og brukertesting av BI er direkte relevante. Ingen dokumentert servicedesk, sakskø/SLA eller støtte på EIE-systemer. Søknaden skal vise praktisk hjelpearbeid og konkret feil-/brukeroppfølging uten å dikte supportsak."
+    },
+    {
+      "requirement_id": "R04",
+      "text": "Samarbeide med Brokio, bidra i prosjekter, teste nye verktøy og påvirke systemutvikling.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise"
+      ],
+      "note": "Arbeidsmøter med annen rapporteringsorganisasjon, brukerbaserte forbedringer og plattformutprøving gir overførbar praksis. Ikke tidligere Brokio-samarbeid eller leverandøreierskap. CV viser faktisk møtearena, mottaker og veiledning."
+    },
+    {
+      "requirement_id": "R05",
+      "text": "Praktisk KI-bruk for å forenkle og effektivisere meglernes arbeidsdag.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens",
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra"
+      ],
+      "note": "Menneskestyrt KI-bruk i analyse, utvikling og dokumentasjon samt superbrukerbistand er støttet. Megleranvendelse er fremtidig overføring, ikke tidligere leveranse. Ingen målt produktivitetsgevinst, produksjons-LLM eller fullført KI-utrulling."
+    },
+    {
+      "requirement_id": "R06",
+      "text": "Lage forståelige veiledninger og holde digital og fysisk brukeropplæring.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "note": "Dokumentasjon, ledet BI-workshop og controller-onboarding er støttet; nøyaktig fordeling mellom digital/fysisk opplæring og faktisk lesing av veiledninger er ikke fastslått. Bruk mottakertilpasset formidling som bærende argument."
+    },
+    {
+      "requirement_id": "R07",
+      "text": "Systemoppsett og leverandørkoordinering ved nye kontorer og avdelinger, klart fra første dag.",
+      "importance": "IMPORTANT",
+      "relation": "GAP",
+      "evidence_refs": [],
+      "note": "Ingen dokumentert etablering av meglerkontor, arbeidsplass-IT eller leverandørkoordinert oppstart. Prosjektintegrasjon og avdelingens etableringsgruppe er ikke det samme. Behold i review; ikke konstruer etableringscase."
+    },
+    {
+      "requirement_id": "R08",
+      "text": "Oversikt over Core, EIE 365 og øvrige systemer samt underlag til leverandør- og meglerforetaksmøter.",
+      "importance": "IMPORTANT",
+      "relation": "ADJACENT",
+      "evidence_refs": [
+        "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+        "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin"
+      ],
+      "note": "Kravstruktur og beslutningsunderlag er overførbart; Core og EIE 365 er ukjent. EIE 365 må ikke likestilles med generell Microsoft-kompetanse. CV kan vise strukturering av behov, risiko og akseptansekriterier."
+    },
+    {
+      "requirement_id": "R09",
+      "text": "Interesse for enklere digital hverdag for meglere, boligkjøpere og selgere; innovativ, kreativ og forbedringsorientert.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "note": "Egeninitiert verktøyutvikling og observerte brukerproblemer omsatt til forbedringer viser atferd. Bransjemotivasjonen formuleres som ønsket bidrag, ikke oppdiktet langvarig eiendomsinteresse."
+    },
+    {
+      "requirement_id": "R10",
+      "text": "Samarbeid, kunnskapsdeling og varierte oppgaver i høyt tempo; norsk arbeidsspråk.",
+      "importance": "IMPORTANT",
+      "relation": "SUPPORTED",
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:OTHER#032-5-1-sprak"
+      ],
+      "note": "Veiledning i arbeidsmøter og rask overgang til selvstendig klinikkleveranse gir belegg, uten garanti om ubegrenset kapasitet. Norsk morsmål i CV."
+    },
+    {
+      "requirement_id": "R11",
+      "text": "Toårig vikariat med mulig fast ansettelse og fortløpende tiltredelse.",
+      "importance": "IMPORTANT",
+      "relation": "UNKNOWN",
+      "evidence_refs": [],
+      "note": "Ansettelsesvilkår beholdes korrekt. Tilgjengelig startdato og særskilt aksept av vikariat er ikke dokumentert; ingen løfte om umiddelbar tiltredelse."
+    }
+  ],
+  "evidence_plan": [
+    {
+      "evidence_refs": [
+        "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "Bærende brukerargument: teknisk feilsøking og faktisk brukerobservasjon fulgt av avgrensede forbedringer viser evnen til å forstå hva brukeren strever med og følge det til en endring. Den interne workshopen viser formidling til økonomkolleger.",
+      "claim_ceiling": "Historisk BI-løsning, eier august 2025–februar 2026, deretter avviklet. Kolleger ledet innhold og visualisering; ikke hele brukerflaten egenutviklet, ingen målte support- eller effektresultater.",
+      "lifecycle": "DECOMMISSIONED"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+        "EV:OTHER#026-4-2-repeterbar-ki-arbeidsmodell",
+        "EV:OTHER#027-4-3-konkret-evidens"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "Bærende KI-argument: registrert superbruker med tekniske svar i Teams kombinert med praktisk KI-støttet analyse, dokumentasjon og utvikling under menneskelig kontroll. Forklar hvordan erfaringen gir grunnlag for å prøve nyttige arbeidsmåter sammen med EIEs brukere.",
+      "claim_ceiling": "Ikke organisasjonsomfattende supportmandat, KI-kursprogram eller levert KI-produkt. Prognosearbeidet er under utvikling med delt forfatterskap. Ingen EIE-/megleranvendelser eller produktivitetsmålinger er dokumentert."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "CV viser at systemforbedringer kan bli brukt i reelt arbeid: kodeendringer, integrert bemanningsdata og onboarding av controllere i et arvet budsjettverktøy. Kan inngå i brukerargumentet dersom vedlikehold og overlevering trenger mer plass enn BI-detaljer.",
+      "claim_ceiling": "Egen kodeinnsats innen bred interessentprosess; ikke opphav til originalsystemet, eneansvar for hele innføringen eller målte besparelser.",
+      "lifecycle": "IN_USE"
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_ANALYSE"
+      ],
+      "role": "CV dokumenterer samarbeid med teknisk motpart: flere arbeidsmøter med veiledning i Power BI/modeller og vesentlig bidrag til en rapportkomponent. Relevant for å oversette brukerbehov i samarbeidet med Brokio.",
+      "claim_ceiling": "Annen rapporteringsorganisasjon, ikke ekstern leverandørkontrakt eller Brokio. Eksakt enhet, dato, omfang og nåstatus uavklart."
+    },
+    {
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#013-1-2-tidligere-arbeidsforhold"
+      ],
+      "baseline_refs": [
+        "BL:EMP_OUS_BAR",
+        "BL:EMP_SECTOR_ALARM",
+        "BL:EMP_AHLSELL"
+      ],
+      "role": "CV kompletterer økonomi- og kundegrunnlaget: selvinitiert konverteringsverktøy brukt av økonomirådgivere i flere klinikker; separat tidligere kundedialog, behovsavklaring og salg.",
+      "claim_ceiling": "REGERP-hjelpeverktøy, ikke ERP-systemeierskap. Tidligere salg er ikke eiendomsmegling eller moderne kundesupport. Ikke koble kundedialog fra eldre arbeid til sykehusverktøyets utvikling.",
+      "lifecycle": "COMPLETED"
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Ingen dokumentert eiendomsmegler- eller Core/EIE 365-erfaring.",
+      "reframe": "Bruk økonomi-/IT-inngangen annonsen åpner for, med praktisk systemarbeid og læring gjennom faktiske leveranser.",
+      "honesty_note": "Ikke påstå kjennskap til meglerprosessen eller likestille EIE 365 med Microsoft 365."
+    },
+    {
+      "objection": "Kontoretablering, systemoppsett og leverandørkoordinering er ikke dokumentert.",
+      "reframe": "Vis systemforståelse, strukturert kravinnhenting og overlevering som overførbare ferdigheter.",
+      "honesty_note": "OUS-etableringsgruppen er ikke bevis på arbeidsplass-IT eller kontorutrulling."
+    },
+    {
+      "objection": "Teknisk dybde kan overskygge daglig brukerhjelp.",
+      "reframe": "Prioriter hva brukeren trengte, faktisk veiledning og oppfølging fremfor arkitekturdetaljer.",
+      "honesty_note": "Superbrukertittelen dokumenterer avgrenset bistand, ikke full servicedeskfunksjon."
+    }
+  ],
+  "motivation_bridge": "EIEs kombinasjon av daglige brukerhenvendelser, samarbeid med eget teknologiselskap og praktisk KI-utprøving gjør rollen til en konkret anvendelse av Vegards system- og veiledningserfaring. Motivasjonen kan knyttes til å forstå meglernes friksjon, gjøre arbeidsverktøy lettere å bruke og gi kolleger hjelp de selv kan bygge videre på. Ingen påstand om forhåndskjennskap til EIEs systemer eller boligsalgsprosess.",
+  "cv_direction": {
+    "headline_direction": "Rådgiver innen systemforbedring og brukerveiledning",
+    "emphasis": [
+      "Toppen viser økonomi-/IKT-bakgrunn, brukerveiledning og praktisk KI-superbrukerrolle.",
+      "Prioriter feilsøking, brukertesting, forbedringer og intern BI-workshop; behold historisk status.",
+      "Vis controller-onboarding og sykehusdekkende bruk av modernisert budsjettverktøy.",
+      "Tverrorganisatoriske arbeidsmøter og kravstruktur viser teknisk samhandling.",
+      "Eldre kundedialog beholdes konkret og kompakt; fullført økonomimaster og pågående KI-studium med korrekt status."
+    ],
+    "deprioritize": [
+      "Gevinstmetodikk og regulatorisk styringsspråk.",
+      "Modellfamilier, kodevolum og store teknologilister."
+    ],
+    "employment_focus": [
+      "BL:EMP_OUS_ANALYSE",
+      "BL:EMP_OUS_BAR",
+      "BL:EMP_SECTOR_ALARM"
+    ]
+  },
+  "application_direction": {
+    "backbone": "Brukernær teknisk hjelp og praktisk KI-bruk kan gjøre EIEs systemer lettere å forstå og anvende i meglernes daglige arbeid.",
+    "top_employer_problems": [
+      "Løse brukerproblemer og følge opp forbedringer.",
+      "Gjøre KI og nye verktøy nyttige gjennom utprøving, veiledning og kontroll.",
+      "Oversette mellom fagbrukerne og teknisk utvikling."
+    ],
+    "structure_guidance": "Begynn med brukerhjelpen rollen skal gi. La brukertesting/feilsøking og opplæring vise hvordan kandidaten møter mennesker, og KI-erfaringen vise hva han kan bidra med i utprøving. Hold arbeidskontekstene separate. Avslutt på ønsket bidrag til meglernes digitale hverdag."
+  },
+  "avoid_guidance": [
+    "Ikke la superbrukerbetegnelsen bli organisasjonsomfattende KI-support eller dokumentert KI-utrulling.",
+    "Ikke gjøre EIEs Core/EIE 365 til kjente kandidatverktøy.",
+    "Ikke bruke avdelingens etableringsgruppe som kontoroppsettserfaring.",
+    "Ikke skrive governance- eller strategilederprosa til en praktisk brukerrolle."
+  ],
+  "counterfactual_route": null,
+  "risk_notes": [
+    "Bransje-/fagsystemlæring, kontoretablering og oppstartstid må være synlig som uavklart i sluttvurderingen.",
+    "Toårig vikariat, ikke fast stilling fra start."
+  ],
+  "personality_facets": [
+    {
+      "facet_id": "PF-11",
+      "plain_language_label": "Lager forbedringer andre kan bruke",
+      "evidence_refs": [
+        "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+        "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling"
+      ],
+      "intended_employer_interpretation": "Tar brukerproblemer videre til praktiske løsninger og hjelp som kan deles.",
+      "vacancy_relevance": "EIE trenger veiledning, systemforbedring og forenkling av meglernes hverdag.",
+      "expression_ceiling": "Egeninitierte hjelpeverktøy med dokumentert bruk og konkret controller-onboarding.",
+      "expression_guardrail": "Navngi mottakeren og problemet; ikke lov skalerbar gevinst eller målte besparelser.",
+      "misread_risk": "Kan fremstå som en utvikler som heller vil bygge enn å hjelpe; behold brukerhenvendelser og veiledning i sentrum."
+    }
+  ],
+  "writer_guidance": "Her fortjener KI en sentral plass fordi arbeidsgiver beskriver det som en stor del av hverdagen. Beviset er praktisk menneskestyrt bruk og teknisk bistand, ikke et KI-produkt. Systemdrift, forståelig opplæring og oppfølging skal være like tydelig; la økonomi-/IT-inngangen forklare kvalifikasjonen uten å late som kandidaten er megler.",
+  "requires_source_inspection_observed": false,
+  "binding": {
+    "run_id": "r20260914-211651-5dbd38",
+    "job_id": "eie_systemkoordinator",
+    "employer": "EIE eiendomsmegling",
+    "title": "Systemkoordinator",
+    "manifest_sha256": "b755e5aa292f4ccc4c5ab42e27e51e889495ca56a7e85faf6a31d1755ffbf588",
+    "vacancy_sha256": "297d52a3417b3fb25542930633525245ce29c17165deb3328d559dfbf72a66a5",
+    "evidence_index_sha256": "bd1519970770aabd9a472bd4d13f4fbe2e2ce128d8d779914e4731921cf9ca9e",
+    "stage_instruction_sha256": "f9ea6a71234fd0fe3a1d9fc26605ef84311be606cc3faaf41a019501beb04f2d"
+  }
+}

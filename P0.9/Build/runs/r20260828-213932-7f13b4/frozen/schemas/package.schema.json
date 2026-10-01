@@ -1,0 +1,183 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/package.schema.json",
+  "title": "Package",
+  "description": "One employer-facing semantic schema shared by the Stage-2 draft and the Stage-3 final (CTR-05, CTR-06, Contract 5.4). The final package is the sole semantic source for rendering.\n\nDeliberately absent, and never to be reintroduced (DEC-01, DEC-02, DEC-04, Contract 22): letter_required, a nullable letter, CV-only or output-mode branches, portal answers or portal/platform/channel fields, language switches, static model-owned chronology, and any numeric quality or confidence field.\n\nDeliberately without hard cardinalities: competency counts, bullet counts and paragraph counts are soft editorial choices and must not be mechanical failures merely for exceeding historical P0.7 defaults (DEC-33, DEC-24).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "source_stage",
+    "binding",
+    "used_evidence_refs",
+    "cv",
+    "letter"
+  ],
+  "properties": {
+    "artifact_role": { "const": "CURRENT_SEMANTIC_PACKAGE" },
+    "source_stage": { "enum": ["STAGE2_DRAFT", "STAGE3_FINAL"] },
+
+    "binding": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "run_id",
+        "job_id",
+        "employer",
+        "title",
+        "manifest_sha256",
+        "vacancy_sha256",
+        "evidence_index_sha256",
+        "stage_instruction_sha256"
+      ],
+      "properties": {
+        "run_id": { "type": "string", "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}$" },
+        "job_id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$" },
+        "employer": { "type": "string", "minLength": 2 },
+        "title": { "type": "string", "minLength": 2 },
+        "manifest_sha256": { "$ref": "#/$defs/sha256" },
+        "vacancy_sha256": { "$ref": "#/$defs/sha256" },
+        "evidence_index_sha256": { "$ref": "#/$defs/sha256" },
+        "baseline_map_sha256": { "$ref": "#/$defs/sha256" },
+        "stage_instruction_sha256": { "$ref": "#/$defs/sha256" },
+        "strategy_sha256": {
+          "$ref": "#/$defs/sha256",
+          "description": "Canonical hash of the current strategy this artifact was written from."
+        },
+        "draft_sha256": {
+          "$ref": "#/$defs/sha256",
+          "description": "Final only. Binds to the current draft while remaining semantically free to reconstruct it (INV-06, Spec 7.2)."
+        }
+      }
+    },
+
+    "used_evidence_refs": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "Flat private audit surface (DEC-25). Nonempty because every package contains factual candidate content. Resolves only to the three authorities through the evidence index; a BL: baseline reference here is a validation error (DEC-34, ACC-08). Code proves allowed-source resolvability and hash consistency only -- never that the evidence supports the wording (Spec 14.4).",
+      "items": {
+        "type": "string",
+        "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+      }
+    },
+
+    "cv": {
+      "type": "object",
+      "description": "Model-authored dynamic zones only (DEC-23). Chronology, formal employer/title/date/education identity and order come from the baseline and are never authored here.",
+      "additionalProperties": false,
+      "required": ["headline", "profile", "competencies", "employment_overrides"],
+      "properties": {
+        "headline": { "type": "string", "minLength": 1 },
+        "profile": { "type": "string", "minLength": 1 },
+        "competencies": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "description": "No maxItems. A count outside the soft editorial range emits a WARNING, never a failure (DEC-33).",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "employment_overrides": {
+          "type": "array",
+          "uniqueItems": false,
+          "description": "Keyed by known baseline employment_id. Absent override means use the baseline default bullets. A present override FULLY REPLACES the rendered bullet array for that employment: no append, no positional merge, no hidden mixture (Spec 12.2, DEC-23).",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["employment_id", "bullets"],
+            "properties": {
+              "employment_id": { "type": "string", "pattern": "^EMP_[A-Z0-9_]+$" },
+              "bullets": {
+                "type": "array",
+                "minItems": 0,
+                "description": "minItems 0 is deliberate and differs from P0.7. A present empty replacement has the explicit meaning 'render no bullets for this employment' and triggers a quality WARNING, never an automatic fallback to the baseline defaults (Spec 12.2).",
+                "items": { "type": "string", "minLength": 1 }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "letter": {
+      "type": "object",
+      "description": "Always present and never null. Every CORE job produces a complete, materially tailored Bokmal letter regardless of whether a particular employer consumes it (DEC-01, ACC-12). There is no letter_required branch.",
+      "additionalProperties": false,
+      "required": ["opening", "body_paragraphs", "closing"],
+      "properties": {
+        "opening": { "type": "string", "minLength": 1 },
+        "body_paragraphs": {
+          "type": "array",
+          "minItems": 1,
+          "description": "No maxItems. Paragraph count is editorial guidance, not a schema limit (Spec 12.4).",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "closing": { "type": "string", "minLength": 1 }
+      }
+    },
+
+    "writer_note": {
+      "type": ["string", "null"],
+      "maxLength": 2000,
+      "description": "Optional bounded private diagnostic. Never rendered to the employer, and never a competing strategy (Spec 11.1)."
+    },
+
+    "finalization": {
+      "type": "object",
+      "description": "Final-only, co-owned metadata. The employer-facing document date becomes canonical when the final package is explicitly finalized/approved for first rendering, is stored here rather than in the run manifest, and is preserved by a pure rerender (DEC-38, ACC-17).",
+      "additionalProperties": false,
+      "required": ["state"],
+      "properties": {
+        "state": { "enum": ["DRAFT", "FINALIZED"] },
+        "document_date": {
+          "type": ["string", "null"],
+          "format": "date",
+          "description": "Required once state is FINALIZED. Never assigned at run freeze and never recomputed at render time."
+        },
+        "finalized_at": { "type": ["string", "null"], "format": "date-time" },
+        "finalized_by": { "type": ["string", "null"] }
+      }
+    }
+  },
+
+  "allOf": [
+    {
+      "if": { "properties": { "source_stage": { "const": "STAGE2_DRAFT" } } },
+      "then": {
+        "properties": {
+          "binding": { "required": ["strategy_sha256"] }
+        },
+        "not": { "required": ["finalization"] }
+      }
+    },
+    {
+      "if": { "properties": { "source_stage": { "const": "STAGE3_FINAL" } } },
+      "then": {
+        "required": ["finalization"],
+        "properties": {
+          "binding": { "required": ["draft_sha256"] }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "finalization": { "properties": { "state": { "const": "FINALIZED" } } }
+        },
+        "required": ["finalization"]
+      },
+      "then": {
+        "properties": {
+          "finalization": {
+            "required": ["document_date"],
+            "properties": { "document_date": { "type": "string" } }
+          }
+        }
+      }
+    }
+  ],
+
+  "$defs": {
+    "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/failure.schema.json",
+  "title": "CurrentFailureRecord",
+  "description": "The one minimal CURRENT failure/blocking representation status derivation reads without consulting history (CTR-03, DEC-07, Contract 5.6).\n\nThis is not an event log. At most one record exists per job at a time. A successful current replacement clears or supersedes it, and the superseded copy may move to audit history. Status must never replay archived events, and a planted marker file has no status authority.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "run_id",
+    "job_id",
+    "operation",
+    "classification",
+    "violations",
+    "recommended_next_action",
+    "recorded_at"
+  ],
+  "properties": {
+    "artifact_role": { "const": "CURRENT_FAILURE" },
+    "run_id": { "type": "string", "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}$" },
+    "job_id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$" },
+
+    "operation": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Affected stage or deterministic operation, e.g. STAGE2, STAGE3, RENDER, VALIDATE."
+    },
+
+    "classification": {
+      "enum": ["FAILED", "BLOCKED_MANUAL"],
+      "description": "FAILED: a current attempt/artifact is mechanically invalid and recovery remains available. BLOCKED_MANUAL: the configured or simple recovery path is unavailable or exhausted; independent jobs continue regardless (Spec 15.3)."
+    },
+
+    "applies_to_hashes": {
+      "type": "object",
+      "description": "The artifact/input hashes this failure applies to, so a later valid replacement is distinguishable from the failed state.",
+      "additionalProperties": { "type": "string", "pattern": "^[a-f0-9]{64}$" }
+    },
+
+    "violations": {
+      "type": "array",
+      "description": "All detected mechanical violations or render diagnostics from one pass (Contract 8.1).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["contract_id", "file", "location", "expected", "observed"],
+        "properties": {
+          "contract_id": { "type": "string", "minLength": 1 },
+          "file": { "type": "string", "minLength": 1 },
+          "location": { "type": "string" },
+          "expected": { "type": "string" },
+          "observed": { "type": "string" },
+          "severity": { "enum": ["ERROR", "WARNING"] }
+        }
+      }
+    },
+
+    "diagnostic_summary": { "type": "string" },
+
+    "attempts_used": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Bounded and visible. No hidden retries and no orchestration engine (DEC-36, ACC-14)."
+    },
+
+    "retry_position": {
+      "type": ["integer", "null"],
+      "description": "Index into the frozen retry_start_stages array, when that convenience is in use."
+    },
+
+    "mechanical_corrections_used": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Same-session structural corrections used for the active semantic attempt; separate from semantic retry attempts."
+    },
+
+    "semantic_attempt": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "description": "One-based manually initiated semantic retry attempt, or null for the initial production attempt."
+    },
+
+    "last_successful_stage": { "enum": ["STRATEGY", "DRAFT", "FINAL", null] },
+
+    "recommended_next_action": { "type": "string", "minLength": 1 },
+
+    "recorded_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "For audit display only. It carries no status authority."
+    }
+  }
+}

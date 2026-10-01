@@ -1,0 +1,34 @@
+{
+  "triage": "CHECK",
+  "reasons": [
+    {
+      "reason": "Formuleringen «i praksis eneste kodende utvikler» står nå i brevets bærende avsnitt, ikke bare i CV-en. Kildematerialet støtter formuleringen, men ber eksplisitt om ny bekreftelse dersom den blir framtredende. Den er framtredende her. Teamrammen er bevart ved at interessentprosessen med om lag 50 involverte står i samme setning.",
+      "recommended_action": "Bekreft at «i praksis eneste kodende utvikler» er riktig for kodeendringene i 2025-moderniseringen, eller si fra så endres den til en svakere formulering som «hovedansvarlig for kodeendringene». Dette er den ene avgrensede bekreftelsen som gjenstår.",
+      "priority": 1
+    },
+    {
+      "reason": "Fordelings- og investeringsmodellen i tredje avsnitt er konseptarbeid. Den er brukt som dokumentert beslutning om hvordan du håndterer gevinstmåling uten direkte måling, og statusen «utformet, ikke innført» står eksplisitt. Den er bevisst ikke koblet til at gevinstrammeverket varte eller til at moderniseringen lyktes.",
+      "recommended_action": "Bekreft at du er komfortabel med å bruke modellen som eksempel på faglig vurdering når den ikke er innført. Den er intervjuforsvarlig som designbeslutning, ikke som resultat.",
+      "priority": 2
+    },
+    {
+      "reason": "Annonsen nevner operasjonelt lederansvar tre ganger, som ett av flere alternative bakgrunnsspor. Pakken påstår ikke lederansvar noe sted og har ikke et eget avsnitt om at det mangler; den svarer i stedet på annonsens uttalte hovedkriterium, at kandidaten forstår hvordan endring faktisk skjer.",
+      "recommended_action": "Les avsnitt 1 og vurder om du vil at fraværet av formelt lederansvar skal adresseres eksplisitt. Slik det står nå, håndteres det ved at teksten viser gjennomføring i stedet for å diskutere tittel.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Formelt personal-, linje- eller programansvar er ikke dokumentert og er ikke påstått. Ledelse er beskrevet gjennom konkrete handlinger.",
+    "Porteføljestyring er ikke dokumentert og ordet er ikke brukt. Annonsens to punkter der det inngår er eller-krav der gevinstrealisering og virksomhetsstyring dekker kravet.",
+    "Erfaringen er fra offentlig sykehusdrift, ikke luftfart. Broen i teksten er driftsrisiko og kontinuitetskrav, ikke bransjekjennskap. Ingen påstand om kjennskap til Avinors systemer eller flysikkerhet.",
+    "Styringsløsningen som er nevnt i CV-en ble avviklet rundt februar 2026, og eierskapsperioden var om lag august 2025 til februar 2026. Teksten påstår ikke nåværende eierskap eller drift.",
+    "Planlagt levering av 2027-versjonen av budsjetteringsverktøyet er uverifisert og er ikke nevnt i pakken.",
+    "Ingen kvantifisert tids-, feil- eller kostnadseffekt er påstått for moderniseringen; kilden støtter ikke slike tall."
+  ],
+  "material_strategy_change": "Ingen endring i identitet, rute eller evidensvalg. Strukturell endring innenfor strategiens ramme: draftens fjerde avsnitt om manglende lederansvar er fjernet fordi det gjenfortalte evidens som allerede sto i avsnitt 1 og i CV-en, og fordi det åpnet med en negasjon. Brevet gikk fra fire til tre kroppsavsnitt.",
+  "upstream_claim_repaired": null,
+  "notes": [
+    "Kildefilen for stillingen er en skannet PDF uten lesbar tekst. Innholdet er lest visuelt fra originalen. FINN-generert materiale, altså Kortversjonen på første side, ferdighetsetikettene merket AI-generert og JobbMatch-blokken, er utelatt fra kravgrunnlaget.",
+    "Søknadsfrist er 13.09.2026. Arbeidsspråk er oppgitt som norsk."
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "used_evidence_refs": [
+    "EV:WORK#010-1-1-oslo-universitetssykehus-hf-radgiver",
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#024-4-5-prj-05-prognoser-for-pasientvolum-se",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#032-5-2-kommunikasjon-og-kompetanseoverforin",
+    "EV:WORK#036-6-1-helse-okonomi-og-virksomhetsforstael",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso",
+    "EV:EDU#012-1-3-universitetet-i-bergen-fullfort-bach"
+  ],
+  "cv": {
+    "headline": "Samfunnsøkonom | Helsetjenester, kapasitet og utvikling",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver Økonomi og IKT ved Oslo universitetssykehus, med arbeid på tvers av bemanning, aktivitet, pasientflyt, kapasitet og økonomi. Har utformet beslutningsstøtte for investeringer i steril logistikk der direkte data manglet, har ansvaret for arkitekturen i et prognoseprosjekt for pasientvolum og sengebehov under aktiv utvikling, og medutviklet sykehusets metodikk for gevinstrealisering, innført som sykehusstandard. Har gjennomført endring i et sykehusdekkende budsjettverktøy med om lag 50 involverte, og lager workshops, onboarding og overlevering for ledere, controllere og fagmiljøer.",
+    "competencies": [
+      "Kapasitet, bemanning og aktivitet i helsetjenester",
+      "Beslutningsgrunnlag for investeringer og tjenesteendring",
+      "Gevinstrealisering og gevinstlogikk",
+      "Plan-, budsjett- og utviklingsarbeid",
+      "Endrings- og forbedringsarbeid i store organisasjoner",
+      "Workshops, fasilitering, onboarding og overlevering",
+      "Digitale verktøy og beslutningsstøtte: Power BI, Excel/VBA, SQL, R/Python"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Utformet beslutningsstøtte for fordeling av gevinster fra steril logistikk mellom klinikker, beregnet på valg om lager, utstyr, automatisering og investeringer. Avviste en direkte fordeling fordi bruksdata ikke bar den, og bygget i stedet en vektet modell med operative, økonomiske og kvalitetsmessige mekanismer og synlige forutsetninger. Ferdigstilt og overlevert til controllere tidlig i 2026.",
+          "Har ansvaret for samlet arkitektur, orkestrering og integrasjon i et prognoseprosjekt for pasientvolum, sengebehov og kapasitet (14, 90 og 365 dager) under aktiv utvikling, i samarbeid med en kollega og kodeagenter; utfordret definisjonen av hva prognosen skal treffe og krever validering mot faktiske tall over tid.",
+          "Videreutviklet i et team på fire sykehusets metodikk for gevinstrealisering, med bidrag til forskningssyntese, metode, økonomisk og strategisk analyse og styring. Rammeverket ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere.",
+          "Moderniserte sykehusets om lag 20 år gamle budsjetteringsverktøy som i praksis eneste kodende utvikler i en prosess med om lag 50 involverte, med bemanningsdata bygget inn, akseptansekriterier, risikoregister og onboarding for controllere. I sykehusdekkende bruk i budsjettprosessene for 2026 og 2027.",
+          "Deltok i etableringsgruppen på fire for Analyseavdelingen med teamstruktur, ansvar, avhengigheter og oppgaveflyt, og planla og holdt workshops; vurderte plattformer som Fabric, Power Platform og Pega opp mot sykehusets konkrete begrensninger.",
+          "Hovedutvikler av datamodell og beregninger i et styringsdashbord for økonomi, bemanning, sykefravær og aktivitet/DRG; gjennomførte veiledede tester med faktiske brukere og forbedret løsningen ut fra det."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok innen om lag tre måneder hele den tildelte månedsoppgjørsflyten og sendte månedlig lederrapportering om økonomi, bemanning, DRG og plantall, ventelister, kurdøgn og innleie til klinikkens ledere.",
+          "Bidro i budsjettprosessen for 2024 med årsverk og kvalitetssikring av bemannings-, UTA- og vaktgrunnlag, og leverte seksjonsvise DRG-prognoser som ble brukt i budsjett og planlegging.",
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering og validering ved overgangen til REGERP; i perioden etter ble de brukt av økonomirådgivere i flere klinikker."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "I Analyseavdelingen ved Oslo universitetssykehus arbeider jeg med kapasitet, bemanning, aktivitet og økonomi, og med beslutningsgrunnlag for investeringer i utstyr og logistikk. Det er mange av de samme spørsmålene kommunalsjefens stab i Nittedal skal svare på når det nye sykehjemmet skal bli et godt tjenestetilbud og ikke bare et bygg.",
+    "body_paragraphs": [
+      "Det nærmeste jeg har kommet spørsmålet om hvordan bygg, utstyr og arbeidsprosesser henger sammen, er arbeidet med steril logistikk. Arbeidet skulle gi grunnlag for valg om lager, utstyr, automatisering og investeringer, og oppdraget var å fordele gevinstene mellom klinikkene. Datagrunnlaget bar ikke en direkte fordeling, så jeg avviste den og utformet i stedet en vektet modell som fanger operative, økonomiske og kvalitetsmessige virkninger, med synlige forutsetninger som controllerne skulle kunne kontrollere og justere. Modellen ble ferdigstilt og overlevert tidlig i 2026. I tillegg har jeg ansvaret for arkitekturen i et prognoseprosjekt for pasientvolum og sengebehov, som fortsatt er under utvikling.",
+      "Endring i en kompleks organisasjon har jeg gjennomført i praksis. Sykehusets budsjetteringsverktøy moderniserte jeg som i praksis eneste kodende utvikler i en prosess med om lag 50 involverte, med bemanningsdata bygget inn, akseptansekriterier, risikoregister og onboarding for controllerne. Verktøyet er i bruk i hele sykehuset for 2026 og 2027. I et team på fire videreutviklet vi sykehusets metodikk for gevinstrealisering, som ble innført som standard og fortsatt var i bruk om lag 2,5 år senere. Den typen gevinstlogikk er nyttig når et nytt bygg og ny teknologi skal gi bedre tjenester og ikke bare nye kvadratmeter.",
+      "Fra Barne- og ungdomsklinikken kjenner jeg driften fra økonomisiden: jeg overtok månedsoppgjøret, sendte lederrapporter om bemanning, DRG, ventelister, kurdøgn og innleie, og bidro i budsjettet for 2024 med årsverk og vaktgrunnlag. Det gir meg et konkret utgangspunkt for sektorens plan- og budsjettarbeid.",
+      "Utdanningen min er samfunnsøkonomi fra NTNU og Universitetet i Bergen, ikke helsefag. I utviklingen av sykehjemmet ville jeg derfor arbeide tett med de helsefaglige og bidra med det jeg har gjort i sykehuset: å gjøre kapasitet, bemanning, økonomi og gevinster til et felles og etterprøvbart beslutningsgrunnlag, og strukturere arbeidet slik at det kan gjennomføres og overleveres til drift."
+    ],
+    "closing": "Jeg forteller gjerne mer i et intervju."
+  },
+  "writer_note": "Helsefaglig utdanning (minstekrav), bygg, innflytting/drift og SLA er ikke dokumentert. Utdanningen er nevnt presist i brevet for ikke å villede om minstekravet."
+}

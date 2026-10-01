@@ -1,0 +1,43 @@
+ 
+VEGARD HÅLAND +47 905 26 886  ·  vegard-haaland@outlook.com 
+Oslo 
+ 
+ 
+Avinor AS 
+Digital Transformasjon 
+Oslo, 8. september 2026 
+Stilling: Seniorrådgiver Digital Transformasjon  
+Søknad: Seniorrådgiver Digital Transformasjon  
+Da gevinstene fra et sterilforsyningsprosjekt ved Oslo universitetssykehus skulle fordeles mellom 
+klinikkene, fantes det ikke bruksdata som bar en direkte fordeling. Jeg avviste den direkte 
+modellen og bygde i stedet en vektet modell av indirekte indikatorer, med forutsetninger og 
+vekter synlige og justerbare i arbeidsbøkene, slik at controllerne kunne se hva et estimat hvilte på 
+uten å måtte gå veien om en utvikler. Modellen ble ferdigstilt og overlevert tidlig i 2026. Å gjøre et 
+investeringsgrunnlag etterprøvbart på den måten er kjernen i det Avinor beskriver når enheten for 
+Digital Transformasjon skal sikre at investeringer i teknologi gir faktisk verdi. 
+Gevinstarbeid har også en metodeside. Analyseavdelingens første store oppdrag kom fra ledelsen: 
+en eksisterende metodikk for gevinstrealisering og estimering skulle forbedres. I et team på fire 
+medutviklet jeg det reviderte rammeverket og bidro med forskningssyntese, metodisk og 
+økonomisk vurdering og styringsstruktur. Rammeverket ble innført som sykehusdekkende 
+standard og var fortsatt i bruk om lag to og et halvt år senere. 
+Den andre halvparten av oppgaven er å få endringen gjennom. Sykehusets budsjetteringsverktøy 
+er et arvet Excel/VBA-verktøy på rundt tjue år som over tid er blitt virksomhetskritisk. Jeg gjorde i 
+praksis alle kodeendringene i moderniseringen, innenfor en prosess med om lag femti deltakere i 
+arbeidsgrupper og kravavklaringer. Jeg anbefalte en bredere omstrukturering, men 
+implementeringsansvarlig satte en smalere ramme, og om lag åtti prosent av arbeidet ble 
+atferdsbevarende refaktorering funksjon for funksjon, sikret med differansekontroll, 
+akseptansekriterier og et risikoregister. Verktøyet er i sykehusdekkende bruk i budsjettprosessene 
+for 2026 og 2027, og jeg laget onboardingmateriell for controllerne. Målt tidsbesparelse eller 
+feilreduksjon har jeg ikke tall på. Det som er dokumentert, er at verktøyet er i bruk. 
+Enheten skal arbeide der jeg selv har hatt mest utbytte av å stå: mellom begrunnelsen for en 
+investering, prioriteringen mellom flere av dem og den praktiske gjennomføringen. Jeg var med i 
+firepersonersgruppen som etablerte Analyseavdelingen ved OUS, og arbeidet der med 
+oppgavedeling, ansvar og avhengigheter, med Scrum- og Kanban-strukturer og med workshops. 
+Noe ble tatt i bruk, annet ble lagt fram som forslag. At Avinor nå bygger opp et nytt 
+transformasjonsmiljø betyr at de samme spørsmålene skal besvares på nytt, denne gangen for en 
+virksomhet der drift og sikkerhet setter rammene. 
+Hos dere vil jeg bidra til at digitale initiativer får et beslutningsgrunnlag ledelsen kan etterprøve, 
+og til at tiltakene kommer helt frem til fagmiljøene som skal bruke dem. Jeg forklarer gjerne 
+nærmere hvordan gevinstmodellene og budsjettmoderniseringen ble arbeidet fram. 
+Med vennlig hilsen 
+Vegard Håland 

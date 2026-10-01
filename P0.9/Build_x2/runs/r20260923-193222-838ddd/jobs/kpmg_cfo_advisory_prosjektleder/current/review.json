@@ -1,0 +1,29 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Annonsen ser etter 5 til 8 års consulting eller prosjektledelse og ledelse av arbeidsstrømmer hos kunder. Dokumentert er intern rådgiverrolle fra 2023, med funksjonelt ansvar for en teknisk arbeidsstrøm og hovedimplementering i budsjettmoderniseringen. Brevet sier presist at erfaringen er intern og ikke fra konsulentbransjen.",
+      "recommended_action": "Ingen lokal reparasjon. Vurder om søknaden skal sendes med denne kjente avstanden til erfaringsprofilen.",
+      "priority": 1
+    },
+    {
+      "reason": "Frist 25.09.2026.",
+      "recommended_action": "Skum og send manuelt innen fristen.",
+      "priority": 2
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert formell prosjektlederrolle, styringsgruppearbeid, eksterne kunder eller ledelse av ERP/EPM-implementering.",
+    "REGERP-erfaringen gjelder egeninitierte konverteringsverktøy og klinikkens oppgjørsflyt, ikke den sentrale ERP-løsningen.",
+    "Ingen målt gevinst fra budsjettverktøyet, gevinstmetodikken eller STE-modellen."
+  ],
+  "material_strategy_change": "Beholdt strategiens hovedcase, men la til 2027-runden med større frihet og den dokumenterte uenigheten om refaktoreringens omfang som bevis på faglig råd og leveranse innenfor ramme; hentet inn den tekniske arbeidsstrømmen i prognoseprosjektet som støttet bevis for å ha ledet en arbeidsstrøm, og KI-støttet utvikling som svar på annonsens analyse- og KI-punkt.",
+  "upstream_claim_repaired": null,
+  "notes": [],
+  "binding": {
+    "run_id": "r20260923-193222-838ddd",
+    "job_id": "kpmg_cfo_advisory_prosjektleder",
+    "final_package_sha256": "b6f69d76d9ded6bea870506495b397e0850c3547be070398bbafe0ebe020b822"
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/scout.schema.json",
+  "title": "Scout facts",
+  "description": "Stage 0 (SCOUT). Structured vacancy facts plus an evidence triage. Extraction, not argument: every claim about the ad carries a verbatim quote. The triage DEMOTES evidence and never removes it - reserve and the full catalog stay retrievable by every later stage.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "binding",
+    "vacancy",
+    "requirements",
+    "submission",
+    "triage"
+  ],
+  "properties": {
+    "artifact_role": {
+      "const": "SCOUT_FACTS"
+    },
+    "binding": {
+      "type": "object",
+      "description": "Written by the tool at submit.",
+      "additionalProperties": false,
+      "required": [
+        "run_id",
+        "job_id",
+        "employer",
+        "title",
+        "evidence_fingerprint",
+        "policy_fingerprint",
+        "inputs"
+      ],
+      "properties": {
+        "run_id": {
+          "type": "string",
+          "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}(?:/branches/[a-z0-9][a-z0-9_-]{0,31})?$"
+        },
+        "job_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$"
+        },
+        "employer": {
+          "type": "string",
+          "minLength": 2
+        },
+        "title": {
+          "type": "string",
+          "minLength": 2
+        },
+        "evidence_fingerprint": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "What this stage consumed as fact: frozen authorities, evidence index, baseline map, CV baseline, this vacancy and the upstream artifacts. Staleness is this hash recomputed."
+        },
+        "policy_fingerprint": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "Playbook plus consumed writing policy. Provenance only; a policy edit never invalidates an artifact."
+        },
+        "inputs": {
+          "type": "object",
+          "description": "Upstream artifact name -> artifact hash.",
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          }
+        }
+      }
+    },
+    "vacancy": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "employer": {
+          "type": "string",
+          "minLength": 2
+        },
+        "unit": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 2
+        },
+        "deadline": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "language": {
+          "enum": [
+            "nb",
+            "nn",
+            "en",
+            "other"
+          ]
+        },
+        "sector": {
+          "enum": [
+            "PUBLIC",
+            "PRIVATE",
+            "UNKNOWN"
+          ]
+        }
+      },
+      "required": [
+        "employer",
+        "title",
+        "language",
+        "sector"
+      ]
+    },
+    "requirements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^Q[0-9]{2}$"
+          },
+          "quote": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 300,
+            "description": "Verbatim from the ad."
+          },
+          "kind": {
+            "enum": [
+              "MUST",
+              "SHOULD",
+              "NICE",
+              "TASK"
+            ]
+          },
+          "relation": {
+            "enum": [
+              "STRONG",
+              "PARTIAL",
+              "ADJACENT",
+              "GAP",
+              "UNKNOWN"
+            ]
+          },
+          "refs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+            },
+            "minItems": 0,
+            "description": "Evidence that would answer it, if any."
+          }
+        },
+        "required": [
+          "id",
+          "quote",
+          "kind",
+          "relation"
+        ]
+      },
+      "minItems": 1
+    },
+    "thresholds": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^T[0-9]{1,2}$"
+          },
+          "quote": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 300
+          },
+          "dimension": {
+            "enum": [
+              "YEARS",
+              "LEVEL",
+              "EDUCATION",
+              "LANGUAGE",
+              "CLEARANCE",
+              "CERTIFICATION",
+              "OTHER"
+            ]
+          },
+          "required": {
+            "type": "string",
+            "minLength": 1
+          },
+          "candidate": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "enum": [
+              "MEETS",
+              "MISSES",
+              "UNCLEAR"
+            ]
+          },
+          "refs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+            },
+            "minItems": 0
+          }
+        },
+        "required": [
+          "id",
+          "quote",
+          "dimension",
+          "required",
+          "candidate",
+          "status"
+        ]
+      },
+      "minItems": 0,
+      "description": "Hard thresholds a screener can check, against the candidate's own record. Input to the Architect's stance choice, never an apply/no-apply verdict."
+    },
+    "tracks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "label": {
+            "type": "string",
+            "minLength": 1
+          },
+          "quote": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 300
+          },
+          "fit": {
+            "enum": [
+              "STRONG",
+              "STRETCH",
+              "UNDER"
+            ]
+          }
+        },
+        "required": [
+          "label",
+          "quote",
+          "fit"
+        ]
+      },
+      "minItems": 0,
+      "maxItems": 3,
+      "description": "Level or track options the ad offers."
+    },
+    "employer_facts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "fact": {
+            "type": "string",
+            "minLength": 1
+          },
+          "quote": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 300
+          },
+          "conversion": {
+            "type": "string",
+            "minLength": 1,
+            "description": "The working condition this fact implies, which candidate evidence could answer."
+          }
+        },
+        "required": [
+          "fact",
+          "quote",
+          "conversion"
+        ]
+      },
+      "minItems": 0,
+      "maxItems": 5
+    },
+    "submission": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "letter_requirement": {
+          "enum": [
+            "REQUIRED",
+            "OPTIONAL",
+            "UNSPECIFIED"
+          ]
+        },
+        "quote": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 300
+        },
+        "route": {
+          "enum": [
+            "PORTAL",
+            "EMAIL",
+            "FINN",
+            "UNKNOWN"
+          ]
+        },
+        "screening_questions": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 0,
+          "description": "Form questions, verbatim."
+        }
+      },
+      "required": [
+        "letter_requirement",
+        "route"
+      ]
+    },
+    "reader_signals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "signal": {
+            "type": "string",
+            "minLength": 1
+          },
+          "quote": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 300
+          }
+        },
+        "required": [
+          "signal",
+          "quote"
+        ]
+      },
+      "minItems": 0
+    },
+    "triage": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "core": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "ref": {
+                "type": "string",
+                "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+              },
+              "why": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 160
+              }
+            },
+            "required": [
+              "ref",
+              "why"
+            ]
+          },
+          "minItems": 1,
+          "maxItems": 12,
+          "description": "The evidence pack Stage 1 receives in full. Include at least one non-obvious candidate per major requirement."
+        },
+        "reserve": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "ref": {
+                "type": "string",
+                "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+              },
+              "why": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 160
+              }
+            },
+            "required": [
+              "ref",
+              "why"
+            ]
+          },
+          "minItems": 0,
+          "maxItems": 15,
+          "description": "Demoted, not dropped: listed for Stage 1, fetchable later."
+        }
+      },
+      "required": [
+        "core",
+        "reserve"
+      ]
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0
+    }
+  }
+}

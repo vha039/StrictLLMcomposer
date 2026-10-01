@@ -1,0 +1,78 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Rådgiver Økonomi og IKT | Gevinstrealisering og digitalisering",
+    "profile": "Samfunnsøkonom med master fra NTNU og rådgiver i direktørens stab ved Oslo universitetssykehus. Hovedansvar for kodeendringer i et virksomhetskritisk budsjettverktøy som ble brukt til 2026-budsjettet, og medutvikler av en gevinstmetode innført som sykehusdekkende standard. Arbeider med økonomisk beslutningsgrunnlag, praktisk digitalisering og samarbeid mellom fagmiljøer. For Avinors arbeid på tvers av digitale initiativer er bidraget å gjøre forventet verdi, avhengigheter og vilkår for gjennomføring tydelige før løsningene tas i bruk.",
+    "competencies": [
+      "Digitalisering av økonomi- og arbeidsprosesser",
+      "Gevinstrealisering, estimering og beslutningsgrunnlag",
+      "Behovsavklaring, avhengigheter og prioriteringsstøtte",
+      "Kontrollert modernisering og akseptansekriterier",
+      "Workshopfasilitering, onboarding og kompetanseoverføring",
+      "Teknologivurdering opp mot driftsbehov"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Hovedansvar for kodeendringer i et arvet Excel/VBA-verktøy for sykehusets budsjettering. Integrerte bemanningsdata, sammenlignet gammel og ny funksjon og laget onboarding for controllere. Versjonen ble brukt til 2026-budsjettet; rundt 50 personer var involvert i prosessen.",
+          "Medutviklet rammeverk for gevinstrealisering og estimering i et firepersonersteam, med bidrag til forskningsgrunnlag, metode og økonomisk analyse. Innført som sykehusdekkende standard og fortsatt i bruk om lag 2,5 år senere.",
+          "Utformet en modell for gevinstfordeling og investeringsstøtte med vektede, indirekte indikatorer og justerbare antakelser for controllere og fagansvarlige. Arbeidet dokumenterer modelldesign, ikke innføring eller realisert gevinst.",
+          "Deltok i firepersonersgruppen som etablerte Analyseavdelingen. Utformet oppgave-, ansvars- og prioriteringsstrukturer og fasiliterte workshops. Arbeidet omfattet både innført praksis og forslag.",
+          "Designet arbeidsinntak som avklarer formål, brukere, beslutningsbehov, avhengigheter og akseptansekriterier. Vurderte også plattformmuligheter som Fabric og Power Platform mot sykehusets begrensninger gjennom utforskende arbeid.",
+          "Lærte opp teknisk personell i en annen rapporterings- og dataorganisasjon i Power BI, semantisk modellering og modelloptimalisering, og bidro til en del av en innledende rapport."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ Excel/VBA-verktøy for konvertering, standardisering og validering av bilagslinjer ved overgangen til REGERP. Brukt av økonomirådgivere i flere klinikker i overgangsperioden.",
+          "Overtok hele den tildelte månedsoppgjørsflyten innen omtrent tre måneder og gjennomførte den etter opplæring selvstendig med kvalitetssikring og lederrapportering. Bidro i analyse av økonomiske tiltak og oversettelse til budsjett- og styringsspråk."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Jeg er samfunnsøkonom og rådgiver økonomi og IKT ved Oslo universitetssykehus, med erfaring fra både praktisk digitalisering og felles gevinstmetodikk. Jeg søker Avinors enhet for Digital Transformasjon fordi jeg vil arbeide med sammenhengen mellom investeringsbeslutningen og det som skal endres i driften. Mitt bidrag er å gjøre behov og forutsetninger tydelige og følge dem gjennom til en brukbar leveranse.",
+    "body_paragraphs": [
+      "Da sykehusets budsjetteringsverktøy skulle moderniseres, hadde jeg hovedansvar for kodeendringene i en prosess med rundt 50 involverte. Det omtrent tjue år gamle verktøyet krevde kopiering av bemanningsdata fra en separat arbeidsbok. Jeg kartla den eksisterende løsningen og integrerte dataene i verktøyet. Jeg anbefalte en bredere omstrukturering, men innføringen fikk en smalere ramme. Jeg gjennomførte derfor endringene funksjon for funksjon, med sammenligning av gammel og ny beregning, akseptansekriterier og oversikt over risiko og gjenstående mangler. Om lag 80 prosent av endringene bevarte eksisterende funksjon. Jeg laget også onboarding og presentasjonsmateriell for controllerne. Den moderniserte versjonen ble brukt til sykehusets 2026-budsjett.",
+      "Gevinstarbeidet mitt omfatter både felles metodikk og vurdering av hva et anslag faktisk kan bære. I et firepersonersteam medutviklet jeg et revidert rammeverk for gevinstrealisering og estimering. Det ble innført som sykehusdekkende standard og var fortsatt i bruk om lag 2,5 år senere. Mitt bidrag omfattet forskningsgrunnlag, metodeforbedring og økonomisk analyse.",
+      "I et separat arbeid avviste jeg direkte gevinstfordeling mellom klinikker fordi dataene om tjenestebruk var utilstrekkelige. I stedet designet jeg en modell med vektede, indirekte indikatorer. Jeg skilte mellom driftsmessige og økonomiske virkninger, unngåtte kostnader og belastning som flyttes mellom enheter. Vekter og antakelser skulle kunne granskes og endres av controllere og fagansvarlige uten varig utvikleravhengighet. Modellen var et design, ikke en innført løsning eller dokumentasjon på realiserte gevinster. For Avinors prioritering på tvers av produkter og prosjekter vil jeg bruke denne erfaringen til å synliggjøre hvor en forventet gevinst oppstår, hvem som berøres og hva som må undersøkes før anslaget kan legges til grunn.",
+      "Muligheten til å bygge opp et nytt transformasjonsmiljø interesserer meg også. Jeg var med i firepersonersgruppen som etablerte Analyseavdelingen, der jeg utformet arbeidsstrukturer og fasiliterte workshops. Hos Avinor vil jeg bidra med konkret behovsavklaring og beslutningsgrunnlag som knytter teknologivalg til driftsbehov. Jeg vil arbeide sammen med fagmiljøene om hvilke endringer som kan gjennomføres, og hvordan forventet verdi skal følges opp."
+    ],
+    "closing": "Jeg tar gjerne med eksempler på disse avveiningene til en samtale om seniorrådgiverrollen."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#011-navaerende-rolle-forsvarlige-ansvarsomra",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#026-4-7-prj-07-plattformpiloter-og-modernise",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#028-4-9-prj-09-arbeidsinntak-krav-og-samhand",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Selvstendig Stage-3-rekonstruksjon fra Avinors fryste annonse og uendret upstream. Gjennomføring åpner bevisføringen, etterfulgt av felles gevinstmetode og faglig vurdering av estimater. Beholdt beslutning, kontroll, varighet og konseptgrense før innholdslåst språkpass. Nye antakelser om Avinors interne problemer, prioriteringspraksis eller enhetens linjemyndighet er ikke brukt.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-05",
+    "finalized_at": "2026-09-05T20:12:07Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260905-195443-6d65bd",
+    "job_id": "avinor_digital_transformasjon",
+    "employer": "Avinor AS",
+    "title": "Seniorrådgiver Digital Transformasjon",
+    "manifest_sha256": "f2b0a8e6832a57980fbecde3e6adfa4e1e9f4f2c21d592d621ba9ff12f0ae863",
+    "vacancy_sha256": "c9330e49cc17f6b041c183a7324d54bccbf4be30dfabe908ba0efd4445d85d11",
+    "evidence_index_sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+    "stage_instruction_sha256": "ec998f448128dcd6a802618bd3b18c6ac504a4213990c0153e7590787349444b",
+    "baseline_map_sha256": "3f7353e62164f402e2c5edfd1ef4ea5ab24bf4031975fa8e88e8d1ca2776aaff",
+    "strategy_sha256": "dbadf49a7edfb1a428d68f1be7e4584f92f47a5acaf0e9a3007fef3a143b8a36",
+    "draft_sha256": "76886a145b1249ea90e042d157228c31b22e9e35e47ed7f5642f2c51d0cd3a98"
+  }
+}

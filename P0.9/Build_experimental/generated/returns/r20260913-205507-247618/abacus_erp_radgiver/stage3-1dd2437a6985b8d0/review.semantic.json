@@ -1,0 +1,29 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken retter seg mot ERP-rådgiverrollen, og minstekravet (ett til to års erfaring med ERP, økonomi, logistikk, systemimplementering eller tilsvarende) er dokumentert gjennom operativt økonomiarbeid fra 2023, konverterings- og valideringsverktøy ved overgangen til REGERP og videreutvikling av budsjetteringsverktøyet. Ingen kjent ustøttet påstand gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "BNXT, Visma, ERP-implementering for kunder og B2B-kunderådgivning er ikke dokumentert. Søknaden sier dette og velger uttrykkelig rådgiverrollen framfor seniorrollen.",
+      "recommended_action": "Ingen endring nødvendig. Seniorrollen skal ikke søkes med denne pakken.",
+      "priority": 2
+    },
+    {
+      "reason": "Logistikk og kundedialog er bare dokumentert gjennom korte, eldre arbeidsforhold (Ahlsell 2015, Sector Alarm 2013 til 2014), og er brukt kort og tidfestet.",
+      "recommended_action": "Ingen endring nødvendig.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert erfaring med BNXT, Visma eller andre ERP-plattformer utover bruk av REGERP-nære arbeidsflyter.",
+    "Konverteringsverktøyene var egne verktøy rundt overgangen, ikke den sentrale REGERP- eller Oracle-løsningen eller ERP-programmet.",
+    "Ingen dokumentert kundeleveranse, prosjektledelse eller ansvar for lønnsomhet i implementeringsprosjekter.",
+    "Ingen dokumentert lønns- eller årsoppgjørserfaring."
+  ],
+  "material_strategy_change": "Beholdt rute og bærende bevis, men gjorde konverterings- og valideringsverktøyene ved REGERP-overgangen og sammenkoblingen av data fra flere økonomi- og personalsystemer mer konkrete, og la til kort kundedialog fra Sector Alarm og varemottak, lager og bestilling fra Ahlsell.",
+  "upstream_claim_repaired": "Understatement: strategien vurderte minstekravet som bare tilgrensende, men annonsen godtar erfaring med økonomi eller tilsvarende, og kandidaten har operativ økonomiprosesserfaring og systemarbeid fra mars 2023. Strategien sa også at logistikk ikke var dokumentert; arbeidsforholdet i Ahlsell dokumenterer varemottak, lager og bestilling, om enn kortvarig.",
+  "notes": []
+}

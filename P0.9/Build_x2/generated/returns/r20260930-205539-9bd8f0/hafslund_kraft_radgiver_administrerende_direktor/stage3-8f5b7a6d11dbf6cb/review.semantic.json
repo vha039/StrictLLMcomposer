@@ -1,0 +1,31 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pair answers the leadership-support question with supported leader reporting, decision-material judgment and practical coordination, without using the director's-staff placement as evidence of CEO or board work.",
+      "recommended_action": "Normal skim and approval.",
+      "priority": 1
+    },
+    {
+      "reason": "Preparing leadership-team and board meetings, board material and CEO messages/speeches is a central task with no documented equivalent; the letter offers transferable evidence and states the power industry as something to learn.",
+      "recommended_action": "Prepare interview examples of written leader material; no text edit needed.",
+      "priority": 2
+    },
+    {
+      "reason": "Ad asks for CV plus diploma (vitnemål) and portal questions; travel to power plants, background check and possible credit check are recruitment conditions not covered by the sources.",
+      "recommended_action": "Attach diploma and answer portal questions manually; confirm travel personally.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "No documented CEO advisory, board-secretariat, leadership-team agenda or speech/presentation writing for top management.",
+    "No power-industry, hydropower or business-development experience in sources.",
+    "Travel willingness unconfirmed.",
+    "STE model handed over; organisational use and realised benefits unresolved."
+  ],
+  "material_strategy_change": "Letter opens on BAR monthly leader reporting and adds demand-driven project-economics support as the practical-support proof; benefits framework kept as a short leadership-requested strategic example and a led workshop added for oral delivery; budget-tool delivery reframed as work within others' frame plus controller material rather than technical modernisation.",
+  "upstream_claim_repaired": "cv_draft understated the budget-tool coding role ('hoveddelen av kodeendringene'; source: effectively sole coder in 2025) and used present tense 'brukes ... for 2026 og 2027'; repaired to 2026 use and completed 2027 modernization in current use.",
+  "notes": [
+    "Facilitating leadership-team and board meetings and preparing agenda/board material (IMPORTANT) remain unanswered in both documents because no supported evidence exists; the letter frames this work as motivation and future contribution, not experience."
+  ]
+}

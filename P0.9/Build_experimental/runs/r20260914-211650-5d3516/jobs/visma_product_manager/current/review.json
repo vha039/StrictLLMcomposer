@@ -1,0 +1,37 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Minstekravet om 3 til 5 års erfaring som Product Manager er ikke oppfylt, og kontinuerlig discovery og outcome-ansvar er ikke dokumentert. Pakken bruker ingen PM- eller produktbetegnelse og lar domene, brukertester og datadisiplin tale.",
+      "recommended_action": "Ingen redigering. Vurder ved godkjenning om søknaden skal sendes med dette kjente gapet.",
+      "priority": 1
+    },
+    {
+      "reason": "Arbeidsgiveren krever ikke søknadsbrev; vurderingen skjer på CV og skjemaspørsmål. CV-en er skrevet for å stå alene, og brevet er kort.",
+      "recommended_action": "Last opp CV-en; bruk brevet bare hvis skjemaet gir plass til det. Skjemaspørsmålene besvares manuelt utenfor pakken.",
+      "priority": 2
+    },
+    {
+      "reason": "Kommersiell forståelse, produkt-KPI-er og B2B SaaS er ikke dokumentert; nærmeste evidens er gevinstmetode, beslutningsmodell og samfunnsøkonomisk utdanning.",
+      "recommended_action": "Ingen redigering; normal skumlesing.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen erfaring som Product Manager, produkteier eller fra B2B SaaS.",
+    "Ingen erfaring fra produktteam med Product Designer, Tech Lead og andre Product Managers.",
+    "Ingen dokumentert produkteksperimentering, målt outcome eller kommersielt ansvar.",
+    "Lønns-, UTA- og vaktgrunnlag er kvalitetssikret som budsjettdata, ikke lønnskjøring eller turnusplanlegging.",
+    "Styringsdashbordet er avviklet; eierperioden var om lag august 2025 til februar 2026, og brukertestenes effekt er ikke målt.",
+    "KI-erfaringen gjelder utviklings- og analysearbeid, ikke AI-funksjoner i produkter."
+  ],
+  "material_strategy_change": "Seksjonsvise DRG-estimater brukt i klinikkens budsjett og planlegging ble hentet fra strategiens motrute inn i CV-en som domenebevis for planlegging, uten treffobservasjonen. Brevet bruker prognoseprosjektets målutfordring og valideringskrav som svar på å utfordre antakelser med data, mens STE-modellen er holdt i CV-en. Ellers følger pakken strategiens brukernære og domenetunge rute.",
+  "upstream_claim_repaired": "Strategiens innvending mot PM-gapet omformulerer erfaringen til «om lag 3,5 år med funksjonelt eierskap», som blåser opp eierskap: dokumentert eierskap gjelder dashbordet i om lag august 2025 til februar 2026 og prosjektvise roller ellers. Formuleringen er ikke brukt; pakken angir eierperioden eksplisitt. Autoritetsdigestens beskrivelse av klinikkforløpet (fra kvalitetssikring av andre) er heller ikke brukt.",
+  "notes": [],
+  "binding": {
+    "run_id": "r20260914-211650-5d3516",
+    "job_id": "visma_product_manager",
+    "final_package_sha256": "96aabc8b9007d7719f1e9f255e4b53eb5e04d341a0ee9d6752973be93cf0974f"
+  }
+}

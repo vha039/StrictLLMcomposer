@@ -1,0 +1,34 @@
+{
+  "artifact_role": "ADVOCACY_LAYER",
+  "letter": {
+    "opening": "BNXT skal bære kundenes oppgjør; jeg kommer fra siden som eier oppgjøret.",
+    "body_paragraphs": [
+      "Da gevinstene fra steril logistikk skulle fordeles, bar ikke bruksdataene en forsvarlig fordeling, og jeg valgte en modell som gjorde forutsetningene synlige."
+    ],
+    "closing": "Hva er den vanskeligste avveiningen dere står i nå?"
+  },
+  "keystones": [
+    {
+      "id": "K1",
+      "text": "Hva er den vanskeligste avveiningen dere står i nå?",
+      "document": "LETTER",
+      "function": "CLOSE"
+    }
+  ],
+  "used_evidence_refs": [
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves"
+  ],
+  "binding": {
+    "run_id": "r20260916-185207-a37938",
+    "job_id": "abacus_erp_radgiver",
+    "employer": "Abacus IT AS",
+    "title": "Senior ERP-rådgivere og ERP-rådgivere",
+    "evidence_fingerprint": "79bdf1a7e4aebeddc537ec0d25998f1261e275e7960b35d6a2e20314a3b5ca1f",
+    "policy_fingerprint": "eb46b36b2107b4a07e787b4ffa867e3a1ec66e13191088c1e2752982eaafed21",
+    "inputs": {
+      "scout": "d7fccc0a3b9aebf19a503820ee73d30d790ae1c7c5a3ff8ef910ed4818c5f3fb",
+      "brief": "912712407de78d59afb1629728f27576e77b6020ef848e1a9089259fbda9ea2f",
+      "cv_draft": "135722c24c92bcbd5c7951781835fa3e0d4dc771469a2a4bedbc4ab9cccd0351"
+    }
+  }
+}

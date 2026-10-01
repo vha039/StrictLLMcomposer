@@ -1,0 +1,78 @@
+{
+  "artifact_role": "CURRENT_SEMANTIC_PACKAGE",
+  "source_stage": "STAGE3_FINAL",
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver innen virksomhetsstyring og styringsinformasjon",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver i Analyseavdelingen i direktørens stab ved Oslo universitetssykehus. Arbeider med budsjett, prognoser, avviksanalyser og styringsinformasjon for ledere. Har utviklet og forbedret felles metoder og styringsverktøy, blant annet i et firepersonersteam som utviklet et sykehusdekkende rammeverk for gevinstrealisering, og med hovedansvar for kodeendringene i sykehusets sentrale budsjetteringsverktøy for 2026-prosessen.",
+    "competencies": [
+      "Virksomhetsstyring, budsjett og oppfølging",
+      "Styringsinformasjon, avviksanalyse og lederrapportering",
+      "Gevinstrealisering og felles metodearbeid",
+      "Beslutningsgrunnlag og økonomisk analyse",
+      "Prognoser og aktivitetsanalyse",
+      "Tverrfaglig samarbeid, workshops og onboarding",
+      "Power BI, semantiske modeller, DAX og Power Query",
+      "Excel/VBA, SQL og økonominære systemarbeidsflyter"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Tok hovedansvar for kodeendringene i sykehusets sentrale budsjetteringsverktøy for 2026-prosessen, med integrasjon av bemannings- og ansettelsesdata, kontroller, dokumentasjon og onboarding for controllere og ledere i en prosess med om lag 50 involverte.",
+          "Deltok i et firepersonersteam som utviklet et rammeverk for gevinstrealisering og estimering, innført som sykehusdekkende standard og fortsatt i bruk om lag 2,5 år senere.",
+          "Utviklet styringsinformasjon og semantisk modell på tvers av økonomi, bemanning, sykefravær og aktivitet/DRG, med avviks- og hittil-i-år-logikk, datakvalitetskontroller og veiledede brukertester.",
+          "Samarbeidet med rapporterings- og dataorganisasjonen i tekniske arbeidsmøter og lærte opp teknisk personell i semantisk modellering for å gjøre styringsinformasjonen anvendbar i analysearbeidet.",
+          "Utformet arbeids- og prioriteringsstrukturer i et nyetablert fagmiljø, med oppgavehierarki, WIP-begrensning, arbeidsinntak og workshops."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Overtok etter opplæring den tildelte månedsoppgjørsflyten med periodisering, avstemming, kvalitetssikring, resultatforklaring og rapportering til klinikkens ledere.",
+          "Levererte seksjonsvise aktivitets- og DRG-estimater til budsjett og planlegging, og bidro til å oversette tiltakslogikk til budsjett- og styringsspråk.",
+          "Utviklet validerings- og konverteringsverktøy i Excel/VBA ved overgangen til REGERP og bisto i klinikkens budsjett- og prosjektøkonomi."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Huseierne trenger ikke bare et tydeligere målbilde, men en styringspraksis som fungerer når avdelinger, produktmiljøer og ledere skal prioritere sammen. Det er denne overgangen fra metode til bruk jeg har arbeidet med som samfunnsøkonom og rådgiver i Analyseavdelingen i direktørens stab ved Oslo universitetssykehus.",
+    "body_paragraphs": [
+      "I et tverrfaglig firepersonersteam utviklet jeg sammen med kolleger et rammeverk for gevinstrealisering og estimering som ble innført som sykehusdekkende standard og fortsatt var i bruk om lag 2,5 år senere. Arbeidet krevde at en felles metode kunne fungere i ulike kliniske og administrative enheter. I et annet prosjekt avviste jeg direkte gevinstfordeling fordi grunnlaget ikke var forsvarlig. Jeg utformet i stedet en flerindikatormodell med synlige, justerbare vekter, slik at controllere og fagansvarlige kunne vurdere og endre antakelsene. Modellen er utformet som beslutningsstøtte, ikke innført.",
+      "Det samme hensynet til brukbarhet og kontroll preget arbeidet med sykehusets sentrale budsjetteringsverktøy for 2026-prosessen. Jeg tok hovedansvar for kodeendringene i en om lag tjue år gammel modell med betydelig teknisk gjeld og integrerte bemannings- og ansettelsesdata direkte i verktøyet. Da innføringsansvarlig valgte en smalere fornyelse enn den bredere omstruktureringen jeg anbefalte, tilpasset jeg gjennomføringen: Rundt 80 prosent av endringene var atferdsbevarende, og jeg etablerte paritetskontroller, akseptansekriterier og risikoregister. Leveransen ble brukt i budsjettprosessen, med opplæring og dokumentasjon for controllerne.",
+      "Jeg har også arbeidet tett på den løpende virksomhetsstyringen, med månedsoppgjør, avviksforklaring og rapportering til klinikkledere, samt aktivitets- og DRG-estimater inn i budsjett og planlegging. Når rapportene fra den sentrale dataorganisasjonen ikke dekket analysebehovet, arbeidet jeg i grensesnittet mellom fag og teknologi gjennom arbeidsmøter, semantiske modeller og kompetanseoverføring. Hos Huseierne vil jeg bruke denne erfaringen til å gjøre mål- og resultatoppfølging, prognoser og beslutningsgrunnlag til en felles arbeidsrytme som ledere og produktmiljøer kan bruke i egne prioriteringer."
+    ],
+    "closing": "Jeg tar gjerne en samtale om hvordan jeg kan bidra til å gjøre virksomhetsstyringen til et praktisk verktøy i Huseiernes videre vekst."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:WORK#020-4-1-prj-01-styrings-bi-for-sykehus-og-se",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#029-4-10-prj-10-seksjonsvise-drg-prognoser-f",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Finalen prioriterer innføring, kontroll og overlevering som den relevante broen til Huseiernes målprosess; OKR- og erfaringsgapene er holdt utenfor arbeidsgiverteksten og synliggjort i review.",
+  "finalization": {
+    "state": "FINALIZED",
+    "document_date": "2026-09-05",
+    "finalized_at": "2026-09-05T12:33:26Z",
+    "finalized_by": "operator"
+  },
+  "binding": {
+    "run_id": "r20260905-195443-6d65bd",
+    "job_id": "huseierne_strategi_maalstyring",
+    "employer": "Huseiernes Landsforbund",
+    "title": "Strategi- og målstyringsrådgiver",
+    "manifest_sha256": "f2b0a8e6832a57980fbecde3e6adfa4e1e9f4f2c21d592d621ba9ff12f0ae863",
+    "vacancy_sha256": "79989b4967452f73a86107aa8b28d7bba0ebad6656e03eca6bfad3c1ce15ee11",
+    "evidence_index_sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+    "stage_instruction_sha256": "ec998f448128dcd6a802618bd3b18c6ac504a4213990c0153e7590787349444b",
+    "baseline_map_sha256": "3f7353e62164f402e2c5edfd1ef4ea5ab24bf4031975fa8e88e8d1ca2776aaff",
+    "strategy_sha256": "43a7c0d4eca08a8303a0909420b374a10825d26d8a5dd8840d71228c7fe2f365",
+    "draft_sha256": "8b8fad939b19b8919d6b8b6a81b76763c76c5e2b6a830a6588e79bcddb34fda3"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260927-205220-984088",
+  "job_id": "nortura_fagleder_masterdata",
+  "employer": "Nortura",
+  "title": "Fagleder Masterdata",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "edfea1ea60f2dbf86f446f244cf46782deee3582f9812d2dca5be66b14388877",
+  "upstream": {
+    "strategy_sha256": "c22e8e27fcf161ca93930b24be11bb4d582e0736e23a6ca14615064547794a7f"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "priority": 1,
+      "reason": "Minstekravet om solid virksomhetsarkitekturerfaring og teknologistyring er ikke oppfylt; pakken viser arkitektur- og beslutningsarbeid på prosjekt- og løsningsnivå og sier det én gang i brevet, etter bevisene.",
+      "recommended_action": "Vurder ved godkjenning om søknaden skal sendes med dette kjente gapet; ingen tekstreparasjon gjenstår."
+    },
+    {
+      "priority": 2,
+      "reason": "Bank-/finansdomene, DORA/GRC/BIA og TOGAF/BIAN/ArchiMate er ikke dokumentert og er bevisst ikke nevnt som kompetanse.",
+      "recommended_action": "Ingen; forbered et ærlig intervjusvar om hvordan kontrollert endring og etterprøvbare modeller overføres til regulert bankinfrastruktur."
+    },
+    {
+      "priority": 3,
+      "reason": "CV-overskriften bruker formell tittel (Rådgiver økonomi og IKT) med funksjonsbeskrivelse; ingen arkitekttittel er påstått.",
+      "recommended_action": "Normal skumlesing."
+    }
+  ],
+  "known_limitations": [
+    "Skykravet besvares bare med utforskende pilotdeltakelse (Fabric, Power Platform, dbt); ingen produksjonsbasert sky- eller applikasjonsporteføljeerfaring.",
+    "Ingen dedikert EA-verktøypraksis er dokumentert; verktøykravet besvares med BI-, modellerings- og samarbeidsverktøy.",
+    "Styrings-BI-et er avviklet og proxy-modellens organisatoriske bruk er uavklart; begge er skrevet med riktig status."
+  ],
+  "material_strategy_change": "Bærende rute flyttet fra BI-modellen først til kontrollert modernisering av budsjettverktøyet først, med den dokumenterte anbefalingen om bredere omstrukturering som ble underordnet implementeringsansvarliges valg. Det svarer bedre på Eikas 'skape sammenheng uten å overta operativt ansvar' og 'ikke metode for metodens skyld'. PRJ-06-avvisningen av falsk presisjon og bevisst fravær av kjerne-VBA for controllerinnsyn, PRJ-01-splitt mellom modellombygging og løpende utvidelser, og PRJ-09-inntaksskjemaer ble hentet inn fra pakken. Verktøylinjen fra baseline ble gjenopprettet i override.",
+  "upstream_claim_repaired": "Strategiens cv_draft sa at REGERP-verktøyene ble 'brukt av økonomirådgivere i flere klinikker' uten kildens tidsavgrensning; rettet til 'relativt hyppig ... kort etter overgangen'. Strategiens CV-utkast utelot at PRJ-03 var arvet og at 2027-moderniseringen er ferdigstilt og i bruk (understatement); begge lagt inn.",
+  "notes": [
+    "R03 (formidling) er besvart i CV med opplæring på tvers av organisasjoner og intern workshop, og i brevet gjennom lederrettede og controller-etterprøvbare leveranser; ingen effekt av formidlingen er påstått."
+  ]
+}

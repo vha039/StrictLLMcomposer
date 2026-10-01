@@ -1,0 +1,136 @@
+{
+  "artifact_role": "RENDER_REPORT",
+  "binding": {
+    "run_id": "r20260916-184816-a1ea76/branches/sx_doctrine_v2_20260918t081640",
+    "job_id": "abacus_erp_radgiver",
+    "final_package_sha256": "a3b1fd74e5c4108502c8e2f1a3a1ff4ae3f78fc0430ada06a3424d28add321eb",
+    "document_date": "2026-09-18",
+    "baseline_map_sha256": "513363e273559a00cf68694974e8ce869f0b3aa2efa804e10f7def15358bf9e9",
+    "cv_master_sha256": "b656c2d55f6c40e43f5cbac2a13404a61168c718a1830566a082cfb432cdd971",
+    "letter_master_sha256": "598484ed40568a94cc94f7767119f94c15d28da89e63f54713af01c0ae3726b2",
+    "template_map_sha256": "0ea47ee3a013072afc3799b36dae07df53c5c4f78d709f29631a9438a578b6bd",
+    "render_config": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_version": "Word 16.0"
+    }
+  },
+  "render_state": {
+    "cv_docx": "OK",
+    "cv_pdf": "OK",
+    "letter_docx": "OK",
+    "letter_pdf": "OK",
+    "overall": "OK"
+  },
+  "documents": [
+    {
+      "component": "cv",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\CV_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.docx",
+      "output_sha256": "596944bec14811e711a06a7465955d128e46794258437ed77b84f37ebe15f335",
+      "bytes": 40314,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "chronology_anchors_present": true,
+        "headline_present": true,
+        "override_bullets_visible": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "cv",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\CV_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.pdf",
+      "output_sha256": "d0f8190c8c92a5c8aeb9cecb1ac2b1abe2bd7adff3644c9bba1450b81ca4dec1",
+      "bytes": 294647,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_kg6ujzcj\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\.rnd.7a9483aa\\CV_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\.rnd.7a9483aa\\CV_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 2,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "docx",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\Soknad_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.docx",
+      "output_sha256": "a49019f549f06818dd37d74c87d7c38717077d02c8e96e4694d02573caadeb0e",
+      "bytes": 38515,
+      "promotion": "CREATED",
+      "command": null,
+      "tool_version": null,
+      "exit_code": null,
+      "diagnostics": [],
+      "page_count": null,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "no_residual_sdt": true,
+        "openable": true,
+        "no_private_token": true,
+        "no_placeholder": true,
+        "identity_present": true,
+        "employer_addressing_present": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    },
+    {
+      "component": "letter",
+      "format": "pdf",
+      "state": "OK",
+      "output_path": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\Soknad_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.pdf",
+      "output_sha256": "26cdb8100ae290feaad2fa645f71f905d51c93a4f2a8808243eddd36d29330bb",
+      "bytes": 191727,
+      "promotion": "CREATED",
+      "command": "C:\\Users\\veggi\\AppData\\Local\\Temp\\.wordcom_p1wbproq\\export.ps1 C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\.rnd.7a9483aa\\Soknad_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.docx C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\runs\\r20260916-184816-a1ea76\\branches\\sx_doctrine_v2_20260918t081640\\jobs\\abacus_erp_radgiver\\out\\.rnd.7a9483aa\\Soknad_Abacus_IT_AS_Senior_ERP_radgiver_02ae76c3.pdf",
+      "tool_version": "Word 16.0",
+      "exit_code": 0,
+      "diagnostics": [],
+      "page_count": 1,
+      "checks": {
+        "exists": true,
+        "nonzero": true,
+        "openable": true,
+        "text_extractable": true,
+        "no_clipped_blocks": true,
+        "no_blank_page": true,
+        "no_private_token": true
+      },
+      "limitation": null,
+      "human_action": null,
+      "warnings": []
+    }
+  ],
+  "rendered_at": "2026-09-18T08:59:49Z"
+}

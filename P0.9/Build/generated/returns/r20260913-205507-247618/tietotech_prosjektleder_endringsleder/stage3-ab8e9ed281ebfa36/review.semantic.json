@@ -1,0 +1,29 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Minstekravet om minimum fem års erfaring som endringsleder, prosessleder eller prosjektleder er ikke oppfylt, og søknaden sier det uttrykkelig i åpningen. Pakken inneholder ingen kjent ustøttet påstand og trenger ingen lokal reparasjon; spørsmålet er om søknaden skal sendes.",
+      "recommended_action": "Avgjør om søknaden skal sendes gitt minstekravet. Hvis den sendes, er vanlig gjennomlesning tilstrekkelig.",
+      "priority": 1
+    },
+    {
+      "reason": "De bærende enhetene svarer på annonsens uttalte resultater: et gevinstrealiseringsrammeverk utviklet i team og innført i hele sykehuset, verktøy tatt i bruk av mange med opplæringsmateriell, og KI-støttede arbeidsprosesser med registrert superbrukerrolle.",
+      "recommended_action": "Ingen endring nødvendig.",
+      "priority": 2
+    },
+    {
+      "reason": "Konsulenterfaring, utvikling av kunderelasjoner og nye oppdrag, dialog med toppledelse og sertifiseringer (PRINCE2, PROSCI, PMP, SAFe, Lean, Scrum Master) er ikke dokumentert. Avslutningen nevner at kandidaten ikke har jobbet som konsulent.",
+      "recommended_action": "Ingen endring nødvendig.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Minstekravet om fem års erfaring som endrings-, prosess- eller prosjektleder er ikke oppfylt; relevant erfaring er fra mars 2023 og uten formell lederrolle.",
+    "Ingen dokumentert konsulent-, salgs- eller kundeoppdragserfaring.",
+    "Ingen sertifiseringer innen prosjekt- eller endringsledelse.",
+    "Gevinstrammeverket var teamarbeid, og det finnes ingen målt adopsjon eller realisert gevinst knyttet til kandidatens arbeid."
+  ],
+  "material_strategy_change": "Byttet bærende bevis fra arbeidsmodell og teamstruktur (blandet forslags- og innført status) til annonsens navngitte resultater: gevinstrealisering (rammeverket innført i hele sykehuset og gevinstfordelingsmodellen), innføring (budsjetteringsverktøyet og konverteringsverktøyene tatt i bruk i flere klinikker) og KI-støttede arbeidsprosesser (superbrukerrollen og kontrollert KI-arbeidsflyt). Minstekravsgapet sies åpent i søknaden i stedet for å bli liggende implisitt.",
+  "upstream_claim_repaired": "Understatement: strategien vurderte gevinstrealisering bare som tilgrensende og brukte ikke rammeverket som bærende bevis, selv om annonsen uttrykkelig ber om gevinstrealisering og kandidaten har vært med og utvikle sykehusets innførte standard for dette. Konverteringsverktøyene som ble tatt i bruk i flere klinikker, var heller ikke med som bevis for brukeradopsjon.",
+  "notes": []
+}

@@ -1,0 +1,54 @@
+{
+  "cv": {
+    "headline": "Samfunnsøkonom og rådgiver økonomi og IKT innen digitalisering og gevinstrealisering",
+    "profile": "Samfunnsøkonom med mastergrad fra NTNU og rådgiver økonomi og IKT i Analyseavdelingen i direktørens stab ved Oslo universitetssykehus. Arbeider med gevinstrealisering, styringsinformasjon og digitalisering i en samfunnskritisk driftsorganisasjon. Har erfaring med å omsette behov til felles metoder, kontrollerte tekniske endringer og beslutningsgrunnlag: medutviklet et sykehusdekkende rammeverk for gevinstrealisering og estimering, og tok hovedansvar for kodeendringene i det sentrale budsjetteringsverktøyet for 2026-prosessen.",
+    "competencies": [
+      "Gevinstrealisering og verdisikring",
+      "Virksomhetsstyring og beslutningsgrunnlag",
+      "Digitalisering og kontrollert modernisering",
+      "Arbeidsformer, prioritering og forbedring",
+      "Tverrfaglig samarbeid, workshops og onboarding",
+      "Økonomisk analyse, budsjett og prognoser",
+      "Styringsinformasjon og datakvalitet",
+      "Power BI, Excel/VBA, SQL og teknologivurdering"
+    ],
+    "employment_overrides": [
+      {
+        "employment_id": "EMP_OUS_ANALYSE",
+        "bullets": [
+          "Deltok i et firepersonersteam som utviklet et rammeverk for gevinstrealisering og estimering, innført som sykehusdekkende standard og fortsatt i bruk om lag 2,5 år senere.",
+          "Tok hovedansvar for kodeendringene i sykehusets sentrale budsjetteringsverktøy for 2026-prosessen og gjennomførte kontrollert modernisering med paritetskontroller, akseptansekriterier, risikoregister og onboarding i en prosess med om lag 50 involverte.",
+          "Utformet en flerindikatormodell for gevinstfordeling og investeringsstøtte med synlige, justerbare antakelser der direkte fordeling ikke lot seg belegge; modellen er utformet, ikke innført.",
+          "Bidro til arbeids- og prioriteringsstrukturer i Analyseavdelingen med oppgavehierarki, WIP-begrensning, arbeidsinntak og workshops.",
+          "Vurderte plattform- og automatiseringsmuligheter opp mot konkrete virksomhetsbegrensninger, driftsrisiko og vedlikeholdbarhet, og samarbeidet på tvers av organisasjonsgrensen med rapporterings- og dataorganisasjonen."
+        ]
+      },
+      {
+        "employment_id": "EMP_OUS_BAR",
+        "bullets": [
+          "Utviklet på eget initiativ verktøy i Excel/VBA for konvertering og validering ved ERP-overgangen; de ble brukt av økonomirådgivere i flere klinikker kort etter overgangen.",
+          "Overtok den tildelte månedsoppgjørsflyten i klinikkstaben og bidro til å oversette økonomiske tiltak til budsjett- og styringsspråk."
+        ]
+      }
+    ]
+  },
+  "letter": {
+    "opening": "Avinors nye transformasjonsmiljø skal gjøre mer enn å foreslå teknologi: Det skal gi ledelsen grunnlag for å prioritere, og hjelpe organisasjonen å realisere verdi i endringer som må fungere i drift. Som samfunnsøkonom og rådgiver økonomi og IKT ved Oslo universitetssykehus har jeg arbeidet med nettopp koblingen mellom verdipåstander, tekniske valg og gjennomføring i en samfunnskritisk virksomhet.",
+    "body_paragraphs": [
+      "I et tverrfaglig firepersonersteam var jeg med på å utvikle et rammeverk for gevinstrealisering og estimering som ble innført som sykehusdekkende standard og fortsatt var i bruk om lag 2,5 år senere. Felles metode måtte fungere i ulike kliniske og administrative miljøer, ikke bare i ett prosjekt. I et annet arbeid avviste jeg direkte gevinstfordeling fordi tjenestebruken ikke ga et forsvarlig grunnlag. Jeg utformet i stedet en flerindikatormodell med synlige, justerbare vekter, slik at controllere og fagansvarlige kunne vurdere antakelsene. Modellen er utformet som beslutningsstøtte, ikke innført.",
+      "Jeg tok også hovedansvar for kodeendringene i sykehusets sentrale budsjetteringsverktøy for 2026-prosessen. Verktøyet var om lag tjue år gammelt og preget av teknisk gjeld og spredte versjoner. Da innføringsansvarlig valgte en smalere fornyelse enn den bredere omstruktureringen jeg anbefalte, gjennomførte jeg den avgrensede endringen med paritetskontroller, akseptansekriterier og risikoregister. Rundt 80 prosent av endringene var atferdsbevarende. Verktøyet ble brukt i budsjettprosessen, og controllerne fikk opplæring og dokumentasjon. Erfaringen har lært meg at endring i kritiske arbeidsprosesser må være både mulig å ta i bruk og mulig å kontrollere.",
+      "Ved siden av leveransene har jeg bidratt til arbeids- og prioriteringsstrukturer i et nyetablert analysemiljø, og arbeidet med styringsinformasjon i grensesnittet mellom økonomi, fagmiljøer og dataorganisasjon. Det gjør Avinors oppgave med å styrke prioritering, beslutningsgrunnlag og digitale initiativer på tvers av fagområder til en meningsfull neste anvendelse av erfaringen min. Jeg vil bidra med et nøkternt grunnlag for verdipåstander og med arbeidsformer som gjør at beslutninger kan følges opp i praksis."
+    ],
+    "closing": "Jeg tar gjerne en samtale om hvordan denne erfaringen kan brukes i Avinors videre digitale transformasjon."
+  },
+  "used_evidence_refs": [
+    "EV:WORK#023-4-4-prj-04-sykehusdekkende-rammeverk-for",
+    "EV:WORK#025-4-6-prj-06-ste-gevinstfordeling-og-inves",
+    "EV:WORK#022-4-3-prj-03-modernisering-og-nyutvikling",
+    "EV:WORK#027-4-8-prj-08-arbeidsmodell-teamdesign-og-s",
+    "EV:WORK#021-4-2-prj-02-tverrorganisatorisk-power-bi",
+    "EV:WORK#012-tidlig-ous-plassering-barne-og-ungdomskl",
+    "EV:EDU#011-1-2-ntnu-fullfort-mastergrad-i-samfunnso"
+  ],
+  "writer_note": "Finalen prioriterer verdisikring og kontrollert endring i drift som Avinor-spesifikk rute. Formelt program-, portefølje- og lederansvar er ikke antydet og er synlig i review."
+}

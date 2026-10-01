@@ -1,0 +1,40 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken er ærlig om at arkitekturansvaret er på prosjekt- og løsningsnivå og at bankdomenet er nytt, samtidig som den viser tre konkrete arkitekturbevis med adskilte lifecycle-grenser. Ingen faktabekreftelse eller lokal reparasjon gjenstår.",
+      "recommended_action": "Les gjennom og send. Vurder selv om du vil søke på en tydelig stretch-stilling.",
+      "priority": 1
+    },
+    {
+      "reason": "Dette er den mest offensive ruten kildene bærer, og den hviler på at leseren verdsetter hands-on arkitektur og virksomhetsforståelse fremfor formell arkitekterfaring fra bank.",
+      "recommended_action": "Ingen endring anbefales; en mer defensiv variant ville svare svakere på målbilder og ledergrupperådgivning.",
+      "priority": 2
+    },
+    {
+      "reason": "Prognoseprosjektet er i aktiv utvikling og styringsløsningen er avviklet. Begge statusene står eksplisitt i teksten og må ikke glattes ut ved gjennomlesing.",
+      "recommended_action": "Behold formuleringene om utviklingsstatus og avvikling.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen formell rolle som område-, enterprise-, løsnings- eller systemarkitekt. Arkitektureierskapet er dokumentert på prosjekt- og løsningsnivå.",
+    "Digitalbank, CRM, markedsplattform, kundedialogløsninger og personaliserte omnichannel-kundereiser er ikke dokumentert erfaring. Dette er annonsens domene og et reelt gap.",
+    "Sourcing, anskaffelser, leverandørkrav og koordinering på tvers av banker i en føderert allianse er ikke dokumentert.",
+    "KI-evidensen gjelder menneskestyrt utviklings- og analysearbeid. Ingen produksjons-LLM, RAG, modellservering eller enterprise-KI-styring.",
+    "Bakgrunnssjekk og sårbarhetssamtale er vilkår i prosessen for en kritisk stilling; utfallet er ukjent."
+  ],
+  "material_strategy_change": "Ingen ruteendring, men vektingen er justert. Strategien ville åpne med virksomhet- og teknologibroen og la prognosearkitekturen bære; i brevet bærer prognosearkitekturen og den driftede semantiske modellen sammen, fordi et case i aktiv utvikling alene ikke svarer på om arkitekturen holder over tid. STE-modellen er brukt som ett kort skjønnssignal om etterprøvbare valg, ikke som et fjerde case. Gapet mot områdeansvar og bankdomene er tatt inn i selve brevet i én setning, ikke bare i review, fordi teksten ellers ville lese som om kandidaten hevder arkitektrollen.",
+  "upstream_claim_repaired": "Strategien omtaler kodebidraget i budsjetteringsmoderniseringen svakere enn kilden. Arbeidsmyndigheten og den godkjente måltallstabellen sier i praksis eneste kodende utvikler for kodeendringene, bekreftet 2026-09-06, med den brede interessentprosessen bevart; det er rettet i begge dokumenter. I motsatt retning er styrings-BI holdt på sitt tak: eierskap om lag august 2025 til februar 2026, avviklet rundt februar 2026, og kollegenes innholds- og visuelle arbeid er bevart.",
+  "notes": [
+    "Den KI-genererte ferdighetslisten i annonsen er ikke behandlet som arbeidsgiverkrav.",
+    "Om lag 50 deltakere er prosesskontekst, ikke et team kandidaten ledet.",
+    "Kravene merket SUPPORTED i strategien (arkitekturdokumentasjon og krav, helhet og prioritering, norsk, relevant utdanning) er besvart i minst ett av dokumentene."
+  ],
+  "binding": {
+    "run_id": "r20260920-212518-413d77",
+    "job_id": "sparebank1_omradearkitekt_kundetilbud_marked",
+    "final_package_sha256": "48096bea3b6f8ed8b6bbd917f19b2e4d14d7869c76c37f6c5f16c26288095c06"
+  }
+}

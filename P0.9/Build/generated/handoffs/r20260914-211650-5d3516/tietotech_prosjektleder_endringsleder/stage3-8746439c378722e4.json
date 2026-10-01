@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260914-211650-5d3516",
+  "job_id": "tietotech_prosjektleder_endringsleder",
+  "employer": "Tieto Tech Consulting",
+  "title": "Prosjektleder & Endringsleder",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "27a1fc9d61dc13ae7270a472dd3789282ba7943ecd72197dc652b69e4d3ad8c8",
+  "upstream": {
+    "strategy_sha256": "cd03bc455d13213783dce9d56ceef26da8730d8bac20c2801bd49ccb111547c4"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

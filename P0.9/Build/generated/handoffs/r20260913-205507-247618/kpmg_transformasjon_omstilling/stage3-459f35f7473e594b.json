@@ -1,0 +1,21 @@
+{
+  "artifact_role": "SEMANTIC_HANDOFF",
+  "run_id": "r20260913-205507-247618",
+  "job_id": "kpmg_transformasjon_omstilling",
+  "employer": "KPMG Norge",
+  "title": "Konsulent: Transformasjon og omstilling",
+  "stage": 3,
+  "mode": "FINAL_AND_REVIEW",
+  "expected_artifacts": [
+    "final_package",
+    "review"
+  ],
+  "stage_policy_sha256": "850cf837d9417c86a85dbf7896b28550b5d4d70b173cb06ea15621d2acf7ea05",
+  "upstream": {
+    "strategy_sha256": "9a0b4776d4b85661000e58e7cc9ebcda8ecc546d35e4d9f12cf76bb5a0526abc"
+  },
+  "prior_current": {
+    "final_package": null,
+    "review": null
+  }
+}

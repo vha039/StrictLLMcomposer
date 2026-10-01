@@ -1,0 +1,241 @@
+{
+  "artifact_role": "RUN_MANIFEST",
+  "run_id": "r20260905-114519-058b19",
+  "parent_run_id": null,
+  "spec_revision": "0.9.0",
+  "schema_revision": "0.9.0",
+  "frozen_at": "2026-09-05T11:45:19Z",
+  "frozen_inputs": {
+    "authorities": {
+      "WORK": {
+        "path": "authorities/Work_experience.md",
+        "sha256": "0b39a5105f0d809d1bc9a917665bc69c619eb059253a779079b37304b49a2f9d",
+        "bytes": 92045
+      },
+      "EDU": {
+        "path": "authorities/Education.md",
+        "sha256": "75e238890215cbc02c3bc59cdaaeb43f467ae7d512e9b5a9c4723ccc0c4580f8",
+        "bytes": 25474
+      },
+      "OTHER": {
+        "path": "authorities/Other_high_value_information.md",
+        "sha256": "58a8f88f9eb627847152d684b19d7938c42da7d173a57a7fff58728a25ae5bf8",
+        "bytes": 31785
+      }
+    },
+    "cv_baseline": {
+      "path": "authorities/CV_BASELINE.md",
+      "sha256": "caa25a6774a255eb93e7c5cdf326afe7ac581eea99703c8e025b38c0fd4fae01",
+      "bytes": 7294
+    },
+    "personality_profile": {
+      "path": "context/PERSONALITY_PROFILE.md",
+      "sha256": "a3e1b6fb9f519d55c82e09ec1114a4baed0877867fd8751922550e0e02e0b435",
+      "bytes": 43246
+    },
+    "personality_facet_index": {
+      "path": "policy/personality_facets.json",
+      "sha256": "1196aae7eab46f340d5beb0835d9f3862847027804035941e0c3bcf7c15b854d",
+      "bytes": 15077
+    },
+    "settings": {
+      "path": "policy/settings.toml",
+      "sha256": "2649eab7316dbf8c593c48adf175a96d4f5881237862177774d835fe6a2c2b4e",
+      "bytes": 3785
+    },
+    "stage_instructions": {
+      "stage1": {
+        "path": "policy/stages/stage1_decision_architecture.md",
+        "sha256": "bcd7025f259d3f3165e56677f852fbaa2ab9d489ae27b6bca6b24b2ad6ff052f",
+        "bytes": 14598
+      },
+      "stage2": {
+        "path": "policy/stages/stage2_package_writer.md",
+        "sha256": "2711e84ffe1072d25c8339f0a11fc8835b1d5a63a5d5f34cb70a8c7796f27595",
+        "bytes": 8268
+      },
+      "stage3": {
+        "path": "policy/stages/stage3_final_writer_review.md",
+        "sha256": "ec998f448128dcd6a802618bd3b18c6ac504a4213990c0153e7590787349444b",
+        "bytes": 12015
+      }
+    },
+    "writing_policy": [
+      {
+        "path": "policy/writing/FORFATTERSTEMME.md",
+        "sha256": "94698abfe2a849913a306faf44ebfb896ed1d029693dc18760758790d0261263",
+        "bytes": 9485
+      },
+      {
+        "path": "policy/writing/PERSUASION_CALIBRATION.md",
+        "sha256": "fa36edafefd74c45813f2091f3bb73664f630a6dcee6945e97e4946de43501b5",
+        "bytes": 6001
+      },
+      {
+        "path": "policy/writing/WRITING_DOCTRINE.md",
+        "sha256": "5a7c220b9d7bd607bf85e6d1efcce5607d9a320b7204e5cf6a82be22f0727c1f",
+        "bytes": 22618
+      }
+    ],
+    "schemas": [
+      {
+        "path": "schemas/baseline_map.schema.json",
+        "sha256": "3d35e3407948fefcd1eac361c0d81503211fdc6166acc93fb12423fbe768ae7b",
+        "bytes": 5571
+      },
+      {
+        "path": "schemas/evidence_index.schema.json",
+        "sha256": "d40ba08f8891b352c9597793e254de970d5269645e85a43ac3374c09502687c3",
+        "bytes": 4011
+      },
+      {
+        "path": "schemas/failure.schema.json",
+        "sha256": "7f91b4f7dd994cf773a25dd5d44c8f4ebfdfc06725adab11567d80a6000645e7",
+        "bytes": 3670
+      },
+      {
+        "path": "schemas/manifest.schema.json",
+        "sha256": "d4d908b667e55b23641a9add60d94dc66eac65dfb251f726daa580935b9059f2",
+        "bytes": 11619
+      },
+      {
+        "path": "schemas/package.schema.json",
+        "sha256": "67d4bc600289e929fb28c316a2b71a860a207a002b3cea5381b9fb3e8a42b1f8",
+        "bytes": 7913
+      },
+      {
+        "path": "schemas/render_report.schema.json",
+        "sha256": "8465e5c8c37dbac0d2cfb1f7ab8bdbac5495a0eed572a1cd68c51946c57cc08f",
+        "bytes": 6304
+      },
+      {
+        "path": "schemas/review.schema.json",
+        "sha256": "238fb961a9a1b43bb0413c0e7461ce3f119d59cb1182f4f9f7fcffc4004a6cb5",
+        "bytes": 3130
+      },
+      {
+        "path": "schemas/status.schema.json",
+        "sha256": "6c5c626d6fb0b5aac2a317f4edfe2a5b3720e8f12626e15c3b1ee785621ba46a",
+        "bytes": 6605
+      },
+      {
+        "path": "schemas/strategy.schema.json",
+        "sha256": "68ec1a6f8046bbfad39141e3e8c8ba04d92a40a95a851a6464c65ce57fbc5704",
+        "bytes": 10227
+      }
+    ],
+    "templates": {
+      "cv_master": {
+        "path": "templates/CV_MASTER.docx",
+        "sha256": "4eab17783800974c516cc4780aa33a3ef7c361af372774436cf95665479f963f",
+        "bytes": 39124
+      },
+      "letter_master": {
+        "path": "templates/APPLICATION_MASTER.docx",
+        "sha256": "3e41cf9667518b3fb37966e581358f538f69be0e6e8f1dd320da9f3509da112c",
+        "bytes": 37516
+      }
+    },
+    "template_map": {
+      "path": "templates/template_map.json",
+      "sha256": "a6d6297eb2cd49e924e8edeeccb33259e1ce434775c1bec0cbf27a84ecbbb7eb",
+      "bytes": 9297
+    },
+    "evidence_index": {
+      "path": "generated/evidence_index.json",
+      "sha256": "16d5206a9dc3478698aea8124e8207a5d6749df4055c602ecbd0e4d1c73c522b",
+      "bytes": 75431
+    },
+    "baseline_map": {
+      "path": "generated/baseline_map.json",
+      "sha256": "3f7353e62164f402e2c5edfd1ef4ea5ab24bf4031975fa8e88e8d1ca2776aaff",
+      "bytes": 6972
+    }
+  },
+  "settings_snapshot": {
+    "language": "nb-NO",
+    "personality": {
+      "max_selected_facets": 3
+    },
+    "stages": {
+      "stage1": "SOL_CLASS",
+      "stage2": "TERRA_CLASS",
+      "stage3": "SOL_CLASS",
+      "role_mapping": {
+        "SOL_CLASS": "Codex / GPT-5.6 Sol",
+        "TERRA_CLASS": "Codex / GPT-5.6 Terra"
+      }
+    },
+    "recovery": {
+      "mechanical_correction_attempts": 1,
+      "retry_start_stages": [
+        3
+      ]
+    },
+    "render": {
+      "converter": "word_com",
+      "invocation_granularity": "per_document",
+      "converter_timeout_seconds": 180
+    }
+  },
+  "baseline_reconciliation": {
+    "reviewed_by": "Vegard Håland",
+    "reviewed_at": "2026-09-05",
+    "authority_hashes_at_review": {
+      "WORK": "0b39a5105f0d809d1bc9a917665bc69c619eb059253a779079b37304b49a2f9d",
+      "EDU": "75e238890215cbc02c3bc59cdaaeb43f467ae7d512e9b5a9c4723ccc0c4580f8",
+      "OTHER": "58a8f88f9eb627847152d684b19d7938c42da7d173a57a7fff58728a25ae5bf8"
+    },
+    "conflicts_known": []
+  },
+  "jobs": [
+    {
+      "job_id": "huseierne_strategi_maalstyring",
+      "employer": "Huseiernes Landsforbund",
+      "title": "Strategi- og målstyringsrådgiver",
+      "unit": "Avdeling for virksomhetsstyring",
+      "reference": null,
+      "deadline": null,
+      "job_class": "CORE",
+      "exception_note": null,
+      "cluster": "runb",
+      "sequence": 1,
+      "priority": "HIGH",
+      "source": {
+        "relpath": "jobs/huseierne_strategi_maalstyring/source/huseierne_strategi_maalstyring.pdf",
+        "sha256": "66a3e564484b987ecf94a25e019cf291b529e762281f605d8caeb056811c9748",
+        "bytes": 1768540,
+        "media_type": "application/pdf"
+      },
+      "requires_source_inspection": true,
+      "source_inspection_reasons": [
+        "PDF yielded only 0 readable characters (expected at least 200).",
+        "PDF is dominated by empty or probably scanned pages: 1, 2, 3, 4, 5, 6"
+      ]
+    },
+    {
+      "job_id": "avinor_digital_transformasjon",
+      "employer": "Avinor AS",
+      "title": "Seniorrådgiver Digital Transformasjon",
+      "unit": "Digital Transformasjon",
+      "reference": null,
+      "deadline": "2026-09-13",
+      "job_class": "CORE",
+      "exception_note": null,
+      "cluster": "runb",
+      "sequence": 2,
+      "priority": "NORMAL",
+      "source": {
+        "relpath": "jobs/avinor_digital_transformasjon/source/avinor_digital_transformasjon.pdf",
+        "sha256": "76302ba6295fd1d6193b7b409d320de9288f6a9b64c432a05435fab4b1229cf9",
+        "bytes": 2127057,
+        "media_type": "application/pdf"
+      },
+      "requires_source_inspection": true,
+      "source_inspection_reasons": [
+        "PDF yielded only 0 readable characters (expected at least 200).",
+        "PDF is dominated by empty or probably scanned pages: 1, 2, 3, 4, 5, 6"
+      ]
+    }
+  ]
+}

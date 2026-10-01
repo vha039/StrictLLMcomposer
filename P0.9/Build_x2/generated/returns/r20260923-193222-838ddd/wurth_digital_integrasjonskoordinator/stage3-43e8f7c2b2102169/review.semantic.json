@@ -1,0 +1,23 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "EDI, PunchOut, prisfiler, Seeburger og kunde-/leverandørintegrasjoner er ikke dokumentert. Annonsen søker en juniorprofil med opplæring og gjør disse til fordeler; pakken bruker konkret mapping, konvertering og validering som bro og påstår ingen EDI-erfaring.",
+      "recommended_action": "Ingen lokal reparasjon.",
+      "priority": 1
+    },
+    {
+      "reason": "Kandidaten har mer erfaring enn juniorprofilen annonsen beskriver; brevet er skrevet læringsorientert, ikke som en senior strategirute.",
+      "recommended_action": "Vurder ved godkjenning om nivået passer; frist 25.09.2026.",
+      "priority": 2
+    }
+  ],
+  "known_limitations": [
+    "Dataflyten som er dokumentert, er intern i sykehuset, ikke mellom kommersielle kunder og leverandører.",
+    "REGERP-verktøyene er egeninitierte konverteringsverktøy, ikke den sentrale ERP-løsningen; bruken gjelder perioden etter overgangen og har ingen målt besparelse.",
+    "STE-modellen er ferdigstilt og overlevert; organisatorisk bruk er uavklart."
+  ],
+  "material_strategy_change": "Beholdt strategiens rute og hovedbevis, men la til den dokumenterte systemsammenkoblingen i BAR (JIT, ADI, REGERP, GAT, lønnsgrunnlag) og Power Query-pipelinene med type-, null- og kvalitetskontroller i styringsdashbordet som ekstra dataflytbevis.",
+  "upstream_claim_repaired": "Strategien merket evidensenheten med PRJ-09/PRJ-03 som IN_USE; PRJ-09 er bare utformet og vurdert, og teksten sier ikke at skjemaene er tatt i bruk.",
+  "notes": []
+}

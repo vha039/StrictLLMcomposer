@@ -1,0 +1,48 @@
+{
+  "cv": {
+    "headline": "Rådgiver: økonomiprosesser og systemimplementering"
+  },
+  "letter": {
+    "closing": "Hos Abacus kan jeg utvikle produktkunnskapen mens jeg bruker erfaringen fra økonomiprosesser, kontrollert endring og overlevering i kundeprosjekter. Den veien vil jeg gå videre: forstå arbeidet som skal forbedres, gjennomføre løsningen og følge den frem til dem som skal bruke den."
+  },
+  "keystone_disposition": [
+    {
+      "id": "K1",
+      "disposition": "KEPT",
+      "reason": "TRACK_CHOICE står uendret. Setningen gjør terskelen BNXT om til begrunnelsen for rådgiversporet, og er brevets eneste NAME_ONCE-nevning."
+    },
+    {
+      "id": "K2",
+      "disposition": "KEPT",
+      "reason": "JUDGMENT står uendret; avvisningen av direkte fordeling fordi bruksdataene ikke bar den er en dokumentert faglig beslutning."
+    },
+    {
+      "id": "K3",
+      "disposition": "KEPT",
+      "reason": "EMPLOYER_FACT står uendret; ISO-sertifiseringen er lest som en forventning om etterprøvbar leveranse, ikke gjengitt som ros."
+    },
+    {
+      "id": "K4",
+      "disposition": "REWORDED",
+      "reason": "MOTIVE beholdt, og ekkogrepet er styrket. Kløyvsetningen Det er den sammenhengende rådgiveroppgaven som trekker meg hit er erstattet med Den veien vil jeg gå videre, som tar opp igjen åpningens egen formulering Den veien kjenner jeg. Samme motiv og samme tre ledd etter kolon."
+    }
+  ],
+  "changes": [
+    {
+      "field": "cv.headline",
+      "reason": "TONE",
+      "note": "Tankestrek er ikke tillatt i arbeidsgivertekst (WRITING_DOCTRINE, Tegnsetting). Erstattet med kolon; ordlyden er uendret."
+    },
+    {
+      "field": "letter.closing",
+      "reason": "TIC",
+      "note": "Kløyvd motivsetning i avslutningen. Preview meldte ingen signaler her fordi detektorens mønster er Det som ..., er, men grepet er det samme som FORFATTERSTEMME navngir. Skrevet om til en direkte setning som samtidig tar opp igjen åpningens Den veien, slik at MOTIVE_ECHO-grepet i registeret består."
+    },
+    {
+      "field": "letter.closing",
+      "reason": "DIFFERENTIATION",
+      "note": "Tredje ulike løsning på samme kløyvgrep i klyngen; Stortinget og EIE er løst hver for seg."
+    }
+  ],
+  "writer_note": "Innholdslåst puss på registernivå 2. Rådgiversporet, ikke seniorsporet, står uendret som brevets bærende valg."
+}

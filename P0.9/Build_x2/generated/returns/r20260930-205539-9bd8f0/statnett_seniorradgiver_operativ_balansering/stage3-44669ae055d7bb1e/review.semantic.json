@@ -1,0 +1,31 @@
+{
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pair makes requirements, acceptance/parity criteria, user testing, prioritisation and delivery legible with supported OUS cases and keeps lifecycle distinct (budget tool in use, dashboard decommissioned, STE handed over with use unresolved, intake form designed, forecasting in development).",
+      "recommended_action": "Normal skim and approval.",
+      "priority": 1
+    },
+    {
+      "reason": "Power-market knowledge and formal product-owner experience (both desired) are not documented; letter states power market as a new field and claims no product-owner title.",
+      "recommended_action": "Prepare interview answer on how to build market/balancing domain knowledge; no edit needed.",
+      "priority": 2
+    },
+    {
+      "reason": "Ad mentions background checks and possible security clearance.",
+      "recommended_action": "Handle personally during the process; nothing in the package depends on it.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "No energy, power-market or market-system experience in sources.",
+    "No formal product-owner role; evidence is functional (requirements, acceptance criteria, prior bounded dashboard ownership).",
+    "Agile work-model evidence mixes implemented and proposed practices; CV uses design verbs only.",
+    "No measured effect for the budget tool or other deliveries."
+  ],
+  "material_strategy_change": null,
+  "upstream_claim_repaired": "cv_draft said the budget tool 'brukes sykehusdekkende i budsjettprosessene for 2026 og 2027' and 'Rekonstruerte og moderniserte' without separating the 2025 coding round from the 2027 round; repaired to past 2026 use plus completed 2027 modernization in current use.",
+  "notes": [
+    "Collaboration with external partners (IMPORTANT, adjacent) is answered only through cross-organisational training of reporting-environment staff in the CV; no external-partner work is documented."
+  ]
+}

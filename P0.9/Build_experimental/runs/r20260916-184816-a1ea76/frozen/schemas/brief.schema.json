@@ -1,0 +1,480 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jobbsok.local/schemas/brief.schema.json",
+  "title": "Brief",
+  "description": "Stage 1 (ARCHITECT). Binding on factual ceilings; a strong default on everything else, which later stages may depart from while declaring what they used. Target size 8 KB. No requirement ledger: stances cover only what matters.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "artifact_role",
+    "binding",
+    "position",
+    "delivery",
+    "delivery_reason",
+    "units",
+    "stances",
+    "distinctiveness",
+    "letter_plan"
+  ],
+  "properties": {
+    "artifact_role": {
+      "const": "BRIEF"
+    },
+    "binding": {
+      "type": "object",
+      "description": "Written by the tool at submit.",
+      "additionalProperties": false,
+      "required": [
+        "run_id",
+        "job_id",
+        "employer",
+        "title",
+        "evidence_fingerprint",
+        "policy_fingerprint",
+        "inputs"
+      ],
+      "properties": {
+        "run_id": {
+          "type": "string",
+          "pattern": "^r[0-9]{8}-[0-9]{6}-[a-f0-9]{6}(?:/branches/[a-z0-9][a-z0-9_-]{0,31})?$"
+        },
+        "job_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{2,60}$"
+        },
+        "employer": {
+          "type": "string",
+          "minLength": 2
+        },
+        "title": {
+          "type": "string",
+          "minLength": 2
+        },
+        "evidence_fingerprint": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "What this stage consumed as fact: frozen authorities, evidence index, baseline map, CV baseline, this vacancy and the upstream artifacts. Staleness is this hash recomputed."
+        },
+        "policy_fingerprint": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "Playbook plus consumed writing policy. Provenance only; a policy edit never invalidates an artifact."
+        },
+        "inputs": {
+          "type": "object",
+          "description": "Upstream artifact name -> artifact hash.",
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          }
+        }
+      }
+    },
+    "position": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "track": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 400,
+          "description": "The level or track chosen, explicitly."
+        },
+        "thesis": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 400,
+          "description": "One sentence: why this candidate for this opening."
+        },
+        "reader_need": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 400
+        },
+        "headline_intent": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 400
+        }
+      },
+      "required": [
+        "track",
+        "thesis",
+        "reader_need",
+        "headline_intent"
+      ]
+    },
+    "delivery": {
+      "enum": [
+        "LETTER_AND_CV",
+        "CV_ONLY",
+        "CV_PLUS_FORM_ANSWERS"
+      ],
+      "description": "What is actually submitted. CV_ONLY puts the whole argument in the CV; Stage 2 still works the job."
+    },
+    "delivery_reason": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 400
+    },
+    "units": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^U[1-3]$"
+          },
+          "refs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+            },
+            "minItems": 1
+          },
+          "proves": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 400
+          },
+          "employer_problem": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 400
+          },
+          "ceiling": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 400,
+            "description": "Verbatim ceiling text from the evidence card. Binding on every later stage."
+          },
+          "placement": {
+            "enum": [
+              "CV",
+              "LETTER",
+              "BOTH"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "refs",
+          "proves",
+          "employer_problem",
+          "ceiling",
+          "placement"
+        ]
+      },
+      "minItems": 1,
+      "maxItems": 3
+    },
+    "judgment": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "refs": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+              },
+              "minItems": 1
+            },
+            "judgment": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 400
+            },
+            "ceiling": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 400
+            },
+            "integrate_into": {
+              "type": "string",
+              "pattern": "^U[1-3]$"
+            }
+          },
+          "required": [
+            "refs",
+            "judgment",
+            "ceiling",
+            "integrate_into"
+          ]
+        }
+      ],
+      "description": "A judgment-under-uncertainty atom integrated inside a carrying unit, never a third case."
+    },
+    "reserve": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "ref": {
+            "type": "string",
+            "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+          },
+          "use_if": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 400
+          }
+        },
+        "required": [
+          "ref",
+          "use_if"
+        ]
+      },
+      "minItems": 0,
+      "maxItems": 5
+    },
+    "employer_fact": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "fact": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 400
+            },
+            "quote": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 400
+            },
+            "conversion": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 400
+            }
+          },
+          "required": [
+            "fact",
+            "quote",
+            "conversion"
+          ]
+        }
+      ]
+    },
+    "stances": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "req": {
+            "type": "string",
+            "pattern": "^[QT][0-9]{1,2}$"
+          },
+          "relation": {
+            "enum": [
+              "MEETS",
+              "PARTIAL",
+              "ADJACENT",
+              "GAP"
+            ]
+          },
+          "stance": {
+            "enum": [
+              "OMIT",
+              "BRIDGE",
+              "NAME_ONCE"
+            ]
+          },
+          "via_ref": {
+            "type": "string",
+            "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+          },
+          "line": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 400,
+            "description": "For NAME_ONCE: the one sentence that turns the gap into the argument."
+          }
+        },
+        "required": [
+          "req",
+          "relation",
+          "stance"
+        ]
+      },
+      "minItems": 0
+    },
+    "distinctiveness": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "facets": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "facet_id": {
+                "type": "string",
+                "pattern": "^PF-[0-9]{2}$"
+              },
+              "behaviour": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 400,
+                "description": "The concrete behaviour to show, as content."
+              },
+              "refs": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+                },
+                "minItems": 1
+              }
+            },
+            "required": [
+              "facet_id",
+              "behaviour",
+              "refs"
+            ]
+          },
+          "minItems": 0,
+          "maxItems": 2
+        },
+        "motive": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 400
+        },
+        "opening_move": {
+          "enum": [
+            "EMPLOYER_FACT",
+            "JUDGMENT_CASE",
+            "RESULT_CASE",
+            "TRACK_CHOICE",
+            "PROBLEM",
+            "DIRECT_MOTIVE"
+          ]
+        },
+        "closing_move": {
+          "enum": [
+            "QUESTION",
+            "CONTRIBUTION",
+            "NEXT_STEP",
+            "MOTIVE_ECHO",
+            "PLAIN"
+          ]
+        }
+      },
+      "required": [
+        "facets",
+        "motive",
+        "opening_move",
+        "closing_move"
+      ]
+    },
+    "letter_plan": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "word_target": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 900
+        },
+        "paragraphs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "job": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 400
+              },
+              "unit_ids": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^U[1-3]$"
+                },
+                "minItems": 0
+              },
+              "refs": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+                },
+                "minItems": 0
+              }
+            },
+            "required": [
+              "job"
+            ]
+          },
+          "minItems": 0,
+          "maxItems": 3
+        }
+      },
+      "required": [
+        "word_target",
+        "paragraphs"
+      ]
+    },
+    "traps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "phrase": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 400
+          },
+          "ceiling": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 400
+          }
+        },
+        "required": [
+          "phrase",
+          "ceiling"
+        ]
+      },
+      "minItems": 0,
+      "description": "Formulations that would exceed a ceiling for this job."
+    },
+    "outside_scout_refs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^EV:(WORK|EDU|OTHER)#(file|preamble|[0-9]{3}-[a-z0-9-]{1,60})$"
+      },
+      "minItems": 0,
+      "description": "Evidence used that the Scout left out of core."
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 0
+    }
+  }
+}

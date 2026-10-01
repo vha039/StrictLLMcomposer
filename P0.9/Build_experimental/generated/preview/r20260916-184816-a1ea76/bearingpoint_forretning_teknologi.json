@@ -1,0 +1,31 @@
+{
+  "job_id": "bearingpoint_forretning_teknologi",
+  "stage": 2,
+  "cv_dynamic_words": 588,
+  "letter_words": 441,
+  "signals": [
+    "identity opening",
+    "bolt-on marker"
+  ],
+  "documents": {
+    "cv": {
+      "pages": 2,
+      "tail_sections": {
+        "TIDLIGERE ERFARING": 2,
+        "TILLITSVERV": 2,
+        "SPRÅK": 2,
+        "SPRÅK OG KURS": 2,
+        "KURS": 2
+      },
+      "headline_lines": 2,
+      "warnings": []
+    },
+    "letter": {
+      "pages": 1,
+      "tail_sections": {},
+      "warnings": []
+    }
+  },
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\bearingpoint_forretn\\0916\\70528",
+  "render_state": "OK"
+}

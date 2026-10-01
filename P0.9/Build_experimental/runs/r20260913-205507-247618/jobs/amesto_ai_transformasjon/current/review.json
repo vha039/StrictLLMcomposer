@@ -1,0 +1,35 @@
+{
+  "artifact_role": "OPERATOR_TRIAGE",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Pakken svarer på kjernen i rollen med dokumentert arbeid: egeninitiert automatisering ved en systemovergang i en kontrollkritisk økonomiprosess, videreutvikling av budsjetteringsverktøyet fra behov og teknologivalg til bruk i hele sykehuset, og arkitektur og orkestrering i et KI-støttet dataprosjekt med kvalitetskontroller. Ingen kjent ustøttet påstand gjenstår.",
+      "recommended_action": "Vanlig gjennomlesning og godkjenning.",
+      "priority": 1
+    },
+    {
+      "reason": "Lønnsprosesser, erfaring fra regnskapsbyrå, datavarehus og API-er, løsninger for mange eksterne kunder og teamledelse eller personalansvar er ikke dokumentert. Avslutningen sier dette én gang, og teksten bruker ikke API- eller datavarehusbegreper om kandidatens arbeid.",
+      "recommended_action": "Ingen endring nødvendig; vær forberedt på å svare på dette i intervju.",
+      "priority": 2
+    },
+    {
+      "reason": "Prognoseprosjektet er under utvikling med fordelt forfatterskap mellom kandidaten, en kollega og kodeagenter, og masterprogrammet i kunstig intelligens er pågående. Teksten sier begge deler og påstår ingen produksjonssetting, modellytelse eller målt effekt av KI.",
+      "recommended_action": "Behold statusord og attribusjon hvis teksten redigeres.",
+      "priority": 3
+    }
+  ],
+  "known_limitations": [
+    "Ingen dokumentert lønnsprosess-, årsoppgjørs- eller regnskapsbyråerfaring; lønn forekommer bare som datagrunnlag og kostnadspost.",
+    "Ingen dokumentert erfaring med datavarehus- eller API-arkitektur.",
+    "Ingen dokumentert utrulling av løsninger til mange eksterne kunder eller måling av automatiseringsgevinst.",
+    "Ingen personalansvar eller formelt teamleadmandat."
+  ],
+  "material_strategy_change": "Beholdt ruten, men erstattet den generelle KI-arbeidsmodellen med prognoseprosjektet som konkret bevis for data- og KI-arkitektur (orkestrator, kvalitetskontroller, struktur for kodeagenter, kontroll av sensitive data), la til vurderingen av teknologialternativer i budsjetteringsverktøyet for annonsens «konsekvensene av teknologiske valg», og tok med superbrukerrollen og det pågående KI-masterprogrammet.",
+  "upstream_claim_repaired": "Understatement: strategien vurderte forståelse av data og integrasjon som bare tilgrensende og viste ikke til det dokumenterte ansvaret for arkitektur, orkestrering og integrasjon i prognoseprosjektet. Den utelot også den bekreftede KI-superbrukerrollen i en stilling der KI er sentral.",
+  "notes": [],
+  "binding": {
+    "run_id": "r20260913-205507-247618",
+    "job_id": "amesto_ai_transformasjon",
+    "final_package_sha256": "c3dbfca2482cdda4cedf65ea145f3f7b71f92feefffaad265c8608a41b00d111"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "job_id": "norwegian_senior_manager_digital_governance",
+  "stage": 3,
+  "cv_dynamic_words": 395,
+  "letter_words": 292,
+  "signals": [],
+  "artifact_hash": "7a906dedfcdb0e7e07ebcde473e17b0a5e2e3c51fb18939feb2d4363a5815154",
+  "sources": {
+    "cv_draft": "current artifact",
+    "advocacy_draft": "current artifact",
+    "polish": "C:\\Users\\veggi\\OneDrive\\Documents\\Codex\\Jobbsøk_26\\P0.9\\Build_experimental\\generated\\returns\\r20260916-184816-a1ea76__branches__sx_doctrine_v2_20260918t081640\\norwegian_senior_manager_digital_governance\\stage3\\453bb625\\polish.semantic.json"
+  },
+  "state": "current submitted layers",
+  "documents": {
+    "cv": {
+      "pages": 2,
+      "tail_sections": {
+        "VERKTØY": 1,
+        "TIDLIGERE ERFARING": 2,
+        "TILLITSVERV": 2,
+        "SPRÅK": 2,
+        "SPRÅK OG KURS": 2,
+        "KURS": 2
+      },
+      "headline_lines": 1,
+      "warnings": []
+    },
+    "letter": {
+      "pages": 1,
+      "tail_sections": {},
+      "warnings": []
+    }
+  },
+  "destination": "C:\\Users\\veggi\\AppData\\Local\\Temp\\jbprev\\norwegian_senior_man\\0918\\57896",
+  "render_state": "OK"
+}

@@ -1,0 +1,51 @@
+{
+  "mode": "FINAL_AND_REVIEW",
+  "triage": "READY",
+  "reasons": [
+    {
+      "reason": "Femårsminimumet er ikke dokumentert oppfylt. OUS-erfaringen fra mars 2023 utgjør om lag tre og et halvt år, uten revisjons- eller consultingrolle. Kronologien er korrekt og full; ingen tekst antyder at kravet er oppfylt, og gapet nevnes ikke i arbeidsgiverteksten.",
+      "recommended_action": "Ingen redigering. Vær forberedt på spørsmålet i intervju; svar med BAR-oppgjøret og budsjetteringsverktøyet."
+    },
+    {
+      "reason": "Oppkjøp/integrasjon (M&A), datterselskapsoppfølging, eierrapportering, samarbeid med ekstern regnskapsleverandør og entreprenør-/prosjektmarginøkonomi er ikke dokumentert. Pakken bruker klinikkrapportering, avstemming på tvers av systemer og prosjektøkonomi som overførbar erfaring og formulerer bidraget hos Etra som et forslag, ikke som tidligere erfaring.",
+      "recommended_action": "Ingen redigering. Ikke legg til M&A- eller konsernformuleringer ved manuell etterredigering."
+    },
+    {
+      "reason": "Søknaden skal sendes via FinancePeople (financepeople.no), ikke på e-post. Frist: snarest, fortløpende behandling.",
+      "recommended_action": "Vegard sender selv via FinancePeople etter vanlig gjennomlesing."
+    }
+  ],
+  "known_limitations": [
+    "Kjørt manuelt utenfor runtime: ingen freeze, manifest, finalize, render-kvittering eller runtime-aksept. Dokumentdato 30. september 2026 er satt manuelt.",
+    "DOCX fylt fra eksisterende maler via malfyllingsbiblioteket; PDF eksportert med Word. CV 2 sider, søknad 1 side; visuell kontroll av rasteriserte PDF-sider viste ingen avklipping, overløp eller flerlinjet overskrift.",
+    "Referanselinjen i søknaden viser FINN-kode 473733693; FinancePeople kan ha egen referanse som ikke er kjent.",
+    "Søknadsteksten er komprimert til under 1500 tegn inkludert mellomrom (brødtekst, uten overskrift og signatur) etter Vegards instruks. Gevinst-/investeringsmodellen er beholdt kort; overlevering til controllere tidlig 2026 står bare i CV."
+  ],
+  "notes": "R03, R06 og R07 (SUPPORTED/ADJACENT) er besvart: månedlig lederrapportering (BAR_FINANCE), budsjettbidrag og DRG-estimater til budsjett og planlegging (BAR_FINANCE, BAR_FORECAST), Excel/VBA, Power Query, Power BI og REGERP-nær økonomiflyt (BUDGET_TOOL, MANAGEMENT_BI, WORK_TOOLS). KPI-utforming og rapporteringspakker er ikke dokumentert som egen leveranse; brevet behandler dem som fremtidig bidrag.",
+  "writer_diagnostics": {
+    "elasticity_exercised": [
+      "Brevet åpner med BAR-økonomiarbeidet og bruker tre bevisenheter: oppgjør og rapportering, budsjetteringsverktøyet, og investeringsmodellen som bevis for etterprøvbart beslutningsgrunnlag. Gevinstmetode, styrings-BI og etableringsgruppen er lagt til CV.",
+      "CV-profilen er omskrevet fra strategiutkastet for å gi økonomiarbeid og verktøy i faktisk bruk forrang; kompetanselisten har fått REGERP-nær økonomiflyt."
+    ],
+    "upstream_claims_repaired": [
+      "Utkastets profil «kontrollert forbedring av rapporteringsprosesser» er erstattet med konkrete, kildestøttede leveranser.",
+      "Utkastet tilskrev budsjetteringsverktøyets 2026- og 2027-bruk samme bullet som 2025-kodeendringene; versjoner og bruk er nå skilt.",
+      "Investeringsmodellen var beskrevet som «investerings- og gevinstvurdering» uten klinikkfordelingsproblemet; begrunnelsen (manglende data for direkte fordeling) og designvalget uten sentral VBA er gjenopprettet, uten påstand om bruk eller gevinst."
+    ]
+  },
+  "used_evidence_refs": [
+    "OUS_EMPLOYMENT",
+    "BAR_FINANCE",
+    "BUDGET_TOOL",
+    "INVESTMENT_MODEL",
+    "MANAGEMENT_BI",
+    "BENEFITS_METHOD",
+    "BAR_FORECAST",
+    "TEAM_MODEL",
+    "WORK_TOOLS",
+    "EDU_DEGREES",
+    "LANGUAGES",
+    "TRUST",
+    "EARLIER_EMPLOYMENT"
+  ]
+}
